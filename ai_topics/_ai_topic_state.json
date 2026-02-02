@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-02T17:26:00.046-05:00",
-  "lastLink": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
-  "lastTopicId": "j7yvx200",
-  "lastFilePath": "ai_topics/advancing-ai-benchmarking-with-game-arena_j7yvx200.md",
+  "updatedAt": "2026-02-02T17:26:45.284-05:00",
+  "lastLink": "https://neutree.ai/blog/nano-vllm-part-1",
+  "lastTopicId": "174o87v0",
+  "lastFilePath": "ai_topics/nano-vllm-how-a-vllm-style-inference-engine-works_174o87v0.md",
   "items": [
     {
-      "topicId": "j7yvx200",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
-      "filePath": "ai_topics/advancing-ai-benchmarking-with-game-arena_j7yvx200.md",
-      "committedAt": "2026-02-02T17:26:00.046-05:00"
+      "topicId": "174o87v0",
+      "link": "https://neutree.ai/blog/nano-vllm-part-1",
+      "filePath": "ai_topics/nano-vllm-how-a-vllm-style-inference-engine-works_174o87v0.md",
+      "committedAt": "2026-02-02T17:26:45.284-05:00"
     }
   ]
 }
