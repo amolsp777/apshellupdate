@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-02T16:03:34.362-05:00",
-  "lastLink": "https://www.cnbc.com/2026/02/02/nvidia-stock-price-openai-funding.html",
-  "lastTopicId": "1etw6f60",
-  "lastFilePath": "ai_topics/nvidia-shares-are-down-after-report-that-its-openai-investment-s_1etw6f60.md",
+  "updatedAt": "2026-02-02T16:05:04.464-05:00",
+  "lastLink": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+  "lastTopicId": "kagkc200",
+  "lastFilePath": "ai_topics/hacking-moltbook_kagkc200.md",
   "items": [
     {
-      "topicId": "1etw6f60",
-      "link": "https://www.cnbc.com/2026/02/02/nvidia-stock-price-openai-funding.html",
-      "filePath": "ai_topics/nvidia-shares-are-down-after-report-that-its-openai-investment-s_1etw6f60.md",
-      "committedAt": "2026-02-02T16:03:34.362-05:00"
+      "topicId": "kagkc200",
+      "link": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+      "filePath": "ai_topics/hacking-moltbook_kagkc200.md",
+      "committedAt": "2026-02-02T16:05:04.464-05:00"
     }
   ]
 }
