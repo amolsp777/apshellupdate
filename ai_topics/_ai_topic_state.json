@@ -1,9 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-02T17:20:44.593-05:00",
-  "lastTitle": "xAI joins SpaceX",
+  "updatedAt": "2026-02-02T17:25:34.347-05:00",
   "lastLink": "https://www.spacex.com/updates#xai-joins-spacex",
   "lastTopicId": "8sgobw00",
   "lastFilePath": "ai_topics/xai-joins-spacex_8sgobw00.md",
-  "items": []
+  "items": [
+    {
+      "topicId": "8sgobw00",
+      "link": "https://www.spacex.com/updates#xai-joins-spacex",
+      "filePath": "ai_topics/xai-joins-spacex_8sgobw00.md",
+      "committedAt": "2026-02-02T17:25:34.347-05:00"
+    }
+  ]
 }
