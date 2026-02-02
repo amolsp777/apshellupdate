@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-02T15:52:16.123-05:00",
-  "lastLink": "https://polliticalscience.vote/",
-  "lastTopicId": "qfuj2500",
-  "lastFilePath": "ai_topics/show-hn-polliticalscience-anonymous-daily-polls-with-24-hour-win_qfuj2500.md",
+  "updatedAt": "2026-02-02T15:54:44.534-05:00",
+  "lastLink": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
+  "lastTopicId": "1fh5qn70",
+  "lastFilePath": "ai_topics/claude-code-is-suddenly-everywhere-inside-microsoft_1fh5qn70.md",
   "items": [
     {
-      "topicId": "qfuj2500",
-      "link": "https://polliticalscience.vote/",
-      "filePath": "ai_topics/show-hn-polliticalscience-anonymous-daily-polls-with-24-hour-win_qfuj2500.md",
-      "committedAt": "2026-02-02T15:52:16.123-05:00"
+      "topicId": "1fh5qn70",
+      "link": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
+      "filePath": "ai_topics/claude-code-is-suddenly-everywhere-inside-microsoft_1fh5qn70.md",
+      "committedAt": "2026-02-02T15:54:44.534-05:00"
     }
   ]
 }
