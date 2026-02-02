@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-02T15:54:44.534-05:00",
-  "lastLink": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-  "lastTopicId": "1fh5qn70",
-  "lastFilePath": "ai_topics/claude-code-is-suddenly-everywhere-inside-microsoft_1fh5qn70.md",
+  "updatedAt": "2026-02-02T15:56:00.693-05:00",
+  "lastLink": "https://openai.com/index/introducing-the-codex-app/",
+  "lastTopicId": "1y6zm8r0",
+  "lastFilePath": "ai_topics/the-codex-app_1y6zm8r0.md",
   "items": [
     {
-      "topicId": "1fh5qn70",
-      "link": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "filePath": "ai_topics/claude-code-is-suddenly-everywhere-inside-microsoft_1fh5qn70.md",
-      "committedAt": "2026-02-02T15:54:44.534-05:00"
+      "topicId": "1y6zm8r0",
+      "link": "https://openai.com/index/introducing-the-codex-app/",
+      "filePath": "ai_topics/the-codex-app_1y6zm8r0.md",
+      "committedAt": "2026-02-02T15:56:00.693-05:00"
     }
   ]
 }
