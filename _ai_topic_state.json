@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-02T15:35:22.509-05:00",
-  "lastLink": "https://www.millert.dev/",
-  "lastTopicId": "uqxzjz00",
-  "lastFilePath": "ai_topics/todd-c-miller-sudo-maintainer-for-over-30-years_uqxzjz00.md",
+  "updatedAt": "2026-02-02T15:37:05.902-05:00",
+  "lastLink": "https://neutree.ai/blog/nano-vllm-part-1",
+  "lastTopicId": "174o87v0",
+  "lastFilePath": "ai_topics/nano-vllm-how-a-vllm-style-inference-engine-works_174o87v0.md",
   "items": [
     {
-      "topicId": "uqxzjz00",
-      "link": "https://www.millert.dev/",
-      "filePath": "ai_topics/todd-c-miller-sudo-maintainer-for-over-30-years_uqxzjz00.md",
-      "committedAt": "2026-02-02T15:35:22.509-05:00"
+      "topicId": "174o87v0",
+      "link": "https://neutree.ai/blog/nano-vllm-part-1",
+      "filePath": "ai_topics/nano-vllm-how-a-vllm-style-inference-engine-works_174o87v0.md",
+      "committedAt": "2026-02-02T15:37:05.902-05:00"
     }
   ]
 }
