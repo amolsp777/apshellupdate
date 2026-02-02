@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-02T17:13:56.171-05:00",
-  "lastLink": "https://x.ai/news/xai-joins-spacex",
-  "lastTopicId": "9qabvd00",
-  "lastFilePath": "ai_topics/xai-joins-spacex_9qabvd00.md",
+  "updatedAt": "2026-02-02T17:14:13.089-05:00",
+  "lastLink": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+  "lastTopicId": "j7yvx200",
+  "lastFilePath": "ai_topics/advancing-ai-benchmarking-with-game-arena_j7yvx200.md",
   "items": [
     {
-      "topicId": "9qabvd00",
-      "link": "https://x.ai/news/xai-joins-spacex",
-      "filePath": "ai_topics/xai-joins-spacex_9qabvd00.md",
-      "committedAt": "2026-02-02T17:13:56.171-05:00"
+      "topicId": "j7yvx200",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+      "filePath": "ai_topics/advancing-ai-benchmarking-with-game-arena_j7yvx200.md",
+      "committedAt": "2026-02-02T17:14:13.089-05:00"
     }
   ]
 }
