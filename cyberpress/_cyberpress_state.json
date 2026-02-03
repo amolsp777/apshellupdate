@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-03T11:39:57.834-05:00",
-  "lastLink": "https://cyberpress.org/pdfly-evades-malware-analysis/",
-  "lastId": "10toegq000",
-  "lastFilePath": "cyberpress/pages/2026/02/03/pdfly-variant-uses-custom-pyinstaller-to-evade-malware-analysis_10toegq000.md",
+  "updatedAt": "2026-02-03T11:41:28.273-05:00",
+  "lastLink": "https://cyberpress.org/honeymyte-boosts-coolclient-malware/",
+  "lastId": "17n88qc000",
+  "lastFilePath": "cyberpress/pages/2026/02/03/honeymyte-adds-new-tools-to-boost-coolclient-malware_17n88qc000.md",
   "items": [
     {
-      "id": "10toegq000",
-      "link": "https://cyberpress.org/pdfly-evades-malware-analysis/",
-      "filePath": "cyberpress/pages/2026/02/03/pdfly-variant-uses-custom-pyinstaller-to-evade-malware-analysis_10toegq000.md",
-      "committedAt": "2026-02-03T11:39:57.834-05:00",
-      "title": "PDFly Variant Uses Custom PyInstaller To Evade Malware Analysis"
+      "id": "17n88qc000",
+      "link": "https://cyberpress.org/honeymyte-boosts-coolclient-malware/",
+      "filePath": "cyberpress/pages/2026/02/03/honeymyte-adds-new-tools-to-boost-coolclient-malware_17n88qc000.md",
+      "committedAt": "2026-02-03T11:41:28.273-05:00",
+      "title": "HoneyMyte Adds New Tools To Boost CoolClient Malware"
     }
   ]
 }
