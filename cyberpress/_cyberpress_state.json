@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-03T14:23:34.957-05:00",
-  "lastLink": "https://cyberpress.org/macos-infostealers-abuse-python/",
-  "lastId": "195x1sz000",
-  "lastFilePath": "cyberpress/pages/2026/02/03/macos-targeted-as-infostealer-attacks-abuse-python-and-trusted-services.md",
+  "updatedAt": "2026-02-03T14:24:40.596-05:00",
+  "lastLink": "https://cyberpress.org/compliance-emails-steal-data/",
+  "lastId": "10uowy6000",
+  "lastFilePath": "cyberpress/pages/2026/02/03/malicious-compliance-themed-emails-use-wordpdf-attachments-for-data-theft.md",
   "items": [
     {
-      "id": "195x1sz000",
-      "link": "https://cyberpress.org/macos-infostealers-abuse-python/",
-      "filePath": "cyberpress/pages/2026/02/03/macos-targeted-as-infostealer-attacks-abuse-python-and-trusted-services.md",
-      "committedAt": "2026-02-03T14:23:34.957-05:00",
-      "title": "macOS Targeted as Infostealer Attacks Abuse Python and Trusted Services"
+      "id": "10uowy6000",
+      "link": "https://cyberpress.org/compliance-emails-steal-data/",
+      "filePath": "cyberpress/pages/2026/02/03/malicious-compliance-themed-emails-use-wordpdf-attachments-for-data-theft.md",
+      "committedAt": "2026-02-03T14:24:40.596-05:00",
+      "title": "Malicious Compliance-Themed Emails Use Word/PDF Attachments For Data Theft"
     }
   ]
 }
