@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-03T14:24:40.596-05:00",
-  "lastLink": "https://cyberpress.org/compliance-emails-steal-data/",
-  "lastId": "10uowy6000",
-  "lastFilePath": "cyberpress/pages/2026/02/03/malicious-compliance-themed-emails-use-wordpdf-attachments-for-data-theft.md",
+  "updatedAt": "2026-02-03T14:25:46.150-05:00",
+  "lastLink": "https://cyberpress.org/fake-invites-drop-rats/",
+  "lastId": "epouow0000",
+  "lastFilePath": "cyberpress/pages/2026/02/03/fake-party-invites-used-to-lure-victims-into-rat-installation.md",
   "items": [
     {
-      "id": "10uowy6000",
-      "link": "https://cyberpress.org/compliance-emails-steal-data/",
-      "filePath": "cyberpress/pages/2026/02/03/malicious-compliance-themed-emails-use-wordpdf-attachments-for-data-theft.md",
-      "committedAt": "2026-02-03T14:24:40.596-05:00",
-      "title": "Malicious Compliance-Themed Emails Use Word/PDF Attachments For Data Theft"
+      "id": "epouow0000",
+      "link": "https://cyberpress.org/fake-invites-drop-rats/",
+      "filePath": "cyberpress/pages/2026/02/03/fake-party-invites-used-to-lure-victims-into-rat-installation.md",
+      "committedAt": "2026-02-03T14:25:46.150-05:00",
+      "title": "Fake Party Invites Used To Lure Victims Into RAT Installation"
     }
   ]
 }
