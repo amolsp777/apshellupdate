@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-03T13:26:19.100-05:00",
-  "lastLink": "https://cyberpress.org/foxit-pdf-editor-vulnerability/",
-  "lastId": "7rcr8c0000",
-  "lastFilePath": "cyberpress/pages/2026/02/03/foxit-pdf-editor-vulnerability-allows-attackers-to-execute-arbitrary-javascript.md",
+  "updatedAt": "2026-02-03T13:31:14.045-05:00",
+  "lastLink": "https://cyberpress.org/fake-dropbox-phishing-steals/",
+  "lastId": "19ckra5000",
+  "lastFilePath": "cyberpress/pages/2026/02/03/attackers-imitate-dropbox-to-launch-credential-harvesting-phishing-attacks.md",
   "items": [
     {
-      "id": "7rcr8c0000",
-      "link": "https://cyberpress.org/foxit-pdf-editor-vulnerability/",
-      "filePath": "cyberpress/pages/2026/02/03/foxit-pdf-editor-vulnerability-allows-attackers-to-execute-arbitrary-javascript.md",
-      "committedAt": "2026-02-03T13:26:19.100-05:00",
-      "title": "Foxit PDF Editor Vulnerability Allows Attackers to Execute Arbitrary JavaScript"
+      "id": "19ckra5000",
+      "link": "https://cyberpress.org/fake-dropbox-phishing-steals/",
+      "filePath": "cyberpress/pages/2026/02/03/attackers-imitate-dropbox-to-launch-credential-harvesting-phishing-attacks.md",
+      "committedAt": "2026-02-03T13:31:14.045-05:00",
+      "title": "Attackers Imitate Dropbox To Launch Credential-Harvesting Phishing Attacks"
     }
   ]
 }
