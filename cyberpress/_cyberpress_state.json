@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-03T13:31:14.045-05:00",
-  "lastLink": "https://cyberpress.org/fake-dropbox-phishing-steals/",
-  "lastId": "19ckra5000",
-  "lastFilePath": "cyberpress/pages/2026/02/03/attackers-imitate-dropbox-to-launch-credential-harvesting-phishing-attacks.md",
+  "updatedAt": "2026-02-03T14:02:06.934-05:00",
+  "lastLink": "https://cyberpress.org/pdfly-evades-malware-analysis/",
+  "lastId": "10toegq000",
+  "lastFilePath": "cyberpress/pages/2026/02/03/pdfly-variant-uses-custom-pyinstaller-to-evade-malware-analysis.md",
   "items": [
     {
-      "id": "19ckra5000",
-      "link": "https://cyberpress.org/fake-dropbox-phishing-steals/",
-      "filePath": "cyberpress/pages/2026/02/03/attackers-imitate-dropbox-to-launch-credential-harvesting-phishing-attacks.md",
-      "committedAt": "2026-02-03T13:31:14.045-05:00",
-      "title": "Attackers Imitate Dropbox To Launch Credential-Harvesting Phishing Attacks"
+      "id": "10toegq000",
+      "link": "https://cyberpress.org/pdfly-evades-malware-analysis/",
+      "filePath": "cyberpress/pages/2026/02/03/pdfly-variant-uses-custom-pyinstaller-to-evade-malware-analysis.md",
+      "committedAt": "2026-02-03T14:02:06.934-05:00",
+      "title": "PDFly Variant Uses Custom PyInstaller To Evade Malware Analysis"
     }
   ]
 }
