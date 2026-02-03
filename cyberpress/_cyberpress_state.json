@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-03T14:21:23.714-05:00",
-  "lastLink": "https://cyberpress.org/eliminate-soc-alert-fatigue-and-focus-on-high-risk-security-incidents-ciso-guide/",
-  "lastId": "73p44g0000",
-  "lastFilePath": "cyberpress/pages/2026/02/03/how-cisos-can-eliminate-alert-fatigue-and-focus-on-high-risk-security-incidents-.md",
+  "updatedAt": "2026-02-03T14:22:29.611-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-to-disable-ntlm-by-default-in-major-push/",
+  "lastId": "1s3nwpp000",
+  "lastFilePath": "cyberpress/pages/2026/02/03/microsoft-to-disable-ntlm-by-default-in-major-push-for-stronger-authentication-s.md",
   "items": [
     {
-      "id": "73p44g0000",
-      "link": "https://cyberpress.org/eliminate-soc-alert-fatigue-and-focus-on-high-risk-security-incidents-ciso-guide/",
-      "filePath": "cyberpress/pages/2026/02/03/how-cisos-can-eliminate-alert-fatigue-and-focus-on-high-risk-security-incidents-.md",
-      "committedAt": "2026-02-03T14:21:23.714-05:00",
-      "title": "How CISOs Can Eliminate Alert Fatigue and Focus on High-Risk Security Incidents With SOC Teams"
+      "id": "1s3nwpp000",
+      "link": "https://cyberpress.org/microsoft-to-disable-ntlm-by-default-in-major-push/",
+      "filePath": "cyberpress/pages/2026/02/03/microsoft-to-disable-ntlm-by-default-in-major-push-for-stronger-authentication-s.md",
+      "committedAt": "2026-02-03T14:22:29.611-05:00",
+      "title": "Microsoft to Disable NTLM by Default in Major Push for Stronger Authentication Security"
     }
   ]
 }
