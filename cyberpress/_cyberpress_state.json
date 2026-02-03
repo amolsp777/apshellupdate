@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-03T13:18:59.690-05:00",
-  "lastLink": "https://cyberpress.org/fake-dropbox-phishing-steals/",
-  "lastId": "19ckra5000",
-  "lastFilePath": "cyberpress/pages/2026/02/03/attackers-imitate-dropbox-to-launch-credential-harvesting-phishing-attacks_19ckra5000.md",
+  "updatedAt": "2026-02-03T13:25:58.778-05:00",
+  "lastLink": "https://cyberpress.org/asus-discontinues-file-shredder/",
+  "lastId": "h5nhu80000",
+  "lastFilePath": "cyberpress/pages/2026/02/03/asus-discontinues-file-shredder-feature-to-patch-critical-security-vulnerability.md",
   "items": [
     {
-      "id": "19ckra5000",
-      "link": "https://cyberpress.org/fake-dropbox-phishing-steals/",
-      "filePath": "cyberpress/pages/2026/02/03/attackers-imitate-dropbox-to-launch-credential-harvesting-phishing-attacks_19ckra5000.md",
-      "committedAt": "2026-02-03T13:18:59.690-05:00",
-      "title": "Attackers Imitate Dropbox To Launch Credential-Harvesting Phishing Attacks"
+      "id": "h5nhu80000",
+      "link": "https://cyberpress.org/asus-discontinues-file-shredder/",
+      "filePath": "cyberpress/pages/2026/02/03/asus-discontinues-file-shredder-feature-to-patch-critical-security-vulnerability.md",
+      "committedAt": "2026-02-03T13:25:58.778-05:00",
+      "title": "ASUS Discontinues “File Shredder” Feature to Patch Critical Security Vulnerability"
     }
   ]
 }
