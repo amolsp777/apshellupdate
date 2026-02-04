@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-04T05:00:21.474-05:00",
-  "lastLink": "https://cyberpress.org/ingress-nginx-vulnerability-allows-attackers-to-execute-arbitrary-code/",
-  "lastId": "kggs7t0000",
-  "lastFilePath": "cyberpress/pages/2026/02/04/ingress-nginx-vulnerability-allows-attackers-to-execute-arbitrary-code.md",
+  "updatedAt": "2026-02-04T06:00:16.535-05:00",
+  "lastLink": "https://cyberpress.org/chrome-vulnerabilities/",
+  "lastId": "hql38n0000",
+  "lastFilePath": "cyberpress/pages/2026/02/04/chrome-vulnerabilities-allow-attackers-to-execute-arbitrary-code-and-crash-syste.md",
   "items": [
     {
-      "id": "kggs7t0000",
-      "link": "https://cyberpress.org/ingress-nginx-vulnerability-allows-attackers-to-execute-arbitrary-code/",
-      "filePath": "cyberpress/pages/2026/02/04/ingress-nginx-vulnerability-allows-attackers-to-execute-arbitrary-code.md",
-      "committedAt": "2026-02-04T05:00:21.474-05:00",
-      "title": "Ingress-NGINX Vulnerability Allows Attackers to Execute Arbitrary Code"
+      "id": "hql38n0000",
+      "link": "https://cyberpress.org/chrome-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/02/04/chrome-vulnerabilities-allow-attackers-to-execute-arbitrary-code-and-crash-syste.md",
+      "committedAt": "2026-02-04T06:00:16.535-05:00",
+      "title": "Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code and Crash Systems"
     }
   ]
 }
