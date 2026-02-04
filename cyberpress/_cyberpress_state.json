@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-04T08:00:10.356-05:00",
-  "lastLink": "https://cyberpress.org/cisa-warns-of-actively-exploited-gitlab-ssrf-vulnerability-in-community-and-enterprise-editions/",
-  "lastId": "10fzses000",
-  "lastFilePath": "cyberpress/pages/2026/02/04/cisa-warns-of-actively-exploited-gitlab-ssrf-vulnerability-in-community-and-ente.md",
+  "updatedAt": "2026-02-04T09:00:33.532-05:00",
+  "lastLink": "https://cyberpress.org/multiple-tp-link-os-command-injection-flaws/",
+  "lastId": "1jsix5q000",
+  "lastFilePath": "cyberpress/pages/2026/02/04/multiple-tp-link-os-command-injection-flaws-allow-attackers-to-gain-admin-contro.md",
   "items": [
     {
-      "id": "10fzses000",
-      "link": "https://cyberpress.org/cisa-warns-of-actively-exploited-gitlab-ssrf-vulnerability-in-community-and-enterprise-editions/",
-      "filePath": "cyberpress/pages/2026/02/04/cisa-warns-of-actively-exploited-gitlab-ssrf-vulnerability-in-community-and-ente.md",
-      "committedAt": "2026-02-04T08:00:10.356-05:00",
-      "title": "CISA Warns of Actively Exploited GitLab SSRF Vulnerability in Community and Enterprise Editions"
+      "id": "1jsix5q000",
+      "link": "https://cyberpress.org/multiple-tp-link-os-command-injection-flaws/",
+      "filePath": "cyberpress/pages/2026/02/04/multiple-tp-link-os-command-injection-flaws-allow-attackers-to-gain-admin-contro.md",
+      "committedAt": "2026-02-04T09:00:33.532-05:00",
+      "title": "Multiple TP-Link OS Command Injection Flaws Allow Attackers to Gain Admin Control"
     }
   ]
 }
