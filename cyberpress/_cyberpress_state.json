@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-04T12:00:48.821-05:00",
-  "lastLink": "https://cyberpress.org/scan-citrix-netscaler/",
-  "lastId": "17axu7a000",
-  "lastFilePath": "cyberpress/pages/2026/02/04/hackers-actively-scan-citrix-netscaler-infrastructure-to-identify-exposed-login-.md",
+  "updatedAt": "2026-02-04T13:00:54.122-05:00",
+  "lastLink": "https://cyberpress.org/valleyrat-trojanizes-line-installer/",
+  "lastId": "1tzre1p000",
+  "lastFilePath": "cyberpress/pages/2026/02/04/valleyrat-campaign-uses-trojanized-line-setup-to-harvest-credentials.md",
   "items": [
     {
-      "id": "17axu7a000",
-      "link": "https://cyberpress.org/scan-citrix-netscaler/",
-      "filePath": "cyberpress/pages/2026/02/04/hackers-actively-scan-citrix-netscaler-infrastructure-to-identify-exposed-login-.md",
-      "committedAt": "2026-02-04T12:00:48.821-05:00",
-      "title": "Hackers Actively Scan Citrix NetScaler Infrastructure to Identify Exposed Login Panels"
+      "id": "1tzre1p000",
+      "link": "https://cyberpress.org/valleyrat-trojanizes-line-installer/",
+      "filePath": "cyberpress/pages/2026/02/04/valleyrat-campaign-uses-trojanized-line-setup-to-harvest-credentials.md",
+      "committedAt": "2026-02-04T13:00:54.122-05:00",
+      "title": "ValleyRAT Campaign Uses Trojanized LINE Setup To Harvest Credentials"
     }
   ]
 }
