@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-04T07:00:16.288-05:00",
-  "lastLink": "https://cyberpress.org/cisa-warns-of-solarwinds-web/",
-  "lastId": "13jouth000",
-  "lastFilePath": "cyberpress/pages/2026/02/04/cisa-warns-of-solarwinds-web-help-desk-deserialization-rce-exploited-in-active-a.md",
+  "updatedAt": "2026-02-04T08:00:10.356-05:00",
+  "lastLink": "https://cyberpress.org/cisa-warns-of-actively-exploited-gitlab-ssrf-vulnerability-in-community-and-enterprise-editions/",
+  "lastId": "10fzses000",
+  "lastFilePath": "cyberpress/pages/2026/02/04/cisa-warns-of-actively-exploited-gitlab-ssrf-vulnerability-in-community-and-ente.md",
   "items": [
     {
-      "id": "13jouth000",
-      "link": "https://cyberpress.org/cisa-warns-of-solarwinds-web/",
-      "filePath": "cyberpress/pages/2026/02/04/cisa-warns-of-solarwinds-web-help-desk-deserialization-rce-exploited-in-active-a.md",
-      "committedAt": "2026-02-04T07:00:16.288-05:00",
-      "title": "CISA Warns of SolarWinds Web Help Desk Deserialization RCE Exploited in Active Attacks"
+      "id": "10fzses000",
+      "link": "https://cyberpress.org/cisa-warns-of-actively-exploited-gitlab-ssrf-vulnerability-in-community-and-enterprise-editions/",
+      "filePath": "cyberpress/pages/2026/02/04/cisa-warns-of-actively-exploited-gitlab-ssrf-vulnerability-in-community-and-ente.md",
+      "committedAt": "2026-02-04T08:00:10.356-05:00",
+      "title": "CISA Warns of Actively Exploited GitLab SSRF Vulnerability in Community and Enterprise Editions"
     }
   ]
 }
