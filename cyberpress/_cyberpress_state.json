@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-04T06:00:16.535-05:00",
-  "lastLink": "https://cyberpress.org/chrome-vulnerabilities/",
-  "lastId": "hql38n0000",
-  "lastFilePath": "cyberpress/pages/2026/02/04/chrome-vulnerabilities-allow-attackers-to-execute-arbitrary-code-and-crash-syste.md",
+  "updatedAt": "2026-02-04T07:00:16.288-05:00",
+  "lastLink": "https://cyberpress.org/cisa-warns-of-solarwinds-web/",
+  "lastId": "13jouth000",
+  "lastFilePath": "cyberpress/pages/2026/02/04/cisa-warns-of-solarwinds-web-help-desk-deserialization-rce-exploited-in-active-a.md",
   "items": [
     {
-      "id": "hql38n0000",
-      "link": "https://cyberpress.org/chrome-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/02/04/chrome-vulnerabilities-allow-attackers-to-execute-arbitrary-code-and-crash-syste.md",
-      "committedAt": "2026-02-04T06:00:16.535-05:00",
-      "title": "Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code and Crash Systems"
+      "id": "13jouth000",
+      "link": "https://cyberpress.org/cisa-warns-of-solarwinds-web/",
+      "filePath": "cyberpress/pages/2026/02/04/cisa-warns-of-solarwinds-web-help-desk-deserialization-rce-exploited-in-active-a.md",
+      "committedAt": "2026-02-04T07:00:16.288-05:00",
+      "title": "CISA Warns of SolarWinds Web Help Desk Deserialization RCE Exploited in Active Attacks"
     }
   ]
 }
