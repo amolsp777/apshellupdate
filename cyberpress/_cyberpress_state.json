@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-04T09:53:14.193-05:00",
-  "lastLink": "https://cyberpress.org/interlock-kills-edr-drivers/",
-  "lastId": "1tironx000",
-  "lastFilePath": "cyberpress/pages/2026/02/04/interlock-ransomware-uses-new-tool-to-kill-edr-via-anti-cheat-driver-flaw.md",
+  "updatedAt": "2026-02-04T10:00:23.475-05:00",
+  "lastLink": "https://cyberpress.org/ntds-dit-theft-compromises-ad/",
+  "lastId": "1i4quf0000",
+  "lastFilePath": "cyberpress/pages/2026/02/04/ntdsdit-exfiltration-enables-complete-active-directory-compromise.md",
   "items": [
     {
-      "id": "1tironx000",
-      "link": "https://cyberpress.org/interlock-kills-edr-drivers/",
-      "filePath": "cyberpress/pages/2026/02/04/interlock-ransomware-uses-new-tool-to-kill-edr-via-anti-cheat-driver-flaw.md",
-      "committedAt": "2026-02-04T09:53:14.193-05:00",
-      "title": "Interlock Ransomware Uses New Tool To Kill EDR via Anti-Cheat Driver Flaw"
+      "id": "1i4quf0000",
+      "link": "https://cyberpress.org/ntds-dit-theft-compromises-ad/",
+      "filePath": "cyberpress/pages/2026/02/04/ntdsdit-exfiltration-enables-complete-active-directory-compromise.md",
+      "committedAt": "2026-02-04T10:00:23.475-05:00",
+      "title": "NTDS.dit Exfiltration Enables Complete Active Directory Compromise"
     }
   ]
 }
