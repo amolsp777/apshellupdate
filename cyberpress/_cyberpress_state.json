@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-04T03:00:06.195-05:00",
-  "lastLink": "https://cyberpress.org/shadow-dns-router-interception/",
-  "lastId": "1ff0r81000",
-  "lastFilePath": "cyberpress/pages/2026/02/04/shadow-dns-malware-exploits-router-vulnerabilities-to-intercept-internet-communi.md",
+  "updatedAt": "2026-02-04T04:00:10.591-05:00",
+  "lastLink": "https://cyberpress.org/django-vulnerabilities/",
+  "lastId": "qxplw10000",
+  "lastFilePath": "cyberpress/pages/2026/02/04/critical-django-vulnerabilities-enables-dos-and-sql-injection-attacks.md",
   "items": [
     {
-      "id": "1ff0r81000",
-      "link": "https://cyberpress.org/shadow-dns-router-interception/",
-      "filePath": "cyberpress/pages/2026/02/04/shadow-dns-malware-exploits-router-vulnerabilities-to-intercept-internet-communi.md",
-      "committedAt": "2026-02-04T03:00:06.195-05:00",
-      "title": "Shadow DNS Malware Exploits Router Vulnerabilities To Intercept Internet Communications"
+      "id": "qxplw10000",
+      "link": "https://cyberpress.org/django-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/02/04/critical-django-vulnerabilities-enables-dos-and-sql-injection-attacks.md",
+      "committedAt": "2026-02-04T04:00:10.591-05:00",
+      "title": "Critical Django Vulnerabilities Enables DoS and SQl injection Attacks"
     }
   ]
 }
