@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-04T10:00:23.475-05:00",
-  "lastLink": "https://cyberpress.org/ntds-dit-theft-compromises-ad/",
-  "lastId": "1i4quf0000",
-  "lastFilePath": "cyberpress/pages/2026/02/04/ntdsdit-exfiltration-enables-complete-active-directory-compromise.md",
+  "updatedAt": "2026-02-04T11:00:45.117-05:00",
+  "lastLink": "https://cyberpress.org/rancher-manager-security-bug/",
+  "lastId": "1fcx88u000",
+  "lastFilePath": "cyberpress/pages/2026/02/04/rancher-manager-security-bug-could-allow-attackers-to-steal-admin-credentials.md",
   "items": [
     {
-      "id": "1i4quf0000",
-      "link": "https://cyberpress.org/ntds-dit-theft-compromises-ad/",
-      "filePath": "cyberpress/pages/2026/02/04/ntdsdit-exfiltration-enables-complete-active-directory-compromise.md",
-      "committedAt": "2026-02-04T10:00:23.475-05:00",
-      "title": "NTDS.dit Exfiltration Enables Complete Active Directory Compromise"
+      "id": "1fcx88u000",
+      "link": "https://cyberpress.org/rancher-manager-security-bug/",
+      "filePath": "cyberpress/pages/2026/02/04/rancher-manager-security-bug-could-allow-attackers-to-steal-admin-credentials.md",
+      "committedAt": "2026-02-04T11:00:45.117-05:00",
+      "title": "Rancher Manager Security Bug Could Allow Attackers to Steal Admin Credentials"
     }
   ]
 }
