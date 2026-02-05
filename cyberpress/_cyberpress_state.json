@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T02:00:10.633-05:00",
-  "lastLink": "https://cyberpress.org/systembc-botnet-hijacks-10000-devices/",
-  "lastId": "ob4md50000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/new-systembc-botnet-discovered-hijacking-10000-devices-for-ddos-attacks.md",
+  "updatedAt": "2026-02-05T03:00:05.353-05:00",
+  "lastLink": "https://cyberpress.org/exploited-vmware-esxi-zero-day/",
+  "lastId": "1q6v81w000",
+  "lastFilePath": "cyberpress/pages/2026/02/05/cisa-alerts-on-actively-exploited-vmware-esxi-zero-day-used-in-ransomware-campai.md",
   "items": [
     {
-      "id": "ob4md50000",
-      "link": "https://cyberpress.org/systembc-botnet-hijacks-10000-devices/",
-      "filePath": "cyberpress/pages/2026/02/05/new-systembc-botnet-discovered-hijacking-10000-devices-for-ddos-attacks.md",
-      "committedAt": "2026-02-05T02:00:10.633-05:00",
-      "title": "New SystemBC Botnet Discovered Hijacking 10,000 Devices For DDoS Attacks"
+      "id": "1q6v81w000",
+      "link": "https://cyberpress.org/exploited-vmware-esxi-zero-day/",
+      "filePath": "cyberpress/pages/2026/02/05/cisa-alerts-on-actively-exploited-vmware-esxi-zero-day-used-in-ransomware-campai.md",
+      "committedAt": "2026-02-05T03:00:05.353-05:00",
+      "title": "CISA Alerts on Actively Exploited VMware ESXi Zero-Day Used in Ransomware Campaigns"
     }
   ]
 }
