@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T11:00:32.646-05:00",
-  "lastLink": "https://cyberpress.org/lockbit-5-0-targets-multiple-platforms/",
-  "lastId": "1fk41p0000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/lockbit-50-targets-windows-linux-and-esxi-with-cross-platform-ransomware.md",
+  "updatedAt": "2026-02-05T12:00:38.449-05:00",
+  "lastLink": "https://cyberpress.org/threat-actors-compromise-nginx-servers/",
+  "lastId": "rq0oyp0000",
+  "lastFilePath": "cyberpress/pages/2026/02/05/threat-actors-compromise-nginx-servers-to-redirect-web-traffic-to-malicious-site.md",
   "items": [
     {
-      "id": "1fk41p0000",
-      "link": "https://cyberpress.org/lockbit-5-0-targets-multiple-platforms/",
-      "filePath": "cyberpress/pages/2026/02/05/lockbit-50-targets-windows-linux-and-esxi-with-cross-platform-ransomware.md",
-      "committedAt": "2026-02-05T11:00:32.646-05:00",
-      "title": "LockBit 5.0 Targets Windows, Linux, and ESXi With Cross-Platform Ransomware"
+      "id": "rq0oyp0000",
+      "link": "https://cyberpress.org/threat-actors-compromise-nginx-servers/",
+      "filePath": "cyberpress/pages/2026/02/05/threat-actors-compromise-nginx-servers-to-redirect-web-traffic-to-malicious-site.md",
+      "committedAt": "2026-02-05T12:00:38.449-05:00",
+      "title": "Threat Actors Compromise NGINX Servers to Redirect Web Traffic to Malicious Sites"
     }
   ]
 }
