@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T13:00:48.156-05:00",
-  "lastLink": "https://cyberpress.org/voicemail-hack-grants-remote-access/",
-  "lastId": "iztwc50000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/hackers-use-voicemail-to-gain-remote-access-to-victim-systems.md",
+  "updatedAt": "2026-02-05T14:00:53.666-05:00",
+  "lastLink": "https://cyberpress.org/watchguard-vpn-client-for-windows-flaw-enables-system-level-command-execution/",
+  "lastId": "1guc6ux000",
+  "lastFilePath": "cyberpress/pages/2026/02/05/watchguard-vpn-client-for-windows-flaw-enables-system-level-command-execution.md",
   "items": [
     {
-      "id": "iztwc50000",
-      "link": "https://cyberpress.org/voicemail-hack-grants-remote-access/",
-      "filePath": "cyberpress/pages/2026/02/05/hackers-use-voicemail-to-gain-remote-access-to-victim-systems.md",
-      "committedAt": "2026-02-05T13:00:48.156-05:00",
-      "title": "Hackers Use Voicemail To Gain Remote Access To Victim Systems"
+      "id": "1guc6ux000",
+      "link": "https://cyberpress.org/watchguard-vpn-client-for-windows-flaw-enables-system-level-command-execution/",
+      "filePath": "cyberpress/pages/2026/02/05/watchguard-vpn-client-for-windows-flaw-enables-system-level-command-execution.md",
+      "committedAt": "2026-02-05T14:00:53.666-05:00",
+      "title": "WatchGuard VPN Client for Windows Flaw Enables SYSTEM-Level Command Execution"
     }
   ]
 }
