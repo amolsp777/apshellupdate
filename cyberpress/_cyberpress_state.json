@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T04:00:21.563-05:00",
-  "lastLink": "https://cyberpress.org/cisco-meeting-management-vulnerability/",
-  "lastId": "1y8ei3m000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/cisco-meeting-management-vulnerability-allows-remote-attackers-to-upload-arbitra.md",
+  "updatedAt": "2026-02-05T05:00:17.495-05:00",
+  "lastLink": "https://cyberpress.org/amaranth-dragon-exploits-winrar-vulnerability/",
+  "lastId": "qe03w90000",
+  "lastFilePath": "cyberpress/pages/2026/02/05/hackers-use-winrar-vulnerability-to-gain-persistent-control-via-amaranth-dragon.md",
   "items": [
     {
-      "id": "1y8ei3m000",
-      "link": "https://cyberpress.org/cisco-meeting-management-vulnerability/",
-      "filePath": "cyberpress/pages/2026/02/05/cisco-meeting-management-vulnerability-allows-remote-attackers-to-upload-arbitra.md",
-      "committedAt": "2026-02-05T04:00:21.563-05:00",
-      "title": "Cisco Meeting Management Vulnerability Allows Remote Attackers to Upload Arbitrary Files"
+      "id": "qe03w90000",
+      "link": "https://cyberpress.org/amaranth-dragon-exploits-winrar-vulnerability/",
+      "filePath": "cyberpress/pages/2026/02/05/hackers-use-winrar-vulnerability-to-gain-persistent-control-via-amaranth-dragon.md",
+      "committedAt": "2026-02-05T05:00:17.495-05:00",
+      "title": "Hackers Use WinRAR Vulnerability To Gain Persistent Control via Amaranth-Dragon"
     }
   ]
 }
