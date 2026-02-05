@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T07:00:10.914-05:00",
-  "lastLink": "https://cyberpress.org/apt28-exploits-office-vulnerability/",
-  "lastId": "197jhux000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/apt28-uses-microsoft-office-vulnerability-to-breach-government-system.md",
+  "updatedAt": "2026-02-05T08:00:05.204-05:00",
+  "lastLink": "https://cyberpress.org/go-1-25-7-and-1-24-13-released/",
+  "lastId": "nerho50000",
+  "lastFilePath": "cyberpress/pages/2026/02/05/go-1257-and-12413-released-to-patch-multiple-security-vulnerabilities.md",
   "items": [
     {
-      "id": "197jhux000",
-      "link": "https://cyberpress.org/apt28-exploits-office-vulnerability/",
-      "filePath": "cyberpress/pages/2026/02/05/apt28-uses-microsoft-office-vulnerability-to-breach-government-system.md",
-      "committedAt": "2026-02-05T07:00:10.914-05:00",
-      "title": "APT28 Uses Microsoft Office Vulnerability To Breach Government System"
+      "id": "nerho50000",
+      "link": "https://cyberpress.org/go-1-25-7-and-1-24-13-released/",
+      "filePath": "cyberpress/pages/2026/02/05/go-1257-and-12413-released-to-patch-multiple-security-vulnerabilities.md",
+      "committedAt": "2026-02-05T08:00:05.204-05:00",
+      "title": "Go 1.25.7 and 1.24.13 Released to Patch Multiple Security Vulnerabilities"
     }
   ]
 }
