@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T05:00:17.495-05:00",
-  "lastLink": "https://cyberpress.org/amaranth-dragon-exploits-winrar-vulnerability/",
-  "lastId": "qe03w90000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/hackers-use-winrar-vulnerability-to-gain-persistent-control-via-amaranth-dragon.md",
+  "updatedAt": "2026-02-05T06:00:05.266-05:00",
+  "lastLink": "https://cyberpress.org/dragonforce-ransomware-steals-data/",
+  "lastId": "1aqnhf5000",
+  "lastFilePath": "cyberpress/pages/2026/02/05/dragonforce-ransomware-campaign-steals-sensitive-information-from-businesses.md",
   "items": [
     {
-      "id": "qe03w90000",
-      "link": "https://cyberpress.org/amaranth-dragon-exploits-winrar-vulnerability/",
-      "filePath": "cyberpress/pages/2026/02/05/hackers-use-winrar-vulnerability-to-gain-persistent-control-via-amaranth-dragon.md",
-      "committedAt": "2026-02-05T05:00:17.495-05:00",
-      "title": "Hackers Use WinRAR Vulnerability To Gain Persistent Control via Amaranth-Dragon"
+      "id": "1aqnhf5000",
+      "link": "https://cyberpress.org/dragonforce-ransomware-steals-data/",
+      "filePath": "cyberpress/pages/2026/02/05/dragonforce-ransomware-campaign-steals-sensitive-information-from-businesses.md",
+      "committedAt": "2026-02-05T06:00:05.266-05:00",
+      "title": "DragonForce Ransomware Campaign Steals Sensitive Information From Businesses"
     }
   ]
 }
