@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T12:00:38.449-05:00",
-  "lastLink": "https://cyberpress.org/threat-actors-compromise-nginx-servers/",
-  "lastId": "rq0oyp0000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/threat-actors-compromise-nginx-servers-to-redirect-web-traffic-to-malicious-site.md",
+  "updatedAt": "2026-02-05T13:00:48.156-05:00",
+  "lastLink": "https://cyberpress.org/voicemail-hack-grants-remote-access/",
+  "lastId": "iztwc50000",
+  "lastFilePath": "cyberpress/pages/2026/02/05/hackers-use-voicemail-to-gain-remote-access-to-victim-systems.md",
   "items": [
     {
-      "id": "rq0oyp0000",
-      "link": "https://cyberpress.org/threat-actors-compromise-nginx-servers/",
-      "filePath": "cyberpress/pages/2026/02/05/threat-actors-compromise-nginx-servers-to-redirect-web-traffic-to-malicious-site.md",
-      "committedAt": "2026-02-05T12:00:38.449-05:00",
-      "title": "Threat Actors Compromise NGINX Servers to Redirect Web Traffic to Malicious Sites"
+      "id": "iztwc50000",
+      "link": "https://cyberpress.org/voicemail-hack-grants-remote-access/",
+      "filePath": "cyberpress/pages/2026/02/05/hackers-use-voicemail-to-gain-remote-access-to-victim-systems.md",
+      "committedAt": "2026-02-05T13:00:48.156-05:00",
+      "title": "Hackers Use Voicemail To Gain Remote Access To Victim Systems"
     }
   ]
 }
