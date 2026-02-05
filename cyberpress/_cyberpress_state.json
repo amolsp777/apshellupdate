@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T08:00:05.204-05:00",
-  "lastLink": "https://cyberpress.org/go-1-25-7-and-1-24-13-released/",
-  "lastId": "nerho50000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/go-1257-and-12413-released-to-patch-multiple-security-vulnerabilities.md",
+  "updatedAt": "2026-02-05T09:00:05.324-05:00",
+  "lastLink": "https://cyberpress.org/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workflows/",
+  "lastId": "2nwubd0000",
+  "lastFilePath": "cyberpress/pages/2026/02/05/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workf.md",
   "items": [
     {
-      "id": "nerho50000",
-      "link": "https://cyberpress.org/go-1-25-7-and-1-24-13-released/",
-      "filePath": "cyberpress/pages/2026/02/05/go-1257-and-12413-released-to-patch-multiple-security-vulnerabilities.md",
-      "committedAt": "2026-02-05T08:00:05.204-05:00",
-      "title": "Go 1.25.7 and 1.24.13 Released to Patch Multiple Security Vulnerabilities"
+      "id": "2nwubd0000",
+      "link": "https://cyberpress.org/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workflows/",
+      "filePath": "cyberpress/pages/2026/02/05/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workf.md",
+      "committedAt": "2026-02-05T09:00:05.324-05:00",
+      "title": "Critical n8n Vulnerability Enables System Command Execution via Weaponized Workflows"
     }
   ]
 }
