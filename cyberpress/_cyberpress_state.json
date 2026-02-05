@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T09:00:05.324-05:00",
-  "lastLink": "https://cyberpress.org/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workflows/",
-  "lastId": "2nwubd0000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workf.md",
+  "updatedAt": "2026-02-05T10:00:27.752-05:00",
+  "lastLink": "https://cyberpress.org/moxa-switches-vulnerability/",
+  "lastId": "1nnt337000",
+  "lastFilePath": "cyberpress/pages/2026/02/05/moxa-switches-vulnerability-allows-attackers-to-bypass-authentication.md",
   "items": [
     {
-      "id": "2nwubd0000",
-      "link": "https://cyberpress.org/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workflows/",
-      "filePath": "cyberpress/pages/2026/02/05/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workf.md",
-      "committedAt": "2026-02-05T09:00:05.324-05:00",
-      "title": "Critical n8n Vulnerability Enables System Command Execution via Weaponized Workflows"
+      "id": "1nnt337000",
+      "link": "https://cyberpress.org/moxa-switches-vulnerability/",
+      "filePath": "cyberpress/pages/2026/02/05/moxa-switches-vulnerability-allows-attackers-to-bypass-authentication.md",
+      "committedAt": "2026-02-05T10:00:27.752-05:00",
+      "title": "Moxa Switches Vulnerability Allows Attackers to Bypass Authentication"
     }
   ]
 }
