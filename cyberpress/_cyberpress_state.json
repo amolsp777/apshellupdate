@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T14:00:53.666-05:00",
-  "lastLink": "https://cyberpress.org/watchguard-vpn-client-for-windows-flaw-enables-system-level-command-execution/",
-  "lastId": "1guc6ux000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/watchguard-vpn-client-for-windows-flaw-enables-system-level-command-execution.md",
+  "updatedAt": "2026-02-06T01:00:26.436-05:00",
+  "lastLink": "https://cyberpress.org/shadowsyndicate-unleashes-server-transition/",
+  "lastId": "1cv1nrs000",
+  "lastFilePath": "cyberpress/pages/2026/02/06/shadowsyndicate-deploys-sophisticated-server-transition-technique-in-latest-rans.md",
   "items": [
     {
-      "id": "1guc6ux000",
-      "link": "https://cyberpress.org/watchguard-vpn-client-for-windows-flaw-enables-system-level-command-execution/",
-      "filePath": "cyberpress/pages/2026/02/05/watchguard-vpn-client-for-windows-flaw-enables-system-level-command-execution.md",
-      "committedAt": "2026-02-05T14:00:53.666-05:00",
-      "title": "WatchGuard VPN Client for Windows Flaw Enables SYSTEM-Level Command Execution"
+      "id": "1cv1nrs000",
+      "link": "https://cyberpress.org/shadowsyndicate-unleashes-server-transition/",
+      "filePath": "cyberpress/pages/2026/02/06/shadowsyndicate-deploys-sophisticated-server-transition-technique-in-latest-rans.md",
+      "committedAt": "2026-02-06T01:00:26.436-05:00",
+      "title": "ShadowSyndicate Deploys Sophisticated Server Transition Technique In Latest Ransomware Campaign"
     }
   ]
 }
