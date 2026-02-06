@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-06T03:00:05.126-05:00",
-  "lastLink": "https://cyberpress.org/betterment-data-breach-exposes-personal-details-of-1-4-million-customers/",
-  "lastId": "3gt15m0000",
-  "lastFilePath": "cyberpress/pages/2026/02/06/betterment-data-breach-exposes-personal-details-of-14-million-customers.md",
+  "updatedAt": "2026-02-06T04:00:05.363-05:00",
+  "lastLink": "https://cyberpress.org/cisa-warns-of-actively-exploited-smartertools-smartermail-vulnerability-used-in-ransomware-attacks/",
+  "lastId": "11kgu49000",
+  "lastFilePath": "cyberpress/pages/2026/02/06/cisa-warns-of-actively-exploited-smartertools-smartermail-vulnerability-used-in-.md",
   "items": [
     {
-      "id": "3gt15m0000",
-      "link": "https://cyberpress.org/betterment-data-breach-exposes-personal-details-of-1-4-million-customers/",
-      "filePath": "cyberpress/pages/2026/02/06/betterment-data-breach-exposes-personal-details-of-14-million-customers.md",
-      "committedAt": "2026-02-06T03:00:05.126-05:00",
-      "title": "Betterment Data Breach Exposes Personal Details of 1.4 Million Customers"
+      "id": "11kgu49000",
+      "link": "https://cyberpress.org/cisa-warns-of-actively-exploited-smartertools-smartermail-vulnerability-used-in-ransomware-attacks/",
+      "filePath": "cyberpress/pages/2026/02/06/cisa-warns-of-actively-exploited-smartertools-smartermail-vulnerability-used-in-.md",
+      "committedAt": "2026-02-06T04:00:05.363-05:00",
+      "title": "CISA Warns of Actively Exploited SmarterTools SmarterMail Vulnerability Used in Ransomware Attacks"
     }
   ]
 }
