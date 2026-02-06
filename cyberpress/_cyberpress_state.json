@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-06T05:00:11.118-05:00",
-  "lastLink": "https://cyberpress.org/react-native-community-command-injection-vulnerability/",
-  "lastId": "13qo2m2000",
-  "lastFilePath": "cyberpress/pages/2026/02/06/cisa-warns-of-actively-exploited-react-native-community-command-injection-vulner.md",
+  "updatedAt": "2026-02-06T06:00:04.892-05:00",
+  "lastLink": "https://cyberpress.org/phishing-exploits-oauth-weakness/",
+  "lastId": "16vxpxt000",
+  "lastFilePath": "cyberpress/pages/2026/02/06/phishing-attacks-exploit-oauth-weakness-to-breach-microsoft-365.md",
   "items": [
     {
-      "id": "13qo2m2000",
-      "link": "https://cyberpress.org/react-native-community-command-injection-vulnerability/",
-      "filePath": "cyberpress/pages/2026/02/06/cisa-warns-of-actively-exploited-react-native-community-command-injection-vulner.md",
-      "committedAt": "2026-02-06T05:00:11.118-05:00",
-      "title": "CISA Warns of Actively Exploited React Native Community Command Injection Vulnerability"
+      "id": "16vxpxt000",
+      "link": "https://cyberpress.org/phishing-exploits-oauth-weakness/",
+      "filePath": "cyberpress/pages/2026/02/06/phishing-attacks-exploit-oauth-weakness-to-breach-microsoft-365.md",
+      "committedAt": "2026-02-06T06:00:04.892-05:00",
+      "title": "Phishing Attacks Exploit OAuth Weakness To Breach Microsoft 365"
     }
   ]
 }
