@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-06T01:00:26.436-05:00",
-  "lastLink": "https://cyberpress.org/shadowsyndicate-unleashes-server-transition/",
-  "lastId": "1cv1nrs000",
-  "lastFilePath": "cyberpress/pages/2026/02/06/shadowsyndicate-deploys-sophisticated-server-transition-technique-in-latest-rans.md",
+  "updatedAt": "2026-02-06T02:00:21.301-05:00",
+  "lastLink": "https://cyberpress.org/fake-rto-alerts-spread-malware/",
+  "lastId": "rrrmhj0000",
+  "lastFilePath": "cyberpress/pages/2026/02/06/android-malware-spread-via-fake-rto-challan-notifications.md",
   "items": [
     {
-      "id": "1cv1nrs000",
-      "link": "https://cyberpress.org/shadowsyndicate-unleashes-server-transition/",
-      "filePath": "cyberpress/pages/2026/02/06/shadowsyndicate-deploys-sophisticated-server-transition-technique-in-latest-rans.md",
-      "committedAt": "2026-02-06T01:00:26.436-05:00",
-      "title": "ShadowSyndicate Deploys Sophisticated Server Transition Technique In Latest Ransomware Campaign"
+      "id": "rrrmhj0000",
+      "link": "https://cyberpress.org/fake-rto-alerts-spread-malware/",
+      "filePath": "cyberpress/pages/2026/02/06/android-malware-spread-via-fake-rto-challan-notifications.md",
+      "committedAt": "2026-02-06T02:00:21.301-05:00",
+      "title": "Android Malware Spread via Fake RTO Challan Notifications"
     }
   ]
 }
