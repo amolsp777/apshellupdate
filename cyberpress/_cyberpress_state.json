@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-06T06:00:04.892-05:00",
-  "lastLink": "https://cyberpress.org/phishing-exploits-oauth-weakness/",
-  "lastId": "16vxpxt000",
-  "lastFilePath": "cyberpress/pages/2026/02/06/phishing-attacks-exploit-oauth-weakness-to-breach-microsoft-365.md",
+  "updatedAt": "2026-02-06T07:00:05.286-05:00",
+  "lastLink": "https://cyberpress.org/f5-patches-critical-vulnerabilities/",
+  "lastId": "67ntsc0000",
+  "lastFilePath": "cyberpress/pages/2026/02/06/f5-patches-critical-vulnerabilities-in-big-ip-nginx-and-related-products.md",
   "items": [
     {
-      "id": "16vxpxt000",
-      "link": "https://cyberpress.org/phishing-exploits-oauth-weakness/",
-      "filePath": "cyberpress/pages/2026/02/06/phishing-attacks-exploit-oauth-weakness-to-breach-microsoft-365.md",
-      "committedAt": "2026-02-06T06:00:04.892-05:00",
-      "title": "Phishing Attacks Exploit OAuth Weakness To Breach Microsoft 365"
+      "id": "67ntsc0000",
+      "link": "https://cyberpress.org/f5-patches-critical-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/02/06/f5-patches-critical-vulnerabilities-in-big-ip-nginx-and-related-products.md",
+      "committedAt": "2026-02-06T07:00:05.286-05:00",
+      "title": "F5 Patches Critical Vulnerabilities in BIG-IP, NGINX, and Related Products"
     }
   ]
 }
