@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-06T08:00:21.340-05:00",
-  "lastLink": "https://cyberpress.org/china-apt-hijacks-linux-devices/",
-  "lastId": "1x0easa000",
-  "lastFilePath": "cyberpress/pages/2026/02/06/chinese-apt-group-uses-linux-exploits-to-redirect-traffic-and-deploy-malicious-s.md",
+  "updatedAt": "2026-02-06T09:00:27.379-05:00",
+  "lastLink": "https://cyberpress.org/odyssey-stealer-targets-macos/",
+  "lastId": "1qftvef000",
+  "lastFilePath": "cyberpress/pages/2026/02/06/new-variant-of-odyssey-stealer-malware-plagues-macos-systems.md",
   "items": [
     {
-      "id": "1x0easa000",
-      "link": "https://cyberpress.org/china-apt-hijacks-linux-devices/",
-      "filePath": "cyberpress/pages/2026/02/06/chinese-apt-group-uses-linux-exploits-to-redirect-traffic-and-deploy-malicious-s.md",
-      "committedAt": "2026-02-06T08:00:21.340-05:00",
-      "title": "Chinese APT Group Uses Linux Exploits To Redirect Traffic and Deploy Malicious Software"
+      "id": "1qftvef000",
+      "link": "https://cyberpress.org/odyssey-stealer-targets-macos/",
+      "filePath": "cyberpress/pages/2026/02/06/new-variant-of-odyssey-stealer-malware-plagues-macos-systems.md",
+      "committedAt": "2026-02-06T09:00:27.379-05:00",
+      "title": "New Variant Of Odyssey Stealer Malware Plagues macOS Systems"
     }
   ]
 }
