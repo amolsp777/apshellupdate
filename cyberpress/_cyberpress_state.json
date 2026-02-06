@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-06T11:00:32.451-05:00",
-  "lastLink": "https://cyberpress.org/apt-q-27-evades-corporate-defenses/",
-  "lastId": "1700bep000",
-  "lastFilePath": "cyberpress/pages/2026/02/06/apt-q-27-exploits-weaknesses-in-corporate-security-to-launch-silent-undetected-a.md",
+  "updatedAt": "2026-02-06T12:00:36.843-05:00",
+  "lastLink": "https://cyberpress.org/renengine-loader-evades-security/",
+  "lastId": "1h6ozrp000",
+  "lastFilePath": "cyberpress/pages/2026/02/06/renengine-loader-uses-complex-chain-to-bypass-security.md",
   "items": [
     {
-      "id": "1700bep000",
-      "link": "https://cyberpress.org/apt-q-27-evades-corporate-defenses/",
-      "filePath": "cyberpress/pages/2026/02/06/apt-q-27-exploits-weaknesses-in-corporate-security-to-launch-silent-undetected-a.md",
-      "committedAt": "2026-02-06T11:00:32.451-05:00",
-      "title": "APT-Q-27 Exploits Weaknesses In Corporate Security To Launch Silent, Undetected Attacks"
+      "id": "1h6ozrp000",
+      "link": "https://cyberpress.org/renengine-loader-evades-security/",
+      "filePath": "cyberpress/pages/2026/02/06/renengine-loader-uses-complex-chain-to-bypass-security.md",
+      "committedAt": "2026-02-06T12:00:36.843-05:00",
+      "title": "RenEngine Loader Uses Complex Chain To Bypass Security"
     }
   ]
 }
