@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-06T22:53:37.388-05:00",
+  "updatedAt": "2026-02-06T23:00:19.908-05:00",
   "lastLink": "https://cyberpress.org/f5-patches-critical-vulnerabilities/",
   "lastId": "67ntsc0000",
-  "lastFilePath": "cyberpress/pages/2026/02/06/f5-patches-critical-vulnerabilities-in-big-ip-nginx-and-related-products_67ntsc0000.md",
+  "lastFilePath": "cyberpress/2026/02/06/f5-patches-critical-vulnerabilities-in-big-ip-nginx-and-related-products_67ntsc0000.md",
   "items": [
     {
       "id": "67ntsc0000",
       "link": "https://cyberpress.org/f5-patches-critical-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/02/06/f5-patches-critical-vulnerabilities-in-big-ip-nginx-and-related-products_67ntsc0000.md",
-      "committedAt": "2026-02-06T22:53:37.388-05:00",
+      "filePath": "cyberpress/2026/02/06/f5-patches-critical-vulnerabilities-in-big-ip-nginx-and-related-products_67ntsc0000.md",
+      "committedAt": "2026-02-06T23:00:19.908-05:00",
       "title": "F5 Patches Critical Vulnerabilities in BIG-IP, NGINX, and Related Products"
     }
   ]
