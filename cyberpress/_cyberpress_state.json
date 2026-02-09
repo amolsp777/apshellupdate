@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-09T05:00:05.042-05:00",
-  "lastLink": "https://cyberpress.org/beyondtrust-0-day-vulnerability/",
-  "lastId": "thmbul0000",
-  "lastFilePath": "cyberpress/pages/2026/02/09/beyondtrust-remote-access-products-0-day-vulnerability-allows-remote-code-execut.md",
+  "updatedAt": "2026-02-09T06:00:10.404-05:00",
+  "lastLink": "https://cyberpress.org/researchers-use-windows-minifilter/",
+  "lastId": "1ye2ka5000",
+  "lastFilePath": "cyberpress/pages/2026/02/09/researchers-use-windows-minifilter-drivers-to-detect-ransomware-in-real-time.md",
   "items": [
     {
-      "id": "thmbul0000",
-      "link": "https://cyberpress.org/beyondtrust-0-day-vulnerability/",
-      "filePath": "cyberpress/pages/2026/02/09/beyondtrust-remote-access-products-0-day-vulnerability-allows-remote-code-execut.md",
-      "committedAt": "2026-02-09T05:00:05.042-05:00",
-      "title": "BeyondTrust Remote Access Products 0-Day Vulnerability Allows Remote Code Execution"
+      "id": "1ye2ka5000",
+      "link": "https://cyberpress.org/researchers-use-windows-minifilter/",
+      "filePath": "cyberpress/pages/2026/02/09/researchers-use-windows-minifilter-drivers-to-detect-ransomware-in-real-time.md",
+      "committedAt": "2026-02-09T06:00:10.404-05:00",
+      "title": "Researchers Use Windows Minifilter Drivers to Detect Ransomware in Real Time"
     }
   ]
 }
