@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-09T09:00:21.824-05:00",
-  "lastLink": "https://cyberpress.org/roundcube-webmail-vulnerability-lets-attackers-track-email-opens/",
-  "lastId": "16gci1l000",
-  "lastFilePath": "cyberpress/pages/2026/02/09/roundcube-webmail-vulnerability-lets-attackers-track-email-opens.md",
+  "updatedAt": "2026-02-09T10:00:22.169-05:00",
+  "lastLink": "https://cyberpress.org/recoverit-tool-exploits-windows/",
+  "lastId": "15j5r7f000",
+  "lastFilePath": "cyberpress/pages/2026/02/09/new-recoverit-tool-exploits-windows-service-recovery-to-execute-malicious-payloa.md",
   "items": [
     {
-      "id": "16gci1l000",
-      "link": "https://cyberpress.org/roundcube-webmail-vulnerability-lets-attackers-track-email-opens/",
-      "filePath": "cyberpress/pages/2026/02/09/roundcube-webmail-vulnerability-lets-attackers-track-email-opens.md",
-      "committedAt": "2026-02-09T09:00:21.824-05:00",
-      "title": "Roundcube Webmail Vulnerability Lets Attackers Track Email Opens"
+      "id": "15j5r7f000",
+      "link": "https://cyberpress.org/recoverit-tool-exploits-windows/",
+      "filePath": "cyberpress/pages/2026/02/09/new-recoverit-tool-exploits-windows-service-recovery-to-execute-malicious-payloa.md",
+      "committedAt": "2026-02-09T10:00:22.169-05:00",
+      "title": "New RecoverIt Tool Exploits Windows Service Recovery to Execute Malicious Payload"
     }
   ]
 }
