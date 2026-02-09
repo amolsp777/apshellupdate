@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-09T03:00:37.119-05:00",
-  "lastLink": "https://cyberpress.org/virustotal-integrates-with-openclaw-to-enhance/",
-  "lastId": "173uycf000",
-  "lastFilePath": "cyberpress/pages/2026/02/09/virustotal-integrates-with-openclaw-to-enhance-ai-marketplace-threat-detection.md",
+  "updatedAt": "2026-02-09T04:00:42.821-05:00",
+  "lastLink": "https://cyberpress.org/detect-quantum-vulnerable-cryptography/",
+  "lastId": "8jomqv0000",
+  "lastFilePath": "cyberpress/pages/2026/02/09/crypto-scanner-launches-to-detect-quantum-vulnerable-cryptography-hidden-in-code.md",
   "items": [
     {
-      "id": "173uycf000",
-      "link": "https://cyberpress.org/virustotal-integrates-with-openclaw-to-enhance/",
-      "filePath": "cyberpress/pages/2026/02/09/virustotal-integrates-with-openclaw-to-enhance-ai-marketplace-threat-detection.md",
-      "committedAt": "2026-02-09T03:00:37.119-05:00",
-      "title": "VirusTotal Integrates With OpenClaw to Enhance AI Marketplace Threat Detection"
+      "id": "8jomqv0000",
+      "link": "https://cyberpress.org/detect-quantum-vulnerable-cryptography/",
+      "filePath": "cyberpress/pages/2026/02/09/crypto-scanner-launches-to-detect-quantum-vulnerable-cryptography-hidden-in-code.md",
+      "committedAt": "2026-02-09T04:00:42.821-05:00",
+      "title": "Crypto Scanner Launches to Detect Quantum-Vulnerable Cryptography Hidden in Codebases"
     }
   ]
 }
