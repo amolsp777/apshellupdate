@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-09T07:00:10.485-05:00",
-  "lastLink": "https://cyberpress.org/forticlient-ems-vulnerability/",
-  "lastId": "1ey2qbo000",
-  "lastFilePath": "cyberpress/pages/2026/02/09/critical-forticlient-ems-vulnerability-allows-remote-malicious-code-execution.md",
+  "updatedAt": "2026-02-09T08:00:10.375-05:00",
+  "lastLink": "https://cyberpress.org/exploiting-solarwinds-web-help-desk/",
+  "lastId": "18nqil0000",
+  "lastFilePath": "cyberpress/pages/2026/02/09/hackers-actively-exploiting-solarwinds-web-help-desk-rce-to-deploy-custom-tools.md",
   "items": [
     {
-      "id": "1ey2qbo000",
-      "link": "https://cyberpress.org/forticlient-ems-vulnerability/",
-      "filePath": "cyberpress/pages/2026/02/09/critical-forticlient-ems-vulnerability-allows-remote-malicious-code-execution.md",
-      "committedAt": "2026-02-09T07:00:10.485-05:00",
-      "title": "Critical FortiClient EMS Vulnerability Allows Remote Malicious Code Execution"
+      "id": "18nqil0000",
+      "link": "https://cyberpress.org/exploiting-solarwinds-web-help-desk/",
+      "filePath": "cyberpress/pages/2026/02/09/hackers-actively-exploiting-solarwinds-web-help-desk-rce-to-deploy-custom-tools.md",
+      "committedAt": "2026-02-09T08:00:10.375-05:00",
+      "title": "Hackers Actively Exploiting SolarWinds Web Help Desk RCE to Deploy Custom Tools"
     }
   ]
 }
