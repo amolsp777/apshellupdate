@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-09T08:00:10.375-05:00",
-  "lastLink": "https://cyberpress.org/exploiting-solarwinds-web-help-desk/",
-  "lastId": "18nqil0000",
-  "lastFilePath": "cyberpress/pages/2026/02/09/hackers-actively-exploiting-solarwinds-web-help-desk-rce-to-deploy-custom-tools.md",
+  "updatedAt": "2026-02-09T09:00:21.824-05:00",
+  "lastLink": "https://cyberpress.org/roundcube-webmail-vulnerability-lets-attackers-track-email-opens/",
+  "lastId": "16gci1l000",
+  "lastFilePath": "cyberpress/pages/2026/02/09/roundcube-webmail-vulnerability-lets-attackers-track-email-opens.md",
   "items": [
     {
-      "id": "18nqil0000",
-      "link": "https://cyberpress.org/exploiting-solarwinds-web-help-desk/",
-      "filePath": "cyberpress/pages/2026/02/09/hackers-actively-exploiting-solarwinds-web-help-desk-rce-to-deploy-custom-tools.md",
-      "committedAt": "2026-02-09T08:00:10.375-05:00",
-      "title": "Hackers Actively Exploiting SolarWinds Web Help Desk RCE to Deploy Custom Tools"
+      "id": "16gci1l000",
+      "link": "https://cyberpress.org/roundcube-webmail-vulnerability-lets-attackers-track-email-opens/",
+      "filePath": "cyberpress/pages/2026/02/09/roundcube-webmail-vulnerability-lets-attackers-track-email-opens.md",
+      "committedAt": "2026-02-09T09:00:21.824-05:00",
+      "title": "Roundcube Webmail Vulnerability Lets Attackers Track Email Opens"
     }
   ]
 }
