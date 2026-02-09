@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-09T06:00:10.404-05:00",
-  "lastLink": "https://cyberpress.org/researchers-use-windows-minifilter/",
-  "lastId": "1ye2ka5000",
-  "lastFilePath": "cyberpress/pages/2026/02/09/researchers-use-windows-minifilter-drivers-to-detect-ransomware-in-real-time.md",
+  "updatedAt": "2026-02-09T07:00:10.485-05:00",
+  "lastLink": "https://cyberpress.org/forticlient-ems-vulnerability/",
+  "lastId": "1ey2qbo000",
+  "lastFilePath": "cyberpress/pages/2026/02/09/critical-forticlient-ems-vulnerability-allows-remote-malicious-code-execution.md",
   "items": [
     {
-      "id": "1ye2ka5000",
-      "link": "https://cyberpress.org/researchers-use-windows-minifilter/",
-      "filePath": "cyberpress/pages/2026/02/09/researchers-use-windows-minifilter-drivers-to-detect-ransomware-in-real-time.md",
-      "committedAt": "2026-02-09T06:00:10.404-05:00",
-      "title": "Researchers Use Windows Minifilter Drivers to Detect Ransomware in Real Time"
+      "id": "1ey2qbo000",
+      "link": "https://cyberpress.org/forticlient-ems-vulnerability/",
+      "filePath": "cyberpress/pages/2026/02/09/critical-forticlient-ems-vulnerability-allows-remote-malicious-code-execution.md",
+      "committedAt": "2026-02-09T07:00:10.485-05:00",
+      "title": "Critical FortiClient EMS Vulnerability Allows Remote Malicious Code Execution"
     }
   ]
 }
