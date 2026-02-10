@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-10T05:00:05.376-05:00",
-  "lastLink": "https://cyberpress.org/ai-chat-app-data-breach-exposes/",
-  "lastId": "1w0a3a9000",
-  "lastFilePath": "cyberpress/pages/2026/02/10/ai-chat-app-data-breach-exposes-300-million-messages-from-25-million-users.md",
+  "updatedAt": "2026-02-10T06:00:16.276-05:00",
+  "lastLink": "https://cyberpress.org/exploiting-ivanti-epmm/",
+  "lastId": "1a9d9g2000",
+  "lastFilePath": "cyberpress/pages/2026/02/10/hackers-actively-exploiting-ivanti-epmm-devices-to-deploy-dormant-backdoors.md",
   "items": [
     {
-      "id": "1w0a3a9000",
-      "link": "https://cyberpress.org/ai-chat-app-data-breach-exposes/",
-      "filePath": "cyberpress/pages/2026/02/10/ai-chat-app-data-breach-exposes-300-million-messages-from-25-million-users.md",
-      "committedAt": "2026-02-10T05:00:05.376-05:00",
-      "title": "AI Chat App Data Breach Exposes 300 Million Messages from 25 Million Users"
+      "id": "1a9d9g2000",
+      "link": "https://cyberpress.org/exploiting-ivanti-epmm/",
+      "filePath": "cyberpress/pages/2026/02/10/hackers-actively-exploiting-ivanti-epmm-devices-to-deploy-dormant-backdoors.md",
+      "committedAt": "2026-02-10T06:00:16.276-05:00",
+      "title": "Hackers Actively Exploiting Ivanti EPMM Devices to Deploy Dormant Backdoors"
     }
   ]
 }
