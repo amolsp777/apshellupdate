@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-10T02:00:21.440-05:00",
-  "lastLink": "https://cyberpress.org/fvncbot-exploits-android-accessibility/",
-  "lastId": "5e5z860000",
-  "lastFilePath": "cyberpress/pages/2026/02/10/fvncbot-malware-leverages-android-accessibility-features-to-attack-users.md",
+  "updatedAt": "2026-02-10T03:00:16.012-05:00",
+  "lastLink": "https://cyberpress.org/claude-desktop-extensions-zero-click-rce-flaw/",
+  "lastId": "13ojs06000",
+  "lastFilePath": "cyberpress/pages/2026/02/10/claude-desktop-extensions-zero-click-rce-flaw-exposes-over-10000-users-to-silent.md",
   "items": [
     {
-      "id": "5e5z860000",
-      "link": "https://cyberpress.org/fvncbot-exploits-android-accessibility/",
-      "filePath": "cyberpress/pages/2026/02/10/fvncbot-malware-leverages-android-accessibility-features-to-attack-users.md",
-      "committedAt": "2026-02-10T02:00:21.440-05:00",
-      "title": "FvncBot Malware Leverages Android Accessibility Features To Attack Users"
+      "id": "13ojs06000",
+      "link": "https://cyberpress.org/claude-desktop-extensions-zero-click-rce-flaw/",
+      "filePath": "cyberpress/pages/2026/02/10/claude-desktop-extensions-zero-click-rce-flaw-exposes-over-10000-users-to-silent.md",
+      "committedAt": "2026-02-10T03:00:16.012-05:00",
+      "title": "Claude Desktop Extensions Zero-Click RCE Flaw Exposes Over 10,000 Users to Silent Attacks"
     }
   ]
 }
