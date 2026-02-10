@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-10T06:00:16.276-05:00",
-  "lastLink": "https://cyberpress.org/exploiting-ivanti-epmm/",
-  "lastId": "1a9d9g2000",
-  "lastFilePath": "cyberpress/pages/2026/02/10/hackers-actively-exploiting-ivanti-epmm-devices-to-deploy-dormant-backdoors.md",
+  "updatedAt": "2026-02-10T07:00:38.520-05:00",
+  "lastLink": "https://cyberpress.org/openclaw-control-panels-exposed/",
+  "lastId": "1ebdo9o000",
+  "lastFilePath": "cyberpress/pages/2026/02/10/15200-openclaw-control-panels-exposed-online-with-full-system-access.md",
   "items": [
     {
-      "id": "1a9d9g2000",
-      "link": "https://cyberpress.org/exploiting-ivanti-epmm/",
-      "filePath": "cyberpress/pages/2026/02/10/hackers-actively-exploiting-ivanti-epmm-devices-to-deploy-dormant-backdoors.md",
-      "committedAt": "2026-02-10T06:00:16.276-05:00",
-      "title": "Hackers Actively Exploiting Ivanti EPMM Devices to Deploy Dormant Backdoors"
+      "id": "1ebdo9o000",
+      "link": "https://cyberpress.org/openclaw-control-panels-exposed/",
+      "filePath": "cyberpress/pages/2026/02/10/15200-openclaw-control-panels-exposed-online-with-full-system-access.md",
+      "committedAt": "2026-02-10T07:00:38.520-05:00",
+      "title": "15,200 OpenClaw Control Panels Exposed Online with Full System Access"
     }
   ]
 }
