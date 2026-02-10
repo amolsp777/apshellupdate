@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-10T09:00:05.421-05:00",
-  "lastLink": "https://cyberpress.org/socelars-malware-attacking-windows/",
-  "lastId": "zsnety0000",
-  "lastFilePath": "cyberpress/pages/2026/02/10/socelars-malware-attacking-windows-systems-to-collect-sensitive-data.md",
+  "updatedAt": "2026-02-10T10:00:16.949-05:00",
+  "lastLink": "https://cyberpress.org/fancy-bear-exploits-zero-day/",
+  "lastId": "1bnvbfa000",
+  "lastFilePath": "cyberpress/pages/2026/02/10/fancy-bear-hackers-abuse-microsoft-zero-day-in-email-theft-campaign.md",
   "items": [
     {
-      "id": "zsnety0000",
-      "link": "https://cyberpress.org/socelars-malware-attacking-windows/",
-      "filePath": "cyberpress/pages/2026/02/10/socelars-malware-attacking-windows-systems-to-collect-sensitive-data.md",
-      "committedAt": "2026-02-10T09:00:05.421-05:00",
-      "title": "Socelars Malware Attacking Windows systems to Collect sensitive data"
+      "id": "1bnvbfa000",
+      "link": "https://cyberpress.org/fancy-bear-exploits-zero-day/",
+      "filePath": "cyberpress/pages/2026/02/10/fancy-bear-hackers-abuse-microsoft-zero-day-in-email-theft-campaign.md",
+      "committedAt": "2026-02-10T10:00:16.949-05:00",
+      "title": "Fancy Bear Hackers Abuse Microsoft Zero-Day in Email Theft Campaign"
     }
   ]
 }
