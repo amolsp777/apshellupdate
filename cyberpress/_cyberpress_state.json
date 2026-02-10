@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-09T12:00:42.513-05:00",
-  "lastLink": "https://cyberpress.org/over-5-million-misconfigured-git-web-servers-exposing-secrets-to-the-internet/",
-  "lastId": "51epll0000",
-  "lastFilePath": "cyberpress/pages/2026/02/09/over-5-million-misconfigured-git-web-servers-exposing-secrets-to-the-internet.md",
+  "updatedAt": "2026-02-10T02:00:21.440-05:00",
+  "lastLink": "https://cyberpress.org/fvncbot-exploits-android-accessibility/",
+  "lastId": "5e5z860000",
+  "lastFilePath": "cyberpress/pages/2026/02/10/fvncbot-malware-leverages-android-accessibility-features-to-attack-users.md",
   "items": [
     {
-      "id": "51epll0000",
-      "link": "https://cyberpress.org/over-5-million-misconfigured-git-web-servers-exposing-secrets-to-the-internet/",
-      "filePath": "cyberpress/pages/2026/02/09/over-5-million-misconfigured-git-web-servers-exposing-secrets-to-the-internet.md",
-      "committedAt": "2026-02-09T12:00:42.513-05:00",
-      "title": "Over 5 Million Misconfigured Git Web Servers Exposing Secrets to the Internet"
+      "id": "5e5z860000",
+      "link": "https://cyberpress.org/fvncbot-exploits-android-accessibility/",
+      "filePath": "cyberpress/pages/2026/02/10/fvncbot-malware-leverages-android-accessibility-features-to-attack-users.md",
+      "committedAt": "2026-02-10T02:00:21.440-05:00",
+      "title": "FvncBot Malware Leverages Android Accessibility Features To Attack Users"
     }
   ]
 }
