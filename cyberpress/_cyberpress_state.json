@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-10T10:00:16.949-05:00",
-  "lastLink": "https://cyberpress.org/fancy-bear-exploits-zero-day/",
-  "lastId": "1bnvbfa000",
-  "lastFilePath": "cyberpress/pages/2026/02/10/fancy-bear-hackers-abuse-microsoft-zero-day-in-email-theft-campaign.md",
+  "updatedAt": "2026-02-10T11:00:06.055-05:00",
+  "lastLink": "https://cyberpress.org/prometei-botnet-targets-windows/",
+  "lastId": "dfxoes0000",
+  "lastFilePath": "cyberpress/pages/2026/02/10/prometei-botnet-targets-windows-servers-to-gain-remote-access-and-deploy-malware.md",
   "items": [
     {
-      "id": "1bnvbfa000",
-      "link": "https://cyberpress.org/fancy-bear-exploits-zero-day/",
-      "filePath": "cyberpress/pages/2026/02/10/fancy-bear-hackers-abuse-microsoft-zero-day-in-email-theft-campaign.md",
-      "committedAt": "2026-02-10T10:00:16.949-05:00",
-      "title": "Fancy Bear Hackers Abuse Microsoft Zero-Day in Email Theft Campaign"
+      "id": "dfxoes0000",
+      "link": "https://cyberpress.org/prometei-botnet-targets-windows/",
+      "filePath": "cyberpress/pages/2026/02/10/prometei-botnet-targets-windows-servers-to-gain-remote-access-and-deploy-malware.md",
+      "committedAt": "2026-02-10T11:00:06.055-05:00",
+      "title": "Prometei Botnet Targets Windows Servers to Gain Remote Access and Deploy Malware"
     }
   ]
 }
