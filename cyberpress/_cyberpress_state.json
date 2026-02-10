@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-10T08:00:10.740-05:00",
-  "lastLink": "https://cyberpress.org/malicious-lnk-spreads-ransomware/",
-  "lastId": "1q4b5n4000",
-  "lastFilePath": "cyberpress/pages/2026/02/10/malicious-lnk-files-used-to-deploy-global-group-ransomware-worldwide.md",
+  "updatedAt": "2026-02-10T09:00:05.421-05:00",
+  "lastLink": "https://cyberpress.org/socelars-malware-attacking-windows/",
+  "lastId": "zsnety0000",
+  "lastFilePath": "cyberpress/pages/2026/02/10/socelars-malware-attacking-windows-systems-to-collect-sensitive-data.md",
   "items": [
     {
-      "id": "1q4b5n4000",
-      "link": "https://cyberpress.org/malicious-lnk-spreads-ransomware/",
-      "filePath": "cyberpress/pages/2026/02/10/malicious-lnk-files-used-to-deploy-global-group-ransomware-worldwide.md",
-      "committedAt": "2026-02-10T08:00:10.740-05:00",
-      "title": "Malicious LNK Files Used to Deploy Global Group Ransomware Worldwide"
+      "id": "zsnety0000",
+      "link": "https://cyberpress.org/socelars-malware-attacking-windows/",
+      "filePath": "cyberpress/pages/2026/02/10/socelars-malware-attacking-windows-systems-to-collect-sensitive-data.md",
+      "committedAt": "2026-02-10T09:00:05.421-05:00",
+      "title": "Socelars Malware Attacking Windows systems to Collect sensitive data"
     }
   ]
 }
