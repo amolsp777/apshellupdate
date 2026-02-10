@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-10T11:00:06.055-05:00",
-  "lastLink": "https://cyberpress.org/prometei-botnet-targets-windows/",
-  "lastId": "dfxoes0000",
-  "lastFilePath": "cyberpress/pages/2026/02/10/prometei-botnet-targets-windows-servers-to-gain-remote-access-and-deploy-malware.md",
+  "updatedAt": "2026-02-10T12:00:10.430-05:00",
+  "lastLink": "https://cyberpress.org/gogs-vulnerability/",
+  "lastId": "2rwvwl0000",
+  "lastFilePath": "cyberpress/pages/2026/02/10/critical-gogs-vulnerability-enables-remote-command-execution-and-2fa-bypass.md",
   "items": [
     {
-      "id": "dfxoes0000",
-      "link": "https://cyberpress.org/prometei-botnet-targets-windows/",
-      "filePath": "cyberpress/pages/2026/02/10/prometei-botnet-targets-windows-servers-to-gain-remote-access-and-deploy-malware.md",
-      "committedAt": "2026-02-10T11:00:06.055-05:00",
-      "title": "Prometei Botnet Targets Windows Servers to Gain Remote Access and Deploy Malware"
+      "id": "2rwvwl0000",
+      "link": "https://cyberpress.org/gogs-vulnerability/",
+      "filePath": "cyberpress/pages/2026/02/10/critical-gogs-vulnerability-enables-remote-command-execution-and-2fa-bypass.md",
+      "committedAt": "2026-02-10T12:00:10.430-05:00",
+      "title": "Critical Gogs Vulnerability Enables Remote Command Execution and 2FA Bypass"
     }
   ]
 }
