@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-10T12:00:10.430-05:00",
-  "lastLink": "https://cyberpress.org/gogs-vulnerability/",
-  "lastId": "2rwvwl0000",
-  "lastFilePath": "cyberpress/pages/2026/02/10/critical-gogs-vulnerability-enables-remote-command-execution-and-2fa-bypass.md",
+  "updatedAt": "2026-02-10T13:00:17.256-05:00",
+  "lastLink": "https://cyberpress.org/ddos-protection-solutions/",
+  "lastId": "l1qszj0000",
+  "lastFilePath": "cyberpress/pages/2026/02/10/top-10-best-ddos-protection-solutions-in-2026.md",
   "items": [
     {
-      "id": "2rwvwl0000",
-      "link": "https://cyberpress.org/gogs-vulnerability/",
-      "filePath": "cyberpress/pages/2026/02/10/critical-gogs-vulnerability-enables-remote-command-execution-and-2fa-bypass.md",
-      "committedAt": "2026-02-10T12:00:10.430-05:00",
-      "title": "Critical Gogs Vulnerability Enables Remote Command Execution and 2FA Bypass"
+      "id": "l1qszj0000",
+      "link": "https://cyberpress.org/ddos-protection-solutions/",
+      "filePath": "cyberpress/pages/2026/02/10/top-10-best-ddos-protection-solutions-in-2026.md",
+      "committedAt": "2026-02-10T13:00:17.256-05:00",
+      "title": "Top 10 Best DDOS Protection Solutions in 2026"
     }
   ]
 }
