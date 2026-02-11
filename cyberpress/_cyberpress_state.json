@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-11T04:00:10.538-05:00",
-  "lastLink": "https://cyberpress.org/gitlab-patches-multiple-vulnerabilities-enabling-dos-and-cross-site-scripting-attacks/",
-  "lastId": "1d1ybtl000",
-  "lastFilePath": "cyberpress/pages/2026/02/11/gitlab-patches-multiple-vulnerabilities-enabling-dos-and-cross-site-scripting-at.md",
+  "updatedAt": "2026-02-11T05:00:22.926-05:00",
+  "lastLink": "https://cyberpress.org/fortios-authentication-bypass-vulnerability/",
+  "lastId": "1vbtp3o000",
+  "lastFilePath": "cyberpress/pages/2026/02/11/fortios-authentication-bypass-vulnerability-allows-attackers-to-bypass-ldap-logi.md",
   "items": [
     {
-      "id": "1d1ybtl000",
-      "link": "https://cyberpress.org/gitlab-patches-multiple-vulnerabilities-enabling-dos-and-cross-site-scripting-attacks/",
-      "filePath": "cyberpress/pages/2026/02/11/gitlab-patches-multiple-vulnerabilities-enabling-dos-and-cross-site-scripting-at.md",
-      "committedAt": "2026-02-11T04:00:10.538-05:00",
-      "title": "GitLab Patches Multiple Vulnerabilities Enabling DoS and Cross-Site Scripting Attacks"
+      "id": "1vbtp3o000",
+      "link": "https://cyberpress.org/fortios-authentication-bypass-vulnerability/",
+      "filePath": "cyberpress/pages/2026/02/11/fortios-authentication-bypass-vulnerability-allows-attackers-to-bypass-ldap-logi.md",
+      "committedAt": "2026-02-11T05:00:22.926-05:00",
+      "title": "FortiOS Authentication Bypass Vulnerability Allows Attackers to Bypass LDAP Login"
     }
   ]
 }
