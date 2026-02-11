@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-11T06:00:10.463-05:00",
-  "lastLink": "https://cyberpress.org/windows-shell-zero-day-vulnerability/",
-  "lastId": "1fsp172000",
-  "lastFilePath": "cyberpress/pages/2026/02/11/windows-shell-zero-day-vulnerability-allows-attackers-to-bypass-authentication.md",
+  "updatedAt": "2026-02-11T07:00:10.677-05:00",
+  "lastLink": "https://cyberpress.org/ivanti-endpoint-manager-vulnerability/",
+  "lastId": "5cr62v0000",
+  "lastFilePath": "cyberpress/pages/2026/02/11/ivanti-endpoint-manager-vulnerability-allows-remote-attackers-to-leak-arbitrary-.md",
   "items": [
     {
-      "id": "1fsp172000",
-      "link": "https://cyberpress.org/windows-shell-zero-day-vulnerability/",
-      "filePath": "cyberpress/pages/2026/02/11/windows-shell-zero-day-vulnerability-allows-attackers-to-bypass-authentication.md",
-      "committedAt": "2026-02-11T06:00:10.463-05:00",
-      "title": "Windows Shell Zero-Day Vulnerability Allows Attackers to Bypass Authentication"
+      "id": "5cr62v0000",
+      "link": "https://cyberpress.org/ivanti-endpoint-manager-vulnerability/",
+      "filePath": "cyberpress/pages/2026/02/11/ivanti-endpoint-manager-vulnerability-allows-remote-attackers-to-leak-arbitrary-.md",
+      "committedAt": "2026-02-11T07:00:10.677-05:00",
+      "title": "Ivanti Endpoint Manager Vulnerability Allows Remote Attackers to Leak Arbitrary Data"
     }
   ]
 }
