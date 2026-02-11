@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-11T09:00:10.680-05:00",
-  "lastLink": "https://cyberpress.org/uuid-flaw/",
-  "lastId": "1yhbncr000",
-  "lastFilePath": "cyberpress/pages/2026/02/11/critical-uuid-flaw-in-fiber-v2-on-go-124-enables-session-hijacking-and-csrf-bypa.md",
+  "updatedAt": "2026-02-11T10:00:15.713-05:00",
+  "lastLink": "https://cyberpress.org/mshtml-framework-zero-day-vulnerability/",
+  "lastId": "13vwa21000",
+  "lastFilePath": "cyberpress/pages/2026/02/11/mshtml-framework-zero-day-vulnerability-lets-attackers-bypass-security-features-.md",
   "items": [
     {
-      "id": "1yhbncr000",
-      "link": "https://cyberpress.org/uuid-flaw/",
-      "filePath": "cyberpress/pages/2026/02/11/critical-uuid-flaw-in-fiber-v2-on-go-124-enables-session-hijacking-and-csrf-bypa.md",
-      "committedAt": "2026-02-11T09:00:10.680-05:00",
-      "title": "Critical UUID Flaw in Fiber v2 on Go 1.24+ Enables Session Hijacking and CSRF Bypass"
+      "id": "13vwa21000",
+      "link": "https://cyberpress.org/mshtml-framework-zero-day-vulnerability/",
+      "filePath": "cyberpress/pages/2026/02/11/mshtml-framework-zero-day-vulnerability-lets-attackers-bypass-security-features-.md",
+      "committedAt": "2026-02-11T10:00:15.713-05:00",
+      "title": "MSHTML Framework Zero-Day Vulnerability Lets Attackers Bypass Security Features Over the Network"
     }
   ]
 }
