@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-11T03:00:05.448-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-54-vulnerabilities-including-6-zero-days/",
-  "lastId": "1oxm9gb000",
-  "lastFilePath": "cyberpress/pages/2026/02/11/microsoft-february-2026-patch-tuesday-fixes-54-vulnerabilities-including-6-zero-.md",
+  "updatedAt": "2026-02-11T04:00:10.538-05:00",
+  "lastLink": "https://cyberpress.org/gitlab-patches-multiple-vulnerabilities-enabling-dos-and-cross-site-scripting-attacks/",
+  "lastId": "1d1ybtl000",
+  "lastFilePath": "cyberpress/pages/2026/02/11/gitlab-patches-multiple-vulnerabilities-enabling-dos-and-cross-site-scripting-at.md",
   "items": [
     {
-      "id": "1oxm9gb000",
-      "link": "https://cyberpress.org/microsoft-54-vulnerabilities-including-6-zero-days/",
-      "filePath": "cyberpress/pages/2026/02/11/microsoft-february-2026-patch-tuesday-fixes-54-vulnerabilities-including-6-zero-.md",
-      "committedAt": "2026-02-11T03:00:05.448-05:00",
-      "title": "Microsoft February 2026 Patch Tuesday Fixes 54 Vulnerabilities, Including 6 Zero-Days"
+      "id": "1d1ybtl000",
+      "link": "https://cyberpress.org/gitlab-patches-multiple-vulnerabilities-enabling-dos-and-cross-site-scripting-attacks/",
+      "filePath": "cyberpress/pages/2026/02/11/gitlab-patches-multiple-vulnerabilities-enabling-dos-and-cross-site-scripting-at.md",
+      "committedAt": "2026-02-11T04:00:10.538-05:00",
+      "title": "GitLab Patches Multiple Vulnerabilities Enabling DoS and Cross-Site Scripting Attacks"
     }
   ]
 }
