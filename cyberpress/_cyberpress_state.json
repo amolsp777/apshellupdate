@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-11T13:00:38.055-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-releases-extended-security-updates-for-windows-10-users/",
-  "lastId": "1bhc5v8000",
-  "lastFilePath": "cyberpress/pages/2026/02/11/microsoft-releases-extended-security-updates-for-windows-10-users.md",
+  "updatedAt": "2026-02-11T14:00:42.555-05:00",
+  "lastLink": "https://cyberpress.org/fake-7-zip-builds-botnet/",
+  "lastId": "1952gel000",
+  "lastFilePath": "cyberpress/pages/2026/02/11/hackers-weaponize-7-zip-downloads-to-build-home-proxy-botnet.md",
   "items": [
     {
-      "id": "1bhc5v8000",
-      "link": "https://cyberpress.org/microsoft-releases-extended-security-updates-for-windows-10-users/",
-      "filePath": "cyberpress/pages/2026/02/11/microsoft-releases-extended-security-updates-for-windows-10-users.md",
-      "committedAt": "2026-02-11T13:00:38.055-05:00",
-      "title": "Microsoft Releases Extended Security Updates for Windows 10 Users"
+      "id": "1952gel000",
+      "link": "https://cyberpress.org/fake-7-zip-builds-botnet/",
+      "filePath": "cyberpress/pages/2026/02/11/hackers-weaponize-7-zip-downloads-to-build-home-proxy-botnet.md",
+      "committedAt": "2026-02-11T14:00:42.555-05:00",
+      "title": "Hackers Weaponize 7-Zip Downloads to Build Home Proxy Botnet"
     }
   ]
 }
