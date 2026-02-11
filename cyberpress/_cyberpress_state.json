@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-11T02:00:16.039-05:00",
-  "lastLink": "https://cyberpress.org/unc1069-targets-finance-with-ai/",
-  "lastId": "1lr45e8000",
-  "lastFilePath": "cyberpress/pages/2026/02/11/hackers-unc1069-deploy-new-malware-and-ai-tactics-in-financial-industry-attacks.md",
+  "updatedAt": "2026-02-11T03:00:05.448-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-54-vulnerabilities-including-6-zero-days/",
+  "lastId": "1oxm9gb000",
+  "lastFilePath": "cyberpress/pages/2026/02/11/microsoft-february-2026-patch-tuesday-fixes-54-vulnerabilities-including-6-zero-.md",
   "items": [
     {
-      "id": "1lr45e8000",
-      "link": "https://cyberpress.org/unc1069-targets-finance-with-ai/",
-      "filePath": "cyberpress/pages/2026/02/11/hackers-unc1069-deploy-new-malware-and-ai-tactics-in-financial-industry-attacks.md",
-      "committedAt": "2026-02-11T02:00:16.039-05:00",
-      "title": "Hackers UNC1069 Deploy New Malware and AI Tactics In Financial Industry Attacks"
+      "id": "1oxm9gb000",
+      "link": "https://cyberpress.org/microsoft-54-vulnerabilities-including-6-zero-days/",
+      "filePath": "cyberpress/pages/2026/02/11/microsoft-february-2026-patch-tuesday-fixes-54-vulnerabilities-including-6-zero-.md",
+      "committedAt": "2026-02-11T03:00:05.448-05:00",
+      "title": "Microsoft February 2026 Patch Tuesday Fixes 54 Vulnerabilities, Including 6 Zero-Days"
     }
   ]
 }
