@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-11T14:00:42.555-05:00",
-  "lastLink": "https://cyberpress.org/fake-7-zip-builds-botnet/",
-  "lastId": "1952gel000",
-  "lastFilePath": "cyberpress/pages/2026/02/11/hackers-weaponize-7-zip-downloads-to-build-home-proxy-botnet.md",
+  "updatedAt": "2026-02-11T15:00:48.103-05:00",
+  "lastLink": "https://cyberpress.org/ilovepoop-weaponizes-react2shell-flaw/",
+  "lastId": "12myjoh000",
+  "lastFilePath": "cyberpress/pages/2026/02/11/react2shell-flaw-weaponized-by-ilovepoop-attack-framework.md",
   "items": [
     {
-      "id": "1952gel000",
-      "link": "https://cyberpress.org/fake-7-zip-builds-botnet/",
-      "filePath": "cyberpress/pages/2026/02/11/hackers-weaponize-7-zip-downloads-to-build-home-proxy-botnet.md",
-      "committedAt": "2026-02-11T14:00:42.555-05:00",
-      "title": "Hackers Weaponize 7-Zip Downloads to Build Home Proxy Botnet"
+      "id": "12myjoh000",
+      "link": "https://cyberpress.org/ilovepoop-weaponizes-react2shell-flaw/",
+      "filePath": "cyberpress/pages/2026/02/11/react2shell-flaw-weaponized-by-ilovepoop-attack-framework.md",
+      "committedAt": "2026-02-11T15:00:48.103-05:00",
+      "title": "React2Shell Flaw Weaponized by ILOVEPOOP Attack Framework"
     }
   ]
 }
