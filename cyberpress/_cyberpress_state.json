@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-12T07:00:05.286-05:00",
-  "lastLink": "https://cyberpress.org/chrome-security-update-patches-vulnerabilities-2/",
-  "lastId": "1s7yfij000",
-  "lastFilePath": "cyberpress/pages/2026/02/12/chrome-security-update-patches-vulnerabilities-enabling-code-execution-attacks.md",
+  "updatedAt": "2026-02-12T08:00:15.912-05:00",
+  "lastLink": "https://cyberpress.org/palo-alto-networks-firewall-vulnerability/",
+  "lastId": "u6pusl0000",
+  "lastFilePath": "cyberpress/pages/2026/02/12/palo-alto-networks-firewall-vulnerability-lets-attackers-force-reboot-loops.md",
   "items": [
     {
-      "id": "1s7yfij000",
-      "link": "https://cyberpress.org/chrome-security-update-patches-vulnerabilities-2/",
-      "filePath": "cyberpress/pages/2026/02/12/chrome-security-update-patches-vulnerabilities-enabling-code-execution-attacks.md",
-      "committedAt": "2026-02-12T07:00:05.286-05:00",
-      "title": "Chrome Security Update Patches Vulnerabilities Enabling Code Execution Attacks"
+      "id": "u6pusl0000",
+      "link": "https://cyberpress.org/palo-alto-networks-firewall-vulnerability/",
+      "filePath": "cyberpress/pages/2026/02/12/palo-alto-networks-firewall-vulnerability-lets-attackers-force-reboot-loops.md",
+      "committedAt": "2026-02-12T08:00:15.912-05:00",
+      "title": "Palo Alto Networks Firewall Vulnerability Lets Attackers Force Reboot Loops"
     }
   ]
 }
