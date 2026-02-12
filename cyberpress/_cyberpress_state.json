@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-12T09:00:10.380-05:00",
-  "lastLink": "https://cyberpress.org/hpe-aruba-networking-vulnerability/",
-  "lastId": "wiblep0000",
-  "lastFilePath": "cyberpress/pages/2026/02/12/hpe-aruba-networking-vulnerability-allows-privilege-escalation-and-dos-attacks.md",
+  "updatedAt": "2026-02-12T10:00:27.119-05:00",
+  "lastLink": "https://cyberpress.org/lazarus-group-distributes-graphalgo-malwar/",
+  "lastId": "6d6h8n0000",
+  "lastFilePath": "cyberpress/pages/2026/02/12/lazarus-group-uses-github-npm-pypi-for-graphalgo-malware-campaign.md",
   "items": [
     {
-      "id": "wiblep0000",
-      "link": "https://cyberpress.org/hpe-aruba-networking-vulnerability/",
-      "filePath": "cyberpress/pages/2026/02/12/hpe-aruba-networking-vulnerability-allows-privilege-escalation-and-dos-attacks.md",
-      "committedAt": "2026-02-12T09:00:10.380-05:00",
-      "title": "HPE Aruba Networking Vulnerability Allows Privilege Escalation and DoS Attacks"
+      "id": "6d6h8n0000",
+      "link": "https://cyberpress.org/lazarus-group-distributes-graphalgo-malwar/",
+      "filePath": "cyberpress/pages/2026/02/12/lazarus-group-uses-github-npm-pypi-for-graphalgo-malware-campaign.md",
+      "committedAt": "2026-02-12T10:00:27.119-05:00",
+      "title": "Lazarus Group Uses GitHub, npm, PyPI for ‘Graphalgo’ Malware Campaign"
     }
   ]
 }
