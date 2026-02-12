@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-12T14:00:47.875-05:00",
-  "lastLink": "https://cyberpress.org/adblock-filter-flaw/",
-  "lastId": "7hlp320000",
-  "lastFilePath": "cyberpress/pages/2026/02/12/adblock-filter-flaw-can-reveal-user-location-even-when-using-a-vpn.md",
+  "updatedAt": "2026-02-12T15:00:54.192-05:00",
+  "lastLink": "https://cyberpress.org/malicious-microsoft-outlook-add-in-stole-4000-account-credentials-and-credit-card-details/",
+  "lastId": "1sjsm0l000",
+  "lastFilePath": "cyberpress/pages/2026/02/12/malicious-microsoft-outlook-add-in-stole-4000-account-credentials-and-credit-car.md",
   "items": [
     {
-      "id": "7hlp320000",
-      "link": "https://cyberpress.org/adblock-filter-flaw/",
-      "filePath": "cyberpress/pages/2026/02/12/adblock-filter-flaw-can-reveal-user-location-even-when-using-a-vpn.md",
-      "committedAt": "2026-02-12T14:00:47.875-05:00",
-      "title": "Adblock Filter Flaw Can Reveal User Location Even When Using a VPN"
+      "id": "1sjsm0l000",
+      "link": "https://cyberpress.org/malicious-microsoft-outlook-add-in-stole-4000-account-credentials-and-credit-card-details/",
+      "filePath": "cyberpress/pages/2026/02/12/malicious-microsoft-outlook-add-in-stole-4000-account-credentials-and-credit-car.md",
+      "committedAt": "2026-02-12T15:00:54.192-05:00",
+      "title": "Malicious Microsoft Outlook Add-in Stole 4,000 Account Credentials and Credit Card Details"
     }
   ]
 }
