@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-12T03:00:04.931-05:00",
-  "lastLink": "https://cyberpress.org/apple-zero-day-vulnerability-actively-exploited-in-sophisticated-targeted-attacks/",
-  "lastId": "9nq0pg0000",
-  "lastFilePath": "cyberpress/pages/2026/02/12/apple-zero-day-vulnerability-actively-exploited-in-sophisticated-targeted-attack.md",
+  "updatedAt": "2026-02-12T04:00:20.999-05:00",
+  "lastLink": "https://cyberpress.org/ru-apt-chainreaver-l-supply-chain-attack/",
+  "lastId": "gskxcb0000",
+  "lastFilePath": "cyberpress/pages/2026/02/12/ru-apt-chainreaver-l-hijacks-trusted-sites-github-in-supply-chain-attack.md",
   "items": [
     {
-      "id": "9nq0pg0000",
-      "link": "https://cyberpress.org/apple-zero-day-vulnerability-actively-exploited-in-sophisticated-targeted-attacks/",
-      "filePath": "cyberpress/pages/2026/02/12/apple-zero-day-vulnerability-actively-exploited-in-sophisticated-targeted-attack.md",
-      "committedAt": "2026-02-12T03:00:04.931-05:00",
-      "title": "Apple Zero-Day Vulnerability Actively Exploited in Sophisticated Targeted Attacks"
+      "id": "gskxcb0000",
+      "link": "https://cyberpress.org/ru-apt-chainreaver-l-supply-chain-attack/",
+      "filePath": "cyberpress/pages/2026/02/12/ru-apt-chainreaver-l-hijacks-trusted-sites-github-in-supply-chain-attack.md",
+      "committedAt": "2026-02-12T04:00:20.999-05:00",
+      "title": "RU-APT-ChainReaver-L Hijacks Trusted Sites, GitHub In Supply Chain Attack"
     }
   ]
 }
