@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-12T04:00:20.999-05:00",
-  "lastLink": "https://cyberpress.org/ru-apt-chainreaver-l-supply-chain-attack/",
-  "lastId": "gskxcb0000",
-  "lastFilePath": "cyberpress/pages/2026/02/12/ru-apt-chainreaver-l-hijacks-trusted-sites-github-in-supply-chain-attack.md",
+  "updatedAt": "2026-02-12T05:00:17.275-05:00",
+  "lastLink": "https://cyberpress.org/irc-botnet-exploits-ssh/",
+  "lastId": "qlyfgk0000",
+  "lastFilePath": "cyberpress/pages/2026/02/12/automated-ssh-pipeline-fuels-resurgence-of-irc-botnet.md",
   "items": [
     {
-      "id": "gskxcb0000",
-      "link": "https://cyberpress.org/ru-apt-chainreaver-l-supply-chain-attack/",
-      "filePath": "cyberpress/pages/2026/02/12/ru-apt-chainreaver-l-hijacks-trusted-sites-github-in-supply-chain-attack.md",
-      "committedAt": "2026-02-12T04:00:20.999-05:00",
-      "title": "RU-APT-ChainReaver-L Hijacks Trusted Sites, GitHub In Supply Chain Attack"
+      "id": "qlyfgk0000",
+      "link": "https://cyberpress.org/irc-botnet-exploits-ssh/",
+      "filePath": "cyberpress/pages/2026/02/12/automated-ssh-pipeline-fuels-resurgence-of-irc-botnet.md",
+      "committedAt": "2026-02-12T05:00:17.275-05:00",
+      "title": "Automated SSH Pipeline Fuels Resurgence of IRC Botnet"
     }
   ]
 }
