@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-12T05:00:17.275-05:00",
-  "lastLink": "https://cyberpress.org/irc-botnet-exploits-ssh/",
-  "lastId": "qlyfgk0000",
-  "lastFilePath": "cyberpress/pages/2026/02/12/automated-ssh-pipeline-fuels-resurgence-of-irc-botnet.md",
+  "updatedAt": "2026-02-12T06:00:05.520-05:00",
+  "lastLink": "https://cyberpress.org/employee-monitoring-software-exploited/",
+  "lastId": "i74g350000",
+  "lastFilePath": "cyberpress/pages/2026/02/12/ransomware-attacks-amplified-by-employee-monitoring-software-exploits.md",
   "items": [
     {
-      "id": "qlyfgk0000",
-      "link": "https://cyberpress.org/irc-botnet-exploits-ssh/",
-      "filePath": "cyberpress/pages/2026/02/12/automated-ssh-pipeline-fuels-resurgence-of-irc-botnet.md",
-      "committedAt": "2026-02-12T05:00:17.275-05:00",
-      "title": "Automated SSH Pipeline Fuels Resurgence of IRC Botnet"
+      "id": "i74g350000",
+      "link": "https://cyberpress.org/employee-monitoring-software-exploited/",
+      "filePath": "cyberpress/pages/2026/02/12/ransomware-attacks-amplified-by-employee-monitoring-software-exploits.md",
+      "committedAt": "2026-02-12T06:00:05.520-05:00",
+      "title": "Ransomware Attacks Amplified by Employee Monitoring Software Exploits"
     }
   ]
 }
