@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-12T06:00:05.520-05:00",
-  "lastLink": "https://cyberpress.org/employee-monitoring-software-exploited/",
-  "lastId": "i74g350000",
-  "lastFilePath": "cyberpress/pages/2026/02/12/ransomware-attacks-amplified-by-employee-monitoring-software-exploits.md",
+  "updatedAt": "2026-02-12T07:00:05.286-05:00",
+  "lastLink": "https://cyberpress.org/chrome-security-update-patches-vulnerabilities-2/",
+  "lastId": "1s7yfij000",
+  "lastFilePath": "cyberpress/pages/2026/02/12/chrome-security-update-patches-vulnerabilities-enabling-code-execution-attacks.md",
   "items": [
     {
-      "id": "i74g350000",
-      "link": "https://cyberpress.org/employee-monitoring-software-exploited/",
-      "filePath": "cyberpress/pages/2026/02/12/ransomware-attacks-amplified-by-employee-monitoring-software-exploits.md",
-      "committedAt": "2026-02-12T06:00:05.520-05:00",
-      "title": "Ransomware Attacks Amplified by Employee Monitoring Software Exploits"
+      "id": "1s7yfij000",
+      "link": "https://cyberpress.org/chrome-security-update-patches-vulnerabilities-2/",
+      "filePath": "cyberpress/pages/2026/02/12/chrome-security-update-patches-vulnerabilities-enabling-code-execution-attacks.md",
+      "committedAt": "2026-02-12T07:00:05.286-05:00",
+      "title": "Chrome Security Update Patches Vulnerabilities Enabling Code Execution Attacks"
     }
   ]
 }
