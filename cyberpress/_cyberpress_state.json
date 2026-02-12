@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-12T10:00:27.119-05:00",
-  "lastLink": "https://cyberpress.org/lazarus-group-distributes-graphalgo-malwar/",
-  "lastId": "6d6h8n0000",
-  "lastFilePath": "cyberpress/pages/2026/02/12/lazarus-group-uses-github-npm-pypi-for-graphalgo-malware-campaign.md",
+  "updatedAt": "2026-02-12T11:00:26.942-05:00",
+  "lastLink": "https://cyberpress.org/44-evilmouse-can-autonomously-execute-commands-and-compromise-systems/",
+  "lastId": "53qbld0000",
+  "lastFilePath": "cyberpress/pages/2026/02/12/44-evilmouse-can-autonomously-execute-commands-and-compromise-systems.md",
   "items": [
     {
-      "id": "6d6h8n0000",
-      "link": "https://cyberpress.org/lazarus-group-distributes-graphalgo-malwar/",
-      "filePath": "cyberpress/pages/2026/02/12/lazarus-group-uses-github-npm-pypi-for-graphalgo-malware-campaign.md",
-      "committedAt": "2026-02-12T10:00:27.119-05:00",
-      "title": "Lazarus Group Uses GitHub, npm, PyPI for ‘Graphalgo’ Malware Campaign"
+      "id": "53qbld0000",
+      "link": "https://cyberpress.org/44-evilmouse-can-autonomously-execute-commands-and-compromise-systems/",
+      "filePath": "cyberpress/pages/2026/02/12/44-evilmouse-can-autonomously-execute-commands-and-compromise-systems.md",
+      "committedAt": "2026-02-12T11:00:26.942-05:00",
+      "title": "$44 “Evilmouse” Can Autonomously Execute Commands and Compromise Systems"
     }
   ]
 }
