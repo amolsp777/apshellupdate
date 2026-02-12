@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-12T11:00:26.942-05:00",
-  "lastLink": "https://cyberpress.org/44-evilmouse-can-autonomously-execute-commands-and-compromise-systems/",
-  "lastId": "53qbld0000",
-  "lastFilePath": "cyberpress/pages/2026/02/12/44-evilmouse-can-autonomously-execute-commands-and-compromise-systems.md",
+  "updatedAt": "2026-02-12T12:00:37.502-05:00",
+  "lastLink": "https://cyberpress.org/fake-captcha-fuels-lummastealer/",
+  "lastId": "16h098m000",
+  "lastFilePath": "cyberpress/pages/2026/02/12/fake-captcha-attacks-fuel-lummastealer-malware-surge.md",
   "items": [
     {
-      "id": "53qbld0000",
-      "link": "https://cyberpress.org/44-evilmouse-can-autonomously-execute-commands-and-compromise-systems/",
-      "filePath": "cyberpress/pages/2026/02/12/44-evilmouse-can-autonomously-execute-commands-and-compromise-systems.md",
-      "committedAt": "2026-02-12T11:00:26.942-05:00",
-      "title": "$44 “Evilmouse” Can Autonomously Execute Commands and Compromise Systems"
+      "id": "16h098m000",
+      "link": "https://cyberpress.org/fake-captcha-fuels-lummastealer/",
+      "filePath": "cyberpress/pages/2026/02/12/fake-captcha-attacks-fuel-lummastealer-malware-surge.md",
+      "committedAt": "2026-02-12T12:00:37.502-05:00",
+      "title": "Fake CAPTCHA Attacks Fuel LummaStealer Malware Surge"
     }
   ]
 }
