@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-13T07:00:15.763-05:00",
-  "lastLink": "https://cyberpress.org/netdragon-botnet-targets-feiniu-nas/",
-  "lastId": "13hgrha000",
-  "lastFilePath": "cyberpress/pages/2026/02/13/feiniu-nas-devices-compromised-in-massive-netdragon-botnet-attack.md",
+  "updatedAt": "2026-02-13T08:00:04.774-05:00",
+  "lastLink": "https://cyberpress.org/badiis-malware-hits-1800-servers/",
+  "lastId": "nir8500000",
+  "lastFilePath": "cyberpress/pages/2026/02/13/badiis-malware-compromises-1800-windows-servers-in-seo-poisoning-attack.md",
   "items": [
     {
-      "id": "13hgrha000",
-      "link": "https://cyberpress.org/netdragon-botnet-targets-feiniu-nas/",
-      "filePath": "cyberpress/pages/2026/02/13/feiniu-nas-devices-compromised-in-massive-netdragon-botnet-attack.md",
-      "committedAt": "2026-02-13T07:00:15.763-05:00",
-      "title": "Feiniu NAS Devices Compromised in Massive Netdragon Botnet Attack"
+      "id": "nir8500000",
+      "link": "https://cyberpress.org/badiis-malware-hits-1800-servers/",
+      "filePath": "cyberpress/pages/2026/02/13/badiis-malware-compromises-1800-windows-servers-in-seo-poisoning-attack.md",
+      "committedAt": "2026-02-13T08:00:04.774-05:00",
+      "title": "BADIIS Malware Compromises 1,800+ Windows Servers in SEO Poisoning Attack"
     }
   ]
 }
