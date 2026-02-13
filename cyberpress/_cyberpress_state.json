@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-13T04:00:10.265-05:00",
-  "lastLink": "https://cyberpress.org/patch-immediately-beyondtrust/",
-  "lastId": "1ebuiyb000",
-  "lastFilePath": "cyberpress/pages/2026/02/13/patch-immediately-beyondtrust-remote-code-execution-flaw-exploited-in-the-wild.md",
+  "updatedAt": "2026-02-13T05:00:21.530-05:00",
+  "lastLink": "https://cyberpress.org/vulnerability-in-next-mdx-remote-enables/",
+  "lastId": "dx0u4t0000",
+  "lastFilePath": "cyberpress/pages/2026/02/13/critical-vulnerability-in-next-mdx-remote-enables-arbitrary-code-execution-in-re.md",
   "items": [
     {
-      "id": "1ebuiyb000",
-      "link": "https://cyberpress.org/patch-immediately-beyondtrust/",
-      "filePath": "cyberpress/pages/2026/02/13/patch-immediately-beyondtrust-remote-code-execution-flaw-exploited-in-the-wild.md",
-      "committedAt": "2026-02-13T04:00:10.265-05:00",
-      "title": "Patch Immediately: BeyondTrust Remote Code Execution Flaw Exploited in the Wild"
+      "id": "dx0u4t0000",
+      "link": "https://cyberpress.org/vulnerability-in-next-mdx-remote-enables/",
+      "filePath": "cyberpress/pages/2026/02/13/critical-vulnerability-in-next-mdx-remote-enables-arbitrary-code-execution-in-re.md",
+      "committedAt": "2026-02-13T05:00:21.530-05:00",
+      "title": "Critical Vulnerability in next-mdx-remote Enables Arbitrary Code Execution in React SSR"
     }
   ]
 }
