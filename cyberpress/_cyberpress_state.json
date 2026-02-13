@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-13T12:00:42.428-05:00",
-  "lastLink": "https://cyberpress.org/notepad-code-execution-flaw-exploited-in-the-wild-cisa-issues-alert/",
-  "lastId": "9ubwfs0000",
-  "lastFilePath": "cyberpress/pages/2026/02/13/notepad-code-execution-flaw-exploited-in-the-wild-cisa-issues-alert.md",
+  "updatedAt": "2026-02-13T13:00:48.655-05:00",
+  "lastLink": "https://cyberpress.org/malicious-chrome-ai-extensions/",
+  "lastId": "1u0ald1000",
+  "lastFilePath": "cyberpress/pages/2026/02/13/malicious-chrome-ai-extensions-target-260000-users-via-injected-iframes.md",
   "items": [
     {
-      "id": "9ubwfs0000",
-      "link": "https://cyberpress.org/notepad-code-execution-flaw-exploited-in-the-wild-cisa-issues-alert/",
-      "filePath": "cyberpress/pages/2026/02/13/notepad-code-execution-flaw-exploited-in-the-wild-cisa-issues-alert.md",
-      "committedAt": "2026-02-13T12:00:42.428-05:00",
-      "title": "Notepad++ Code Execution Flaw Exploited in the Wild, CISA Issues Alert"
+      "id": "1u0ald1000",
+      "link": "https://cyberpress.org/malicious-chrome-ai-extensions/",
+      "filePath": "cyberpress/pages/2026/02/13/malicious-chrome-ai-extensions-target-260000-users-via-injected-iframes.md",
+      "committedAt": "2026-02-13T13:00:48.655-05:00",
+      "title": "Malicious Chrome AI Extensions Target 260,000 Users via Injected iFrames"
     }
   ]
 }
