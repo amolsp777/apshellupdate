@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-13T05:00:21.530-05:00",
-  "lastLink": "https://cyberpress.org/vulnerability-in-next-mdx-remote-enables/",
-  "lastId": "dx0u4t0000",
-  "lastFilePath": "cyberpress/pages/2026/02/13/critical-vulnerability-in-next-mdx-remote-enables-arbitrary-code-execution-in-re.md",
+  "updatedAt": "2026-02-13T06:00:15.915-05:00",
+  "lastLink": "https://cyberpress.org/dragonforce-expands-targets-363/",
+  "lastId": "19f5ijc000",
+  "lastFilePath": "cyberpress/pages/2026/02/13/dragonforce-ransomware-group-targets-363-companies-in-strategic-expansion-since-.md",
   "items": [
     {
-      "id": "dx0u4t0000",
-      "link": "https://cyberpress.org/vulnerability-in-next-mdx-remote-enables/",
-      "filePath": "cyberpress/pages/2026/02/13/critical-vulnerability-in-next-mdx-remote-enables-arbitrary-code-execution-in-re.md",
-      "committedAt": "2026-02-13T05:00:21.530-05:00",
-      "title": "Critical Vulnerability in next-mdx-remote Enables Arbitrary Code Execution in React SSR"
+      "id": "19f5ijc000",
+      "link": "https://cyberpress.org/dragonforce-expands-targets-363/",
+      "filePath": "cyberpress/pages/2026/02/13/dragonforce-ransomware-group-targets-363-companies-in-strategic-expansion-since-.md",
+      "committedAt": "2026-02-13T06:00:15.915-05:00",
+      "title": "DragonForce Ransomware Group Targets 363 Companies in Strategic Expansion Since 2023"
     }
   ]
 }
