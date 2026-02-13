@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-13T06:00:15.915-05:00",
-  "lastLink": "https://cyberpress.org/dragonforce-expands-targets-363/",
-  "lastId": "19f5ijc000",
-  "lastFilePath": "cyberpress/pages/2026/02/13/dragonforce-ransomware-group-targets-363-companies-in-strategic-expansion-since-.md",
+  "updatedAt": "2026-02-13T07:00:15.763-05:00",
+  "lastLink": "https://cyberpress.org/netdragon-botnet-targets-feiniu-nas/",
+  "lastId": "13hgrha000",
+  "lastFilePath": "cyberpress/pages/2026/02/13/feiniu-nas-devices-compromised-in-massive-netdragon-botnet-attack.md",
   "items": [
     {
-      "id": "19f5ijc000",
-      "link": "https://cyberpress.org/dragonforce-expands-targets-363/",
-      "filePath": "cyberpress/pages/2026/02/13/dragonforce-ransomware-group-targets-363-companies-in-strategic-expansion-since-.md",
-      "committedAt": "2026-02-13T06:00:15.915-05:00",
-      "title": "DragonForce Ransomware Group Targets 363 Companies in Strategic Expansion Since 2023"
+      "id": "13hgrha000",
+      "link": "https://cyberpress.org/netdragon-botnet-targets-feiniu-nas/",
+      "filePath": "cyberpress/pages/2026/02/13/feiniu-nas-devices-compromised-in-massive-netdragon-botnet-attack.md",
+      "committedAt": "2026-02-13T07:00:15.763-05:00",
+      "title": "Feiniu NAS Devices Compromised in Massive Netdragon Botnet Attack"
     }
   ]
 }
