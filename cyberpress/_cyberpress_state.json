@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-13T03:00:04.772-05:00",
-  "lastLink": "https://cyberpress.org/zimbra-vulnerabilities/",
-  "lastId": "r1al4s0000",
-  "lastFilePath": "cyberpress/pages/2026/02/13/critical-zimbra-vulnerabilities-fixed-xss-xxe-and-ldap-injection-risks-mitigated.md",
+  "updatedAt": "2026-02-13T04:00:10.265-05:00",
+  "lastLink": "https://cyberpress.org/patch-immediately-beyondtrust/",
+  "lastId": "1ebuiyb000",
+  "lastFilePath": "cyberpress/pages/2026/02/13/patch-immediately-beyondtrust-remote-code-execution-flaw-exploited-in-the-wild.md",
   "items": [
     {
-      "id": "r1al4s0000",
-      "link": "https://cyberpress.org/zimbra-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/02/13/critical-zimbra-vulnerabilities-fixed-xss-xxe-and-ldap-injection-risks-mitigated.md",
-      "committedAt": "2026-02-13T03:00:04.772-05:00",
-      "title": "Critical Zimbra Vulnerabilities Fixed: XSS, XXE, and LDAP Injection Risks Mitigated"
+      "id": "1ebuiyb000",
+      "link": "https://cyberpress.org/patch-immediately-beyondtrust/",
+      "filePath": "cyberpress/pages/2026/02/13/patch-immediately-beyondtrust-remote-code-execution-flaw-exploited-in-the-wild.md",
+      "committedAt": "2026-02-13T04:00:10.265-05:00",
+      "title": "Patch Immediately: BeyondTrust Remote Code Execution Flaw Exploited in the Wild"
     }
   ]
 }
