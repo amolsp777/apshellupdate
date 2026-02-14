@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-13T21:01:03.818-06:00",
-  "lastLink": "https://cyberpress.org/critical-cve-2025-64712-vulnerability/",
-  "lastId": "1mqm4iq000",
-  "lastFilePath": "cyberpress/2026/02/13/critical-cve-2025-64712-vulnerability-in-unstructuredio-exposes-amazon-and-googl.md",
+  "updatedAt": "2026-02-14T02:00:41.885-05:00",
+  "lastLink": "https://cyberpress.org/remnux-v8-released/",
+  "lastId": "w9lgls0000",
+  "lastFilePath": "cyberpress/pages/2026/02/14/remnux-v8-released-enhanced-automation-ai-features-and-modernized-utilities.md",
   "items": [
     {
-      "id": "1mqm4iq000",
-      "link": "https://cyberpress.org/critical-cve-2025-64712-vulnerability/",
-      "filePath": "cyberpress/2026/02/13/critical-cve-2025-64712-vulnerability-in-unstructuredio-exposes-amazon-and-googl.md",
-      "committedAt": "2026-02-13T21:01:03.818-06:00",
-      "title": "Critical CVE-2025-64712 Vulnerability in Unstructured.io Exposes Amazon and Google to Remote Code Execution"
+      "id": "w9lgls0000",
+      "link": "https://cyberpress.org/remnux-v8-released/",
+      "filePath": "cyberpress/pages/2026/02/14/remnux-v8-released-enhanced-automation-ai-features-and-modernized-utilities.md",
+      "committedAt": "2026-02-14T02:00:41.885-05:00",
+      "title": "REMnux v8 Released: Enhanced Automation, AI Features, and Modernized Utilities"
     }
   ]
 }
