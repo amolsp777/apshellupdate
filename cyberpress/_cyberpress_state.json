@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-13T14:00:53.222-05:00",
-  "lastLink": "https://cyberpress.org/credential-stuffing-ssh-worm-detected/",
-  "lastId": "rv3y7y0000",
-  "lastFilePath": "cyberpress/pages/2026/02/13/dshield-sensor-detects-credential-stuffing-attack-with-self-propagating-ssh-worm.md",
+  "updatedAt": "2026-02-13T21:01:03.818-06:00",
+  "lastLink": "https://cyberpress.org/critical-cve-2025-64712-vulnerability/",
+  "lastId": "1mqm4iq000",
+  "lastFilePath": "cyberpress/2026/02/13/critical-cve-2025-64712-vulnerability-in-unstructuredio-exposes-amazon-and-googl.md",
   "items": [
     {
-      "id": "rv3y7y0000",
-      "link": "https://cyberpress.org/credential-stuffing-ssh-worm-detected/",
-      "filePath": "cyberpress/pages/2026/02/13/dshield-sensor-detects-credential-stuffing-attack-with-self-propagating-ssh-worm.md",
-      "committedAt": "2026-02-13T14:00:53.222-05:00",
-      "title": "DShield Sensor Detects Credential Stuffing Attack with Self-Propagating SSH Worm"
+      "id": "1mqm4iq000",
+      "link": "https://cyberpress.org/critical-cve-2025-64712-vulnerability/",
+      "filePath": "cyberpress/2026/02/13/critical-cve-2025-64712-vulnerability-in-unstructuredio-exposes-amazon-and-googl.md",
+      "committedAt": "2026-02-13T21:01:03.818-06:00",
+      "title": "Critical CVE-2025-64712 Vulnerability in Unstructured.io Exposes Amazon and Google to Remote Code Execution"
     }
   ]
 }
