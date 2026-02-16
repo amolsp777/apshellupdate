@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-16T03:00:10.513-05:00",
-  "lastLink": "https://cyberpress.org/google-chrome-zero-day-flaw/",
-  "lastId": "1wzzvpq000",
-  "lastFilePath": "cyberpress/pages/2026/02/16/google-chrome-zero-day-flaw-under-active-exploitation-by-threat-actors.md",
+  "updatedAt": "2026-02-16T04:00:12.258-05:00",
+  "lastLink": "https://cyberpress.org/beyondtrust-flaw/",
+  "lastId": "1djeui8000",
+  "lastFilePath": "cyberpress/pages/2026/02/16/active-exploitation-of-critical-beyondtrust-flaw-allows-attackers-to-seize-full-.md",
   "items": [
     {
-      "id": "1wzzvpq000",
-      "link": "https://cyberpress.org/google-chrome-zero-day-flaw/",
-      "filePath": "cyberpress/pages/2026/02/16/google-chrome-zero-day-flaw-under-active-exploitation-by-threat-actors.md",
-      "committedAt": "2026-02-16T03:00:10.513-05:00",
-      "title": "Google Chrome Zero-Day Flaw Under Active Exploitation by Threat Actors"
+      "id": "1djeui8000",
+      "link": "https://cyberpress.org/beyondtrust-flaw/",
+      "filePath": "cyberpress/pages/2026/02/16/active-exploitation-of-critical-beyondtrust-flaw-allows-attackers-to-seize-full-.md",
+      "committedAt": "2026-02-16T04:00:12.258-05:00",
+      "title": "Active Exploitation of Critical BeyondTrust Flaw Allows Attackers to Seize Full Domain Control"
     }
   ]
 }
