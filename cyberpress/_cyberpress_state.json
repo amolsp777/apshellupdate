@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-16T02:00:38.870-05:00",
-  "lastLink": "https://cyberpress.org/oysterloader-fuels-rhysida-attacks/",
-  "lastId": "ft0pki0000",
-  "lastFilePath": "cyberpress/pages/2026/02/16/researchers-uncover-oysterloader-an-advanced-obfuscated-loader-powering-rhysida-.md",
+  "updatedAt": "2026-02-16T03:00:10.513-05:00",
+  "lastLink": "https://cyberpress.org/google-chrome-zero-day-flaw/",
+  "lastId": "1wzzvpq000",
+  "lastFilePath": "cyberpress/pages/2026/02/16/google-chrome-zero-day-flaw-under-active-exploitation-by-threat-actors.md",
   "items": [
     {
-      "id": "ft0pki0000",
-      "link": "https://cyberpress.org/oysterloader-fuels-rhysida-attacks/",
-      "filePath": "cyberpress/pages/2026/02/16/researchers-uncover-oysterloader-an-advanced-obfuscated-loader-powering-rhysida-.md",
-      "committedAt": "2026-02-16T02:00:38.870-05:00",
-      "title": "Researchers Uncover OysterLoader, an Advanced Obfuscated Loader Powering Rhysida Attacks"
+      "id": "1wzzvpq000",
+      "link": "https://cyberpress.org/google-chrome-zero-day-flaw/",
+      "filePath": "cyberpress/pages/2026/02/16/google-chrome-zero-day-flaw-under-active-exploitation-by-threat-actors.md",
+      "committedAt": "2026-02-16T03:00:10.513-05:00",
+      "title": "Google Chrome Zero-Day Flaw Under Active Exploitation by Threat Actors"
     }
   ]
 }
