@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-16T09:00:15.735-05:00",
-  "lastLink": "https://cyberpress.org/lotus-blossom-breaches-notepad-servers/",
-  "lastId": "3w5jee0000",
-  "lastFilePath": "cyberpress/pages/2026/02/16/lotus-blossom-hackers-breach-notepad-hosting-infrastructure.md",
+  "updatedAt": "2026-02-16T10:00:05.145-05:00",
+  "lastLink": "https://cyberpress.org/joomla-novarain-tassos-framework-flaws/",
+  "lastId": "xjp1qd0000",
+  "lastFilePath": "cyberpress/pages/2026/02/16/critical-joomla-novaraintassos-framework-flaws-enable-sql-injection-and-unauthen.md",
   "items": [
     {
-      "id": "3w5jee0000",
-      "link": "https://cyberpress.org/lotus-blossom-breaches-notepad-servers/",
-      "filePath": "cyberpress/pages/2026/02/16/lotus-blossom-hackers-breach-notepad-hosting-infrastructure.md",
-      "committedAt": "2026-02-16T09:00:15.735-05:00",
-      "title": "Lotus Blossom Hackers Breach Notepad++ Hosting Infrastructure"
+      "id": "xjp1qd0000",
+      "link": "https://cyberpress.org/joomla-novarain-tassos-framework-flaws/",
+      "filePath": "cyberpress/pages/2026/02/16/critical-joomla-novaraintassos-framework-flaws-enable-sql-injection-and-unauthen.md",
+      "committedAt": "2026-02-16T10:00:05.145-05:00",
+      "title": "Critical Joomla Novarain/Tassos Framework Flaws Enable SQL Injection and Unauthenticated File Read"
     }
   ]
 }
