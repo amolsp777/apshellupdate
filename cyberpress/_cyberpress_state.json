@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-16T07:00:15.876-05:00",
-  "lastLink": "https://cyberpress.org/critical-airleader-flaw-exposes-systems-to-remote-code-execution-attacks/",
-  "lastId": "1eyjdy1000",
-  "lastFilePath": "cyberpress/pages/2026/02/16/critical-airleader-flaw-exposes-systems-to-remote-code-execution-attacks.md",
+  "updatedAt": "2026-02-16T08:00:20.988-05:00",
+  "lastLink": "https://cyberpress.org/fake-putty-delivers-rhysida/",
+  "lastId": "13cdo0f000",
+  "lastFilePath": "cyberpress/pages/2026/02/16/rhysida-ransomware-delivered-via-fake-putty-and-google-authenticator.md",
   "items": [
     {
-      "id": "1eyjdy1000",
-      "link": "https://cyberpress.org/critical-airleader-flaw-exposes-systems-to-remote-code-execution-attacks/",
-      "filePath": "cyberpress/pages/2026/02/16/critical-airleader-flaw-exposes-systems-to-remote-code-execution-attacks.md",
-      "committedAt": "2026-02-16T07:00:15.876-05:00",
-      "title": "Critical Airleader Flaw Exposes Systems to Remote Code Execution Attacks"
+      "id": "13cdo0f000",
+      "link": "https://cyberpress.org/fake-putty-delivers-rhysida/",
+      "filePath": "cyberpress/pages/2026/02/16/rhysida-ransomware-delivered-via-fake-putty-and-google-authenticator.md",
+      "committedAt": "2026-02-16T08:00:20.988-05:00",
+      "title": "Rhysida Ransomware Delivered via Fake PuTTY and Google Authenticator"
     }
   ]
 }
