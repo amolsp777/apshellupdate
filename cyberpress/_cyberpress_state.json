@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-16T04:00:12.258-05:00",
-  "lastLink": "https://cyberpress.org/beyondtrust-flaw/",
-  "lastId": "1djeui8000",
-  "lastFilePath": "cyberpress/pages/2026/02/16/active-exploitation-of-critical-beyondtrust-flaw-allows-attackers-to-seize-full-.md",
+  "updatedAt": "2026-02-16T05:00:16.013-05:00",
+  "lastLink": "https://cyberpress.org/zlan-ics-flaws/",
+  "lastId": "e1lu750000",
+  "lastFilePath": "cyberpress/pages/2026/02/16/cisa-alerts-on-critical-zlan-ics-flaws-enabling-full-device-takeover.md",
   "items": [
     {
-      "id": "1djeui8000",
-      "link": "https://cyberpress.org/beyondtrust-flaw/",
-      "filePath": "cyberpress/pages/2026/02/16/active-exploitation-of-critical-beyondtrust-flaw-allows-attackers-to-seize-full-.md",
-      "committedAt": "2026-02-16T04:00:12.258-05:00",
-      "title": "Active Exploitation of Critical BeyondTrust Flaw Allows Attackers to Seize Full Domain Control"
+      "id": "e1lu750000",
+      "link": "https://cyberpress.org/zlan-ics-flaws/",
+      "filePath": "cyberpress/pages/2026/02/16/cisa-alerts-on-critical-zlan-ics-flaws-enabling-full-device-takeover.md",
+      "committedAt": "2026-02-16T05:00:16.013-05:00",
+      "title": "CISA Alerts on Critical ZLAN ICS Flaws Enabling Full Device Takeover"
     }
   ]
 }
