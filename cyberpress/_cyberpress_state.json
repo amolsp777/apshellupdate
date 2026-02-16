@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-16T06:00:15.793-05:00",
-  "lastLink": "https://cyberpress.org/filezen-file-transfer-flaw/",
-  "lastId": "6skfvd0000",
-  "lastFilePath": "cyberpress/pages/2026/02/16/critical-filezen-file-transfer-flaw-allows-arbitrary-command-execution.md",
+  "updatedAt": "2026-02-16T07:00:15.876-05:00",
+  "lastLink": "https://cyberpress.org/critical-airleader-flaw-exposes-systems-to-remote-code-execution-attacks/",
+  "lastId": "1eyjdy1000",
+  "lastFilePath": "cyberpress/pages/2026/02/16/critical-airleader-flaw-exposes-systems-to-remote-code-execution-attacks.md",
   "items": [
     {
-      "id": "6skfvd0000",
-      "link": "https://cyberpress.org/filezen-file-transfer-flaw/",
-      "filePath": "cyberpress/pages/2026/02/16/critical-filezen-file-transfer-flaw-allows-arbitrary-command-execution.md",
-      "committedAt": "2026-02-16T06:00:15.793-05:00",
-      "title": "Critical FileZen File Transfer Flaw Allows Arbitrary Command Execution"
+      "id": "1eyjdy1000",
+      "link": "https://cyberpress.org/critical-airleader-flaw-exposes-systems-to-remote-code-execution-attacks/",
+      "filePath": "cyberpress/pages/2026/02/16/critical-airleader-flaw-exposes-systems-to-remote-code-execution-attacks.md",
+      "committedAt": "2026-02-16T07:00:15.876-05:00",
+      "title": "Critical Airleader Flaw Exposes Systems to Remote Code Execution Attacks"
     }
   ]
 }
