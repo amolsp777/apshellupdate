@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-16T08:00:20.988-05:00",
-  "lastLink": "https://cyberpress.org/fake-putty-delivers-rhysida/",
-  "lastId": "13cdo0f000",
-  "lastFilePath": "cyberpress/pages/2026/02/16/rhysida-ransomware-delivered-via-fake-putty-and-google-authenticator.md",
+  "updatedAt": "2026-02-16T09:00:15.735-05:00",
+  "lastLink": "https://cyberpress.org/lotus-blossom-breaches-notepad-servers/",
+  "lastId": "3w5jee0000",
+  "lastFilePath": "cyberpress/pages/2026/02/16/lotus-blossom-hackers-breach-notepad-hosting-infrastructure.md",
   "items": [
     {
-      "id": "13cdo0f000",
-      "link": "https://cyberpress.org/fake-putty-delivers-rhysida/",
-      "filePath": "cyberpress/pages/2026/02/16/rhysida-ransomware-delivered-via-fake-putty-and-google-authenticator.md",
-      "committedAt": "2026-02-16T08:00:20.988-05:00",
-      "title": "Rhysida Ransomware Delivered via Fake PuTTY and Google Authenticator"
+      "id": "3w5jee0000",
+      "link": "https://cyberpress.org/lotus-blossom-breaches-notepad-servers/",
+      "filePath": "cyberpress/pages/2026/02/16/lotus-blossom-hackers-breach-notepad-hosting-infrastructure.md",
+      "committedAt": "2026-02-16T09:00:15.735-05:00",
+      "title": "Lotus Blossom Hackers Breach Notepad++ Hosting Infrastructure"
     }
   ]
 }
