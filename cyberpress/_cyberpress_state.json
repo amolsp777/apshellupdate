@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-16T11:00:15.757-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-windows-11-kb5077181/",
-  "lastId": "1x9izgo000",
-  "lastFilePath": "cyberpress/pages/2026/02/16/microsoft-windows-11-kb5077181-update-triggers-infinite-restart-loop-on-some-dev.md",
+  "updatedAt": "2026-02-16T12:00:21.262-05:00",
+  "lastLink": "https://cyberpress.org/cleantalk-plugin-flaw/",
+  "lastId": "1on3v3f000",
+  "lastFilePath": "cyberpress/pages/2026/02/16/critical-cleantalk-plugin-flaw-allows-authorization-bypass-on-wordpress-via-reve.md",
   "items": [
     {
-      "id": "1x9izgo000",
-      "link": "https://cyberpress.org/microsoft-windows-11-kb5077181/",
-      "filePath": "cyberpress/pages/2026/02/16/microsoft-windows-11-kb5077181-update-triggers-infinite-restart-loop-on-some-dev.md",
-      "committedAt": "2026-02-16T11:00:15.757-05:00",
-      "title": "Microsoft Windows 11 KB5077181 Update Triggers Infinite Restart Loop on Some Devices"
+      "id": "1on3v3f000",
+      "link": "https://cyberpress.org/cleantalk-plugin-flaw/",
+      "filePath": "cyberpress/pages/2026/02/16/critical-cleantalk-plugin-flaw-allows-authorization-bypass-on-wordpress-via-reve.md",
+      "committedAt": "2026-02-16T12:00:21.262-05:00",
+      "title": "Critical CleanTalk Plugin Flaw Allows Authorization Bypass on WordPress via Reverse DNS"
     }
   ]
 }
