@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-16T12:00:21.262-05:00",
-  "lastLink": "https://cyberpress.org/cleantalk-plugin-flaw/",
-  "lastId": "1on3v3f000",
-  "lastFilePath": "cyberpress/pages/2026/02/16/critical-cleantalk-plugin-flaw-allows-authorization-bypass-on-wordpress-via-reve.md",
+  "updatedAt": "2026-02-16T13:00:37.432-05:00",
+  "lastLink": "https://cyberpress.org/phishing-exploits-zoom-teams-meet/",
+  "lastId": "gdk1cn0000",
+  "lastFilePath": "cyberpress/pages/2026/02/16/phishing-attacks-leverage-zoom-teams-google-meet-invites.md",
   "items": [
     {
-      "id": "1on3v3f000",
-      "link": "https://cyberpress.org/cleantalk-plugin-flaw/",
-      "filePath": "cyberpress/pages/2026/02/16/critical-cleantalk-plugin-flaw-allows-authorization-bypass-on-wordpress-via-reve.md",
-      "committedAt": "2026-02-16T12:00:21.262-05:00",
-      "title": "Critical CleanTalk Plugin Flaw Allows Authorization Bypass on WordPress via Reverse DNS"
+      "id": "gdk1cn0000",
+      "link": "https://cyberpress.org/phishing-exploits-zoom-teams-meet/",
+      "filePath": "cyberpress/pages/2026/02/16/phishing-attacks-leverage-zoom-teams-google-meet-invites.md",
+      "committedAt": "2026-02-16T13:00:37.432-05:00",
+      "title": "Phishing Attacks Leverage Zoom, Teams, Google Meet Invites"
     }
   ]
 }
