@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-17T06:00:07.351-05:00",
-  "lastLink": "https://cyberpress.org/critical-apache-nifi-vulnerabilities-enable-authorization-bypass/",
-  "lastId": "1n8cqxg000",
-  "lastFilePath": "cyberpress/pages/2026/02/17/critical-apache-nifi-vulnerabilities-enable-authorization-bypass.md",
+  "updatedAt": "2026-02-17T07:00:05.422-05:00",
+  "lastLink": "https://cyberpress.org/mozilla-firefox-v147-0-3-released/",
+  "lastId": "1tu6mrs000",
+  "lastFilePath": "cyberpress/pages/2026/02/17/mozilla-firefox-v14703-released-with-fix-for-critical-heap-buffer-overflow-vulne.md",
   "items": [
     {
-      "id": "1n8cqxg000",
-      "link": "https://cyberpress.org/critical-apache-nifi-vulnerabilities-enable-authorization-bypass/",
-      "filePath": "cyberpress/pages/2026/02/17/critical-apache-nifi-vulnerabilities-enable-authorization-bypass.md",
-      "committedAt": "2026-02-17T06:00:07.351-05:00",
-      "title": "Critical Apache NiFi Vulnerabilities Enable Authorization Bypass"
+      "id": "1tu6mrs000",
+      "link": "https://cyberpress.org/mozilla-firefox-v147-0-3-released/",
+      "filePath": "cyberpress/pages/2026/02/17/mozilla-firefox-v14703-released-with-fix-for-critical-heap-buffer-overflow-vulne.md",
+      "committedAt": "2026-02-17T07:00:05.422-05:00",
+      "title": "Mozilla Firefox v147.0.3 Released With Fix for Critical Heap Buffer Overflow Vulnerability"
     }
   ]
 }
