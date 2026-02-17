@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-16T15:00:53.547-05:00",
-  "lastLink": "https://cyberpress.org/chrome-extensions-hijack-500k-accounts/",
-  "lastId": "pr4vyd0000",
-  "lastFilePath": "cyberpress/pages/2026/02/16/500k-users-affected-as-chrome-extensions-hijack-vkontakte-accounts.md",
+  "updatedAt": "2026-02-17T01:00:16.236-05:00",
+  "lastLink": "https://cyberpress.org/zerodayrat-targets-android-ios/",
+  "lastId": "1n5k480000",
+  "lastFilePath": "cyberpress/pages/2026/02/17/zerodayrat-malware-strikes-android-and-ios-devices-for-real-time-spying.md",
   "items": [
     {
-      "id": "pr4vyd0000",
-      "link": "https://cyberpress.org/chrome-extensions-hijack-500k-accounts/",
-      "filePath": "cyberpress/pages/2026/02/16/500k-users-affected-as-chrome-extensions-hijack-vkontakte-accounts.md",
-      "committedAt": "2026-02-16T15:00:53.547-05:00",
-      "title": "500K Users Affected As Chrome Extensions Hijack VKontakte Accounts"
+      "id": "1n5k480000",
+      "link": "https://cyberpress.org/zerodayrat-targets-android-ios/",
+      "filePath": "cyberpress/pages/2026/02/17/zerodayrat-malware-strikes-android-and-ios-devices-for-real-time-spying.md",
+      "committedAt": "2026-02-17T01:00:16.236-05:00",
+      "title": "ZeroDayRAT Malware Strikes Android and iOS Devices for Real-Time Spying"
     }
   ]
 }
