@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-17T04:00:10.356-05:00",
-  "lastLink": "https://cyberpress.org/hackers-exploit-ai-summarize-feature/",
-  "lastId": "8wy3320000",
-  "lastFilePath": "cyberpress/pages/2026/02/17/hackers-exploit-summarize-with-ai-buttons-to-inject-malicious-memory-prompts.md",
+  "updatedAt": "2026-02-17T05:00:16.150-05:00",
+  "lastLink": "https://cyberpress.org/langchain-community-flaw/",
+  "lastId": "k2tj5r0000",
+  "lastFilePath": "cyberpress/pages/2026/02/17/langchain-community-flaw-allows-ssrf-bypass-to-access-internal-infrastructure.md",
   "items": [
     {
-      "id": "8wy3320000",
-      "link": "https://cyberpress.org/hackers-exploit-ai-summarize-feature/",
-      "filePath": "cyberpress/pages/2026/02/17/hackers-exploit-summarize-with-ai-buttons-to-inject-malicious-memory-prompts.md",
-      "committedAt": "2026-02-17T04:00:10.356-05:00",
-      "title": "Hackers Exploit ‘Summarize With AI’ Buttons To Inject Malicious Memory Prompts"
+      "id": "k2tj5r0000",
+      "link": "https://cyberpress.org/langchain-community-flaw/",
+      "filePath": "cyberpress/pages/2026/02/17/langchain-community-flaw-allows-ssrf-bypass-to-access-internal-infrastructure.md",
+      "committedAt": "2026-02-17T05:00:16.150-05:00",
+      "title": "LangChain Community Flaw Allows SSRF Bypass to Access Internal Infrastructure"
     }
   ]
 }
