@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-17T02:00:10.229-05:00",
-  "lastLink": "https://cyberpress.org/lockbit-5-0-targets-windows-linux/",
-  "lastId": "16y8e1x000",
-  "lastFilePath": "cyberpress/pages/2026/02/17/lockbit-ransomware-unleashes-devastating-50-version-targeting-windows-linux-and-.md",
+  "updatedAt": "2026-02-17T03:00:42.056-05:00",
+  "lastLink": "https://cyberpress.org/matryoshka-steals-data-from-macos/",
+  "lastId": "19p94q7000",
+  "lastFilePath": "cyberpress/pages/2026/02/17/clickfix-variant-matryoshka-deployed-to-steal-data-from-macos-systems.md",
   "items": [
     {
-      "id": "16y8e1x000",
-      "link": "https://cyberpress.org/lockbit-5-0-targets-windows-linux/",
-      "filePath": "cyberpress/pages/2026/02/17/lockbit-ransomware-unleashes-devastating-50-version-targeting-windows-linux-and-.md",
-      "committedAt": "2026-02-17T02:00:10.229-05:00",
-      "title": "LockBit Ransomware Unleashes Devastating 5.0 Version Targeting Windows, Linux, and ESXi"
+      "id": "19p94q7000",
+      "link": "https://cyberpress.org/matryoshka-steals-data-from-macos/",
+      "filePath": "cyberpress/pages/2026/02/17/clickfix-variant-matryoshka-deployed-to-steal-data-from-macos-systems.md",
+      "committedAt": "2026-02-17T03:00:42.056-05:00",
+      "title": "Clickfix Variant ‘Matryoshka’ Deployed To Steal Data From macOS Systems"
     }
   ]
 }
