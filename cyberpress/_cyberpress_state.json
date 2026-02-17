@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-17T05:00:16.150-05:00",
-  "lastLink": "https://cyberpress.org/langchain-community-flaw/",
-  "lastId": "k2tj5r0000",
-  "lastFilePath": "cyberpress/pages/2026/02/17/langchain-community-flaw-allows-ssrf-bypass-to-access-internal-infrastructure.md",
+  "updatedAt": "2026-02-17T06:00:07.351-05:00",
+  "lastLink": "https://cyberpress.org/critical-apache-nifi-vulnerabilities-enable-authorization-bypass/",
+  "lastId": "1n8cqxg000",
+  "lastFilePath": "cyberpress/pages/2026/02/17/critical-apache-nifi-vulnerabilities-enable-authorization-bypass.md",
   "items": [
     {
-      "id": "k2tj5r0000",
-      "link": "https://cyberpress.org/langchain-community-flaw/",
-      "filePath": "cyberpress/pages/2026/02/17/langchain-community-flaw-allows-ssrf-bypass-to-access-internal-infrastructure.md",
-      "committedAt": "2026-02-17T05:00:16.150-05:00",
-      "title": "LangChain Community Flaw Allows SSRF Bypass to Access Internal Infrastructure"
+      "id": "1n8cqxg000",
+      "link": "https://cyberpress.org/critical-apache-nifi-vulnerabilities-enable-authorization-bypass/",
+      "filePath": "cyberpress/pages/2026/02/17/critical-apache-nifi-vulnerabilities-enable-authorization-bypass.md",
+      "committedAt": "2026-02-17T06:00:07.351-05:00",
+      "title": "Critical Apache NiFi Vulnerabilities Enable Authorization Bypass"
     }
   ]
 }
