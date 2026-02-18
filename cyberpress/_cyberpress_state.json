@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-18T06:00:05.034-05:00",
-  "lastLink": "https://cyberpress.org/cisa-adds-actively-exploited-windows-activex-rce-flaw-to-kev-catalog/",
-  "lastId": "131zyno000",
-  "lastFilePath": "cyberpress/pages/2026/02/18/cisa-adds-actively-exploited-windows-activex-rce-flaw-to-kev-catalog.md",
+  "updatedAt": "2026-02-18T07:00:10.415-05:00",
+  "lastLink": "https://cyberpress.org/cisa-chromium-zero-day/",
+  "lastId": "1qdmb56000",
+  "lastFilePath": "cyberpress/pages/2026/02/18/cisa-alerts-on-actively-exploited-google-chromium-zero-day.md",
   "items": [
     {
-      "id": "131zyno000",
-      "link": "https://cyberpress.org/cisa-adds-actively-exploited-windows-activex-rce-flaw-to-kev-catalog/",
-      "filePath": "cyberpress/pages/2026/02/18/cisa-adds-actively-exploited-windows-activex-rce-flaw-to-kev-catalog.md",
-      "committedAt": "2026-02-18T06:00:05.034-05:00",
-      "title": "CISA Adds Actively Exploited Windows ActiveX RCE Flaw to KEV Catalog"
+      "id": "1qdmb56000",
+      "link": "https://cyberpress.org/cisa-chromium-zero-day/",
+      "filePath": "cyberpress/pages/2026/02/18/cisa-alerts-on-actively-exploited-google-chromium-zero-day.md",
+      "committedAt": "2026-02-18T07:00:10.415-05:00",
+      "title": "CISA Alerts on Actively Exploited Google Chromium Zero-Day"
     }
   ]
 }
