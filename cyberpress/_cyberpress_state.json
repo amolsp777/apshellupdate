@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-18T09:00:21.838-05:00",
-  "lastLink": "https://cyberpress.org/crescentharvest-exploits-protest-for-rat/",
-  "lastId": "1teskly000",
-  "lastFilePath": "cyberpress/pages/2026/02/18/new-crescentharvest-malware-abuses-iran-protest-narrative-for-rat-deployment.md",
+  "updatedAt": "2026-02-18T10:00:32.164-05:00",
+  "lastLink": "https://cyberpress.org/clickfix-payload-hides-malware/",
+  "lastId": "cr3o8s0000",
+  "lastFilePath": "cyberpress/pages/2026/02/18/new-clickfix-payload-stores-malware-in-browser-cache.md",
   "items": [
     {
-      "id": "1teskly000",
-      "link": "https://cyberpress.org/crescentharvest-exploits-protest-for-rat/",
-      "filePath": "cyberpress/pages/2026/02/18/new-crescentharvest-malware-abuses-iran-protest-narrative-for-rat-deployment.md",
-      "committedAt": "2026-02-18T09:00:21.838-05:00",
-      "title": "New ‘CRESCENTHARVEST’ Malware Abuses Iran Protest Narrative For RAT Deployment"
+      "id": "cr3o8s0000",
+      "link": "https://cyberpress.org/clickfix-payload-hides-malware/",
+      "filePath": "cyberpress/pages/2026/02/18/new-clickfix-payload-stores-malware-in-browser-cache.md",
+      "committedAt": "2026-02-18T10:00:32.164-05:00",
+      "title": "New “ClickFix” Payload Stores Malware In Browser Cache"
     }
   ]
 }
