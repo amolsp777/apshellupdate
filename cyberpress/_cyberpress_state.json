@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-18T07:00:10.415-05:00",
-  "lastLink": "https://cyberpress.org/cisa-chromium-zero-day/",
-  "lastId": "1qdmb56000",
-  "lastFilePath": "cyberpress/pages/2026/02/18/cisa-alerts-on-actively-exploited-google-chromium-zero-day.md",
+  "updatedAt": "2026-02-18T08:00:26.217-05:00",
+  "lastLink": "https://cyberpress.org/atlassian-cloud-powers-spam-scams/",
+  "lastId": "ojab6d0000",
+  "lastFilePath": "cyberpress/pages/2026/02/18/cybercriminals-exploit-atlassian-cloud-for-large-scale-spam-campaigns-targeting-.md",
   "items": [
     {
-      "id": "1qdmb56000",
-      "link": "https://cyberpress.org/cisa-chromium-zero-day/",
-      "filePath": "cyberpress/pages/2026/02/18/cisa-alerts-on-actively-exploited-google-chromium-zero-day.md",
-      "committedAt": "2026-02-18T07:00:10.415-05:00",
-      "title": "CISA Alerts on Actively Exploited Google Chromium Zero-Day"
+      "id": "ojab6d0000",
+      "link": "https://cyberpress.org/atlassian-cloud-powers-spam-scams/",
+      "filePath": "cyberpress/pages/2026/02/18/cybercriminals-exploit-atlassian-cloud-for-large-scale-spam-campaigns-targeting-.md",
+      "committedAt": "2026-02-18T08:00:26.217-05:00",
+      "title": "Cybercriminals Exploit Atlassian Cloud For Large-Scale Spam Campaigns Targeting Investors"
     }
   ]
 }
