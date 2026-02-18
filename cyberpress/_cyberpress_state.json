@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-18T05:00:10.749-05:00",
-  "lastLink": "https://cyberpress.org/critical-privilege-escalation-flaw/",
-  "lastId": "vvpk7r0000",
-  "lastFilePath": "cyberpress/pages/2026/02/18/critical-privilege-escalation-flaw-discovered-in-windows-admin-center.md",
+  "updatedAt": "2026-02-18T06:00:05.034-05:00",
+  "lastLink": "https://cyberpress.org/cisa-adds-actively-exploited-windows-activex-rce-flaw-to-kev-catalog/",
+  "lastId": "131zyno000",
+  "lastFilePath": "cyberpress/pages/2026/02/18/cisa-adds-actively-exploited-windows-activex-rce-flaw-to-kev-catalog.md",
   "items": [
     {
-      "id": "vvpk7r0000",
-      "link": "https://cyberpress.org/critical-privilege-escalation-flaw/",
-      "filePath": "cyberpress/pages/2026/02/18/critical-privilege-escalation-flaw-discovered-in-windows-admin-center.md",
-      "committedAt": "2026-02-18T05:00:10.749-05:00",
-      "title": "Critical Privilege Escalation Flaw Discovered in Windows Admin Center"
+      "id": "131zyno000",
+      "link": "https://cyberpress.org/cisa-adds-actively-exploited-windows-activex-rce-flaw-to-kev-catalog/",
+      "filePath": "cyberpress/pages/2026/02/18/cisa-adds-actively-exploited-windows-activex-rce-flaw-to-kev-catalog.md",
+      "committedAt": "2026-02-18T06:00:05.034-05:00",
+      "title": "CISA Adds Actively Exploited Windows ActiveX RCE Flaw to KEV Catalog"
     }
   ]
 }
