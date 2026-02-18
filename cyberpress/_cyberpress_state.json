@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-18T03:00:10.384-05:00",
-  "lastLink": "https://cyberpress.org/log-poisoning-vulnerability/",
-  "lastId": "1m45l8h000",
-  "lastFilePath": "cyberpress/pages/2026/02/18/critical-log-poisoning-vulnerability-in-openclaw-ai-allows-content-manipulation.md",
+  "updatedAt": "2026-02-18T04:00:15.775-05:00",
+  "lastLink": "https://cyberpress.org/dell-zero-day-actively-abused-by-china-linked-threat-actors-to-install-malware/",
+  "lastId": "57tutw0000",
+  "lastFilePath": "cyberpress/pages/2026/02/18/dell-zero-day-actively-abused-by-china-linked-threat-actors-to-install-malware.md",
   "items": [
     {
-      "id": "1m45l8h000",
-      "link": "https://cyberpress.org/log-poisoning-vulnerability/",
-      "filePath": "cyberpress/pages/2026/02/18/critical-log-poisoning-vulnerability-in-openclaw-ai-allows-content-manipulation.md",
-      "committedAt": "2026-02-18T03:00:10.384-05:00",
-      "title": "Critical Log Poisoning Vulnerability in OpenClaw AI Allows Content Manipulation"
+      "id": "57tutw0000",
+      "link": "https://cyberpress.org/dell-zero-day-actively-abused-by-china-linked-threat-actors-to-install-malware/",
+      "filePath": "cyberpress/pages/2026/02/18/dell-zero-day-actively-abused-by-china-linked-threat-actors-to-install-malware.md",
+      "committedAt": "2026-02-18T04:00:15.775-05:00",
+      "title": "Dell Zero-Day Actively Abused by China-Linked Threat Actors to Install Malware"
     }
   ]
 }
