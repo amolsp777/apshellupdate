@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-18T04:00:15.775-05:00",
-  "lastLink": "https://cyberpress.org/dell-zero-day-actively-abused-by-china-linked-threat-actors-to-install-malware/",
-  "lastId": "57tutw0000",
-  "lastFilePath": "cyberpress/pages/2026/02/18/dell-zero-day-actively-abused-by-china-linked-threat-actors-to-install-malware.md",
+  "updatedAt": "2026-02-18T05:00:10.749-05:00",
+  "lastLink": "https://cyberpress.org/critical-privilege-escalation-flaw/",
+  "lastId": "vvpk7r0000",
+  "lastFilePath": "cyberpress/pages/2026/02/18/critical-privilege-escalation-flaw-discovered-in-windows-admin-center.md",
   "items": [
     {
-      "id": "57tutw0000",
-      "link": "https://cyberpress.org/dell-zero-day-actively-abused-by-china-linked-threat-actors-to-install-malware/",
-      "filePath": "cyberpress/pages/2026/02/18/dell-zero-day-actively-abused-by-china-linked-threat-actors-to-install-malware.md",
-      "committedAt": "2026-02-18T04:00:15.775-05:00",
-      "title": "Dell Zero-Day Actively Abused by China-Linked Threat Actors to Install Malware"
+      "id": "vvpk7r0000",
+      "link": "https://cyberpress.org/critical-privilege-escalation-flaw/",
+      "filePath": "cyberpress/pages/2026/02/18/critical-privilege-escalation-flaw-discovered-in-windows-admin-center.md",
+      "committedAt": "2026-02-18T05:00:10.749-05:00",
+      "title": "Critical Privilege Escalation Flaw Discovered in Windows Admin Center"
     }
   ]
 }
