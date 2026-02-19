@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-19T07:00:16.207-05:00",
-  "lastLink": "https://cyberpress.org/fake-captcha-clickfix-outbreak/",
-  "lastId": "1b3ggpa000",
-  "lastFilePath": "cyberpress/pages/2026/02/19/fake-captcha-clickfix-attack-triggers-enterprise-malware-outbreak.md",
+  "updatedAt": "2026-02-19T08:00:16.279-05:00",
+  "lastLink": "https://cyberpress.org/cisa-warns-honeywell-cctv-vulnerability-enables-account-takeovers/",
+  "lastId": "2ejpbt0000",
+  "lastFilePath": "cyberpress/pages/2026/02/19/cisa-warns-honeywell-cctv-vulnerability-enables-account-takeovers.md",
   "items": [
     {
-      "id": "1b3ggpa000",
-      "link": "https://cyberpress.org/fake-captcha-clickfix-outbreak/",
-      "filePath": "cyberpress/pages/2026/02/19/fake-captcha-clickfix-attack-triggers-enterprise-malware-outbreak.md",
-      "committedAt": "2026-02-19T07:00:16.207-05:00",
-      "title": "Fake CAPTCHA ClickFix Attack Triggers Enterprise Malware Outbreak"
+      "id": "2ejpbt0000",
+      "link": "https://cyberpress.org/cisa-warns-honeywell-cctv-vulnerability-enables-account-takeovers/",
+      "filePath": "cyberpress/pages/2026/02/19/cisa-warns-honeywell-cctv-vulnerability-enables-account-takeovers.md",
+      "committedAt": "2026-02-19T08:00:16.279-05:00",
+      "title": "CISA Warns Honeywell CCTV Vulnerability Enables Account Takeovers"
     }
   ]
 }
