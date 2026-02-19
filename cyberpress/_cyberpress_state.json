@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-19T13:00:05.524-05:00",
-  "lastLink": "https://cyberpress.org/adidas-data-breach/",
-  "lastId": "97rf2w0000",
-  "lastFilePath": "cyberpress/pages/2026/02/19/adidas-data-breach-815000-records-of-data-allegedly-stolen.md",
+  "updatedAt": "2026-02-19T14:00:48.074-05:00",
+  "lastLink": "https://cyberpress.org/clickfix-homebrew-cuckoo-stealer/",
+  "lastId": "b5c32x0000",
+  "lastFilePath": "cyberpress/pages/2026/02/19/clickfix-campaign-uses-homebrew-installer-to-spread-cuckoo-stealer-on-macos.md",
   "items": [
     {
-      "id": "97rf2w0000",
-      "link": "https://cyberpress.org/adidas-data-breach/",
-      "filePath": "cyberpress/pages/2026/02/19/adidas-data-breach-815000-records-of-data-allegedly-stolen.md",
-      "committedAt": "2026-02-19T13:00:05.524-05:00",
-      "title": "Adidas Data Breach – 815,000 Records of Data Allegedly Stolen"
+      "id": "b5c32x0000",
+      "link": "https://cyberpress.org/clickfix-homebrew-cuckoo-stealer/",
+      "filePath": "cyberpress/pages/2026/02/19/clickfix-campaign-uses-homebrew-installer-to-spread-cuckoo-stealer-on-macos.md",
+      "committedAt": "2026-02-19T14:00:48.074-05:00",
+      "title": "ClickFix Campaign Uses Homebrew Installer To Spread Cuckoo Stealer On macOS"
     }
   ]
 }
