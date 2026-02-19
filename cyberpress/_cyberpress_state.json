@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-19T12:00:43.380-05:00",
-  "lastLink": "https://cyberpress.org/hackers-abuse-nslookup/",
-  "lastId": "1botosi000",
-  "lastFilePath": "cyberpress/pages/2026/02/19/hackers-abuse-nslookupexe-to-stage-payloads-via-dns-in-clickfix-attacks.md",
+  "updatedAt": "2026-02-19T13:00:05.524-05:00",
+  "lastLink": "https://cyberpress.org/adidas-data-breach/",
+  "lastId": "97rf2w0000",
+  "lastFilePath": "cyberpress/pages/2026/02/19/adidas-data-breach-815000-records-of-data-allegedly-stolen.md",
   "items": [
     {
-      "id": "1botosi000",
-      "link": "https://cyberpress.org/hackers-abuse-nslookup/",
-      "filePath": "cyberpress/pages/2026/02/19/hackers-abuse-nslookupexe-to-stage-payloads-via-dns-in-clickfix-attacks.md",
-      "committedAt": "2026-02-19T12:00:43.380-05:00",
-      "title": "Hackers Abuse nslookup.exe to Stage Payloads via DNS in ClickFix Attacks"
+      "id": "97rf2w0000",
+      "link": "https://cyberpress.org/adidas-data-breach/",
+      "filePath": "cyberpress/pages/2026/02/19/adidas-data-breach-815000-records-of-data-allegedly-stolen.md",
+      "committedAt": "2026-02-19T13:00:05.524-05:00",
+      "title": "Adidas Data Breach – 815,000 Records of Data Allegedly Stolen"
     }
   ]
 }
