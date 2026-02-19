@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-19T04:00:10.649-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-365-copilot-vulnerability-exposes-sensitive-emails-to-ai-summarization/",
-  "lastId": "n5sqnt0000",
-  "lastFilePath": "cyberpress/pages/2026/02/19/microsoft-365-copilot-vulnerability-exposes-sensitive-emails-to-ai-summarization.md",
+  "updatedAt": "2026-02-19T05:00:10.513-05:00",
+  "lastLink": "https://cyberpress.org/linux-sysupdate-variant-emerges/",
+  "lastId": "1nxq33a000",
+  "lastFilePath": "cyberpress/pages/2026/02/19/researchers-uncover-new-sysupdate-malware-variant-targeting-linux-systems.md",
   "items": [
     {
-      "id": "n5sqnt0000",
-      "link": "https://cyberpress.org/microsoft-365-copilot-vulnerability-exposes-sensitive-emails-to-ai-summarization/",
-      "filePath": "cyberpress/pages/2026/02/19/microsoft-365-copilot-vulnerability-exposes-sensitive-emails-to-ai-summarization.md",
-      "committedAt": "2026-02-19T04:00:10.649-05:00",
-      "title": "Microsoft 365 Copilot Vulnerability Exposes Sensitive Emails to AI Summarization"
+      "id": "1nxq33a000",
+      "link": "https://cyberpress.org/linux-sysupdate-variant-emerges/",
+      "filePath": "cyberpress/pages/2026/02/19/researchers-uncover-new-sysupdate-malware-variant-targeting-linux-systems.md",
+      "committedAt": "2026-02-19T05:00:10.513-05:00",
+      "title": "Researchers Uncover New SysUpdate Malware Variant Targeting Linux Systems"
     }
   ]
 }
