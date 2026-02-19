@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-19T11:00:37.883-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-defender-launches-centralized-script/",
-  "lastId": "x9jzoq0000",
-  "lastFilePath": "cyberpress/pages/2026/02/19/microsoft-defender-launches-centralized-script-library-with-copilot-powered-anal.md",
+  "updatedAt": "2026-02-19T12:00:43.380-05:00",
+  "lastLink": "https://cyberpress.org/hackers-abuse-nslookup/",
+  "lastId": "1botosi000",
+  "lastFilePath": "cyberpress/pages/2026/02/19/hackers-abuse-nslookupexe-to-stage-payloads-via-dns-in-clickfix-attacks.md",
   "items": [
     {
-      "id": "x9jzoq0000",
-      "link": "https://cyberpress.org/microsoft-defender-launches-centralized-script/",
-      "filePath": "cyberpress/pages/2026/02/19/microsoft-defender-launches-centralized-script-library-with-copilot-powered-anal.md",
-      "committedAt": "2026-02-19T11:00:37.883-05:00",
-      "title": "Microsoft Defender Launches Centralized Script Library with Copilot-Powered Analysis"
+      "id": "1botosi000",
+      "link": "https://cyberpress.org/hackers-abuse-nslookup/",
+      "filePath": "cyberpress/pages/2026/02/19/hackers-abuse-nslookupexe-to-stage-payloads-via-dns-in-clickfix-attacks.md",
+      "committedAt": "2026-02-19T12:00:43.380-05:00",
+      "title": "Hackers Abuse nslookup.exe to Stage Payloads via DNS in ClickFix Attacks"
     }
   ]
 }
