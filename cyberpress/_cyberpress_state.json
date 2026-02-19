@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-18T14:00:54.536-05:00",
-  "lastLink": "https://cyberpress.org/digitstealer-exposes-macos-vulnerabilities/",
-  "lastId": "1s3ecgs000",
-  "lastFilePath": "cyberpress/pages/2026/02/18/macos-users-targeted-by-digitstealer-infostealer-highlighting-security-gaps.md",
+  "updatedAt": "2026-02-19T01:00:37.116-05:00",
+  "lastLink": "https://cyberpress.org/clawhavoc-poisons-openclaws-clawhub-with-1184-malicious-skills/",
+  "lastId": "14zxhqk000",
+  "lastFilePath": "cyberpress/pages/2026/02/19/clawhavoc-poisons-openclaws-clawhub-with-1184-malicious-skills.md",
   "items": [
     {
-      "id": "1s3ecgs000",
-      "link": "https://cyberpress.org/digitstealer-exposes-macos-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/02/18/macos-users-targeted-by-digitstealer-infostealer-highlighting-security-gaps.md",
-      "committedAt": "2026-02-18T14:00:54.536-05:00",
-      "title": "macOS Users Targeted By DigitStealer Infostealer, Highlighting Security Gaps"
+      "id": "14zxhqk000",
+      "link": "https://cyberpress.org/clawhavoc-poisons-openclaws-clawhub-with-1184-malicious-skills/",
+      "filePath": "cyberpress/pages/2026/02/19/clawhavoc-poisons-openclaws-clawhub-with-1184-malicious-skills.md",
+      "committedAt": "2026-02-19T01:00:37.116-05:00",
+      "title": "ClawHavoc Poisons OpenClaw’s ClawHub With 1,184 Malicious Skills"
     }
   ]
 }
