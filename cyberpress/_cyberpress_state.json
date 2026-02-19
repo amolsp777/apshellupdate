@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-19T03:00:10.240-05:00",
-  "lastLink": "https://cyberpress.org/fake-security-reports-target-metamask/",
-  "lastId": "1x85oxd000",
-  "lastFilePath": "cyberpress/pages/2026/02/19/phishing-campaign-targets-metamask-users-with-fake-security-reports-to-bypass-fi.md",
+  "updatedAt": "2026-02-19T04:00:10.649-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-365-copilot-vulnerability-exposes-sensitive-emails-to-ai-summarization/",
+  "lastId": "n5sqnt0000",
+  "lastFilePath": "cyberpress/pages/2026/02/19/microsoft-365-copilot-vulnerability-exposes-sensitive-emails-to-ai-summarization.md",
   "items": [
     {
-      "id": "1x85oxd000",
-      "link": "https://cyberpress.org/fake-security-reports-target-metamask/",
-      "filePath": "cyberpress/pages/2026/02/19/phishing-campaign-targets-metamask-users-with-fake-security-reports-to-bypass-fi.md",
-      "committedAt": "2026-02-19T03:00:10.240-05:00",
-      "title": "Phishing Campaign Targets MetaMask Users With Fake Security Reports To Bypass Filters"
+      "id": "n5sqnt0000",
+      "link": "https://cyberpress.org/microsoft-365-copilot-vulnerability-exposes-sensitive-emails-to-ai-summarization/",
+      "filePath": "cyberpress/pages/2026/02/19/microsoft-365-copilot-vulnerability-exposes-sensitive-emails-to-ai-summarization.md",
+      "committedAt": "2026-02-19T04:00:10.649-05:00",
+      "title": "Microsoft 365 Copilot Vulnerability Exposes Sensitive Emails to AI Summarization"
     }
   ]
 }
