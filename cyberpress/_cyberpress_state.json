@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-19T06:00:27.080-05:00",
-  "lastLink": "https://cyberpress.org/hackers-abuse-grok-and-microsoft-copilot/",
-  "lastId": "1haapky000",
-  "lastFilePath": "cyberpress/pages/2026/02/19/hackers-abuse-grok-and-microsoft-copilot-for-stealthy-malware-command-and-contro.md",
+  "updatedAt": "2026-02-19T07:00:16.207-05:00",
+  "lastLink": "https://cyberpress.org/fake-captcha-clickfix-outbreak/",
+  "lastId": "1b3ggpa000",
+  "lastFilePath": "cyberpress/pages/2026/02/19/fake-captcha-clickfix-attack-triggers-enterprise-malware-outbreak.md",
   "items": [
     {
-      "id": "1haapky000",
-      "link": "https://cyberpress.org/hackers-abuse-grok-and-microsoft-copilot/",
-      "filePath": "cyberpress/pages/2026/02/19/hackers-abuse-grok-and-microsoft-copilot-for-stealthy-malware-command-and-contro.md",
-      "committedAt": "2026-02-19T06:00:27.080-05:00",
-      "title": "Hackers Abuse Grok and Microsoft Copilot for Stealthy Malware Command-and-Control"
+      "id": "1b3ggpa000",
+      "link": "https://cyberpress.org/fake-captcha-clickfix-outbreak/",
+      "filePath": "cyberpress/pages/2026/02/19/fake-captcha-clickfix-attack-triggers-enterprise-malware-outbreak.md",
+      "committedAt": "2026-02-19T07:00:16.207-05:00",
+      "title": "Fake CAPTCHA ClickFix Attack Triggers Enterprise Malware Outbreak"
     }
   ]
 }
