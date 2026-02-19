@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-19T14:00:48.074-05:00",
-  "lastLink": "https://cyberpress.org/clickfix-homebrew-cuckoo-stealer/",
-  "lastId": "b5c32x0000",
-  "lastFilePath": "cyberpress/pages/2026/02/19/clickfix-campaign-uses-homebrew-installer-to-spread-cuckoo-stealer-on-macos.md",
+  "updatedAt": "2026-02-19T15:00:53.635-05:00",
+  "lastLink": "https://cyberpress.org/backdoored-wallets-drain-crypto/",
+  "lastId": "vvyjab0000",
+  "lastFilePath": "cyberpress/pages/2026/02/19/attackers-deploy-backdoor-and-counterfeit-wallet-in-cryptocurrency-theft-operati.md",
   "items": [
     {
-      "id": "b5c32x0000",
-      "link": "https://cyberpress.org/clickfix-homebrew-cuckoo-stealer/",
-      "filePath": "cyberpress/pages/2026/02/19/clickfix-campaign-uses-homebrew-installer-to-spread-cuckoo-stealer-on-macos.md",
-      "committedAt": "2026-02-19T14:00:48.074-05:00",
-      "title": "ClickFix Campaign Uses Homebrew Installer To Spread Cuckoo Stealer On macOS"
+      "id": "vvyjab0000",
+      "link": "https://cyberpress.org/backdoored-wallets-drain-crypto/",
+      "filePath": "cyberpress/pages/2026/02/19/attackers-deploy-backdoor-and-counterfeit-wallet-in-cryptocurrency-theft-operati.md",
+      "committedAt": "2026-02-19T15:00:53.635-05:00",
+      "title": "Attackers Deploy Backdoor and Counterfeit Wallet In Cryptocurrency Theft Operation"
     }
   ]
 }
