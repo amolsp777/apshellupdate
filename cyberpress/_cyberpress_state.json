@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-20T03:00:10.184-05:00",
-  "lastLink": "https://cyberpress.org/mcp-servers-expose-data-risk/",
-  "lastId": "1fngq44000",
-  "lastFilePath": "cyberpress/pages/2026/02/20/critical-flaw-in-mcp-servers-allows-remote-code-execution-data-theft-risks-loom.md",
+  "updatedAt": "2026-02-20T04:00:11.028-05:00",
+  "lastLink": "https://cyberpress.org/cache-deception-vulnerability-found-in-sveltekit-and-vercel-combo-exposes-user-data-to-attackers/",
+  "lastId": "2bjmnt0000",
+  "lastFilePath": "cyberpress/pages/2026/02/20/cache-deception-vulnerability-found-in-sveltekit-and-vercel-combo-exposes-user-d.md",
   "items": [
     {
-      "id": "1fngq44000",
-      "link": "https://cyberpress.org/mcp-servers-expose-data-risk/",
-      "filePath": "cyberpress/pages/2026/02/20/critical-flaw-in-mcp-servers-allows-remote-code-execution-data-theft-risks-loom.md",
-      "committedAt": "2026-02-20T03:00:10.184-05:00",
-      "title": "Critical Flaw In MCP Servers Allows Remote Code Execution, Data Theft Risks Loom"
+      "id": "2bjmnt0000",
+      "link": "https://cyberpress.org/cache-deception-vulnerability-found-in-sveltekit-and-vercel-combo-exposes-user-data-to-attackers/",
+      "filePath": "cyberpress/pages/2026/02/20/cache-deception-vulnerability-found-in-sveltekit-and-vercel-combo-exposes-user-d.md",
+      "committedAt": "2026-02-20T04:00:11.028-05:00",
+      "title": "Cache Deception Vulnerability Found in SvelteKit and Vercel Combo Exposes User Data to Attackers"
     }
   ]
 }
