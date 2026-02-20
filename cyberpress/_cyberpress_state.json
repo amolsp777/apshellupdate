@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-20T04:00:11.028-05:00",
-  "lastLink": "https://cyberpress.org/cache-deception-vulnerability-found-in-sveltekit-and-vercel-combo-exposes-user-data-to-attackers/",
-  "lastId": "2bjmnt0000",
-  "lastFilePath": "cyberpress/pages/2026/02/20/cache-deception-vulnerability-found-in-sveltekit-and-vercel-combo-exposes-user-d.md",
+  "updatedAt": "2026-02-20T05:00:26.825-05:00",
+  "lastLink": "https://cyberpress.org/malware-bypasses-air-gapped-security/",
+  "lastId": "l22czc0000",
+  "lastFilePath": "cyberpress/pages/2026/02/20/advanced-malware-uses-external-drives-to-bypass-air-gapped-security.md",
   "items": [
     {
-      "id": "2bjmnt0000",
-      "link": "https://cyberpress.org/cache-deception-vulnerability-found-in-sveltekit-and-vercel-combo-exposes-user-data-to-attackers/",
-      "filePath": "cyberpress/pages/2026/02/20/cache-deception-vulnerability-found-in-sveltekit-and-vercel-combo-exposes-user-d.md",
-      "committedAt": "2026-02-20T04:00:11.028-05:00",
-      "title": "Cache Deception Vulnerability Found in SvelteKit and Vercel Combo Exposes User Data to Attackers"
+      "id": "l22czc0000",
+      "link": "https://cyberpress.org/malware-bypasses-air-gapped-security/",
+      "filePath": "cyberpress/pages/2026/02/20/advanced-malware-uses-external-drives-to-bypass-air-gapped-security.md",
+      "committedAt": "2026-02-20T05:00:26.825-05:00",
+      "title": "Advanced Malware Uses External Drives To Bypass Air-Gapped Security"
     }
   ]
 }
