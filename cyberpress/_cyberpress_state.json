@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-20T08:00:26.376-05:00",
-  "lastLink": "https://cyberpress.org/grandstream-voip-phones-flaw-allows-attackers-to-gain-root-level-access/",
-  "lastId": "1abjeyh000",
-  "lastFilePath": "cyberpress/pages/2026/02/20/grandstream-voip-phones-flaw-allows-attackers-to-gain-root-level-access.md",
+  "updatedAt": "2026-02-20T09:00:05.044-05:00",
+  "lastLink": "https://cyberpress.org/poc-released-for-windows-notepad-vulnerability-enabling-malicious-command-execution/",
+  "lastId": "bv14e10000",
+  "lastFilePath": "cyberpress/pages/2026/02/20/poc-released-for-windows-notepad-vulnerability-enabling-malicious-command-execut.md",
   "items": [
     {
-      "id": "1abjeyh000",
-      "link": "https://cyberpress.org/grandstream-voip-phones-flaw-allows-attackers-to-gain-root-level-access/",
-      "filePath": "cyberpress/pages/2026/02/20/grandstream-voip-phones-flaw-allows-attackers-to-gain-root-level-access.md",
-      "committedAt": "2026-02-20T08:00:26.376-05:00",
-      "title": "Grandstream VoIP Phones Flaw Allows Attackers to Gain Root-Level Access"
+      "id": "bv14e10000",
+      "link": "https://cyberpress.org/poc-released-for-windows-notepad-vulnerability-enabling-malicious-command-execution/",
+      "filePath": "cyberpress/pages/2026/02/20/poc-released-for-windows-notepad-vulnerability-enabling-malicious-command-execut.md",
+      "committedAt": "2026-02-20T09:00:05.044-05:00",
+      "title": "PoC Released for Windows Notepad Vulnerability Enabling Malicious Command Execution"
     }
   ]
 }
