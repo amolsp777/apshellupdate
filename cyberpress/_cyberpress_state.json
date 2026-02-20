@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-20T05:00:26.825-05:00",
-  "lastLink": "https://cyberpress.org/malware-bypasses-air-gapped-security/",
-  "lastId": "l22czc0000",
-  "lastFilePath": "cyberpress/pages/2026/02/20/advanced-malware-uses-external-drives-to-bypass-air-gapped-security.md",
+  "updatedAt": "2026-02-20T06:00:26.613-05:00",
+  "lastLink": "https://cyberpress.org/ransomware-attack-disrupts/",
+  "lastId": "gi8stb0000",
+  "lastFilePath": "cyberpress/pages/2026/02/20/ransomware-attack-disrupts-multiple-systems-at-japanese-semiconductor-supplier.md",
   "items": [
     {
-      "id": "l22czc0000",
-      "link": "https://cyberpress.org/malware-bypasses-air-gapped-security/",
-      "filePath": "cyberpress/pages/2026/02/20/advanced-malware-uses-external-drives-to-bypass-air-gapped-security.md",
-      "committedAt": "2026-02-20T05:00:26.825-05:00",
-      "title": "Advanced Malware Uses External Drives To Bypass Air-Gapped Security"
+      "id": "gi8stb0000",
+      "link": "https://cyberpress.org/ransomware-attack-disrupts/",
+      "filePath": "cyberpress/pages/2026/02/20/ransomware-attack-disrupts-multiple-systems-at-japanese-semiconductor-supplier.md",
+      "committedAt": "2026-02-20T06:00:26.613-05:00",
+      "title": "Ransomware Attack Disrupts Multiple Systems at Japanese Semiconductor Supplier"
     }
   ]
 }
