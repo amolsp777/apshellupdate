@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-20T06:00:26.613-05:00",
-  "lastLink": "https://cyberpress.org/ransomware-attack-disrupts/",
-  "lastId": "gi8stb0000",
-  "lastFilePath": "cyberpress/pages/2026/02/20/ransomware-attack-disrupts-multiple-systems-at-japanese-semiconductor-supplier.md",
+  "updatedAt": "2026-02-20T07:00:10.388-05:00",
+  "lastLink": "https://cyberpress.org/chinas-vulnerability-disclosure-discrepancies/",
+  "lastId": "1rx2u6h000",
+  "lastFilePath": "cyberpress/pages/2026/02/20/chinas-dual-vulnerability-databases-expose-conflicting-disclosure-timelines.md",
   "items": [
     {
-      "id": "gi8stb0000",
-      "link": "https://cyberpress.org/ransomware-attack-disrupts/",
-      "filePath": "cyberpress/pages/2026/02/20/ransomware-attack-disrupts-multiple-systems-at-japanese-semiconductor-supplier.md",
-      "committedAt": "2026-02-20T06:00:26.613-05:00",
-      "title": "Ransomware Attack Disrupts Multiple Systems at Japanese Semiconductor Supplier"
+      "id": "1rx2u6h000",
+      "link": "https://cyberpress.org/chinas-vulnerability-disclosure-discrepancies/",
+      "filePath": "cyberpress/pages/2026/02/20/chinas-dual-vulnerability-databases-expose-conflicting-disclosure-timelines.md",
+      "committedAt": "2026-02-20T07:00:10.388-05:00",
+      "title": "China’s Dual Vulnerability Databases Expose Conflicting Disclosure Timelines"
     }
   ]
 }
