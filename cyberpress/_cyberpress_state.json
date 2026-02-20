@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-20T02:00:04.867-05:00",
-  "lastLink": "https://cyberpress.org/ivanti-epmm-zero-days-exploited/",
-  "lastId": "vqmjyb0000",
-  "lastFilePath": "cyberpress/pages/2026/02/20/active-attacks-exploit-critical-ivanti-epmm-zero-day-corporate-networks-at-risk.md",
+  "updatedAt": "2026-02-20T03:00:10.184-05:00",
+  "lastLink": "https://cyberpress.org/mcp-servers-expose-data-risk/",
+  "lastId": "1fngq44000",
+  "lastFilePath": "cyberpress/pages/2026/02/20/critical-flaw-in-mcp-servers-allows-remote-code-execution-data-theft-risks-loom.md",
   "items": [
     {
-      "id": "vqmjyb0000",
-      "link": "https://cyberpress.org/ivanti-epmm-zero-days-exploited/",
-      "filePath": "cyberpress/pages/2026/02/20/active-attacks-exploit-critical-ivanti-epmm-zero-day-corporate-networks-at-risk.md",
-      "committedAt": "2026-02-20T02:00:04.867-05:00",
-      "title": "Active Attacks Exploit Critical Ivanti EPMM Zero-Day, Corporate Networks At Risk"
+      "id": "1fngq44000",
+      "link": "https://cyberpress.org/mcp-servers-expose-data-risk/",
+      "filePath": "cyberpress/pages/2026/02/20/critical-flaw-in-mcp-servers-allows-remote-code-execution-data-theft-risks-loom.md",
+      "committedAt": "2026-02-20T03:00:10.184-05:00",
+      "title": "Critical Flaw In MCP Servers Allows Remote Code Execution, Data Theft Risks Loom"
     }
   ]
 }
