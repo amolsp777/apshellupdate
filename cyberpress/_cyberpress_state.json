@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-20T13:00:42.274-05:00",
-  "lastLink": "https://cyberpress.org/dos-flaws-in-socomec-device/",
-  "lastId": "8enxv90000",
-  "lastFilePath": "cyberpress/pages/2026/02/20/dos-flaws-exposed-in-socomec-diris-m-70-iiot-device-through-fuzzing.md",
+  "updatedAt": "2026-02-20T14:00:48.881-05:00",
+  "lastLink": "https://cyberpress.org/silicon-valley-engineers-charged-over-theft/",
+  "lastId": "zctid60000",
+  "lastFilePath": "cyberpress/pages/2026/02/20/silicon-valley-engineers-charged-over-theft-of-trade-secrets-from-google-and-oth.md",
   "items": [
     {
-      "id": "8enxv90000",
-      "link": "https://cyberpress.org/dos-flaws-in-socomec-device/",
-      "filePath": "cyberpress/pages/2026/02/20/dos-flaws-exposed-in-socomec-diris-m-70-iiot-device-through-fuzzing.md",
-      "committedAt": "2026-02-20T13:00:42.274-05:00",
-      "title": "DoS Flaws Exposed In Socomec DIRIS M-70 IIoT Device Through Fuzzing"
+      "id": "zctid60000",
+      "link": "https://cyberpress.org/silicon-valley-engineers-charged-over-theft/",
+      "filePath": "cyberpress/pages/2026/02/20/silicon-valley-engineers-charged-over-theft-of-trade-secrets-from-google-and-oth.md",
+      "committedAt": "2026-02-20T14:00:48.881-05:00",
+      "title": "Silicon Valley Engineers Charged Over Theft of Trade Secrets From Google and Other Tech Firms"
     }
   ]
 }
