@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-20T07:00:10.388-05:00",
-  "lastLink": "https://cyberpress.org/chinas-vulnerability-disclosure-discrepancies/",
-  "lastId": "1rx2u6h000",
-  "lastFilePath": "cyberpress/pages/2026/02/20/chinas-dual-vulnerability-databases-expose-conflicting-disclosure-timelines.md",
+  "updatedAt": "2026-02-20T08:00:26.376-05:00",
+  "lastLink": "https://cyberpress.org/grandstream-voip-phones-flaw-allows-attackers-to-gain-root-level-access/",
+  "lastId": "1abjeyh000",
+  "lastFilePath": "cyberpress/pages/2026/02/20/grandstream-voip-phones-flaw-allows-attackers-to-gain-root-level-access.md",
   "items": [
     {
-      "id": "1rx2u6h000",
-      "link": "https://cyberpress.org/chinas-vulnerability-disclosure-discrepancies/",
-      "filePath": "cyberpress/pages/2026/02/20/chinas-dual-vulnerability-databases-expose-conflicting-disclosure-timelines.md",
-      "committedAt": "2026-02-20T07:00:10.388-05:00",
-      "title": "China’s Dual Vulnerability Databases Expose Conflicting Disclosure Timelines"
+      "id": "1abjeyh000",
+      "link": "https://cyberpress.org/grandstream-voip-phones-flaw-allows-attackers-to-gain-root-level-access/",
+      "filePath": "cyberpress/pages/2026/02/20/grandstream-voip-phones-flaw-allows-attackers-to-gain-root-level-access.md",
+      "committedAt": "2026-02-20T08:00:26.376-05:00",
+      "title": "Grandstream VoIP Phones Flaw Allows Attackers to Gain Root-Level Access"
     }
   ]
 }
