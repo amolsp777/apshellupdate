@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-20T15:00:53.883-05:00",
-  "lastLink": "https://cyberpress.org/emoji-code-bypasses-security/",
-  "lastId": "1crlcz9000",
-  "lastFilePath": "cyberpress/pages/2026/02/20/cybercriminals-leverage-emoji-code-to-evade-traditional-security-measures.md",
+  "updatedAt": "2026-02-21T06:00:15.497-05:00",
+  "lastLink": "https://cyberpress.org/anthropic-launches-claude-code-security-ai-vulnerability-scanning/",
+  "lastId": "1fivm9a000",
+  "lastFilePath": "cyberpress/pages/2026/02/21/anthropic-launches-claude-code-security-ai-vulnerability-scanning-tool-to-scans-.md",
   "items": [
     {
-      "id": "1crlcz9000",
-      "link": "https://cyberpress.org/emoji-code-bypasses-security/",
-      "filePath": "cyberpress/pages/2026/02/20/cybercriminals-leverage-emoji-code-to-evade-traditional-security-measures.md",
-      "committedAt": "2026-02-20T15:00:53.883-05:00",
-      "title": "Cybercriminals Leverage Emoji Code To Evade Traditional Security Measures"
+      "id": "1fivm9a000",
+      "link": "https://cyberpress.org/anthropic-launches-claude-code-security-ai-vulnerability-scanning/",
+      "filePath": "cyberpress/pages/2026/02/21/anthropic-launches-claude-code-security-ai-vulnerability-scanning-tool-to-scans-.md",
+      "committedAt": "2026-02-21T06:00:15.497-05:00",
+      "title": "Anthropic Launches Claude Code Security – AI Vulnerability Scanning Tool to Scans Codebases"
     }
   ]
 }
