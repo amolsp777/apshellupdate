@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-23T06:00:15.947-05:00",
-  "lastLink": "https://cyberpress.org/charliekirk-grabber-steals-credentials/",
-  "lastId": "1i77msm000",
-  "lastFilePath": "cyberpress/pages/2026/02/23/new-charliekirk-grabber-malware-steals-login-data-from-windows-pcs.md",
+  "updatedAt": "2026-02-23T07:00:11.615-05:00",
+  "lastLink": "https://cyberpress.org/silver-fox-abuses-drivers/",
+  "lastId": "fnslx80000",
+  "lastFilePath": "cyberpress/pages/2026/02/23/silver-fox-apt-exploits-dll-sideloading-and-byovd-in-stealth-campaign.md",
   "items": [
     {
-      "id": "1i77msm000",
-      "link": "https://cyberpress.org/charliekirk-grabber-steals-credentials/",
-      "filePath": "cyberpress/pages/2026/02/23/new-charliekirk-grabber-malware-steals-login-data-from-windows-pcs.md",
-      "committedAt": "2026-02-23T06:00:15.947-05:00",
-      "title": "New CharlieKirk Grabber Malware Steals Login Data From Windows PCs"
+      "id": "fnslx80000",
+      "link": "https://cyberpress.org/silver-fox-abuses-drivers/",
+      "filePath": "cyberpress/pages/2026/02/23/silver-fox-apt-exploits-dll-sideloading-and-byovd-in-stealth-campaign.md",
+      "committedAt": "2026-02-23T07:00:11.615-05:00",
+      "title": "Silver Fox APT Exploits DLL Sideloading and BYOVD In Stealth Campaign"
     }
   ]
 }
