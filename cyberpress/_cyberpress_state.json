@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-23T05:00:32.459-05:00",
-  "lastLink": "https://cyberpress.org/llm-passwords-easily-predicted/",
-  "lastId": "1r5jm6b000",
-  "lastFilePath": "cyberpress/pages/2026/02/23/study-finds-llm-generated-passwords-highly-predictable-and-repetitive.md",
+  "updatedAt": "2026-02-23T06:00:15.947-05:00",
+  "lastLink": "https://cyberpress.org/charliekirk-grabber-steals-credentials/",
+  "lastId": "1i77msm000",
+  "lastFilePath": "cyberpress/pages/2026/02/23/new-charliekirk-grabber-malware-steals-login-data-from-windows-pcs.md",
   "items": [
     {
-      "id": "1r5jm6b000",
-      "link": "https://cyberpress.org/llm-passwords-easily-predicted/",
-      "filePath": "cyberpress/pages/2026/02/23/study-finds-llm-generated-passwords-highly-predictable-and-repetitive.md",
-      "committedAt": "2026-02-23T05:00:32.459-05:00",
-      "title": "Study Finds LLM-Generated Passwords Highly Predictable and Repetitive"
+      "id": "1i77msm000",
+      "link": "https://cyberpress.org/charliekirk-grabber-steals-credentials/",
+      "filePath": "cyberpress/pages/2026/02/23/new-charliekirk-grabber-malware-steals-login-data-from-windows-pcs.md",
+      "committedAt": "2026-02-23T06:00:15.947-05:00",
+      "title": "New CharlieKirk Grabber Malware Steals Login Data From Windows PCs"
     }
   ]
 }
