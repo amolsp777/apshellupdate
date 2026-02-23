@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-23T01:00:15.597-05:00",
-  "lastLink": "https://cyberpress.org/promptspy-uses-google-gemini/",
-  "lastId": "1hh0qjg000",
-  "lastFilePath": "cyberpress/pages/2026/02/23/new-ai-malware-promptspy-uses-googles-gemini-for-android-attacks.md",
+  "updatedAt": "2026-02-23T02:00:32.838-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-365-oauth-hijacking/",
+  "lastId": "1okgtuk000",
+  "lastFilePath": "cyberpress/pages/2026/02/23/threat-actors-target-microsoft-365-accounts-in-oauth-token-theft-operation.md",
   "items": [
     {
-      "id": "1hh0qjg000",
-      "link": "https://cyberpress.org/promptspy-uses-google-gemini/",
-      "filePath": "cyberpress/pages/2026/02/23/new-ai-malware-promptspy-uses-googles-gemini-for-android-attacks.md",
-      "committedAt": "2026-02-23T01:00:15.597-05:00",
-      "title": "New AI Malware ‘PromptSpy’ Uses Google’s Gemini For Android Attacks"
+      "id": "1okgtuk000",
+      "link": "https://cyberpress.org/microsoft-365-oauth-hijacking/",
+      "filePath": "cyberpress/pages/2026/02/23/threat-actors-target-microsoft-365-accounts-in-oauth-token-theft-operation.md",
+      "committedAt": "2026-02-23T02:00:32.838-05:00",
+      "title": "Threat Actors Target Microsoft 365 Accounts In OAuth Token Theft Operation"
     }
   ]
 }
