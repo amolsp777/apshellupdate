@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-23T02:00:32.838-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-365-oauth-hijacking/",
-  "lastId": "1okgtuk000",
-  "lastFilePath": "cyberpress/pages/2026/02/23/threat-actors-target-microsoft-365-accounts-in-oauth-token-theft-operation.md",
+  "updatedAt": "2026-02-23T04:00:15.750-05:00",
+  "lastLink": "https://cyberpress.org/beyondtrust-flaw-fuels-rats/",
+  "lastId": "cijxn10000",
+  "lastFilePath": "cyberpress/pages/2026/02/23/active-attacks-target-beyondtrust-vulnerability-with-vshell-sparkrat-payloads.md",
   "items": [
     {
-      "id": "1okgtuk000",
-      "link": "https://cyberpress.org/microsoft-365-oauth-hijacking/",
-      "filePath": "cyberpress/pages/2026/02/23/threat-actors-target-microsoft-365-accounts-in-oauth-token-theft-operation.md",
-      "committedAt": "2026-02-23T02:00:32.838-05:00",
-      "title": "Threat Actors Target Microsoft 365 Accounts In OAuth Token Theft Operation"
+      "id": "cijxn10000",
+      "link": "https://cyberpress.org/beyondtrust-flaw-fuels-rats/",
+      "filePath": "cyberpress/pages/2026/02/23/active-attacks-target-beyondtrust-vulnerability-with-vshell-sparkrat-payloads.md",
+      "committedAt": "2026-02-23T04:00:15.750-05:00",
+      "title": "Active Attacks Target BeyondTrust Vulnerability With VShell, SparkRAT Payloads"
     }
   ]
 }
