@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-23T04:00:15.750-05:00",
-  "lastLink": "https://cyberpress.org/beyondtrust-flaw-fuels-rats/",
-  "lastId": "cijxn10000",
-  "lastFilePath": "cyberpress/pages/2026/02/23/active-attacks-target-beyondtrust-vulnerability-with-vshell-sparkrat-payloads.md",
+  "updatedAt": "2026-02-23T05:00:32.459-05:00",
+  "lastLink": "https://cyberpress.org/llm-passwords-easily-predicted/",
+  "lastId": "1r5jm6b000",
+  "lastFilePath": "cyberpress/pages/2026/02/23/study-finds-llm-generated-passwords-highly-predictable-and-repetitive.md",
   "items": [
     {
-      "id": "cijxn10000",
-      "link": "https://cyberpress.org/beyondtrust-flaw-fuels-rats/",
-      "filePath": "cyberpress/pages/2026/02/23/active-attacks-target-beyondtrust-vulnerability-with-vshell-sparkrat-payloads.md",
-      "committedAt": "2026-02-23T04:00:15.750-05:00",
-      "title": "Active Attacks Target BeyondTrust Vulnerability With VShell, SparkRAT Payloads"
+      "id": "1r5jm6b000",
+      "link": "https://cyberpress.org/llm-passwords-easily-predicted/",
+      "filePath": "cyberpress/pages/2026/02/23/study-finds-llm-generated-passwords-highly-predictable-and-repetitive.md",
+      "committedAt": "2026-02-23T05:00:32.459-05:00",
+      "title": "Study Finds LLM-Generated Passwords Highly Predictable and Repetitive"
     }
   ]
 }
