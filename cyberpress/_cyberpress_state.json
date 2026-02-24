@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-24T05:00:10.663-05:00",
-  "lastLink": "https://cyberpress.org/graycharlie-spreads-netsupport-rat/",
-  "lastId": "tcbauf0000",
-  "lastFilePath": "cyberpress/pages/2026/02/24/graycharlie-campaign-compromises-wordpress-sites-to-spread-netsupport-rat-and-st.md",
+  "updatedAt": "2026-02-24T06:00:16.000-05:00",
+  "lastLink": "https://cyberpress.org/starkiller-bypasses-mfa-protection/",
+  "lastId": "1b0uv1n000",
+  "lastFilePath": "cyberpress/pages/2026/02/24/starkiller-phishing-framework-proxies-real-login-pages-to-evade-mfa.md",
   "items": [
     {
-      "id": "tcbauf0000",
-      "link": "https://cyberpress.org/graycharlie-spreads-netsupport-rat/",
-      "filePath": "cyberpress/pages/2026/02/24/graycharlie-campaign-compromises-wordpress-sites-to-spread-netsupport-rat-and-st.md",
-      "committedAt": "2026-02-24T05:00:10.663-05:00",
-      "title": "GrayCharlie Campaign Compromises WordPress Sites To Spread NetSupport RAT and Steal Data"
+      "id": "1b0uv1n000",
+      "link": "https://cyberpress.org/starkiller-bypasses-mfa-protection/",
+      "filePath": "cyberpress/pages/2026/02/24/starkiller-phishing-framework-proxies-real-login-pages-to-evade-mfa.md",
+      "committedAt": "2026-02-24T06:00:16.000-05:00",
+      "title": "Starkiller Phishing Framework Proxies Real Login Pages To Evade MFA"
     }
   ]
 }
