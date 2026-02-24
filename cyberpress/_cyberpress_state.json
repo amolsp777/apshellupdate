@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-24T11:00:37.659-05:00",
-  "lastLink": "https://cyberpress.org/hackers-abuse-windows-management/",
-  "lastId": "1n45jdx000",
-  "lastFilePath": "cyberpress/pages/2026/02/24/hackers-abuse-windows-management-instrumentation-wmi-for-stealthy-persistence.md",
+  "updatedAt": "2026-02-24T12:00:44.146-05:00",
+  "lastLink": "https://cyberpress.org/deepseek-claude-target-fortigate/",
+  "lastId": "141fedm000",
+  "lastFilePath": "cyberpress/pages/2026/02/24/hackers-use-deepseek-and-claude-to-launch-global-attack-on-fortigate-devices.md",
   "items": [
     {
-      "id": "1n45jdx000",
-      "link": "https://cyberpress.org/hackers-abuse-windows-management/",
-      "filePath": "cyberpress/pages/2026/02/24/hackers-abuse-windows-management-instrumentation-wmi-for-stealthy-persistence.md",
-      "committedAt": "2026-02-24T11:00:37.659-05:00",
-      "title": "Hackers Abuse Windows Management Instrumentation (WMI) for Stealthy Persistence"
+      "id": "141fedm000",
+      "link": "https://cyberpress.org/deepseek-claude-target-fortigate/",
+      "filePath": "cyberpress/pages/2026/02/24/hackers-use-deepseek-and-claude-to-launch-global-attack-on-fortigate-devices.md",
+      "committedAt": "2026-02-24T12:00:44.146-05:00",
+      "title": "Hackers Use DeepSeek and Claude To Launch Global Attack On FortiGate Devices"
     }
   ]
 }
