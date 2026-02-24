@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-24T08:00:27.703-05:00",
-  "lastLink": "https://cyberpress.org/critical-ruby-worker-deserialization-flaw-opens-door-to-complete-system-takeover/",
-  "lastId": "1oi3ot0000",
-  "lastFilePath": "cyberpress/pages/2026/02/24/critical-ruby-worker-deserialization-flaw-opens-door-to-complete-system-takeover.md",
+  "updatedAt": "2026-02-24T09:00:27.228-05:00",
+  "lastLink": "https://cyberpress.org/clickfix-infostealer-uses-captcha/",
+  "lastId": "mm41hz0000",
+  "lastFilePath": "cyberpress/pages/2026/02/24/fake-captcha-lures-deploy-clickfix-infostealer-in-widespread-attack.md",
   "items": [
     {
-      "id": "1oi3ot0000",
-      "link": "https://cyberpress.org/critical-ruby-worker-deserialization-flaw-opens-door-to-complete-system-takeover/",
-      "filePath": "cyberpress/pages/2026/02/24/critical-ruby-worker-deserialization-flaw-opens-door-to-complete-system-takeover.md",
-      "committedAt": "2026-02-24T08:00:27.703-05:00",
-      "title": "Critical Ruby Worker Deserialization Flaw Opens Door to Complete System Takeover"
+      "id": "mm41hz0000",
+      "link": "https://cyberpress.org/clickfix-infostealer-uses-captcha/",
+      "filePath": "cyberpress/pages/2026/02/24/fake-captcha-lures-deploy-clickfix-infostealer-in-widespread-attack.md",
+      "committedAt": "2026-02-24T09:00:27.228-05:00",
+      "title": "Fake CAPTCHA Lures Deploy ClickFix Infostealer In Widespread Attack"
     }
   ]
 }
