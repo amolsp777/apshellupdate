@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-24T04:00:10.764-05:00",
-  "lastLink": "https://cyberpress.org/hpe-telco-activator-vulnerability-exposed/",
-  "lastId": "1klz76s000",
-  "lastFilePath": "cyberpress/pages/2026/02/24/critical-flaw-in-hpe-telco-service-activator-allows-unauthorized-access-putting-.md",
+  "updatedAt": "2026-02-24T05:00:10.663-05:00",
+  "lastLink": "https://cyberpress.org/graycharlie-spreads-netsupport-rat/",
+  "lastId": "tcbauf0000",
+  "lastFilePath": "cyberpress/pages/2026/02/24/graycharlie-campaign-compromises-wordpress-sites-to-spread-netsupport-rat-and-st.md",
   "items": [
     {
-      "id": "1klz76s000",
-      "link": "https://cyberpress.org/hpe-telco-activator-vulnerability-exposed/",
-      "filePath": "cyberpress/pages/2026/02/24/critical-flaw-in-hpe-telco-service-activator-allows-unauthorized-access-putting-.md",
-      "committedAt": "2026-02-24T04:00:10.764-05:00",
-      "title": "Critical Flaw In HPE Telco Service Activator Allows Unauthorized Access, Putting Telecom Networks At Risk"
+      "id": "tcbauf0000",
+      "link": "https://cyberpress.org/graycharlie-spreads-netsupport-rat/",
+      "filePath": "cyberpress/pages/2026/02/24/graycharlie-campaign-compromises-wordpress-sites-to-spread-netsupport-rat-and-st.md",
+      "committedAt": "2026-02-24T05:00:10.663-05:00",
+      "title": "GrayCharlie Campaign Compromises WordPress Sites To Spread NetSupport RAT and Steal Data"
     }
   ]
 }
