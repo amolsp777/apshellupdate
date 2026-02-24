@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-24T03:00:05.165-05:00",
-  "lastLink": "https://cyberpress.org/grandstream-gxp1600-rce-exploit/",
-  "lastId": "1a3qh2k000",
-  "lastFilePath": "cyberpress/pages/2026/02/24/remote-code-execution-flaw-in-grandstream-gxp1600-phones-exposed-with-poc-exploi.md",
+  "updatedAt": "2026-02-24T04:00:10.764-05:00",
+  "lastLink": "https://cyberpress.org/hpe-telco-activator-vulnerability-exposed/",
+  "lastId": "1klz76s000",
+  "lastFilePath": "cyberpress/pages/2026/02/24/critical-flaw-in-hpe-telco-service-activator-allows-unauthorized-access-putting-.md",
   "items": [
     {
-      "id": "1a3qh2k000",
-      "link": "https://cyberpress.org/grandstream-gxp1600-rce-exploit/",
-      "filePath": "cyberpress/pages/2026/02/24/remote-code-execution-flaw-in-grandstream-gxp1600-phones-exposed-with-poc-exploi.md",
-      "committedAt": "2026-02-24T03:00:05.165-05:00",
-      "title": "Remote Code Execution Flaw In Grandstream GXP1600 Phones Exposed With PoC Exploit"
+      "id": "1klz76s000",
+      "link": "https://cyberpress.org/hpe-telco-activator-vulnerability-exposed/",
+      "filePath": "cyberpress/pages/2026/02/24/critical-flaw-in-hpe-telco-service-activator-allows-unauthorized-access-putting-.md",
+      "committedAt": "2026-02-24T04:00:10.764-05:00",
+      "title": "Critical Flaw In HPE Telco Service Activator Allows Unauthorized Access, Putting Telecom Networks At Risk"
     }
   ]
 }
