@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-25T08:00:10.577-05:00",
-  "lastLink": "https://cyberpress.org/activemq-exploit-deploys-lockbit/",
-  "lastId": "mw5ony0000",
-  "lastFilePath": "cyberpress/pages/2026/02/25/apache-activemq-vulnerability-used-to-deploy-lockbit-ransomware-via-rdp-access.md",
+  "updatedAt": "2026-02-25T09:00:16.243-05:00",
+  "lastLink": "https://cyberpress.org/solarwinds-serv-u-critical-vulnerabilities/",
+  "lastId": "15ttjro000",
+  "lastFilePath": "cyberpress/pages/2026/02/25/solarwinds-serv-u-critical-vulnerabilities-allow-attackers-to-gain-root-access.md",
   "items": [
     {
-      "id": "mw5ony0000",
-      "link": "https://cyberpress.org/activemq-exploit-deploys-lockbit/",
-      "filePath": "cyberpress/pages/2026/02/25/apache-activemq-vulnerability-used-to-deploy-lockbit-ransomware-via-rdp-access.md",
-      "committedAt": "2026-02-25T08:00:10.577-05:00",
-      "title": "Apache ActiveMQ Vulnerability Used To Deploy LockBit Ransomware via RDP Access"
+      "id": "15ttjro000",
+      "link": "https://cyberpress.org/solarwinds-serv-u-critical-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/02/25/solarwinds-serv-u-critical-vulnerabilities-allow-attackers-to-gain-root-access.md",
+      "committedAt": "2026-02-25T09:00:16.243-05:00",
+      "title": "SolarWinds Serv-U Critical Vulnerabilities Allow Attackers to Gain Root Access"
     }
   ]
 }
