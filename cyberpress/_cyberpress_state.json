@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-25T09:00:16.243-05:00",
-  "lastLink": "https://cyberpress.org/solarwinds-serv-u-critical-vulnerabilities/",
-  "lastId": "15ttjro000",
-  "lastFilePath": "cyberpress/pages/2026/02/25/solarwinds-serv-u-critical-vulnerabilities-allow-attackers-to-gain-root-access.md",
+  "updatedAt": "2026-02-25T10:00:21.951-05:00",
+  "lastLink": "https://cyberpress.org/surxrat-grants-full-device-access/",
+  "lastId": "1qbvksq000",
+  "lastFilePath": "cyberpress/pages/2026/02/25/surxrat-malware-gives-hackers-complete-access-to-android-devices.md",
   "items": [
     {
-      "id": "15ttjro000",
-      "link": "https://cyberpress.org/solarwinds-serv-u-critical-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/02/25/solarwinds-serv-u-critical-vulnerabilities-allow-attackers-to-gain-root-access.md",
-      "committedAt": "2026-02-25T09:00:16.243-05:00",
-      "title": "SolarWinds Serv-U Critical Vulnerabilities Allow Attackers to Gain Root Access"
+      "id": "1qbvksq000",
+      "link": "https://cyberpress.org/surxrat-grants-full-device-access/",
+      "filePath": "cyberpress/pages/2026/02/25/surxrat-malware-gives-hackers-complete-access-to-android-devices.md",
+      "committedAt": "2026-02-25T10:00:21.951-05:00",
+      "title": "SURXRAT Malware Gives Hackers Complete Access To Android Devices"
     }
   ]
 }
