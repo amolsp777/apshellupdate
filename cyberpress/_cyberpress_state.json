@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-25T02:00:15.793-05:00",
-  "lastLink": "https://cyberpress.org/zerodayrat-targets-mobile-devices/",
-  "lastId": "16xz9z4000",
-  "lastFilePath": "cyberpress/pages/2026/02/25/zerodayrat-malware-targets-android-and-ios-stealing-sensitive-data-from-millions.md",
+  "updatedAt": "2026-02-25T03:00:16.017-05:00",
+  "lastLink": "https://cyberpress.org/openclaw-installs-amos-malware/",
+  "lastId": "emj55b0000",
+  "lastFilePath": "cyberpress/pages/2026/02/25/openclaw-malware-tricks-users-into-amos-infection-via-password-entry.md",
   "items": [
     {
-      "id": "16xz9z4000",
-      "link": "https://cyberpress.org/zerodayrat-targets-mobile-devices/",
-      "filePath": "cyberpress/pages/2026/02/25/zerodayrat-malware-targets-android-and-ios-stealing-sensitive-data-from-millions.md",
-      "committedAt": "2026-02-25T02:00:15.793-05:00",
-      "title": "ZeroDayRAT Malware Targets Android and iOS, Stealing Sensitive Data From Millions"
+      "id": "emj55b0000",
+      "link": "https://cyberpress.org/openclaw-installs-amos-malware/",
+      "filePath": "cyberpress/pages/2026/02/25/openclaw-malware-tricks-users-into-amos-infection-via-password-entry.md",
+      "committedAt": "2026-02-25T03:00:16.017-05:00",
+      "title": "OpenClaw Malware Tricks Users Into AMOS Infection via Password Entry"
     }
   ]
 }
