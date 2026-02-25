@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-24T14:00:57.318-05:00",
-  "lastLink": "https://cyberpress.org/anthropic-claude-faces-large-scale-distillation-attacks-by-chinese-ai-labs-involving-13-million-exchanges/",
-  "lastId": "199q2t5000",
-  "lastFilePath": "cyberpress/pages/2026/02/24/anthropic-claude-faces-large-scale-distillation-attacks-by-chinese-ai-labs-invol.md",
+  "updatedAt": "2026-02-25T01:00:15.808-05:00",
+  "lastLink": "https://cyberpress.org/fake-huorong-site-deploys-valleyrat/",
+  "lastId": "1bkc7nb000",
+  "lastFilePath": "cyberpress/pages/2026/02/25/fake-huorong-site-deploys-valleyrat-backdoor-in-targeted-malware-attack.md",
   "items": [
     {
-      "id": "199q2t5000",
-      "link": "https://cyberpress.org/anthropic-claude-faces-large-scale-distillation-attacks-by-chinese-ai-labs-involving-13-million-exchanges/",
-      "filePath": "cyberpress/pages/2026/02/24/anthropic-claude-faces-large-scale-distillation-attacks-by-chinese-ai-labs-invol.md",
-      "committedAt": "2026-02-24T14:00:57.318-05:00",
-      "title": "Anthropic Claude Faces Large-Scale Distillation Attacks by Chinese AI Labs Involving 13 Million Exchanges"
+      "id": "1bkc7nb000",
+      "link": "https://cyberpress.org/fake-huorong-site-deploys-valleyrat/",
+      "filePath": "cyberpress/pages/2026/02/25/fake-huorong-site-deploys-valleyrat-backdoor-in-targeted-malware-attack.md",
+      "committedAt": "2026-02-25T01:00:15.808-05:00",
+      "title": "Fake Huorong Site Deploys ValleyRAT Backdoor In Targeted Malware Attack"
     }
   ]
 }
