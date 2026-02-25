@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-25T06:00:10.617-05:00",
-  "lastLink": "https://cyberpress.org/chatgpt-powers-oauth-email-breach/",
-  "lastId": "1i4u4qs000",
-  "lastFilePath": "cyberpress/pages/2026/02/25/hackers-use-chatgpt-in-oauth-attacks-to-breach-entra-id-and-access-emails.md",
+  "updatedAt": "2026-02-25T07:00:05.099-05:00",
+  "lastLink": "https://cyberpress.org/cisa-warns-filezen-vulnerability/",
+  "lastId": "vq9mor0000",
+  "lastFilePath": "cyberpress/pages/2026/02/25/cisa-warns-of-active-exploitation-of-filezen-vulnerability.md",
   "items": [
     {
-      "id": "1i4u4qs000",
-      "link": "https://cyberpress.org/chatgpt-powers-oauth-email-breach/",
-      "filePath": "cyberpress/pages/2026/02/25/hackers-use-chatgpt-in-oauth-attacks-to-breach-entra-id-and-access-emails.md",
-      "committedAt": "2026-02-25T06:00:10.617-05:00",
-      "title": "Hackers Use ChatGPT In OAuth Attacks To Breach Entra ID and Access Emails"
+      "id": "vq9mor0000",
+      "link": "https://cyberpress.org/cisa-warns-filezen-vulnerability/",
+      "filePath": "cyberpress/pages/2026/02/25/cisa-warns-of-active-exploitation-of-filezen-vulnerability.md",
+      "committedAt": "2026-02-25T07:00:05.099-05:00",
+      "title": "CISA Warns of Active Exploitation of FileZen Vulnerability"
     }
   ]
 }
