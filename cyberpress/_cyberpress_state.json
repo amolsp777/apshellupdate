@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-25T05:00:27.083-05:00",
-  "lastLink": "https://cyberpress.org/u-s-slaps-sanctions-on-exploit-brokers/",
-  "lastId": "18vzyz7000",
-  "lastFilePath": "cyberpress/pages/2026/02/25/us-slaps-sanctions-on-exploit-brokers-linked-to-theft-of-government-hacking-tool.md",
+  "updatedAt": "2026-02-25T06:00:10.617-05:00",
+  "lastLink": "https://cyberpress.org/chatgpt-powers-oauth-email-breach/",
+  "lastId": "1i4u4qs000",
+  "lastFilePath": "cyberpress/pages/2026/02/25/hackers-use-chatgpt-in-oauth-attacks-to-breach-entra-id-and-access-emails.md",
   "items": [
     {
-      "id": "18vzyz7000",
-      "link": "https://cyberpress.org/u-s-slaps-sanctions-on-exploit-brokers/",
-      "filePath": "cyberpress/pages/2026/02/25/us-slaps-sanctions-on-exploit-brokers-linked-to-theft-of-government-hacking-tool.md",
-      "committedAt": "2026-02-25T05:00:27.083-05:00",
-      "title": "U.S. Slaps Sanctions on Exploit Brokers Linked to Theft of Government Hacking Tools"
+      "id": "1i4u4qs000",
+      "link": "https://cyberpress.org/chatgpt-powers-oauth-email-breach/",
+      "filePath": "cyberpress/pages/2026/02/25/hackers-use-chatgpt-in-oauth-attacks-to-breach-entra-id-and-access-emails.md",
+      "committedAt": "2026-02-25T06:00:10.617-05:00",
+      "title": "Hackers Use ChatGPT In OAuth Attacks To Breach Entra ID and Access Emails"
     }
   ]
 }
