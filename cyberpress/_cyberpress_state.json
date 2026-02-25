@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-25T04:00:15.945-05:00",
-  "lastLink": "https://cyberpress.org/nuget-exploit-steals-credentials/",
-  "lastId": "1j32f40000",
-  "lastFilePath": "cyberpress/pages/2026/02/25/nuget-package-exploit-steals-login-credentials-from-aspnet-developers.md",
+  "updatedAt": "2026-02-25T05:00:27.083-05:00",
+  "lastLink": "https://cyberpress.org/u-s-slaps-sanctions-on-exploit-brokers/",
+  "lastId": "18vzyz7000",
+  "lastFilePath": "cyberpress/pages/2026/02/25/us-slaps-sanctions-on-exploit-brokers-linked-to-theft-of-government-hacking-tool.md",
   "items": [
     {
-      "id": "1j32f40000",
-      "link": "https://cyberpress.org/nuget-exploit-steals-credentials/",
-      "filePath": "cyberpress/pages/2026/02/25/nuget-package-exploit-steals-login-credentials-from-aspnet-developers.md",
-      "committedAt": "2026-02-25T04:00:15.945-05:00",
-      "title": "NuGet Package Exploit Steals Login Credentials From ASP.NET Developers"
+      "id": "18vzyz7000",
+      "link": "https://cyberpress.org/u-s-slaps-sanctions-on-exploit-brokers/",
+      "filePath": "cyberpress/pages/2026/02/25/us-slaps-sanctions-on-exploit-brokers-linked-to-theft-of-government-hacking-tool.md",
+      "committedAt": "2026-02-25T05:00:27.083-05:00",
+      "title": "U.S. Slaps Sanctions on Exploit Brokers Linked to Theft of Government Hacking Tools"
     }
   ]
 }
