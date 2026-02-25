@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-25T03:00:16.017-05:00",
-  "lastLink": "https://cyberpress.org/openclaw-installs-amos-malware/",
-  "lastId": "emj55b0000",
-  "lastFilePath": "cyberpress/pages/2026/02/25/openclaw-malware-tricks-users-into-amos-infection-via-password-entry.md",
+  "updatedAt": "2026-02-25T04:00:15.945-05:00",
+  "lastLink": "https://cyberpress.org/nuget-exploit-steals-credentials/",
+  "lastId": "1j32f40000",
+  "lastFilePath": "cyberpress/pages/2026/02/25/nuget-package-exploit-steals-login-credentials-from-aspnet-developers.md",
   "items": [
     {
-      "id": "emj55b0000",
-      "link": "https://cyberpress.org/openclaw-installs-amos-malware/",
-      "filePath": "cyberpress/pages/2026/02/25/openclaw-malware-tricks-users-into-amos-infection-via-password-entry.md",
-      "committedAt": "2026-02-25T03:00:16.017-05:00",
-      "title": "OpenClaw Malware Tricks Users Into AMOS Infection via Password Entry"
+      "id": "1j32f40000",
+      "link": "https://cyberpress.org/nuget-exploit-steals-credentials/",
+      "filePath": "cyberpress/pages/2026/02/25/nuget-package-exploit-steals-login-credentials-from-aspnet-developers.md",
+      "committedAt": "2026-02-25T04:00:15.945-05:00",
+      "title": "NuGet Package Exploit Steals Login Credentials From ASP.NET Developers"
     }
   ]
 }
