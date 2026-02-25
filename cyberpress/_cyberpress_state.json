@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-25T01:00:15.808-05:00",
-  "lastLink": "https://cyberpress.org/fake-huorong-site-deploys-valleyrat/",
-  "lastId": "1bkc7nb000",
-  "lastFilePath": "cyberpress/pages/2026/02/25/fake-huorong-site-deploys-valleyrat-backdoor-in-targeted-malware-attack.md",
+  "updatedAt": "2026-02-25T02:00:15.793-05:00",
+  "lastLink": "https://cyberpress.org/zerodayrat-targets-mobile-devices/",
+  "lastId": "16xz9z4000",
+  "lastFilePath": "cyberpress/pages/2026/02/25/zerodayrat-malware-targets-android-and-ios-stealing-sensitive-data-from-millions.md",
   "items": [
     {
-      "id": "1bkc7nb000",
-      "link": "https://cyberpress.org/fake-huorong-site-deploys-valleyrat/",
-      "filePath": "cyberpress/pages/2026/02/25/fake-huorong-site-deploys-valleyrat-backdoor-in-targeted-malware-attack.md",
-      "committedAt": "2026-02-25T01:00:15.808-05:00",
-      "title": "Fake Huorong Site Deploys ValleyRAT Backdoor In Targeted Malware Attack"
+      "id": "16xz9z4000",
+      "link": "https://cyberpress.org/zerodayrat-targets-mobile-devices/",
+      "filePath": "cyberpress/pages/2026/02/25/zerodayrat-malware-targets-android-and-ios-stealing-sensitive-data-from-millions.md",
+      "committedAt": "2026-02-25T02:00:15.793-05:00",
+      "title": "ZeroDayRAT Malware Targets Android and iOS, Stealing Sensitive Data From Millions"
     }
   ]
 }
