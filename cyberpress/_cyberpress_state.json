@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-26T12:00:42.961-05:00",
-  "lastLink": "https://cyberpress.org/hackers-exploit-cortex-xdr/",
-  "lastId": "1usydae000",
-  "lastFilePath": "cyberpress/pages/2026/02/26/hackers-exploit-cortex-xdr-live-terminal-for-c2-communications-compromising-ente.md",
+  "updatedAt": "2026-02-26T13:00:53.761-05:00",
+  "lastLink": "https://cyberpress.org/anthropic-introduces-claude-code/",
+  "lastId": "1e01u2g000",
+  "lastFilePath": "cyberpress/pages/2026/02/26/anthropic-introduces-claude-code-for-remote-terminal-control-from-mobile-devices.md",
   "items": [
     {
-      "id": "1usydae000",
-      "link": "https://cyberpress.org/hackers-exploit-cortex-xdr/",
-      "filePath": "cyberpress/pages/2026/02/26/hackers-exploit-cortex-xdr-live-terminal-for-c2-communications-compromising-ente.md",
-      "committedAt": "2026-02-26T12:00:42.961-05:00",
-      "title": "Hackers Exploit Cortex XDR Live Terminal For C2 Communications, Compromising Enterprise Security"
+      "id": "1e01u2g000",
+      "link": "https://cyberpress.org/anthropic-introduces-claude-code/",
+      "filePath": "cyberpress/pages/2026/02/26/anthropic-introduces-claude-code-for-remote-terminal-control-from-mobile-devices.md",
+      "committedAt": "2026-02-26T13:00:53.761-05:00",
+      "title": "Anthropic Introduces Claude Code for Remote Terminal Control From Mobile Devices"
     }
   ]
 }
