@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-25T11:00:55.760-05:00",
-  "lastLink": "https://cyberpress.org/hackers-exploit-malicious-next-js-repositories/",
-  "lastId": "kms68j0000",
-  "lastFilePath": "cyberpress/pages/2026/02/25/hackers-target-developers-with-malicious-nextjs-repositories-microsoft-warns.md",
+  "updatedAt": "2026-02-26T03:00:05.010-05:00",
+  "lastLink": "https://cyberpress.org/cisco-sd-wan-zero-day/",
+  "lastId": "lmpor90000",
+  "lastFilePath": "cyberpress/pages/2026/02/26/cisco-sd-wan-zero-day-under-active-exploitation-grants-attackers-root-level-cont.md",
   "items": [
     {
-      "id": "kms68j0000",
-      "link": "https://cyberpress.org/hackers-exploit-malicious-next-js-repositories/",
-      "filePath": "cyberpress/pages/2026/02/25/hackers-target-developers-with-malicious-nextjs-repositories-microsoft-warns.md",
-      "committedAt": "2026-02-25T11:00:55.760-05:00",
-      "title": "Hackers Target Developers With Malicious Next.js Repositories, Microsoft Warns"
+      "id": "lmpor90000",
+      "link": "https://cyberpress.org/cisco-sd-wan-zero-day/",
+      "filePath": "cyberpress/pages/2026/02/26/cisco-sd-wan-zero-day-under-active-exploitation-grants-attackers-root-level-cont.md",
+      "committedAt": "2026-02-26T03:00:05.010-05:00",
+      "title": "Cisco SD-WAN Zero-Day Under Active Exploitation Grants Attackers Root-Level Control"
     }
   ]
 }
