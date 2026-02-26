@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-26T04:00:26.371-05:00",
-  "lastLink": "https://cyberpress.org/mozilla-releases-firefox-148/",
-  "lastId": "mg33sb0000",
-  "lastFilePath": "cyberpress/pages/2026/02/26/mozilla-releases-firefox-148-with-new-sanitizer-api-to-block-xss-attacks.md",
+  "updatedAt": "2026-02-26T05:00:16.109-05:00",
+  "lastLink": "https://cyberpress.org/poc-published-for-microsoft-windows-flaw/",
+  "lastId": "12v98e6000",
+  "lastFilePath": "cyberpress/pages/2026/02/26/poc-published-for-microsoft-windows-flaw-that-allows-low-privileged-users-to-for.md",
   "items": [
     {
-      "id": "mg33sb0000",
-      "link": "https://cyberpress.org/mozilla-releases-firefox-148/",
-      "filePath": "cyberpress/pages/2026/02/26/mozilla-releases-firefox-148-with-new-sanitizer-api-to-block-xss-attacks.md",
-      "committedAt": "2026-02-26T04:00:26.371-05:00",
-      "title": "Mozilla Releases Firefox 148 With New Sanitizer API to Block XSS Attacks"
+      "id": "12v98e6000",
+      "link": "https://cyberpress.org/poc-published-for-microsoft-windows-flaw/",
+      "filePath": "cyberpress/pages/2026/02/26/poc-published-for-microsoft-windows-flaw-that-allows-low-privileged-users-to-for.md",
+      "committedAt": "2026-02-26T05:00:16.109-05:00",
+      "title": "PoC Published for Microsoft Windows Flaw That Allows Low-Privileged Users to Force Irrecoverable BSODs"
     }
   ]
 }
