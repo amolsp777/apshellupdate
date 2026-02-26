@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-26T11:00:21.858-05:00",
-  "lastLink": "https://cyberpress.org/critical-servicenow-ai-platform-flaw-allows-remote-code-execution-attacks/",
-  "lastId": "t6y8ux0000",
-  "lastFilePath": "cyberpress/pages/2026/02/26/critical-servicenow-ai-platform-flaw-allows-remote-code-execution-attacks.md",
+  "updatedAt": "2026-02-26T12:00:42.961-05:00",
+  "lastLink": "https://cyberpress.org/hackers-exploit-cortex-xdr/",
+  "lastId": "1usydae000",
+  "lastFilePath": "cyberpress/pages/2026/02/26/hackers-exploit-cortex-xdr-live-terminal-for-c2-communications-compromising-ente.md",
   "items": [
     {
-      "id": "t6y8ux0000",
-      "link": "https://cyberpress.org/critical-servicenow-ai-platform-flaw-allows-remote-code-execution-attacks/",
-      "filePath": "cyberpress/pages/2026/02/26/critical-servicenow-ai-platform-flaw-allows-remote-code-execution-attacks.md",
-      "committedAt": "2026-02-26T11:00:21.858-05:00",
-      "title": "Critical ServiceNow AI Platform Flaw Allows Remote Code Execution Attacks"
+      "id": "1usydae000",
+      "link": "https://cyberpress.org/hackers-exploit-cortex-xdr/",
+      "filePath": "cyberpress/pages/2026/02/26/hackers-exploit-cortex-xdr-live-terminal-for-c2-communications-compromising-ente.md",
+      "committedAt": "2026-02-26T12:00:42.961-05:00",
+      "title": "Hackers Exploit Cortex XDR Live Terminal For C2 Communications, Compromising Enterprise Security"
     }
   ]
 }
