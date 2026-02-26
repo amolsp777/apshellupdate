@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-26T05:00:16.109-05:00",
-  "lastLink": "https://cyberpress.org/poc-published-for-microsoft-windows-flaw/",
-  "lastId": "12v98e6000",
-  "lastFilePath": "cyberpress/pages/2026/02/26/poc-published-for-microsoft-windows-flaw-that-allows-low-privileged-users-to-for.md",
+  "updatedAt": "2026-02-26T06:00:27.990-05:00",
+  "lastLink": "https://cyberpress.org/google-disrupts-chinese-hackers/",
+  "lastId": "1bgbrnq000",
+  "lastFilePath": "cyberpress/pages/2026/02/26/google-shuts-down-chinese-hackers-infrastructure-behind-telecom-and-government-b.md",
   "items": [
     {
-      "id": "12v98e6000",
-      "link": "https://cyberpress.org/poc-published-for-microsoft-windows-flaw/",
-      "filePath": "cyberpress/pages/2026/02/26/poc-published-for-microsoft-windows-flaw-that-allows-low-privileged-users-to-for.md",
-      "committedAt": "2026-02-26T05:00:16.109-05:00",
-      "title": "PoC Published for Microsoft Windows Flaw That Allows Low-Privileged Users to Force Irrecoverable BSODs"
+      "id": "1bgbrnq000",
+      "link": "https://cyberpress.org/google-disrupts-chinese-hackers/",
+      "filePath": "cyberpress/pages/2026/02/26/google-shuts-down-chinese-hackers-infrastructure-behind-telecom-and-government-b.md",
+      "committedAt": "2026-02-26T06:00:27.990-05:00",
+      "title": "Google Shuts Down Chinese Hackers’ Infrastructure Behind Telecom and Government Breach"
     }
   ]
 }
