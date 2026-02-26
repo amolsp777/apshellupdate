@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-26T03:00:05.010-05:00",
-  "lastLink": "https://cyberpress.org/cisco-sd-wan-zero-day/",
-  "lastId": "lmpor90000",
-  "lastFilePath": "cyberpress/pages/2026/02/26/cisco-sd-wan-zero-day-under-active-exploitation-grants-attackers-root-level-cont.md",
+  "updatedAt": "2026-02-26T04:00:26.371-05:00",
+  "lastLink": "https://cyberpress.org/mozilla-releases-firefox-148/",
+  "lastId": "mg33sb0000",
+  "lastFilePath": "cyberpress/pages/2026/02/26/mozilla-releases-firefox-148-with-new-sanitizer-api-to-block-xss-attacks.md",
   "items": [
     {
-      "id": "lmpor90000",
-      "link": "https://cyberpress.org/cisco-sd-wan-zero-day/",
-      "filePath": "cyberpress/pages/2026/02/26/cisco-sd-wan-zero-day-under-active-exploitation-grants-attackers-root-level-cont.md",
-      "committedAt": "2026-02-26T03:00:05.010-05:00",
-      "title": "Cisco SD-WAN Zero-Day Under Active Exploitation Grants Attackers Root-Level Control"
+      "id": "mg33sb0000",
+      "link": "https://cyberpress.org/mozilla-releases-firefox-148/",
+      "filePath": "cyberpress/pages/2026/02/26/mozilla-releases-firefox-148-with-new-sanitizer-api-to-block-xss-attacks.md",
+      "committedAt": "2026-02-26T04:00:26.371-05:00",
+      "title": "Mozilla Releases Firefox 148 With New Sanitizer API to Block XSS Attacks"
     }
   ]
 }
