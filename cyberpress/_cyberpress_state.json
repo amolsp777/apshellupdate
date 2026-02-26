@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-26T09:00:05.226-05:00",
-  "lastLink": "https://cyberpress.org/marquis-files-lawsuit-against-sonicwall-after-backup-breach-triggers-ransomware-incident/",
-  "lastId": "cj3zsk0000",
-  "lastFilePath": "cyberpress/pages/2026/02/26/marquis-files-lawsuit-against-sonicwall-after-backup-breach-triggers-ransomware-.md",
+  "updatedAt": "2026-02-26T10:00:05.470-05:00",
+  "lastLink": "https://cyberpress.org/wireshark-4-6-4-released-with-patches-for-multiple-security-vulnerabilities/",
+  "lastId": "1ls2uz8000",
+  "lastFilePath": "cyberpress/pages/2026/02/26/wireshark-464-released-with-patches-for-multiple-security-vulnerabilities.md",
   "items": [
     {
-      "id": "cj3zsk0000",
-      "link": "https://cyberpress.org/marquis-files-lawsuit-against-sonicwall-after-backup-breach-triggers-ransomware-incident/",
-      "filePath": "cyberpress/pages/2026/02/26/marquis-files-lawsuit-against-sonicwall-after-backup-breach-triggers-ransomware-.md",
-      "committedAt": "2026-02-26T09:00:05.226-05:00",
-      "title": "Marquis Files Lawsuit Against SonicWall After Backup Breach Triggers Ransomware Incident"
+      "id": "1ls2uz8000",
+      "link": "https://cyberpress.org/wireshark-4-6-4-released-with-patches-for-multiple-security-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/02/26/wireshark-464-released-with-patches-for-multiple-security-vulnerabilities.md",
+      "committedAt": "2026-02-26T10:00:05.470-05:00",
+      "title": "Wireshark 4.6.4 Released With Patches for Multiple Security Vulnerabilities"
     }
   ]
 }
