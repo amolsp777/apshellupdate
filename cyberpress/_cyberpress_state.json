@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-27T05:00:15.855-05:00",
-  "lastLink": "https://cyberpress.org/critical-freebsd-flaws-let-attackers-trigger-complete-system-crashes/",
-  "lastId": "1nef9lg000",
-  "lastFilePath": "cyberpress/pages/2026/02/27/critical-freebsd-flaws-let-attackers-trigger-complete-system-crashes.md",
+  "updatedAt": "2026-02-27T06:00:10.400-05:00",
+  "lastLink": "https://cyberpress.org/critical-trend-micro-apex-one-flaws/",
+  "lastId": "1rhlj3d000",
+  "lastFilePath": "cyberpress/pages/2026/02/27/critical-trend-micro-apex-one-flaws-enable-remote-malicious-code-execution.md",
   "items": [
     {
-      "id": "1nef9lg000",
-      "link": "https://cyberpress.org/critical-freebsd-flaws-let-attackers-trigger-complete-system-crashes/",
-      "filePath": "cyberpress/pages/2026/02/27/critical-freebsd-flaws-let-attackers-trigger-complete-system-crashes.md",
-      "committedAt": "2026-02-27T05:00:15.855-05:00",
-      "title": "Critical FreeBSD Flaws Let Attackers Trigger Complete System Crashes"
+      "id": "1rhlj3d000",
+      "link": "https://cyberpress.org/critical-trend-micro-apex-one-flaws/",
+      "filePath": "cyberpress/pages/2026/02/27/critical-trend-micro-apex-one-flaws-enable-remote-malicious-code-execution.md",
+      "committedAt": "2026-02-27T06:00:10.400-05:00",
+      "title": "Critical Trend Micro Apex One Flaws Enable Remote Malicious Code Execution"
     }
   ]
 }
