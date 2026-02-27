@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-26T13:00:53.761-05:00",
-  "lastLink": "https://cyberpress.org/anthropic-introduces-claude-code/",
-  "lastId": "1e01u2g000",
-  "lastFilePath": "cyberpress/pages/2026/02/26/anthropic-introduces-claude-code-for-remote-terminal-control-from-mobile-devices.md",
+  "updatedAt": "2026-02-27T03:00:05.110-05:00",
+  "lastLink": "https://cyberpress.org/juniper-ptx-routers-at-risk/",
+  "lastId": "15ksl1x000",
+  "lastFilePath": "cyberpress/pages/2026/02/27/juniper-ptx-routers-at-risk-as-critical-vulnerability-enables-full-device-takeov.md",
   "items": [
     {
-      "id": "1e01u2g000",
-      "link": "https://cyberpress.org/anthropic-introduces-claude-code/",
-      "filePath": "cyberpress/pages/2026/02/26/anthropic-introduces-claude-code-for-remote-terminal-control-from-mobile-devices.md",
-      "committedAt": "2026-02-26T13:00:53.761-05:00",
-      "title": "Anthropic Introduces Claude Code for Remote Terminal Control From Mobile Devices"
+      "id": "15ksl1x000",
+      "link": "https://cyberpress.org/juniper-ptx-routers-at-risk/",
+      "filePath": "cyberpress/pages/2026/02/27/juniper-ptx-routers-at-risk-as-critical-vulnerability-enables-full-device-takeov.md",
+      "committedAt": "2026-02-27T03:00:05.110-05:00",
+      "title": "Juniper PTX Routers at Risk as Critical Vulnerability Enables Full Device Takeover"
     }
   ]
 }
