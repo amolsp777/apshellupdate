@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-27T09:00:05.867-05:00",
-  "lastLink": "https://cyberpress.org/87-of-organizations-exposed/",
-  "lastId": "97wpbb0000",
-  "lastFilePath": "cyberpress/pages/2026/02/27/87-of-organizations-exposed-known-exploited-vulnerabilities-found-in-active-soft.md",
+  "updatedAt": "2026-02-27T10:00:34.574-05:00",
+  "lastLink": "https://cyberpress.org/300-android-rat-bypasses-permissions/",
+  "lastId": "18mlwdx000",
+  "lastFilePath": "cyberpress/pages/2026/02/27/emerging-300-android-rat-leverages-automated-permission-bypass-for-hidden-contro.md",
   "items": [
     {
-      "id": "97wpbb0000",
-      "link": "https://cyberpress.org/87-of-organizations-exposed/",
-      "filePath": "cyberpress/pages/2026/02/27/87-of-organizations-exposed-known-exploited-vulnerabilities-found-in-active-soft.md",
-      "committedAt": "2026-02-27T09:00:05.867-05:00",
-      "title": "87% of Organizations Exposed: Known Exploited Vulnerabilities Found in Active Software"
+      "id": "18mlwdx000",
+      "link": "https://cyberpress.org/300-android-rat-bypasses-permissions/",
+      "filePath": "cyberpress/pages/2026/02/27/emerging-300-android-rat-leverages-automated-permission-bypass-for-hidden-contro.md",
+      "committedAt": "2026-02-27T10:00:34.574-05:00",
+      "title": "Emerging $300 Android RAT Leverages Automated Permission Bypass For Hidden Control"
     }
   ]
 }
