@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-28T00:00:04.727-05:00",
-  "lastLink": "https://cyberpress.org/stored-xss-flaw-in-rustfs-console-leaks-admin-s3-credentials/",
-  "lastId": "16jbvsp000",
-  "lastFilePath": "cyberpress/pages/2026/02/28/stored-xss-flaw-in-rustfs-console-leaks-admin-s3-credentials.md",
+  "updatedAt": "2026-02-28T03:00:04.818-05:00",
+  "lastLink": "https://cyberpress.org/metasploit-unveils-exploit-modules-for-linux-rc4-and-beyondtrust-vulnerabilities/",
+  "lastId": "1xi2vi1000",
+  "lastFilePath": "cyberpress/pages/2026/02/28/metasploit-unveils-exploit-modules-for-linux-rc4-and-beyondtrust-vulnerabilities.md",
   "items": [
     {
-      "id": "16jbvsp000",
-      "link": "https://cyberpress.org/stored-xss-flaw-in-rustfs-console-leaks-admin-s3-credentials/",
-      "filePath": "cyberpress/pages/2026/02/28/stored-xss-flaw-in-rustfs-console-leaks-admin-s3-credentials.md",
-      "committedAt": "2026-02-28T00:00:04.727-05:00",
-      "title": "Stored XSS Flaw in RustFS Console Leaks Admin S3 Credentials"
+      "id": "1xi2vi1000",
+      "link": "https://cyberpress.org/metasploit-unveils-exploit-modules-for-linux-rc4-and-beyondtrust-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/02/28/metasploit-unveils-exploit-modules-for-linux-rc4-and-beyondtrust-vulnerabilities.md",
+      "committedAt": "2026-02-28T03:00:04.818-05:00",
+      "title": "Metasploit Unveils Exploit Modules for Linux RC4 and BeyondTrust Vulnerabilities"
     }
   ]
 }
