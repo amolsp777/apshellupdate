@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-27T14:00:53.189-05:00",
-  "lastLink": "https://cyberpress.org/steaelite-rat-drives-extortion/",
-  "lastId": "1cdlonn000",
-  "lastFilePath": "cyberpress/pages/2026/02/27/steaelite-rat-powers-new-wave-of-double-extortion-attacks-on-enterprises.md",
+  "updatedAt": "2026-02-28T00:00:04.727-05:00",
+  "lastLink": "https://cyberpress.org/stored-xss-flaw-in-rustfs-console-leaks-admin-s3-credentials/",
+  "lastId": "16jbvsp000",
+  "lastFilePath": "cyberpress/pages/2026/02/28/stored-xss-flaw-in-rustfs-console-leaks-admin-s3-credentials.md",
   "items": [
     {
-      "id": "1cdlonn000",
-      "link": "https://cyberpress.org/steaelite-rat-drives-extortion/",
-      "filePath": "cyberpress/pages/2026/02/27/steaelite-rat-powers-new-wave-of-double-extortion-attacks-on-enterprises.md",
-      "committedAt": "2026-02-27T14:00:53.189-05:00",
-      "title": "Steaelite RAT Powers New Wave Of Double Extortion Attacks On Enterprises"
+      "id": "16jbvsp000",
+      "link": "https://cyberpress.org/stored-xss-flaw-in-rustfs-console-leaks-admin-s3-credentials/",
+      "filePath": "cyberpress/pages/2026/02/28/stored-xss-flaw-in-rustfs-console-leaks-admin-s3-credentials.md",
+      "committedAt": "2026-02-28T00:00:04.727-05:00",
+      "title": "Stored XSS Flaw in RustFS Console Leaks Admin S3 Credentials"
     }
   ]
 }
