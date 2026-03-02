@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-02T06:00:26.823-05:00",
-  "lastLink": "https://cyberpress.org/project-compass-operation-cracks-down/",
-  "lastId": "4pamm00000",
-  "lastFilePath": "cyberpress/pages/2026/03/02/project-compass-operation-cracks-down-on-the-com-with-30-arrests-and-179-suspect.md",
+  "updatedAt": "2026-03-02T07:00:33.721-05:00",
+  "lastLink": "https://cyberpress.org/angular-ssr-flaw/",
+  "lastId": "16z2hab000",
+  "lastFilePath": "cyberpress/pages/2026/03/02/angular-ssr-flaw-lets-attackers-trigger-unauthorized-server-side-requests.md",
   "items": [
     {
-      "id": "4pamm00000",
-      "link": "https://cyberpress.org/project-compass-operation-cracks-down/",
-      "filePath": "cyberpress/pages/2026/03/02/project-compass-operation-cracks-down-on-the-com-with-30-arrests-and-179-suspect.md",
-      "committedAt": "2026-03-02T06:00:26.823-05:00",
-      "title": "Project Compass Operation Cracks Down on “The Com” With 30 Arrests and 179 Suspects Identified"
+      "id": "16z2hab000",
+      "link": "https://cyberpress.org/angular-ssr-flaw/",
+      "filePath": "cyberpress/pages/2026/03/02/angular-ssr-flaw-lets-attackers-trigger-unauthorized-server-side-requests.md",
+      "committedAt": "2026-03-02T07:00:33.721-05:00",
+      "title": "Angular SSR Flaw Lets Attackers Trigger Unauthorized Server-Side Requests"
     }
   ]
 }
