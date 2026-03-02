@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-02T07:00:33.721-05:00",
-  "lastLink": "https://cyberpress.org/angular-ssr-flaw/",
-  "lastId": "16z2hab000",
-  "lastFilePath": "cyberpress/pages/2026/03/02/angular-ssr-flaw-lets-attackers-trigger-unauthorized-server-side-requests.md",
+  "updatedAt": "2026-03-02T08:00:05.236-05:00",
+  "lastLink": "https://cyberpress.org/langflow-ai-csv-agent-flaw/",
+  "lastId": "1bxj69y000",
+  "lastFilePath": "cyberpress/pages/2026/03/02/langflow-ai-csv-agent-flaw-enables-remote-code-execution-attacks.md",
   "items": [
     {
-      "id": "16z2hab000",
-      "link": "https://cyberpress.org/angular-ssr-flaw/",
-      "filePath": "cyberpress/pages/2026/03/02/angular-ssr-flaw-lets-attackers-trigger-unauthorized-server-side-requests.md",
-      "committedAt": "2026-03-02T07:00:33.721-05:00",
-      "title": "Angular SSR Flaw Lets Attackers Trigger Unauthorized Server-Side Requests"
+      "id": "1bxj69y000",
+      "link": "https://cyberpress.org/langflow-ai-csv-agent-flaw/",
+      "filePath": "cyberpress/pages/2026/03/02/langflow-ai-csv-agent-flaw-enables-remote-code-execution-attacks.md",
+      "committedAt": "2026-03-02T08:00:05.236-05:00",
+      "title": "Langflow AI CSV Agent Flaw Enables Remote Code Execution Attacks"
     }
   ]
 }
