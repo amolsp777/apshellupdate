@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-02T02:00:05.262-05:00",
-  "lastLink": "https://cyberpress.org/fake-zoom-update-malware/",
-  "lastId": "1rnhtpm000",
-  "lastFilePath": "cyberpress/pages/2026/03/02/fake-zoom-update-scam-infects-1437-users-deploys-surveillance-malware-in-just-12.md",
+  "updatedAt": "2026-03-02T03:00:27.153-05:00",
+  "lastLink": "https://cyberpress.org/agent-tesla-evades-detection/",
+  "lastId": "1t8mksz000",
+  "lastFilePath": "cyberpress/pages/2026/03/02/agent-tesla-phishing-campaign-uses-process-hollowing-to-evade-security-tools.md",
   "items": [
     {
-      "id": "1rnhtpm000",
-      "link": "https://cyberpress.org/fake-zoom-update-malware/",
-      "filePath": "cyberpress/pages/2026/03/02/fake-zoom-update-scam-infects-1437-users-deploys-surveillance-malware-in-just-12.md",
-      "committedAt": "2026-03-02T02:00:05.262-05:00",
-      "title": "Fake Zoom Update Scam Infects 1,437 Users, Deploys Surveillance Malware In Just 12 Days"
+      "id": "1t8mksz000",
+      "link": "https://cyberpress.org/agent-tesla-evades-detection/",
+      "filePath": "cyberpress/pages/2026/03/02/agent-tesla-phishing-campaign-uses-process-hollowing-to-evade-security-tools.md",
+      "committedAt": "2026-03-02T03:00:27.153-05:00",
+      "title": "Agent Tesla Phishing Campaign Uses Process Hollowing To Evade Security Tools"
     }
   ]
 }
