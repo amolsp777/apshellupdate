@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-02T12:00:22.187-05:00",
-  "lastLink": "https://cyberpress.org/dohdoor-hits-schools-healthcare/",
-  "lastId": "7cc2zs0000",
-  "lastFilePath": "cyberpress/pages/2026/03/02/dohdoor-malware-targets-us-schools-and-healthcare-in-multi-stage-campaign.md",
+  "updatedAt": "2026-03-02T13:00:26.388-05:00",
+  "lastLink": "https://cyberpress.org/duckduckgo-browser-uxss-flaw/",
+  "lastId": "2xekdv0000",
+  "lastFilePath": "cyberpress/pages/2026/03/02/duckduckgo-browser-uxss-flaw-in-autoconsent-js-bridge-enables-cross-origin-code-.md",
   "items": [
     {
-      "id": "7cc2zs0000",
-      "link": "https://cyberpress.org/dohdoor-hits-schools-healthcare/",
-      "filePath": "cyberpress/pages/2026/03/02/dohdoor-malware-targets-us-schools-and-healthcare-in-multi-stage-campaign.md",
-      "committedAt": "2026-03-02T12:00:22.187-05:00",
-      "title": "Dohdoor Malware Targets U.S. Schools and Healthcare In Multi-Stage Campaign"
+      "id": "2xekdv0000",
+      "link": "https://cyberpress.org/duckduckgo-browser-uxss-flaw/",
+      "filePath": "cyberpress/pages/2026/03/02/duckduckgo-browser-uxss-flaw-in-autoconsent-js-bridge-enables-cross-origin-code-.md",
+      "committedAt": "2026-03-02T13:00:26.388-05:00",
+      "title": "DuckDuckGo Browser UXSS Flaw in AutoConsent JS Bridge Enables Cross-Origin Code Execution"
     }
   ]
 }
