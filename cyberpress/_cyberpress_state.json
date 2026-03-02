@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-02T11:00:10.893-05:00",
-  "lastLink": "https://cyberpress.org/poc-exploit-released-for-microsoft-windows/",
-  "lastId": "1l1m98r000",
-  "lastFilePath": "cyberpress/pages/2026/03/02/poc-exploit-released-for-microsoft-windows-error-reporting-alpc-privilege-escala.md",
+  "updatedAt": "2026-03-02T12:00:22.187-05:00",
+  "lastLink": "https://cyberpress.org/dohdoor-hits-schools-healthcare/",
+  "lastId": "7cc2zs0000",
+  "lastFilePath": "cyberpress/pages/2026/03/02/dohdoor-malware-targets-us-schools-and-healthcare-in-multi-stage-campaign.md",
   "items": [
     {
-      "id": "1l1m98r000",
-      "link": "https://cyberpress.org/poc-exploit-released-for-microsoft-windows/",
-      "filePath": "cyberpress/pages/2026/03/02/poc-exploit-released-for-microsoft-windows-error-reporting-alpc-privilege-escala.md",
-      "committedAt": "2026-03-02T11:00:10.893-05:00",
-      "title": "PoC Exploit Released for Microsoft Windows Error Reporting ALPC Privilege Escalation"
+      "id": "7cc2zs0000",
+      "link": "https://cyberpress.org/dohdoor-hits-schools-healthcare/",
+      "filePath": "cyberpress/pages/2026/03/02/dohdoor-malware-targets-us-schools-and-healthcare-in-multi-stage-campaign.md",
+      "committedAt": "2026-03-02T12:00:22.187-05:00",
+      "title": "Dohdoor Malware Targets U.S. Schools and Healthcare In Multi-Stage Campaign"
     }
   ]
 }
