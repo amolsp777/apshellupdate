@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-02T04:00:32.735-05:00",
-  "lastLink": "https://cyberpress.org/amazon-web-services-power-outage/",
-  "lastId": "rl8nrb0000",
-  "lastFilePath": "cyberpress/pages/2026/03/02/amazon-web-services-power-outage-in-middle-east-disrupts-ec2-and-core-networking.md",
+  "updatedAt": "2026-03-02T05:00:10.633-05:00",
+  "lastLink": "https://cyberpress.org/apt37-air-gap-breach-campaign/",
+  "lastId": "g95wx40000",
+  "lastFilePath": "cyberpress/pages/2026/03/02/apt37-targets-air-gapped-networks-with-novel-malware-strain.md",
   "items": [
     {
-      "id": "rl8nrb0000",
-      "link": "https://cyberpress.org/amazon-web-services-power-outage/",
-      "filePath": "cyberpress/pages/2026/03/02/amazon-web-services-power-outage-in-middle-east-disrupts-ec2-and-core-networking.md",
-      "committedAt": "2026-03-02T04:00:32.735-05:00",
-      "title": "Amazon Web Services Power Outage in Middle East Disrupts EC2 and Core Networking Services"
+      "id": "g95wx40000",
+      "link": "https://cyberpress.org/apt37-air-gap-breach-campaign/",
+      "filePath": "cyberpress/pages/2026/03/02/apt37-targets-air-gapped-networks-with-novel-malware-strain.md",
+      "committedAt": "2026-03-02T05:00:10.633-05:00",
+      "title": "APT37 Targets Air-Gapped Networks With Novel Malware Strain"
     }
   ]
 }
