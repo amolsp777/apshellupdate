@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-02T14:00:38.209-05:00",
-  "lastLink": "https://cyberpress.org/gaming-utilities-spread-rats/",
-  "lastId": "at9sxe0000",
-  "lastFilePath": "cyberpress/pages/2026/03/02/cybercriminals-exploit-gaming-community-with-malicious-utilities-spreading-rats.md",
+  "updatedAt": "2026-03-02T15:00:57.818-05:00",
+  "lastLink": "https://cyberpress.org/oneuptime-command-injection-flaw-enables-full-server-takeover/",
+  "lastId": "12g1nq1000",
+  "lastFilePath": "cyberpress/pages/2026/03/02/oneuptime-command-injection-flaw-enables-full-server-takeover.md",
   "items": [
     {
-      "id": "at9sxe0000",
-      "link": "https://cyberpress.org/gaming-utilities-spread-rats/",
-      "filePath": "cyberpress/pages/2026/03/02/cybercriminals-exploit-gaming-community-with-malicious-utilities-spreading-rats.md",
-      "committedAt": "2026-03-02T14:00:38.209-05:00",
-      "title": "Cybercriminals Exploit Gaming Community With Malicious Utilities Spreading RATs"
+      "id": "12g1nq1000",
+      "link": "https://cyberpress.org/oneuptime-command-injection-flaw-enables-full-server-takeover/",
+      "filePath": "cyberpress/pages/2026/03/02/oneuptime-command-injection-flaw-enables-full-server-takeover.md",
+      "committedAt": "2026-03-02T15:00:57.818-05:00",
+      "title": "OneUptime Command Injection Flaw Enables Full Server Takeover"
     }
   ]
 }
