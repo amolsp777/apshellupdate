@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-02T03:00:27.153-05:00",
-  "lastLink": "https://cyberpress.org/agent-tesla-evades-detection/",
-  "lastId": "1t8mksz000",
-  "lastFilePath": "cyberpress/pages/2026/03/02/agent-tesla-phishing-campaign-uses-process-hollowing-to-evade-security-tools.md",
+  "updatedAt": "2026-03-02T04:00:32.735-05:00",
+  "lastLink": "https://cyberpress.org/amazon-web-services-power-outage/",
+  "lastId": "rl8nrb0000",
+  "lastFilePath": "cyberpress/pages/2026/03/02/amazon-web-services-power-outage-in-middle-east-disrupts-ec2-and-core-networking.md",
   "items": [
     {
-      "id": "1t8mksz000",
-      "link": "https://cyberpress.org/agent-tesla-evades-detection/",
-      "filePath": "cyberpress/pages/2026/03/02/agent-tesla-phishing-campaign-uses-process-hollowing-to-evade-security-tools.md",
-      "committedAt": "2026-03-02T03:00:27.153-05:00",
-      "title": "Agent Tesla Phishing Campaign Uses Process Hollowing To Evade Security Tools"
+      "id": "rl8nrb0000",
+      "link": "https://cyberpress.org/amazon-web-services-power-outage/",
+      "filePath": "cyberpress/pages/2026/03/02/amazon-web-services-power-outage-in-middle-east-disrupts-ec2-and-core-networking.md",
+      "committedAt": "2026-03-02T04:00:32.735-05:00",
+      "title": "Amazon Web Services Power Outage in Middle East Disrupts EC2 and Core Networking Services"
     }
   ]
 }
