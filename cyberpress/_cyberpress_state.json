@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-02T10:00:05.009-05:00",
-  "lastLink": "https://cyberpress.org/apt28-exploits-mshtml-zero-day/",
-  "lastId": "v8hniu0000",
-  "lastFilePath": "cyberpress/pages/2026/03/02/apt28-exploits-mshtml-zero-day-ahead-of-february-2026-patch-tuesday.md",
+  "updatedAt": "2026-03-02T11:00:10.893-05:00",
+  "lastLink": "https://cyberpress.org/poc-exploit-released-for-microsoft-windows/",
+  "lastId": "1l1m98r000",
+  "lastFilePath": "cyberpress/pages/2026/03/02/poc-exploit-released-for-microsoft-windows-error-reporting-alpc-privilege-escala.md",
   "items": [
     {
-      "id": "v8hniu0000",
-      "link": "https://cyberpress.org/apt28-exploits-mshtml-zero-day/",
-      "filePath": "cyberpress/pages/2026/03/02/apt28-exploits-mshtml-zero-day-ahead-of-february-2026-patch-tuesday.md",
-      "committedAt": "2026-03-02T10:00:05.009-05:00",
-      "title": "APT28 Exploits MSHTML Zero-Day Ahead of February 2026 Patch Tuesday"
+      "id": "1l1m98r000",
+      "link": "https://cyberpress.org/poc-exploit-released-for-microsoft-windows/",
+      "filePath": "cyberpress/pages/2026/03/02/poc-exploit-released-for-microsoft-windows-error-reporting-alpc-privilege-escala.md",
+      "committedAt": "2026-03-02T11:00:10.893-05:00",
+      "title": "PoC Exploit Released for Microsoft Windows Error Reporting ALPC Privilege Escalation"
     }
   ]
 }
