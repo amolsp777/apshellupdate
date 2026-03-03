@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-02T16:00:49.209-05:00",
-  "lastLink": "https://cyberpress.org/vshell-gains-threat-popularity/",
-  "lastId": "338qu30000",
-  "lastFilePath": "cyberpress/pages/2026/03/02/vshell-emerges-as-new-favorite-tool-among-cyber-threat-actors.md",
+  "updatedAt": "2026-03-03T02:00:21.565-05:00",
+  "lastLink": "https://cyberpress.org/critical-flaw-in-google-chrome-gemini/",
+  "lastId": "2a7jgv0000",
+  "lastFilePath": "cyberpress/pages/2026/03/03/critical-flaw-in-google-chrome-gemini-exposes-users-camera-and-microphone-to-hac.md",
   "items": [
     {
-      "id": "338qu30000",
-      "link": "https://cyberpress.org/vshell-gains-threat-popularity/",
-      "filePath": "cyberpress/pages/2026/03/02/vshell-emerges-as-new-favorite-tool-among-cyber-threat-actors.md",
-      "committedAt": "2026-03-02T16:00:49.209-05:00",
-      "title": "Vshell Emerges As New Favorite Tool Among Cyber Threat Actors"
+      "id": "2a7jgv0000",
+      "link": "https://cyberpress.org/critical-flaw-in-google-chrome-gemini/",
+      "filePath": "cyberpress/pages/2026/03/03/critical-flaw-in-google-chrome-gemini-exposes-users-camera-and-microphone-to-hac.md",
+      "committedAt": "2026-03-03T02:00:21.565-05:00",
+      "title": "Critical Flaw in Google Chrome Gemini Exposes Users’ Camera and Microphone to Hackers"
     }
   ]
 }
