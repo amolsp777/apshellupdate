@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-03T04:00:21.439-05:00",
-  "lastLink": "https://cyberpress.org/resurge-malware-targets-ivanti-vulnerabilities/",
-  "lastId": "1o2yr7u000",
-  "lastFilePath": "cyberpress/pages/2026/03/03/cisa-alerts-on-resurge-malware-targeting-ivanti-connect-secure-vulnerabilities.md",
+  "updatedAt": "2026-03-03T05:00:27.341-05:00",
+  "lastLink": "https://cyberpress.org/severe-xss-vulnerability/",
+  "lastId": "1rx7ulb000",
+  "lastFilePath": "cyberpress/pages/2026/03/03/severe-xss-vulnerability-in-angular-i18n-enables-malicious-script-injection.md",
   "items": [
     {
-      "id": "1o2yr7u000",
-      "link": "https://cyberpress.org/resurge-malware-targets-ivanti-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/03/03/cisa-alerts-on-resurge-malware-targeting-ivanti-connect-secure-vulnerabilities.md",
-      "committedAt": "2026-03-03T04:00:21.439-05:00",
-      "title": "CISA Alerts On RESURGE Malware Targeting Ivanti Connect Secure Vulnerabilities"
+      "id": "1rx7ulb000",
+      "link": "https://cyberpress.org/severe-xss-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/03/severe-xss-vulnerability-in-angular-i18n-enables-malicious-script-injection.md",
+      "committedAt": "2026-03-03T05:00:27.341-05:00",
+      "title": "Severe XSS Vulnerability in Angular i18n Enables Malicious Script Injection"
     }
   ]
 }
