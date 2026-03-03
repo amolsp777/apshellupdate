@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-03T09:00:15.929-05:00",
-  "lastLink": "https://cyberpress.org/hpe-autopass-vulnerability/",
-  "lastId": "2a3cxn0000",
-  "lastFilePath": "cyberpress/pages/2026/03/03/critical-hpe-autopass-vulnerability-allows-remote-authentication-bypass.md",
+  "updatedAt": "2026-03-03T10:00:22.684-05:00",
+  "lastLink": "https://cyberpress.org/starkiller-phishing-framework-uses/",
+  "lastId": "1oyhu8i000",
+  "lastFilePath": "cyberpress/pages/2026/03/03/starkiller-phishing-framework-uses-real-login-pages-to-evade-mfa-protections.md",
   "items": [
     {
-      "id": "2a3cxn0000",
-      "link": "https://cyberpress.org/hpe-autopass-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/03/critical-hpe-autopass-vulnerability-allows-remote-authentication-bypass.md",
-      "committedAt": "2026-03-03T09:00:15.929-05:00",
-      "title": "Critical HPE AutoPass Vulnerability Allows Remote Authentication Bypass"
+      "id": "1oyhu8i000",
+      "link": "https://cyberpress.org/starkiller-phishing-framework-uses/",
+      "filePath": "cyberpress/pages/2026/03/03/starkiller-phishing-framework-uses-real-login-pages-to-evade-mfa-protections.md",
+      "committedAt": "2026-03-03T10:00:22.684-05:00",
+      "title": "Starkiller Phishing Framework Uses Real Login Pages to Evade MFA Protections"
     }
   ]
 }
