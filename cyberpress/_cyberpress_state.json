@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-03T15:00:48.664-05:00",
-  "lastLink": "https://cyberpress.org/soc-faster-triage/",
-  "lastId": "adyzti0000",
-  "lastFilePath": "cyberpress/pages/2026/03/03/top-5-things-your-soc-needs-for-faster-triage.md",
+  "updatedAt": "2026-03-03T16:00:54.231-05:00",
+  "lastLink": "https://cyberpress.org/google-chrome-introduces-merkle-tree-certificates/",
+  "lastId": "101skc0000",
+  "lastFilePath": "cyberpress/pages/2026/03/03/google-chrome-introduces-merkle-tree-certificates-to-strengthen-https-against-qu.md",
   "items": [
     {
-      "id": "adyzti0000",
-      "link": "https://cyberpress.org/soc-faster-triage/",
-      "filePath": "cyberpress/pages/2026/03/03/top-5-things-your-soc-needs-for-faster-triage.md",
-      "committedAt": "2026-03-03T15:00:48.664-05:00",
-      "title": "Top 5 Things Your SOC Needs For Faster Triage"
+      "id": "101skc0000",
+      "link": "https://cyberpress.org/google-chrome-introduces-merkle-tree-certificates/",
+      "filePath": "cyberpress/pages/2026/03/03/google-chrome-introduces-merkle-tree-certificates-to-strengthen-https-against-qu.md",
+      "committedAt": "2026-03-03T16:00:54.231-05:00",
+      "title": "Google Chrome Introduces Merkle Tree Certificates to Strengthen HTTPS Against Quantum Attacks"
     }
   ]
 }
