@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-03T08:00:05.043-05:00",
-  "lastLink": "https://cyberpress.org/go-crypto-steals-credentials-deploys-rekoobe/",
-  "lastId": "1j0gak1000",
-  "lastFilePath": "cyberpress/pages/2026/03/03/go-crypto-malware-steals-credentials-and-deploys-rekoobe-backdoor-via-supply-cha.md",
+  "updatedAt": "2026-03-03T09:00:15.929-05:00",
+  "lastLink": "https://cyberpress.org/hpe-autopass-vulnerability/",
+  "lastId": "2a3cxn0000",
+  "lastFilePath": "cyberpress/pages/2026/03/03/critical-hpe-autopass-vulnerability-allows-remote-authentication-bypass.md",
   "items": [
     {
-      "id": "1j0gak1000",
-      "link": "https://cyberpress.org/go-crypto-steals-credentials-deploys-rekoobe/",
-      "filePath": "cyberpress/pages/2026/03/03/go-crypto-malware-steals-credentials-and-deploys-rekoobe-backdoor-via-supply-cha.md",
-      "committedAt": "2026-03-03T08:00:05.043-05:00",
-      "title": "Go Crypto Malware Steals Credentials and Deploys Rekoobe Backdoor via Supply Chain Breach"
+      "id": "2a3cxn0000",
+      "link": "https://cyberpress.org/hpe-autopass-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/03/critical-hpe-autopass-vulnerability-allows-remote-authentication-bypass.md",
+      "committedAt": "2026-03-03T09:00:15.929-05:00",
+      "title": "Critical HPE AutoPass Vulnerability Allows Remote Authentication Bypass"
     }
   ]
 }
