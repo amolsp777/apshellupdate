@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-03T14:01:25.986-05:00",
-  "lastLink": "https://cyberpress.org/gtfire-phishing-steals-credentials/",
-  "lastId": "18djscm000",
-  "lastFilePath": "cyberpress/pages/2026/03/03/hackers-use-gtfire-phishing-attack-to-steal-credentials-via-google-services.md",
+  "updatedAt": "2026-03-03T15:00:48.664-05:00",
+  "lastLink": "https://cyberpress.org/soc-faster-triage/",
+  "lastId": "adyzti0000",
+  "lastFilePath": "cyberpress/pages/2026/03/03/top-5-things-your-soc-needs-for-faster-triage.md",
   "items": [
     {
-      "id": "18djscm000",
-      "link": "https://cyberpress.org/gtfire-phishing-steals-credentials/",
-      "filePath": "cyberpress/pages/2026/03/03/hackers-use-gtfire-phishing-attack-to-steal-credentials-via-google-services.md",
-      "committedAt": "2026-03-03T14:01:25.986-05:00",
-      "title": "Hackers Use GTFire Phishing Attack to Steal Credentials via Google Services"
+      "id": "adyzti0000",
+      "link": "https://cyberpress.org/soc-faster-triage/",
+      "filePath": "cyberpress/pages/2026/03/03/top-5-things-your-soc-needs-for-faster-triage.md",
+      "committedAt": "2026-03-03T15:00:48.664-05:00",
+      "title": "Top 5 Things Your SOC Needs For Faster Triage"
     }
   ]
 }
