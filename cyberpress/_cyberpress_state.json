@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-03T02:00:21.565-05:00",
-  "lastLink": "https://cyberpress.org/critical-flaw-in-google-chrome-gemini/",
-  "lastId": "2a7jgv0000",
-  "lastFilePath": "cyberpress/pages/2026/03/03/critical-flaw-in-google-chrome-gemini-exposes-users-camera-and-microphone-to-hac.md",
+  "updatedAt": "2026-03-03T03:00:05.194-05:00",
+  "lastLink": "https://cyberpress.org/android-security-update-fixes-129-vulnerabilities/",
+  "lastId": "72ppn80000",
+  "lastFilePath": "cyberpress/pages/2026/03/03/android-security-update-fixes-129-vulnerabilities-including-actively-exploited-z.md",
   "items": [
     {
-      "id": "2a7jgv0000",
-      "link": "https://cyberpress.org/critical-flaw-in-google-chrome-gemini/",
-      "filePath": "cyberpress/pages/2026/03/03/critical-flaw-in-google-chrome-gemini-exposes-users-camera-and-microphone-to-hac.md",
-      "committedAt": "2026-03-03T02:00:21.565-05:00",
-      "title": "Critical Flaw in Google Chrome Gemini Exposes Users’ Camera and Microphone to Hackers"
+      "id": "72ppn80000",
+      "link": "https://cyberpress.org/android-security-update-fixes-129-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/03/03/android-security-update-fixes-129-vulnerabilities-including-actively-exploited-z.md",
+      "committedAt": "2026-03-03T03:00:05.194-05:00",
+      "title": "Android Security Update Fixes 129 Vulnerabilities, Including Actively Exploited Zero-Day"
     }
   ]
 }
