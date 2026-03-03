@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-03T13:00:37.673-05:00",
-  "lastLink": "https://cyberpress.org/hackers-use-cyberstrikeai-tool-to-breach-fortinet-fortigate-devices/",
-  "lastId": "1jqglkk000",
-  "lastFilePath": "cyberpress/pages/2026/03/03/hackers-use-cyberstrikeai-tool-to-breach-fortinet-fortigate-devices.md",
+  "updatedAt": "2026-03-03T14:01:25.986-05:00",
+  "lastLink": "https://cyberpress.org/gtfire-phishing-steals-credentials/",
+  "lastId": "18djscm000",
+  "lastFilePath": "cyberpress/pages/2026/03/03/hackers-use-gtfire-phishing-attack-to-steal-credentials-via-google-services.md",
   "items": [
     {
-      "id": "1jqglkk000",
-      "link": "https://cyberpress.org/hackers-use-cyberstrikeai-tool-to-breach-fortinet-fortigate-devices/",
-      "filePath": "cyberpress/pages/2026/03/03/hackers-use-cyberstrikeai-tool-to-breach-fortinet-fortigate-devices.md",
-      "committedAt": "2026-03-03T13:00:37.673-05:00",
-      "title": "Hackers Use CyberStrikeAI Tool to Breach Fortinet FortiGate Devices"
+      "id": "18djscm000",
+      "link": "https://cyberpress.org/gtfire-phishing-steals-credentials/",
+      "filePath": "cyberpress/pages/2026/03/03/hackers-use-gtfire-phishing-attack-to-steal-credentials-via-google-services.md",
+      "committedAt": "2026-03-03T14:01:25.986-05:00",
+      "title": "Hackers Use GTFire Phishing Attack to Steal Credentials via Google Services"
     }
   ]
 }
