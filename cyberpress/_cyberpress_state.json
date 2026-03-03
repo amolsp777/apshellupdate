@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-03T06:00:11.801-05:00",
-  "lastLink": "https://cyberpress.org/ocrfix-botnet-evades-detection/",
-  "lastId": "12y8v6m000",
-  "lastFilePath": "cyberpress/pages/2026/03/03/ocrfix-botnet-trojan-uses-clickfix-phishing-to-evade-detection.md",
+  "updatedAt": "2026-03-03T07:00:15.897-05:00",
+  "lastLink": "https://cyberpress.org/critical-ms-agent-vulnerability-allows-attackers-to-hijack-ai-agents-and-gain-full-system-control/",
+  "lastId": "13wnd21000",
+  "lastFilePath": "cyberpress/pages/2026/03/03/critical-ms-agent-vulnerability-allows-attackers-to-hijack-ai-agents-and-gain-fu.md",
   "items": [
     {
-      "id": "12y8v6m000",
-      "link": "https://cyberpress.org/ocrfix-botnet-evades-detection/",
-      "filePath": "cyberpress/pages/2026/03/03/ocrfix-botnet-trojan-uses-clickfix-phishing-to-evade-detection.md",
-      "committedAt": "2026-03-03T06:00:11.801-05:00",
-      "title": "OCRFix Botnet Trojan Uses ClickFix Phishing To Evade Detection"
+      "id": "13wnd21000",
+      "link": "https://cyberpress.org/critical-ms-agent-vulnerability-allows-attackers-to-hijack-ai-agents-and-gain-full-system-control/",
+      "filePath": "cyberpress/pages/2026/03/03/critical-ms-agent-vulnerability-allows-attackers-to-hijack-ai-agents-and-gain-fu.md",
+      "committedAt": "2026-03-03T07:00:15.897-05:00",
+      "title": "Critical MS-Agent Vulnerability Allows Attackers to Hijack AI Agents and Gain Full System Control"
     }
   ]
 }
