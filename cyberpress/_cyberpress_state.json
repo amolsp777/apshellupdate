@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-04T08:00:10.736-05:00",
-  "lastLink": "https://cyberpress.org/zerobot-exploits-tenda-vulnerability/",
-  "lastId": "yxuw2t0000",
-  "lastFilePath": "cyberpress/pages/2026/03/04/tenda-routers-hit-by-zerobot-malware-exploiting-command-injection-flaw.md",
+  "updatedAt": "2026-03-04T09:00:18.160-05:00",
+  "lastLink": "https://cyberpress.org/vulnerability-in-vmware-aria-operations/",
+  "lastId": "1lm9fqv000",
+  "lastFilePath": "cyberpress/pages/2026/03/04/cisa-warns-of-actively-exploited-vulnerability-in-vmware-aria-operations.md",
   "items": [
     {
-      "id": "yxuw2t0000",
-      "link": "https://cyberpress.org/zerobot-exploits-tenda-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/04/tenda-routers-hit-by-zerobot-malware-exploiting-command-injection-flaw.md",
-      "committedAt": "2026-03-04T08:00:10.736-05:00",
-      "title": "Tenda Routers Hit By Zerobot Malware Exploiting Command Injection Flaw"
+      "id": "1lm9fqv000",
+      "link": "https://cyberpress.org/vulnerability-in-vmware-aria-operations/",
+      "filePath": "cyberpress/pages/2026/03/04/cisa-warns-of-actively-exploited-vulnerability-in-vmware-aria-operations.md",
+      "committedAt": "2026-03-04T09:00:18.160-05:00",
+      "title": "CISA Warns of Actively Exploited Vulnerability in VMware Aria Operations"
     }
   ]
 }
