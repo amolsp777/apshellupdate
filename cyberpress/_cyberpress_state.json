@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-04T07:00:05.428-05:00",
-  "lastLink": "https://cyberpress.org/ipvanish-vpn-for-macos-vulnerability-allows-privilege-escalation-and-code-execution/",
-  "lastId": "ny9wes0000",
-  "lastFilePath": "cyberpress/pages/2026/03/04/ipvanish-vpn-for-macos-vulnerability-allows-privilege-escalation-and-code-execut.md",
+  "updatedAt": "2026-03-04T08:00:10.736-05:00",
+  "lastLink": "https://cyberpress.org/zerobot-exploits-tenda-vulnerability/",
+  "lastId": "yxuw2t0000",
+  "lastFilePath": "cyberpress/pages/2026/03/04/tenda-routers-hit-by-zerobot-malware-exploiting-command-injection-flaw.md",
   "items": [
     {
-      "id": "ny9wes0000",
-      "link": "https://cyberpress.org/ipvanish-vpn-for-macos-vulnerability-allows-privilege-escalation-and-code-execution/",
-      "filePath": "cyberpress/pages/2026/03/04/ipvanish-vpn-for-macos-vulnerability-allows-privilege-escalation-and-code-execut.md",
-      "committedAt": "2026-03-04T07:00:05.428-05:00",
-      "title": "IPVanish VPN for macOS Vulnerability Allows Privilege Escalation and Code Execution"
+      "id": "yxuw2t0000",
+      "link": "https://cyberpress.org/zerobot-exploits-tenda-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/04/tenda-routers-hit-by-zerobot-malware-exploiting-command-injection-flaw.md",
+      "committedAt": "2026-03-04T08:00:10.736-05:00",
+      "title": "Tenda Routers Hit By Zerobot Malware Exploiting Command Injection Flaw"
     }
   ]
 }
