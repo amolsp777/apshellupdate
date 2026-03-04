@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-03T16:00:54.231-05:00",
-  "lastLink": "https://cyberpress.org/google-chrome-introduces-merkle-tree-certificates/",
-  "lastId": "101skc0000",
-  "lastFilePath": "cyberpress/pages/2026/03/03/google-chrome-introduces-merkle-tree-certificates-to-strengthen-https-against-qu.md",
+  "updatedAt": "2026-03-04T03:00:05.002-05:00",
+  "lastLink": "https://cyberpress.org/coruna-exploit-kit-leveraging-23-vulnerabilities/",
+  "lastId": "dynqpt0000",
+  "lastFilePath": "cyberpress/pages/2026/03/04/coruna-exploit-kit-leveraging-23-vulnerabilities-compromised-thousands-of-iphone.md",
   "items": [
     {
-      "id": "101skc0000",
-      "link": "https://cyberpress.org/google-chrome-introduces-merkle-tree-certificates/",
-      "filePath": "cyberpress/pages/2026/03/03/google-chrome-introduces-merkle-tree-certificates-to-strengthen-https-against-qu.md",
-      "committedAt": "2026-03-03T16:00:54.231-05:00",
-      "title": "Google Chrome Introduces Merkle Tree Certificates to Strengthen HTTPS Against Quantum Attacks"
+      "id": "dynqpt0000",
+      "link": "https://cyberpress.org/coruna-exploit-kit-leveraging-23-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/03/04/coruna-exploit-kit-leveraging-23-vulnerabilities-compromised-thousands-of-iphone.md",
+      "committedAt": "2026-03-04T03:00:05.002-05:00",
+      "title": "Coruna Exploit Kit Leveraging 23 Vulnerabilities Compromised Thousands of iPhones"
     }
   ]
 }
