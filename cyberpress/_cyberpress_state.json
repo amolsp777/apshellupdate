@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-04T06:00:10.769-05:00",
-  "lastLink": "https://cyberpress.org/lexisnexis-data-breach/",
-  "lastId": "yalkbo0000",
-  "lastFilePath": "cyberpress/pages/2026/03/04/lexisnexis-data-breach-threat-actor-claims-theft-of-204-gb-of-data.md",
+  "updatedAt": "2026-03-04T07:00:05.428-05:00",
+  "lastLink": "https://cyberpress.org/ipvanish-vpn-for-macos-vulnerability-allows-privilege-escalation-and-code-execution/",
+  "lastId": "ny9wes0000",
+  "lastFilePath": "cyberpress/pages/2026/03/04/ipvanish-vpn-for-macos-vulnerability-allows-privilege-escalation-and-code-execut.md",
   "items": [
     {
-      "id": "yalkbo0000",
-      "link": "https://cyberpress.org/lexisnexis-data-breach/",
-      "filePath": "cyberpress/pages/2026/03/04/lexisnexis-data-breach-threat-actor-claims-theft-of-204-gb-of-data.md",
-      "committedAt": "2026-03-04T06:00:10.769-05:00",
-      "title": "LexisNexis Data Breach: Threat Actor Claims Theft of 2.04 GB of Data"
+      "id": "ny9wes0000",
+      "link": "https://cyberpress.org/ipvanish-vpn-for-macos-vulnerability-allows-privilege-escalation-and-code-execution/",
+      "filePath": "cyberpress/pages/2026/03/04/ipvanish-vpn-for-macos-vulnerability-allows-privilege-escalation-and-code-execut.md",
+      "committedAt": "2026-03-04T07:00:05.428-05:00",
+      "title": "IPVanish VPN for macOS Vulnerability Allows Privilege Escalation and Code Execution"
     }
   ]
 }
