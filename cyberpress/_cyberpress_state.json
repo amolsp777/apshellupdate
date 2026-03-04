@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-04T11:00:32.671-05:00",
-  "lastLink": "https://cyberpress.org/hackers-use-telegram-for-access/",
-  "lastId": "1csdbq9000",
-  "lastFilePath": "cyberpress/pages/2026/03/04/telegram-used-by-hackers-for-initial-access-to-critical-corporate-infrastructure.md",
+  "updatedAt": "2026-03-04T12:00:37.560-05:00",
+  "lastLink": "https://cyberpress.org/honeywell-controllers-exposed/",
+  "lastId": "ztthgg0000",
+  "lastFilePath": "cyberpress/pages/2026/03/04/honeywell-controllers-exposed-online-without-authentication-thousands-at-risk.md",
   "items": [
     {
-      "id": "1csdbq9000",
-      "link": "https://cyberpress.org/hackers-use-telegram-for-access/",
-      "filePath": "cyberpress/pages/2026/03/04/telegram-used-by-hackers-for-initial-access-to-critical-corporate-infrastructure.md",
-      "committedAt": "2026-03-04T11:00:32.671-05:00",
-      "title": "Telegram Used By Hackers For Initial Access To Critical Corporate Infrastructure"
+      "id": "ztthgg0000",
+      "link": "https://cyberpress.org/honeywell-controllers-exposed/",
+      "filePath": "cyberpress/pages/2026/03/04/honeywell-controllers-exposed-online-without-authentication-thousands-at-risk.md",
+      "committedAt": "2026-03-04T12:00:37.560-05:00",
+      "title": "Honeywell Controllers Exposed Online Without Authentication, Thousands at Risk"
     }
   ]
 }
