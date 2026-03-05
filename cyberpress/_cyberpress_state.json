@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-05T05:00:16.169-05:00",
-  "lastLink": "https://cyberpress.org/cisco-secure-firewall-management-vulnerability/",
-  "lastId": "1iagebn000",
-  "lastFilePath": "cyberpress/pages/2026/03/05/cisco-secure-firewall-management-vulnerability-allows-attackers-to-bypass-authen.md",
+  "updatedAt": "2026-03-05T06:00:05.095-05:00",
+  "lastLink": "https://cyberpress.org/firewall-management-vulnerability/",
+  "lastId": "1proy50000",
+  "lastFilePath": "cyberpress/pages/2026/03/05/critical-cisco-secure-firewall-management-vulnerability-enables-remote-code-exec.md",
   "items": [
     {
-      "id": "1iagebn000",
-      "link": "https://cyberpress.org/cisco-secure-firewall-management-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/05/cisco-secure-firewall-management-vulnerability-allows-attackers-to-bypass-authen.md",
-      "committedAt": "2026-03-05T05:00:16.169-05:00",
-      "title": "Cisco Secure Firewall Management Vulnerability Allows Attackers to Bypass Authentication"
+      "id": "1proy50000",
+      "link": "https://cyberpress.org/firewall-management-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/05/critical-cisco-secure-firewall-management-vulnerability-enables-remote-code-exec.md",
+      "committedAt": "2026-03-05T06:00:05.095-05:00",
+      "title": "Critical Cisco Secure Firewall Management Vulnerability Enables Remote Code Execution"
     }
   ]
 }
