@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-05T02:00:21.546-05:00",
-  "lastLink": "https://cyberpress.org/tycoon-2fa-phishing/",
-  "lastId": "1xg3fo5000",
-  "lastFilePath": "cyberpress/pages/2026/03/05/microsoft-and-europol-take-down-tycoon-2fa-phishing-kit-used-in-global-cyber-att.md",
+  "updatedAt": "2026-03-05T03:00:05.281-05:00",
+  "lastLink": "https://cyberpress.org/critical-cisco-catalyst-sd-wan-vulnerabilities-allow-attackers-to-gain-root-access/",
+  "lastId": "3j7nkk0000",
+  "lastFilePath": "cyberpress/pages/2026/03/05/critical-cisco-catalyst-sd-wan-vulnerabilities-allow-attackers-to-gain-root-acce.md",
   "items": [
     {
-      "id": "1xg3fo5000",
-      "link": "https://cyberpress.org/tycoon-2fa-phishing/",
-      "filePath": "cyberpress/pages/2026/03/05/microsoft-and-europol-take-down-tycoon-2fa-phishing-kit-used-in-global-cyber-att.md",
-      "committedAt": "2026-03-05T02:00:21.546-05:00",
-      "title": "Microsoft and Europol Take Down Tycoon 2FA Phishing Kit Used in Global Cyber Attacks"
+      "id": "3j7nkk0000",
+      "link": "https://cyberpress.org/critical-cisco-catalyst-sd-wan-vulnerabilities-allow-attackers-to-gain-root-access/",
+      "filePath": "cyberpress/pages/2026/03/05/critical-cisco-catalyst-sd-wan-vulnerabilities-allow-attackers-to-gain-root-acce.md",
+      "committedAt": "2026-03-05T03:00:05.281-05:00",
+      "title": "Critical Cisco Catalyst SD-WAN Vulnerabilities Allow Attackers to Gain Root Access"
     }
   ]
 }
