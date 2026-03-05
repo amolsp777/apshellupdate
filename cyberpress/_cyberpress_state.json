@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-05T06:00:05.095-05:00",
-  "lastLink": "https://cyberpress.org/firewall-management-vulnerability/",
-  "lastId": "1proy50000",
-  "lastFilePath": "cyberpress/pages/2026/03/05/critical-cisco-secure-firewall-management-vulnerability-enables-remote-code-exec.md",
+  "updatedAt": "2026-03-05T07:00:05.500-05:00",
+  "lastLink": "https://cyberpress.org/google-10-security-vulnerabilities/",
+  "lastId": "1saf01s000",
+  "lastFilePath": "cyberpress/pages/2026/03/05/google-issues-emergency-chrome-update-to-patch-10-security-vulnerabilities.md",
   "items": [
     {
-      "id": "1proy50000",
-      "link": "https://cyberpress.org/firewall-management-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/05/critical-cisco-secure-firewall-management-vulnerability-enables-remote-code-exec.md",
-      "committedAt": "2026-03-05T06:00:05.095-05:00",
-      "title": "Critical Cisco Secure Firewall Management Vulnerability Enables Remote Code Execution"
+      "id": "1saf01s000",
+      "link": "https://cyberpress.org/google-10-security-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/03/05/google-issues-emergency-chrome-update-to-patch-10-security-vulnerabilities.md",
+      "committedAt": "2026-03-05T07:00:05.500-05:00",
+      "title": "Google Issues Emergency Chrome Update to Patch 10 Security Vulnerabilities"
     }
   ]
 }
