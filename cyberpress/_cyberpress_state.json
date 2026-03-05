@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-05T10:00:21.506-05:00",
-  "lastLink": "https://cyberpress.org/voidlink-malware-targets-kubernetes/",
-  "lastId": "o1lwwn0000",
-  "lastFilePath": "cyberpress/pages/2026/03/05/kubernetes-and-ai-workloads-under-attack-by-voidlink-malware.md",
+  "updatedAt": "2026-03-05T11:00:21.711-05:00",
+  "lastLink": "https://cyberpress.org/mongodb-vulnerability/",
+  "lastId": "mq1a3k0000",
+  "lastFilePath": "cyberpress/pages/2026/03/05/new-mongodb-vulnerability-allows-attackers-to-crash-any-server.md",
   "items": [
     {
-      "id": "o1lwwn0000",
-      "link": "https://cyberpress.org/voidlink-malware-targets-kubernetes/",
-      "filePath": "cyberpress/pages/2026/03/05/kubernetes-and-ai-workloads-under-attack-by-voidlink-malware.md",
-      "committedAt": "2026-03-05T10:00:21.506-05:00",
-      "title": "Kubernetes and AI Workloads Under Attack By VoidLink Malware"
+      "id": "mq1a3k0000",
+      "link": "https://cyberpress.org/mongodb-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/05/new-mongodb-vulnerability-allows-attackers-to-crash-any-server.md",
+      "committedAt": "2026-03-05T11:00:21.711-05:00",
+      "title": "New MongoDB Vulnerability Allows Attackers to Crash Any Server"
     }
   ]
 }
