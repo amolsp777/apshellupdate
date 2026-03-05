@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-05T12:00:39.582-05:00",
-  "lastLink": "https://cyberpress.org/azcopy-exploited-in-ransomware/",
-  "lastId": "1azh00f000",
-  "lastFilePath": "cyberpress/pages/2026/03/05/azcopy-misused-in-active-ransomware-data-exfiltration-campaigns.md",
+  "updatedAt": "2026-03-05T13:00:43.317-05:00",
+  "lastLink": "https://cyberpress.org/pac4j-jwt-authentication/",
+  "lastId": "4b3uu40000",
+  "lastFilePath": "cyberpress/pages/2026/03/05/critical-pac4j-jwt-authentication-bypass-lets-attackers-impersonate-any-user.md",
   "items": [
     {
-      "id": "1azh00f000",
-      "link": "https://cyberpress.org/azcopy-exploited-in-ransomware/",
-      "filePath": "cyberpress/pages/2026/03/05/azcopy-misused-in-active-ransomware-data-exfiltration-campaigns.md",
-      "committedAt": "2026-03-05T12:00:39.582-05:00",
-      "title": "AzCopy Misused In Active Ransomware Data Exfiltration Campaigns"
+      "id": "4b3uu40000",
+      "link": "https://cyberpress.org/pac4j-jwt-authentication/",
+      "filePath": "cyberpress/pages/2026/03/05/critical-pac4j-jwt-authentication-bypass-lets-attackers-impersonate-any-user.md",
+      "committedAt": "2026-03-05T13:00:43.317-05:00",
+      "title": "Critical pac4j-jwt Authentication Bypass Lets Attackers Impersonate Any User"
     }
   ]
 }
