@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-05T09:00:05.054-05:00",
-  "lastLink": "https://cyberpress.org/cisco-sd-wan-0-day-vulnerability/",
-  "lastId": "nfr7wj0000",
-  "lastFilePath": "cyberpress/pages/2026/03/05/poc-exploit-released-for-cisco-sd-wan-0-day-vulnerability-actively-exploited-in-.md",
+  "updatedAt": "2026-03-05T10:00:21.506-05:00",
+  "lastLink": "https://cyberpress.org/voidlink-malware-targets-kubernetes/",
+  "lastId": "o1lwwn0000",
+  "lastFilePath": "cyberpress/pages/2026/03/05/kubernetes-and-ai-workloads-under-attack-by-voidlink-malware.md",
   "items": [
     {
-      "id": "nfr7wj0000",
-      "link": "https://cyberpress.org/cisco-sd-wan-0-day-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/05/poc-exploit-released-for-cisco-sd-wan-0-day-vulnerability-actively-exploited-in-.md",
-      "committedAt": "2026-03-05T09:00:05.054-05:00",
-      "title": "PoC Exploit Released for Cisco SD-WAN 0-Day Vulnerability Actively Exploited in the Wild"
+      "id": "o1lwwn0000",
+      "link": "https://cyberpress.org/voidlink-malware-targets-kubernetes/",
+      "filePath": "cyberpress/pages/2026/03/05/kubernetes-and-ai-workloads-under-attack-by-voidlink-malware.md",
+      "committedAt": "2026-03-05T10:00:21.506-05:00",
+      "title": "Kubernetes and AI Workloads Under Attack By VoidLink Malware"
     }
   ]
 }
