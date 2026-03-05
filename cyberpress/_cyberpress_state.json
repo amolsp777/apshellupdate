@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-05T03:00:05.281-05:00",
-  "lastLink": "https://cyberpress.org/critical-cisco-catalyst-sd-wan-vulnerabilities-allow-attackers-to-gain-root-access/",
-  "lastId": "3j7nkk0000",
-  "lastFilePath": "cyberpress/pages/2026/03/05/critical-cisco-catalyst-sd-wan-vulnerabilities-allow-attackers-to-gain-root-acce.md",
+  "updatedAt": "2026-03-05T04:00:21.109-05:00",
+  "lastLink": "https://cyberpress.org/operation-leak-shuts-down-leakbase-cybercrime/",
+  "lastId": "opqgo50000",
+  "lastFilePath": "cyberpress/pages/2026/03/05/operation-leak-shuts-down-leakbase-cybercrime-forum-authorities-seize-user-data-.md",
   "items": [
     {
-      "id": "3j7nkk0000",
-      "link": "https://cyberpress.org/critical-cisco-catalyst-sd-wan-vulnerabilities-allow-attackers-to-gain-root-access/",
-      "filePath": "cyberpress/pages/2026/03/05/critical-cisco-catalyst-sd-wan-vulnerabilities-allow-attackers-to-gain-root-acce.md",
-      "committedAt": "2026-03-05T03:00:05.281-05:00",
-      "title": "Critical Cisco Catalyst SD-WAN Vulnerabilities Allow Attackers to Gain Root Access"
+      "id": "opqgo50000",
+      "link": "https://cyberpress.org/operation-leak-shuts-down-leakbase-cybercrime/",
+      "filePath": "cyberpress/pages/2026/03/05/operation-leak-shuts-down-leakbase-cybercrime-forum-authorities-seize-user-data-.md",
+      "committedAt": "2026-03-05T04:00:21.109-05:00",
+      "title": "Operation Leak Shuts Down LeakBase Cybercrime Forum, Authorities Seize User Data and IP Logs"
     }
   ]
 }
