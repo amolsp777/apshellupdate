@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-05T04:00:21.109-05:00",
-  "lastLink": "https://cyberpress.org/operation-leak-shuts-down-leakbase-cybercrime/",
-  "lastId": "opqgo50000",
-  "lastFilePath": "cyberpress/pages/2026/03/05/operation-leak-shuts-down-leakbase-cybercrime-forum-authorities-seize-user-data-.md",
+  "updatedAt": "2026-03-05T05:00:16.169-05:00",
+  "lastLink": "https://cyberpress.org/cisco-secure-firewall-management-vulnerability/",
+  "lastId": "1iagebn000",
+  "lastFilePath": "cyberpress/pages/2026/03/05/cisco-secure-firewall-management-vulnerability-allows-attackers-to-bypass-authen.md",
   "items": [
     {
-      "id": "opqgo50000",
-      "link": "https://cyberpress.org/operation-leak-shuts-down-leakbase-cybercrime/",
-      "filePath": "cyberpress/pages/2026/03/05/operation-leak-shuts-down-leakbase-cybercrime-forum-authorities-seize-user-data-.md",
-      "committedAt": "2026-03-05T04:00:21.109-05:00",
-      "title": "Operation Leak Shuts Down LeakBase Cybercrime Forum, Authorities Seize User Data and IP Logs"
+      "id": "1iagebn000",
+      "link": "https://cyberpress.org/cisco-secure-firewall-management-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/05/cisco-secure-firewall-management-vulnerability-allows-attackers-to-bypass-authen.md",
+      "committedAt": "2026-03-05T05:00:16.169-05:00",
+      "title": "Cisco Secure Firewall Management Vulnerability Allows Attackers to Bypass Authentication"
     }
   ]
 }
