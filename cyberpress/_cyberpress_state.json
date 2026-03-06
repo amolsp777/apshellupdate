@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-06T04:00:16.112-05:00",
-  "lastLink": "https://cyberpress.org/amazon-aws-lc-vulnerability/",
-  "lastId": "1qjfgua000",
-  "lastFilePath": "cyberpress/pages/2026/03/06/amazon-aws-lc-vulnerability-allows-attackers-to-bypass-certificate-chain-verific.md",
+  "updatedAt": "2026-03-06T05:00:21.651-05:00",
+  "lastLink": "https://cyberpress.org/wordpress-membership-plugin-vulnerability/",
+  "lastId": "do6hb60000",
+  "lastFilePath": "cyberpress/pages/2026/03/06/wordpress-membership-plugin-vulnerability-lets-attackers-create-admin-accounts.md",
   "items": [
     {
-      "id": "1qjfgua000",
-      "link": "https://cyberpress.org/amazon-aws-lc-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/06/amazon-aws-lc-vulnerability-allows-attackers-to-bypass-certificate-chain-verific.md",
-      "committedAt": "2026-03-06T04:00:16.112-05:00",
-      "title": "Amazon AWS-LC Vulnerability Allows Attackers to Bypass Certificate Chain Verification"
+      "id": "do6hb60000",
+      "link": "https://cyberpress.org/wordpress-membership-plugin-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/06/wordpress-membership-plugin-vulnerability-lets-attackers-create-admin-accounts.md",
+      "committedAt": "2026-03-06T05:00:21.651-05:00",
+      "title": "WordPress Membership Plugin Vulnerability Lets Attackers Create Admin Accounts"
     }
   ]
 }
