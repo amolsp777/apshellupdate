@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-06T02:00:20.994-05:00",
-  "lastLink": "https://cyberpress.org/ai-malware-hits-iraq/",
-  "lastId": "bjhlqf0000",
-  "lastFilePath": "cyberpress/pages/2026/03/06/iranlinked-dust-specter-apt-unleashes-aiassisted-malware-against-iraqi-governmen.md",
+  "updatedAt": "2026-03-06T03:00:10.302-05:00",
+  "lastLink": "https://cyberpress.org/google-90-zero-day-vulnerabilities/",
+  "lastId": "1o20b0q000",
+  "lastFilePath": "cyberpress/pages/2026/03/06/google-reports-90-zero-day-vulnerabilities-exploited-by-hackers-in-2025.md",
   "items": [
     {
-      "id": "bjhlqf0000",
-      "link": "https://cyberpress.org/ai-malware-hits-iraq/",
-      "filePath": "cyberpress/pages/2026/03/06/iranlinked-dust-specter-apt-unleashes-aiassisted-malware-against-iraqi-governmen.md",
-      "committedAt": "2026-03-06T02:00:20.994-05:00",
-      "title": "Iran‑Linked “Dust Specter” APT Unleashes AI‑Assisted Malware Against Iraqi Government Officials"
+      "id": "1o20b0q000",
+      "link": "https://cyberpress.org/google-90-zero-day-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/03/06/google-reports-90-zero-day-vulnerabilities-exploited-by-hackers-in-2025.md",
+      "committedAt": "2026-03-06T03:00:10.302-05:00",
+      "title": "Google Reports 90 Zero-Day Vulnerabilities Exploited by Hackers in 2025"
     }
   ]
 }
