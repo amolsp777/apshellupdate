@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-06T07:00:16.223-05:00",
-  "lastLink": "https://cyberpress.org/apache-activemq-vulnerability/",
-  "lastId": "ti00os0000",
-  "lastFilePath": "cyberpress/pages/2026/03/06/apache-activemq-vulnerability-allows-attackers-to-trigger-dos-attacks-with-malfo.md",
+  "updatedAt": "2026-03-06T08:00:05.300-05:00",
+  "lastLink": "https://cyberpress.org/critical-zero-avideo/",
+  "lastId": "wuqzxv0000",
+  "lastFilePath": "cyberpress/pages/2026/03/06/critical-zero-click-command-injection-in-avideo-platform-enables-stream-hijackin.md",
   "items": [
     {
-      "id": "ti00os0000",
-      "link": "https://cyberpress.org/apache-activemq-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/06/apache-activemq-vulnerability-allows-attackers-to-trigger-dos-attacks-with-malfo.md",
-      "committedAt": "2026-03-06T07:00:16.223-05:00",
-      "title": "Apache ActiveMQ Vulnerability Allows Attackers to Trigger DoS Attacks with Malformed Packets"
+      "id": "wuqzxv0000",
+      "link": "https://cyberpress.org/critical-zero-avideo/",
+      "filePath": "cyberpress/pages/2026/03/06/critical-zero-click-command-injection-in-avideo-platform-enables-stream-hijackin.md",
+      "committedAt": "2026-03-06T08:00:05.300-05:00",
+      "title": "Critical Zero-Click Command Injection in AVideo Platform Enables Stream Hijacking"
     }
   ]
 }
