@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-06T09:00:31.883-05:00",
-  "lastLink": "https://cyberpress.org/ringh23-targets-cms-infrastructure/",
-  "lastId": "876jr60000",
-  "lastFilePath": "cyberpress/pages/2026/03/06/ringh23-hackers-target-maccms-and-cdn-infrastructure.md",
+  "updatedAt": "2026-03-06T10:00:37.445-05:00",
+  "lastLink": "https://cyberpress.org/dprk-hackers-steal-crypto-keys/",
+  "lastId": "1h9v533000",
+  "lastFilePath": "cyberpress/pages/2026/03/06/dprk-apts-steal-crypto-keys-in-coordinated-cloud-attack.md",
   "items": [
     {
-      "id": "876jr60000",
-      "link": "https://cyberpress.org/ringh23-targets-cms-infrastructure/",
-      "filePath": "cyberpress/pages/2026/03/06/ringh23-hackers-target-maccms-and-cdn-infrastructure.md",
-      "committedAt": "2026-03-06T09:00:31.883-05:00",
-      "title": "RingH23 Hackers Target MacCMS and CDN Infrastructure"
+      "id": "1h9v533000",
+      "link": "https://cyberpress.org/dprk-hackers-steal-crypto-keys/",
+      "filePath": "cyberpress/pages/2026/03/06/dprk-apts-steal-crypto-keys-in-coordinated-cloud-attack.md",
+      "committedAt": "2026-03-06T10:00:37.445-05:00",
+      "title": "DPRK APTs Steal Crypto Keys In Coordinated Cloud Attack"
     }
   ]
 }
