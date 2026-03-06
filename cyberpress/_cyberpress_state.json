@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-06T06:00:10.382-05:00",
-  "lastLink": "https://cyberpress.org/fake-linkedin-vcs-spread-malware/",
-  "lastId": "11asjdx000",
-  "lastFilePath": "cyberpress/pages/2026/03/06/fake-linkedin-vcs-deliver-malware-to-web3-experts-in-clickfix-campaign.md",
+  "updatedAt": "2026-03-06T07:00:16.223-05:00",
+  "lastLink": "https://cyberpress.org/apache-activemq-vulnerability/",
+  "lastId": "ti00os0000",
+  "lastFilePath": "cyberpress/pages/2026/03/06/apache-activemq-vulnerability-allows-attackers-to-trigger-dos-attacks-with-malfo.md",
   "items": [
     {
-      "id": "11asjdx000",
-      "link": "https://cyberpress.org/fake-linkedin-vcs-spread-malware/",
-      "filePath": "cyberpress/pages/2026/03/06/fake-linkedin-vcs-deliver-malware-to-web3-experts-in-clickfix-campaign.md",
-      "committedAt": "2026-03-06T06:00:10.382-05:00",
-      "title": "Fake LinkedIn VCs Deliver Malware To Web3 Experts In ClickFix Campaign"
+      "id": "ti00os0000",
+      "link": "https://cyberpress.org/apache-activemq-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/06/apache-activemq-vulnerability-allows-attackers-to-trigger-dos-attacks-with-malfo.md",
+      "committedAt": "2026-03-06T07:00:16.223-05:00",
+      "title": "Apache ActiveMQ Vulnerability Allows Attackers to Trigger DoS Attacks with Malformed Packets"
     }
   ]
 }
