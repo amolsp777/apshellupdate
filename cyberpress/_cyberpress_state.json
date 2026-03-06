@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-05T14:00:49.481-05:00",
-  "lastLink": "https://cyberpress.org/phishing-uses-google-cloud/",
-  "lastId": "n66s860000",
-  "lastFilePath": "cyberpress/pages/2026/03/05/phishing-campaign-uses-google-cloud-storage-for-malicious-redirects.md",
+  "updatedAt": "2026-03-06T02:00:20.994-05:00",
+  "lastLink": "https://cyberpress.org/ai-malware-hits-iraq/",
+  "lastId": "bjhlqf0000",
+  "lastFilePath": "cyberpress/pages/2026/03/06/iranlinked-dust-specter-apt-unleashes-aiassisted-malware-against-iraqi-governmen.md",
   "items": [
     {
-      "id": "n66s860000",
-      "link": "https://cyberpress.org/phishing-uses-google-cloud/",
-      "filePath": "cyberpress/pages/2026/03/05/phishing-campaign-uses-google-cloud-storage-for-malicious-redirects.md",
-      "committedAt": "2026-03-05T14:00:49.481-05:00",
-      "title": "Phishing Campaign Uses Google Cloud Storage For Malicious Redirects"
+      "id": "bjhlqf0000",
+      "link": "https://cyberpress.org/ai-malware-hits-iraq/",
+      "filePath": "cyberpress/pages/2026/03/06/iranlinked-dust-specter-apt-unleashes-aiassisted-malware-against-iraqi-governmen.md",
+      "committedAt": "2026-03-06T02:00:20.994-05:00",
+      "title": "Iran‑Linked “Dust Specter” APT Unleashes AI‑Assisted Malware Against Iraqi Government Officials"
     }
   ]
 }
