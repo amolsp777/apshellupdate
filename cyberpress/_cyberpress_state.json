@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-06T03:00:10.302-05:00",
-  "lastLink": "https://cyberpress.org/google-90-zero-day-vulnerabilities/",
-  "lastId": "1o20b0q000",
-  "lastFilePath": "cyberpress/pages/2026/03/06/google-reports-90-zero-day-vulnerabilities-exploited-by-hackers-in-2025.md",
+  "updatedAt": "2026-03-06T04:00:16.112-05:00",
+  "lastLink": "https://cyberpress.org/amazon-aws-lc-vulnerability/",
+  "lastId": "1qjfgua000",
+  "lastFilePath": "cyberpress/pages/2026/03/06/amazon-aws-lc-vulnerability-allows-attackers-to-bypass-certificate-chain-verific.md",
   "items": [
     {
-      "id": "1o20b0q000",
-      "link": "https://cyberpress.org/google-90-zero-day-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/03/06/google-reports-90-zero-day-vulnerabilities-exploited-by-hackers-in-2025.md",
-      "committedAt": "2026-03-06T03:00:10.302-05:00",
-      "title": "Google Reports 90 Zero-Day Vulnerabilities Exploited by Hackers in 2025"
+      "id": "1qjfgua000",
+      "link": "https://cyberpress.org/amazon-aws-lc-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/06/amazon-aws-lc-vulnerability-allows-attackers-to-bypass-certificate-chain-verific.md",
+      "committedAt": "2026-03-06T04:00:16.112-05:00",
+      "title": "Amazon AWS-LC Vulnerability Allows Attackers to Bypass Certificate Chain Verification"
     }
   ]
 }
