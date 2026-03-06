@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-06T10:00:37.445-05:00",
-  "lastLink": "https://cyberpress.org/dprk-hackers-steal-crypto-keys/",
-  "lastId": "1h9v533000",
-  "lastFilePath": "cyberpress/pages/2026/03/06/dprk-apts-steal-crypto-keys-in-coordinated-cloud-attack.md",
+  "updatedAt": "2026-03-06T11:00:43.241-05:00",
+  "lastLink": "https://cyberpress.org/redalert-targets-civilians-with-trojan/",
+  "lastId": "ibzvoz0000",
+  "lastFilePath": "cyberpress/pages/2026/03/06/redalert-campaign-targets-civilians-with-trojanized-rocket-alert-app.md",
   "items": [
     {
-      "id": "1h9v533000",
-      "link": "https://cyberpress.org/dprk-hackers-steal-crypto-keys/",
-      "filePath": "cyberpress/pages/2026/03/06/dprk-apts-steal-crypto-keys-in-coordinated-cloud-attack.md",
-      "committedAt": "2026-03-06T10:00:37.445-05:00",
-      "title": "DPRK APTs Steal Crypto Keys In Coordinated Cloud Attack"
+      "id": "ibzvoz0000",
+      "link": "https://cyberpress.org/redalert-targets-civilians-with-trojan/",
+      "filePath": "cyberpress/pages/2026/03/06/redalert-campaign-targets-civilians-with-trojanized-rocket-alert-app.md",
+      "committedAt": "2026-03-06T11:00:43.241-05:00",
+      "title": "RedAlert Campaign Targets Civilians With Trojanized Rocket Alert App"
     }
   ]
 }
