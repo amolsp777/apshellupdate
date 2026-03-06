@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-06T08:00:05.300-05:00",
-  "lastLink": "https://cyberpress.org/critical-zero-avideo/",
-  "lastId": "wuqzxv0000",
-  "lastFilePath": "cyberpress/pages/2026/03/06/critical-zero-click-command-injection-in-avideo-platform-enables-stream-hijackin.md",
+  "updatedAt": "2026-03-06T09:00:31.883-05:00",
+  "lastLink": "https://cyberpress.org/ringh23-targets-cms-infrastructure/",
+  "lastId": "876jr60000",
+  "lastFilePath": "cyberpress/pages/2026/03/06/ringh23-hackers-target-maccms-and-cdn-infrastructure.md",
   "items": [
     {
-      "id": "wuqzxv0000",
-      "link": "https://cyberpress.org/critical-zero-avideo/",
-      "filePath": "cyberpress/pages/2026/03/06/critical-zero-click-command-injection-in-avideo-platform-enables-stream-hijackin.md",
-      "committedAt": "2026-03-06T08:00:05.300-05:00",
-      "title": "Critical Zero-Click Command Injection in AVideo Platform Enables Stream Hijacking"
+      "id": "876jr60000",
+      "link": "https://cyberpress.org/ringh23-targets-cms-infrastructure/",
+      "filePath": "cyberpress/pages/2026/03/06/ringh23-hackers-target-maccms-and-cdn-infrastructure.md",
+      "committedAt": "2026-03-06T09:00:31.883-05:00",
+      "title": "RingH23 Hackers Target MacCMS and CDN Infrastructure"
     }
   ]
 }
