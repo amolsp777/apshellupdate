@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-07T00:00:08.625-05:00",
-  "lastLink": "https://cyberpress.org/claude-ai-discovers-22-major-vulnerabilities/",
-  "lastId": "17jgy2e000",
-  "lastFilePath": "cyberpress/pages/2026/03/07/claude-ai-discovers-22-major-vulnerabilities-in-firefox-browser-in-14-days.md",
+  "updatedAt": "2026-03-07T07:00:04.894-05:00",
+  "lastLink": "https://cyberpress.org/openai-rolls-out-codex-security/",
+  "lastId": "tj2h5a0000",
+  "lastFilePath": "cyberpress/pages/2026/03/07/openai-rolls-out-codex-security-in-research-preview-for-contextaware-vulnerabili.md",
   "items": [
     {
-      "id": "17jgy2e000",
-      "link": "https://cyberpress.org/claude-ai-discovers-22-major-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/03/07/claude-ai-discovers-22-major-vulnerabilities-in-firefox-browser-in-14-days.md",
-      "committedAt": "2026-03-07T00:00:08.625-05:00",
-      "title": "Claude AI Discovers 22 Major Vulnerabilities in Firefox Browser in 14 Days"
+      "id": "tj2h5a0000",
+      "link": "https://cyberpress.org/openai-rolls-out-codex-security/",
+      "filePath": "cyberpress/pages/2026/03/07/openai-rolls-out-codex-security-in-research-preview-for-contextaware-vulnerabili.md",
+      "committedAt": "2026-03-07T07:00:04.894-05:00",
+      "title": "OpenAI Rolls Out Codex Security in Research Preview for Context‑Aware Vulnerability Detection"
     }
   ]
 }
