@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-09T10:00:16.134-04:00",
-  "lastLink": "https://cyberpress.org/apache-zookeeper-vulnerability/",
-  "lastId": "1q39fyp000",
-  "lastFilePath": "cyberpress/pages/2026/03/09/apache-zookeeper-vulnerability-allows-attackers-to-access-sensitive-data.md",
+  "updatedAt": "2026-03-09T11:00:17.069-04:00",
+  "lastLink": "https://cyberpress.org/chinese-linked-cl-unk-1068-espionage/",
+  "lastId": "p3i5sx0000",
+  "lastFilePath": "cyberpress/pages/2026/03/09/chinese-linked-cl-unk-1068-espionage-campaign-targets-critical-infrastructure-ac.md",
   "items": [
     {
-      "id": "1q39fyp000",
-      "link": "https://cyberpress.org/apache-zookeeper-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/09/apache-zookeeper-vulnerability-allows-attackers-to-access-sensitive-data.md",
-      "committedAt": "2026-03-09T10:00:16.134-04:00",
-      "title": "Apache ZooKeeper Vulnerability Allows Attackers to Access Sensitive Data"
+      "id": "p3i5sx0000",
+      "link": "https://cyberpress.org/chinese-linked-cl-unk-1068-espionage/",
+      "filePath": "cyberpress/pages/2026/03/09/chinese-linked-cl-unk-1068-espionage-campaign-targets-critical-infrastructure-ac.md",
+      "committedAt": "2026-03-09T11:00:17.069-04:00",
+      "title": "Chinese-Linked CL-UNK-1068 Espionage Campaign Targets Critical Infrastructure Across Asia"
     }
   ]
 }
