@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-09T04:00:04.908-04:00",
-  "lastLink": "https://cyberpress.org/hackers-exploit-macos-and-ios-vulnerabilities/",
-  "lastId": "1w7po8w000",
-  "lastFilePath": "cyberpress/pages/2026/03/09/hackers-exploit-macos-and-ios-vulnerabilities-cisa-issues-urgent-security-alert.md",
+  "updatedAt": "2026-03-09T05:00:05.123-04:00",
+  "lastLink": "https://cyberpress.org/exiftool-vulnerability/",
+  "lastId": "1ny76xu000",
+  "lastFilePath": "cyberpress/pages/2026/03/09/critical-exiftool-vulnerability-lets-malicious-images-execute-code-on-macos.md",
   "items": [
     {
-      "id": "1w7po8w000",
-      "link": "https://cyberpress.org/hackers-exploit-macos-and-ios-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/03/09/hackers-exploit-macos-and-ios-vulnerabilities-cisa-issues-urgent-security-alert.md",
-      "committedAt": "2026-03-09T04:00:04.908-04:00",
-      "title": "Hackers Exploit macOS and iOS Vulnerabilities, CISA Issues Urgent Security Alert"
+      "id": "1ny76xu000",
+      "link": "https://cyberpress.org/exiftool-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/09/critical-exiftool-vulnerability-lets-malicious-images-execute-code-on-macos.md",
+      "committedAt": "2026-03-09T05:00:05.123-04:00",
+      "title": "Critical ExifTool Vulnerability Lets Malicious Images Execute Code on macOS"
     }
   ]
 }
