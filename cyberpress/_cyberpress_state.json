@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-09T02:00:36.882-04:00",
-  "lastLink": "https://cyberpress.org/hackers-exploit-ai-injection/",
-  "lastId": "d66re00000",
-  "lastFilePath": "cyberpress/pages/2026/03/09/hackers-manipulate-ai-via-indirect-prompt-injection.md",
+  "updatedAt": "2026-03-09T04:00:04.908-04:00",
+  "lastLink": "https://cyberpress.org/hackers-exploit-macos-and-ios-vulnerabilities/",
+  "lastId": "1w7po8w000",
+  "lastFilePath": "cyberpress/pages/2026/03/09/hackers-exploit-macos-and-ios-vulnerabilities-cisa-issues-urgent-security-alert.md",
   "items": [
     {
-      "id": "d66re00000",
-      "link": "https://cyberpress.org/hackers-exploit-ai-injection/",
-      "filePath": "cyberpress/pages/2026/03/09/hackers-manipulate-ai-via-indirect-prompt-injection.md",
-      "committedAt": "2026-03-09T02:00:36.882-04:00",
-      "title": "Hackers Manipulate AI via Indirect Prompt Injection"
+      "id": "1w7po8w000",
+      "link": "https://cyberpress.org/hackers-exploit-macos-and-ios-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/03/09/hackers-exploit-macos-and-ios-vulnerabilities-cisa-issues-urgent-security-alert.md",
+      "committedAt": "2026-03-09T04:00:04.908-04:00",
+      "title": "Hackers Exploit macOS and iOS Vulnerabilities, CISA Issues Urgent Security Alert"
     }
   ]
 }
