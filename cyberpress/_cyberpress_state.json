@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-09T13:00:43.466-04:00",
-  "lastLink": "https://cyberpress.org/fake-ai-extensions-exposed-data/",
-  "lastId": "pcrbdx0000",
-  "lastFilePath": "cyberpress/pages/2026/03/09/fake-ai-browser-extensions-expose-chat-data-across-20000-enterprises.md",
+  "updatedAt": "2026-03-09T14:00:48.839-04:00",
+  "lastLink": "https://cyberpress.org/linux-rootkits-go-stealthy/",
+  "lastId": "1vn7a00000",
+  "lastFilePath": "cyberpress/pages/2026/03/09/new-linux-rootkits-leverage-ebpf-and-iouring-for-stealth.md",
   "items": [
     {
-      "id": "pcrbdx0000",
-      "link": "https://cyberpress.org/fake-ai-extensions-exposed-data/",
-      "filePath": "cyberpress/pages/2026/03/09/fake-ai-browser-extensions-expose-chat-data-across-20000-enterprises.md",
-      "committedAt": "2026-03-09T13:00:43.466-04:00",
-      "title": "Fake AI Browser Extensions Expose Chat Data Across 20,000 Enterprises"
+      "id": "1vn7a00000",
+      "link": "https://cyberpress.org/linux-rootkits-go-stealthy/",
+      "filePath": "cyberpress/pages/2026/03/09/new-linux-rootkits-leverage-ebpf-and-iouring-for-stealth.md",
+      "committedAt": "2026-03-09T14:00:48.839-04:00",
+      "title": "New Linux Rootkits Leverage eBPF and io_uring For Stealth"
     }
   ]
 }
