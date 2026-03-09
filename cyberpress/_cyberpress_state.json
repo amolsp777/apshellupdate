@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-09T09:00:21.964-04:00",
-  "lastLink": "https://cyberpress.org/1-click-vulnerability-in-zitadel/",
-  "lastId": "10296bi000",
-  "lastFilePath": "cyberpress/pages/2026/03/09/1-click-vulnerability-in-zitadel-enables-attackers-to-take-over-entire-systems.md",
+  "updatedAt": "2026-03-09T10:00:16.134-04:00",
+  "lastLink": "https://cyberpress.org/apache-zookeeper-vulnerability/",
+  "lastId": "1q39fyp000",
+  "lastFilePath": "cyberpress/pages/2026/03/09/apache-zookeeper-vulnerability-allows-attackers-to-access-sensitive-data.md",
   "items": [
     {
-      "id": "10296bi000",
-      "link": "https://cyberpress.org/1-click-vulnerability-in-zitadel/",
-      "filePath": "cyberpress/pages/2026/03/09/1-click-vulnerability-in-zitadel-enables-attackers-to-take-over-entire-systems.md",
-      "committedAt": "2026-03-09T09:00:21.964-04:00",
-      "title": "1-Click Vulnerability in ZITADEL Enables Attackers to Take Over Entire Systems"
+      "id": "1q39fyp000",
+      "link": "https://cyberpress.org/apache-zookeeper-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/09/apache-zookeeper-vulnerability-allows-attackers-to-access-sensitive-data.md",
+      "committedAt": "2026-03-09T10:00:16.134-04:00",
+      "title": "Apache ZooKeeper Vulnerability Allows Attackers to Access Sensitive Data"
     }
   ]
 }
