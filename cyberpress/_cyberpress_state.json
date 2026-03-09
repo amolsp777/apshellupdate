@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-07T07:00:04.894-05:00",
-  "lastLink": "https://cyberpress.org/openai-rolls-out-codex-security/",
-  "lastId": "tj2h5a0000",
-  "lastFilePath": "cyberpress/pages/2026/03/07/openai-rolls-out-codex-security-in-research-preview-for-contextaware-vulnerabili.md",
+  "updatedAt": "2026-03-09T02:00:36.882-04:00",
+  "lastLink": "https://cyberpress.org/hackers-exploit-ai-injection/",
+  "lastId": "d66re00000",
+  "lastFilePath": "cyberpress/pages/2026/03/09/hackers-manipulate-ai-via-indirect-prompt-injection.md",
   "items": [
     {
-      "id": "tj2h5a0000",
-      "link": "https://cyberpress.org/openai-rolls-out-codex-security/",
-      "filePath": "cyberpress/pages/2026/03/07/openai-rolls-out-codex-security-in-research-preview-for-contextaware-vulnerabili.md",
-      "committedAt": "2026-03-07T07:00:04.894-05:00",
-      "title": "OpenAI Rolls Out Codex Security in Research Preview for Context‑Aware Vulnerability Detection"
+      "id": "d66re00000",
+      "link": "https://cyberpress.org/hackers-exploit-ai-injection/",
+      "filePath": "cyberpress/pages/2026/03/09/hackers-manipulate-ai-via-indirect-prompt-injection.md",
+      "committedAt": "2026-03-09T02:00:36.882-04:00",
+      "title": "Hackers Manipulate AI via Indirect Prompt Injection"
     }
   ]
 }
