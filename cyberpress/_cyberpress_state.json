@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-09T06:00:05.006-04:00",
-  "lastLink": "https://cyberpress.org/critical-nginx-ui-vulnerabilities/",
-  "lastId": "q49zvs0000",
-  "lastFilePath": "cyberpress/pages/2026/03/09/critical-nginx-ui-vulnerabilities-allow-attackers-to-download-full-system-backup.md",
+  "updatedAt": "2026-03-09T07:00:21.079-04:00",
+  "lastLink": "https://cyberpress.org/multiple-hikvision-product-vulnerabilities/",
+  "lastId": "kgujrn0000",
+  "lastFilePath": "cyberpress/pages/2026/03/09/multiple-hikvision-product-vulnerabilities-allow-attackers-to-escalate-privilege.md",
   "items": [
     {
-      "id": "q49zvs0000",
-      "link": "https://cyberpress.org/critical-nginx-ui-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/03/09/critical-nginx-ui-vulnerabilities-allow-attackers-to-download-full-system-backup.md",
-      "committedAt": "2026-03-09T06:00:05.006-04:00",
-      "title": "Critical Nginx UI Vulnerabilities Allow Attackers to Download Full System Backups"
+      "id": "kgujrn0000",
+      "link": "https://cyberpress.org/multiple-hikvision-product-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/03/09/multiple-hikvision-product-vulnerabilities-allow-attackers-to-escalate-privilege.md",
+      "committedAt": "2026-03-09T07:00:21.079-04:00",
+      "title": "Multiple Hikvision Product Vulnerabilities Allow Attackers to Escalate Privileges"
     }
   ]
 }
