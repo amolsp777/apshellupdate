@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-09T14:00:48.839-04:00",
-  "lastLink": "https://cyberpress.org/linux-rootkits-go-stealthy/",
-  "lastId": "1vn7a00000",
-  "lastFilePath": "cyberpress/pages/2026/03/09/new-linux-rootkits-leverage-ebpf-and-iouring-for-stealth.md",
+  "updatedAt": "2026-03-09T15:00:57.136-04:00",
+  "lastLink": "https://cyberpress.org/rmm-tools-under-attack/",
+  "lastId": "wkwgab0000",
+  "lastFilePath": "cyberpress/pages/2026/03/09/attackers-increasingly-abuse-rmm-tools-meant-for-it-managemen.md",
   "items": [
     {
-      "id": "1vn7a00000",
-      "link": "https://cyberpress.org/linux-rootkits-go-stealthy/",
-      "filePath": "cyberpress/pages/2026/03/09/new-linux-rootkits-leverage-ebpf-and-iouring-for-stealth.md",
-      "committedAt": "2026-03-09T14:00:48.839-04:00",
-      "title": "New Linux Rootkits Leverage eBPF and io_uring For Stealth"
+      "id": "wkwgab0000",
+      "link": "https://cyberpress.org/rmm-tools-under-attack/",
+      "filePath": "cyberpress/pages/2026/03/09/attackers-increasingly-abuse-rmm-tools-meant-for-it-managemen.md",
+      "committedAt": "2026-03-09T15:00:57.136-04:00",
+      "title": "Attackers Increasingly Abuse RMM Tools Meant For IT Managemen"
     }
   ]
 }
