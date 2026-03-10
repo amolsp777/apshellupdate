@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-10T05:00:05.110-04:00",
-  "lastLink": "https://cyberpress.org/pingora-vulnerabilities/",
-  "lastId": "fly4se0000",
-  "lastFilePath": "cyberpress/pages/2026/03/10/critical-pingora-vulnerabilities-expose-cloudflare-to-request-smuggling-and-cach.md",
+  "updatedAt": "2026-03-10T06:00:15.843-04:00",
+  "lastLink": "https://cyberpress.org/exiftool-bug-hits-macos/",
+  "lastId": "j0sw3g0000",
+  "lastFilePath": "cyberpress/pages/2026/03/10/macos-users-at-risk-as-critical-exiftool-bug-allows-image-based-code-execution.md",
   "items": [
     {
-      "id": "fly4se0000",
-      "link": "https://cyberpress.org/pingora-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/03/10/critical-pingora-vulnerabilities-expose-cloudflare-to-request-smuggling-and-cach.md",
-      "committedAt": "2026-03-10T05:00:05.110-04:00",
-      "title": "Critical Pingora Vulnerabilities Expose Cloudflare to Request Smuggling and Cache Poisoning Attacks"
+      "id": "j0sw3g0000",
+      "link": "https://cyberpress.org/exiftool-bug-hits-macos/",
+      "filePath": "cyberpress/pages/2026/03/10/macos-users-at-risk-as-critical-exiftool-bug-allows-image-based-code-execution.md",
+      "committedAt": "2026-03-10T06:00:15.843-04:00",
+      "title": "macOS Users At Risk As Critical ExifTool Bug Allows Image-Based Code Execution"
     }
   ]
 }
