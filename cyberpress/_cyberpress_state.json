@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-10T12:01:03.659-04:00",
-  "lastLink": "https://cyberpress.org/malformed-zip-files/",
-  "lastId": "h2tjy00000",
-  "lastFilePath": "cyberpress/pages/2026/03/10/malformed-zip-files-allow-attackers-to-bypass-antivirus-and-edr-detection.md",
+  "updatedAt": "2026-03-10T13:01:08.788-04:00",
+  "lastLink": "https://cyberpress.org/boryptgrab-steals-wallet-data/",
+  "lastId": "1408sx3000",
+  "lastFilePath": "cyberpress/pages/2026/03/10/fake-github-repos-push-boryptgrab-stealer-to-harvest-browser-and-wallet-data.md",
   "items": [
     {
-      "id": "h2tjy00000",
-      "link": "https://cyberpress.org/malformed-zip-files/",
-      "filePath": "cyberpress/pages/2026/03/10/malformed-zip-files-allow-attackers-to-bypass-antivirus-and-edr-detection.md",
-      "committedAt": "2026-03-10T12:01:03.659-04:00",
-      "title": "Malformed ZIP Files Allow Attackers to Bypass Antivirus and EDR Detection"
+      "id": "1408sx3000",
+      "link": "https://cyberpress.org/boryptgrab-steals-wallet-data/",
+      "filePath": "cyberpress/pages/2026/03/10/fake-github-repos-push-boryptgrab-stealer-to-harvest-browser-and-wallet-data.md",
+      "committedAt": "2026-03-10T13:01:08.788-04:00",
+      "title": "Fake GitHub Repos Push BoryptGrab Stealer To Harvest Browser and Wallet Data"
     }
   ]
 }
