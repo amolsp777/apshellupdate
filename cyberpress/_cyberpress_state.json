@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-10T07:00:05.311-04:00",
-  "lastLink": "https://cyberpress.org/gogs-vulnerability-2/",
-  "lastId": "1hqchyz000",
-  "lastFilePath": "cyberpress/pages/2026/03/10/critical-gogs-vulnerability-allows-attackers-to-silently-overwrite-large-file-st.md",
+  "updatedAt": "2026-03-10T08:00:16.470-04:00",
+  "lastLink": "https://cyberpress.org/iran-hackers-threaten-infrastructure/",
+  "lastId": "1fhtpp6000",
+  "lastFilePath": "cyberpress/pages/2026/03/10/us-critical-infrastructure-faces-growing-threat-from-iran-linked-hackers.md",
   "items": [
     {
-      "id": "1hqchyz000",
-      "link": "https://cyberpress.org/gogs-vulnerability-2/",
-      "filePath": "cyberpress/pages/2026/03/10/critical-gogs-vulnerability-allows-attackers-to-silently-overwrite-large-file-st.md",
-      "committedAt": "2026-03-10T07:00:05.311-04:00",
-      "title": "Critical Gogs Vulnerability Allows Attackers to Silently Overwrite Large File Storage Objects"
+      "id": "1fhtpp6000",
+      "link": "https://cyberpress.org/iran-hackers-threaten-infrastructure/",
+      "filePath": "cyberpress/pages/2026/03/10/us-critical-infrastructure-faces-growing-threat-from-iran-linked-hackers.md",
+      "committedAt": "2026-03-10T08:00:16.470-04:00",
+      "title": "U.S. Critical Infrastructure Faces Growing Threat From Iran-Linked Hackers"
     }
   ]
 }
