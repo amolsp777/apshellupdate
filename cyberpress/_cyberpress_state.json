@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-10T02:00:15.672-04:00",
-  "lastLink": "https://cyberpress.org/transparent-tribe-uses-vibeware/",
-  "lastId": "vwseg50000",
-  "lastFilePath": "cyberpress/pages/2026/03/10/transparent-tribe-adopts-ai-generated-vibeware-malware-tactics.md",
+  "updatedAt": "2026-03-10T03:00:37.726-04:00",
+  "lastLink": "https://cyberpress.org/clipxdaemon-steals-crypto-transfers/",
+  "lastId": "kw0xsg0000",
+  "lastFilePath": "cyberpress/pages/2026/03/10/new-linux-threat-clipxdaemon-hijacks-x11-clipboard-to-steal-crypto-transfers.md",
   "items": [
     {
-      "id": "vwseg50000",
-      "link": "https://cyberpress.org/transparent-tribe-uses-vibeware/",
-      "filePath": "cyberpress/pages/2026/03/10/transparent-tribe-adopts-ai-generated-vibeware-malware-tactics.md",
-      "committedAt": "2026-03-10T02:00:15.672-04:00",
-      "title": "Transparent Tribe Adopts AI-Generated ‘Vibeware’ Malware Tactics"
+      "id": "kw0xsg0000",
+      "link": "https://cyberpress.org/clipxdaemon-steals-crypto-transfers/",
+      "filePath": "cyberpress/pages/2026/03/10/new-linux-threat-clipxdaemon-hijacks-x11-clipboard-to-steal-crypto-transfers.md",
+      "committedAt": "2026-03-10T03:00:37.726-04:00",
+      "title": "New Linux Threat ClipXDaemon Hijacks X11 Clipboard To Steal Crypto Transfers"
     }
   ]
 }
