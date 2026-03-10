@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-10T08:00:16.470-04:00",
-  "lastLink": "https://cyberpress.org/iran-hackers-threaten-infrastructure/",
-  "lastId": "1fhtpp6000",
-  "lastFilePath": "cyberpress/pages/2026/03/10/us-critical-infrastructure-faces-growing-threat-from-iran-linked-hackers.md",
+  "updatedAt": "2026-03-10T09:00:05.332-04:00",
+  "lastLink": "https://cyberpress.org/sap-vulnerabilities/",
+  "lastId": "17subp6000",
+  "lastFilePath": "cyberpress/pages/2026/03/10/sap-releases-security-update-to-patch-multiple-remote-code-execution-vulnerabili.md",
   "items": [
     {
-      "id": "1fhtpp6000",
-      "link": "https://cyberpress.org/iran-hackers-threaten-infrastructure/",
-      "filePath": "cyberpress/pages/2026/03/10/us-critical-infrastructure-faces-growing-threat-from-iran-linked-hackers.md",
-      "committedAt": "2026-03-10T08:00:16.470-04:00",
-      "title": "U.S. Critical Infrastructure Faces Growing Threat From Iran-Linked Hackers"
+      "id": "17subp6000",
+      "link": "https://cyberpress.org/sap-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/03/10/sap-releases-security-update-to-patch-multiple-remote-code-execution-vulnerabili.md",
+      "committedAt": "2026-03-10T09:00:05.332-04:00",
+      "title": "SAP Releases Security Update to Patch Multiple Remote Code Execution Vulnerabilities"
     }
   ]
 }
