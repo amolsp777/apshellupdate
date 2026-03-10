@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-10T09:00:05.332-04:00",
-  "lastLink": "https://cyberpress.org/sap-vulnerabilities/",
-  "lastId": "17subp6000",
-  "lastFilePath": "cyberpress/pages/2026/03/10/sap-releases-security-update-to-patch-multiple-remote-code-execution-vulnerabili.md",
+  "updatedAt": "2026-03-10T10:00:22.117-04:00",
+  "lastLink": "https://cyberpress.org/vip-keylogger-steals-credentials/",
+  "lastId": "15avymb000",
+  "lastFilePath": "cyberpress/pages/2026/03/10/vip-keylogger-malware-campaign-hides-in-images-to-steal-credentials-at-scale.md",
   "items": [
     {
-      "id": "17subp6000",
-      "link": "https://cyberpress.org/sap-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/03/10/sap-releases-security-update-to-patch-multiple-remote-code-execution-vulnerabili.md",
-      "committedAt": "2026-03-10T09:00:05.332-04:00",
-      "title": "SAP Releases Security Update to Patch Multiple Remote Code Execution Vulnerabilities"
+      "id": "15avymb000",
+      "link": "https://cyberpress.org/vip-keylogger-steals-credentials/",
+      "filePath": "cyberpress/pages/2026/03/10/vip-keylogger-malware-campaign-hides-in-images-to-steal-credentials-at-scale.md",
+      "committedAt": "2026-03-10T10:00:22.117-04:00",
+      "title": "VIP Keylogger Malware Campaign Hides In Images To Steal Credentials At Scale"
     }
   ]
 }
