@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-11T07:00:41.995-04:00",
-  "lastLink": "https://cyberpress.org/microsoft-net-zero-day-vulnerability/",
-  "lastId": "xjwdyt0000",
-  "lastFilePath": "cyberpress/pages/2026/03/11/critical-microsoft-net-zero-day-vulnerability-allows-dos-attacks.md",
+  "updatedAt": "2026-03-11T08:00:58.400-04:00",
+  "lastLink": "https://cyberpress.org/phantomraven-targets-npm-supply-chain/",
+  "lastId": "dov8mm0000",
+  "lastFilePath": "cyberpress/pages/2026/03/11/npm-supply-chain-under-attack-again-by-phantomraven-malware-targeting-developer-.md",
   "items": [
     {
-      "id": "xjwdyt0000",
-      "link": "https://cyberpress.org/microsoft-net-zero-day-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/11/critical-microsoft-net-zero-day-vulnerability-allows-dos-attacks.md",
-      "committedAt": "2026-03-11T07:00:41.995-04:00",
-      "title": "Critical Microsoft .NET Zero-Day Vulnerability Allows DoS Attacks"
+      "id": "dov8mm0000",
+      "link": "https://cyberpress.org/phantomraven-targets-npm-supply-chain/",
+      "filePath": "cyberpress/pages/2026/03/11/npm-supply-chain-under-attack-again-by-phantomraven-malware-targeting-developer-.md",
+      "committedAt": "2026-03-11T08:00:58.400-04:00",
+      "title": "npm Supply Chain Under Attack Again By PhantomRaven Malware Targeting Developer Secrets"
     }
   ]
 }
