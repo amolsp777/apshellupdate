@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-11T11:39:03.188-04:00",
-  "lastLink": "https://cyberpress.org/signed-malware-targets-zoom-teams/",
-  "lastId": "1r3410j000",
-  "lastFilePath": "cyberpress/pages/2026/03/11/zoom-and-teams-apps-targeted-by-signed-malware-carrying-rmm-backdoors.md",
+  "updatedAt": "2026-03-11T12:01:19.369-04:00",
+  "lastLink": "https://cyberpress.org/red-alert-trojan-steals-data/",
+  "lastId": "q8deh60000",
+  "lastFilePath": "cyberpress/pages/2026/03/11/red-alert-app-trojan-targets-israeli-users-steals-sensitive-data-through-sms.md",
   "items": [
     {
-      "id": "1r3410j000",
-      "link": "https://cyberpress.org/signed-malware-targets-zoom-teams/",
-      "filePath": "cyberpress/pages/2026/03/11/zoom-and-teams-apps-targeted-by-signed-malware-carrying-rmm-backdoors.md",
-      "committedAt": "2026-03-11T11:39:03.188-04:00",
-      "title": "Zoom and Teams Apps Targeted By Signed Malware Carrying RMM Backdoors"
+      "id": "q8deh60000",
+      "link": "https://cyberpress.org/red-alert-trojan-steals-data/",
+      "filePath": "cyberpress/pages/2026/03/11/red-alert-app-trojan-targets-israeli-users-steals-sensitive-data-through-sms.md",
+      "committedAt": "2026-03-11T12:01:19.369-04:00",
+      "title": "Red Alert App Trojan Targets Israeli Users, Steals Sensitive Data Through SMS"
     }
   ]
 }
