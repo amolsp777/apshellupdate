@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-11T05:00:47.669-04:00",
-  "lastLink": "https://cyberpress.org/critical-fortinet-fortimanager-fgtupdates-vulnerability-allows-remote-command-execution/",
-  "lastId": "ngjb840000",
-  "lastFilePath": "cyberpress/pages/2026/03/11/critical-fortinet-fortimanager-fgtupdates-vulnerability-allows-remote-command-ex.md",
+  "updatedAt": "2026-03-11T06:00:42.204-04:00",
+  "lastLink": "https://cyberpress.org/microsoft-patch-79-vulnerabilities/",
+  "lastId": "1nv08t5000",
+  "lastFilePath": "cyberpress/pages/2026/03/11/microsoft-patch-tuesday-march-2026-fixes-79-vulnerabilities-including-two-zero-d.md",
   "items": [
     {
-      "id": "ngjb840000",
-      "link": "https://cyberpress.org/critical-fortinet-fortimanager-fgtupdates-vulnerability-allows-remote-command-execution/",
-      "filePath": "cyberpress/pages/2026/03/11/critical-fortinet-fortimanager-fgtupdates-vulnerability-allows-remote-command-ex.md",
-      "committedAt": "2026-03-11T05:00:47.669-04:00",
-      "title": "Critical Fortinet FortiManager fgtupdates Vulnerability Allows Remote Command Execution"
+      "id": "1nv08t5000",
+      "link": "https://cyberpress.org/microsoft-patch-79-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/03/11/microsoft-patch-tuesday-march-2026-fixes-79-vulnerabilities-including-two-zero-d.md",
+      "committedAt": "2026-03-11T06:00:42.204-04:00",
+      "title": "Microsoft Patch Tuesday March 2026 Fixes 79 Vulnerabilities, Including Two Zero-Days"
     }
   ]
 }
