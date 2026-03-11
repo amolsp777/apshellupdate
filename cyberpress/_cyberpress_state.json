@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-11T08:00:58.400-04:00",
-  "lastLink": "https://cyberpress.org/phantomraven-targets-npm-supply-chain/",
-  "lastId": "dov8mm0000",
-  "lastFilePath": "cyberpress/pages/2026/03/11/npm-supply-chain-under-attack-again-by-phantomraven-malware-targeting-developer-.md",
+  "updatedAt": "2026-03-11T09:01:03.488-04:00",
+  "lastLink": "https://cyberpress.org/blacksanta-malware-targets-hr/",
+  "lastId": "1no3k1i000",
+  "lastFilePath": "cyberpress/pages/2026/03/11/blacksanta-edr-killer-malware-targets-hr-workflows-in-multi-layered-attack.md",
   "items": [
     {
-      "id": "dov8mm0000",
-      "link": "https://cyberpress.org/phantomraven-targets-npm-supply-chain/",
-      "filePath": "cyberpress/pages/2026/03/11/npm-supply-chain-under-attack-again-by-phantomraven-malware-targeting-developer-.md",
-      "committedAt": "2026-03-11T08:00:58.400-04:00",
-      "title": "npm Supply Chain Under Attack Again By PhantomRaven Malware Targeting Developer Secrets"
+      "id": "1no3k1i000",
+      "link": "https://cyberpress.org/blacksanta-malware-targets-hr/",
+      "filePath": "cyberpress/pages/2026/03/11/blacksanta-edr-killer-malware-targets-hr-workflows-in-multi-layered-attack.md",
+      "committedAt": "2026-03-11T09:01:03.488-04:00",
+      "title": "BlackSanta EDR Killer Malware Targets HR Workflows In Multi-Layered Attack"
     }
   ]
 }
