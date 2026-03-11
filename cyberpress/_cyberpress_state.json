@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-11T06:00:42.204-04:00",
-  "lastLink": "https://cyberpress.org/microsoft-patch-79-vulnerabilities/",
-  "lastId": "1nv08t5000",
-  "lastFilePath": "cyberpress/pages/2026/03/11/microsoft-patch-tuesday-march-2026-fixes-79-vulnerabilities-including-two-zero-d.md",
+  "updatedAt": "2026-03-11T07:00:41.995-04:00",
+  "lastLink": "https://cyberpress.org/microsoft-net-zero-day-vulnerability/",
+  "lastId": "xjwdyt0000",
+  "lastFilePath": "cyberpress/pages/2026/03/11/critical-microsoft-net-zero-day-vulnerability-allows-dos-attacks.md",
   "items": [
     {
-      "id": "1nv08t5000",
-      "link": "https://cyberpress.org/microsoft-patch-79-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/03/11/microsoft-patch-tuesday-march-2026-fixes-79-vulnerabilities-including-two-zero-d.md",
-      "committedAt": "2026-03-11T06:00:42.204-04:00",
-      "title": "Microsoft Patch Tuesday March 2026 Fixes 79 Vulnerabilities, Including Two Zero-Days"
+      "id": "xjwdyt0000",
+      "link": "https://cyberpress.org/microsoft-net-zero-day-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/11/critical-microsoft-net-zero-day-vulnerability-allows-dos-attacks.md",
+      "committedAt": "2026-03-11T07:00:41.995-04:00",
+      "title": "Critical Microsoft .NET Zero-Day Vulnerability Allows DoS Attacks"
     }
   ]
 }
