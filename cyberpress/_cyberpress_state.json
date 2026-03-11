@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-11T09:01:03.488-04:00",
-  "lastLink": "https://cyberpress.org/blacksanta-malware-targets-hr/",
-  "lastId": "1no3k1i000",
-  "lastFilePath": "cyberpress/pages/2026/03/11/blacksanta-edr-killer-malware-targets-hr-workflows-in-multi-layered-attack.md",
+  "updatedAt": "2026-03-11T10:00:42.069-04:00",
+  "lastLink": "https://cyberpress.org/microsoft-office-vulnerability/",
+  "lastId": "1udlnkd000",
+  "lastFilePath": "cyberpress/pages/2026/03/11/critical-microsoft-office-vulnerability-enables-remote-code-execution-attacks.md",
   "items": [
     {
-      "id": "1no3k1i000",
-      "link": "https://cyberpress.org/blacksanta-malware-targets-hr/",
-      "filePath": "cyberpress/pages/2026/03/11/blacksanta-edr-killer-malware-targets-hr-workflows-in-multi-layered-attack.md",
-      "committedAt": "2026-03-11T09:01:03.488-04:00",
-      "title": "BlackSanta EDR Killer Malware Targets HR Workflows In Multi-Layered Attack"
+      "id": "1udlnkd000",
+      "link": "https://cyberpress.org/microsoft-office-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/11/critical-microsoft-office-vulnerability-enables-remote-code-execution-attacks.md",
+      "committedAt": "2026-03-11T10:00:42.069-04:00",
+      "title": "Critical Microsoft Office Vulnerability Enables Remote Code Execution Attacks"
     }
   ]
 }
