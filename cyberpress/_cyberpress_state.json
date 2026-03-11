@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-11T10:00:42.069-04:00",
-  "lastLink": "https://cyberpress.org/microsoft-office-vulnerability/",
-  "lastId": "1udlnkd000",
-  "lastFilePath": "cyberpress/pages/2026/03/11/critical-microsoft-office-vulnerability-enables-remote-code-execution-attacks.md",
+  "updatedAt": "2026-03-11T11:01:42.374-04:00",
+  "lastLink": "https://cyberpress.org/microsoft-active-directory-domain-services-vulnerability/",
+  "lastId": "1d4lqbk000",
+  "lastFilePath": "cyberpress/pages/2026/03/11/microsoft-active-directory-domain-services-vulnerability-allows-attackers-to-esc.md",
   "items": [
     {
-      "id": "1udlnkd000",
-      "link": "https://cyberpress.org/microsoft-office-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/11/critical-microsoft-office-vulnerability-enables-remote-code-execution-attacks.md",
-      "committedAt": "2026-03-11T10:00:42.069-04:00",
-      "title": "Critical Microsoft Office Vulnerability Enables Remote Code Execution Attacks"
+      "id": "1d4lqbk000",
+      "link": "https://cyberpress.org/microsoft-active-directory-domain-services-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/11/microsoft-active-directory-domain-services-vulnerability-allows-attackers-to-esc.md",
+      "committedAt": "2026-03-11T11:01:42.374-04:00",
+      "title": "Microsoft Active Directory Domain Services Vulnerability Allows Attackers to Escalate Privileges"
     }
   ]
 }
