@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-11T04:00:48.028-04:00",
-  "lastLink": "https://cyberpress.org/surxrat-ai-automates-phishing/",
-  "lastId": "km5upf0000",
-  "lastFilePath": "cyberpress/pages/2026/03/11/new-surxrat-android-malware-uses-ai-to-automate-phishing-and-steal-data.md",
+  "updatedAt": "2026-03-11T05:00:47.669-04:00",
+  "lastLink": "https://cyberpress.org/critical-fortinet-fortimanager-fgtupdates-vulnerability-allows-remote-command-execution/",
+  "lastId": "ngjb840000",
+  "lastFilePath": "cyberpress/pages/2026/03/11/critical-fortinet-fortimanager-fgtupdates-vulnerability-allows-remote-command-ex.md",
   "items": [
     {
-      "id": "km5upf0000",
-      "link": "https://cyberpress.org/surxrat-ai-automates-phishing/",
-      "filePath": "cyberpress/pages/2026/03/11/new-surxrat-android-malware-uses-ai-to-automate-phishing-and-steal-data.md",
-      "committedAt": "2026-03-11T04:00:48.028-04:00",
-      "title": "New SurxRAT Android Malware Uses AI To Automate Phishing and Steal Data"
+      "id": "ngjb840000",
+      "link": "https://cyberpress.org/critical-fortinet-fortimanager-fgtupdates-vulnerability-allows-remote-command-execution/",
+      "filePath": "cyberpress/pages/2026/03/11/critical-fortinet-fortimanager-fgtupdates-vulnerability-allows-remote-command-ex.md",
+      "committedAt": "2026-03-11T05:00:47.669-04:00",
+      "title": "Critical Fortinet FortiManager fgtupdates Vulnerability Allows Remote Command Execution"
     }
   ]
 }
