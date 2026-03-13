@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-13T16:18:37.846-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/",
-  "lastId": "nxi5kj0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/12/england-hockey-investigating-ransomware-data-breach.md",
+  "updatedAt": "2026-03-13T16:20:40.976-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
+  "lastId": "1h7zab7000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/13/starbucks-discloses-data-breach-affecting-hundreds-of-employees.md",
   "items": [
     {
-      "id": "nxi5kj0000",
-      "link": "https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/",
-      "filePath": "bleepingcomp/pages/2026/03/12/england-hockey-investigating-ransomware-data-breach.md",
-      "committedAt": "2026-03-13T16:18:37.846-04:00",
-      "title": "England Hockey investigating ransomware data breach"
+      "id": "1h7zab7000",
+      "link": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
+      "filePath": "bleepingcomp/pages/2026/03/13/starbucks-discloses-data-breach-affecting-hundreds-of-employees.md",
+      "committedAt": "2026-03-13T16:20:40.976-04:00",
+      "title": "Starbucks discloses data breach affecting hundreds of employees"
     }
   ]
 }
