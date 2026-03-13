@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-11T14:01:29.405-04:00",
-  "lastLink": "https://cyberpress.org/ivanti-authentication-flaw-exploited/",
-  "lastId": "1svzf6g000",
-  "lastFilePath": "cyberpress/pages/2026/03/11/ivanti-endpoint-manager-authentication-flaw-targeted-in-ongoing-cyberattacks-cis.md",
+  "updatedAt": "2026-03-13T16:13:02.798-04:00",
+  "lastLink": "https://cyberpress.org/starbucks-data-breach/",
+  "lastId": "u4n85u0000",
+  "lastFilePath": "cyberpress/pages/2026/03/13/starbucks-data-breach-exposes-personal-information-of-hundreds-of-users.md",
   "items": [
     {
-      "id": "1svzf6g000",
-      "link": "https://cyberpress.org/ivanti-authentication-flaw-exploited/",
-      "filePath": "cyberpress/pages/2026/03/11/ivanti-endpoint-manager-authentication-flaw-targeted-in-ongoing-cyberattacks-cis.md",
-      "committedAt": "2026-03-11T14:01:29.405-04:00",
-      "title": "Ivanti Endpoint Manager Authentication Flaw Targeted In Ongoing Cyberattacks, CISA Alerts"
+      "id": "u4n85u0000",
+      "link": "https://cyberpress.org/starbucks-data-breach/",
+      "filePath": "cyberpress/pages/2026/03/13/starbucks-data-breach-exposes-personal-information-of-hundreds-of-users.md",
+      "committedAt": "2026-03-13T16:13:02.798-04:00",
+      "title": "Starbucks Data Breach Exposes Personal Information of Hundreds of Users"
     }
   ]
 }
