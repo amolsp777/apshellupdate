@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-23T11:00:50.439-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
-  "lastId": "hhybha0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/21/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions.md",
+  "updatedAt": "2026-03-23T12:00:55.451-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
+  "lastId": "we62er0000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/20/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw.md",
   "items": [
     {
-      "id": "hhybha0000",
-      "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
-      "filePath": "bleepingcomp/pages/2026/03/21/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions.md",
-      "committedAt": "2026-03-23T11:00:50.439-04:00",
-      "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions"
+      "id": "we62er0000",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
+      "filePath": "bleepingcomp/pages/2026/03/20/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw.md",
+      "committedAt": "2026-03-23T12:00:55.451-04:00",
+      "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw"
     }
   ]
 }
