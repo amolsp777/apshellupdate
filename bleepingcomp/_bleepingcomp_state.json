@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-13T16:20:40.976-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
-  "lastId": "1h7zab7000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/13/starbucks-discloses-data-breach-affecting-hundreds-of-employees.md",
+  "updatedAt": "2026-03-23T10:05:58.163-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/",
+  "lastId": "fgl9sj0000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/23/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks.md",
   "items": [
     {
-      "id": "1h7zab7000",
-      "link": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
-      "filePath": "bleepingcomp/pages/2026/03/13/starbucks-discloses-data-breach-affecting-hundreds-of-employees.md",
-      "committedAt": "2026-03-13T16:20:40.976-04:00",
-      "title": "Starbucks discloses data breach affecting hundreds of employees"
+      "id": "fgl9sj0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/",
+      "filePath": "bleepingcomp/pages/2026/03/23/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks.md",
+      "committedAt": "2026-03-23T10:05:58.163-04:00",
+      "title": "CISA orders feds to patch DarkSword iOS flaws exploited attacks"
     }
   ]
 }
