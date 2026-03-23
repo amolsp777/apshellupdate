@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-23T15:01:11.209-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/",
-  "lastId": "le61q60000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/22/voidstealer-malware-steals-chrome-master-key-via-debugger-trick.md",
+  "updatedAt": "2026-03-23T16:01:00.602-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
+  "lastId": "10o0i9j000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/23/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data.md",
   "items": [
     {
-      "id": "le61q60000",
-      "link": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/",
-      "filePath": "bleepingcomp/pages/2026/03/22/voidstealer-malware-steals-chrome-master-key-via-debugger-trick.md",
-      "committedAt": "2026-03-23T15:01:11.209-04:00",
-      "title": "VoidStealer malware steals Chrome master key via debugger trick"
+      "id": "10o0i9j000",
+      "link": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
+      "filePath": "bleepingcomp/pages/2026/03/23/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data.md",
+      "committedAt": "2026-03-23T16:01:00.602-04:00",
+      "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data"
     }
   ]
 }
