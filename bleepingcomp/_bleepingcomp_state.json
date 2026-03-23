@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-23T14:01:06.176-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/",
-  "lastId": "prbj2p0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/23/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in.md",
+  "updatedAt": "2026-03-23T15:01:11.209-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/",
+  "lastId": "le61q60000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/22/voidstealer-malware-steals-chrome-master-key-via-debugger-trick.md",
   "items": [
     {
-      "id": "prbj2p0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/",
-      "filePath": "bleepingcomp/pages/2026/03/23/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in.md",
-      "committedAt": "2026-03-23T14:01:06.176-04:00",
-      "title": "New KB5085516 emergency update fixes Microsoft account sign-in"
+      "id": "le61q60000",
+      "link": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/",
+      "filePath": "bleepingcomp/pages/2026/03/22/voidstealer-malware-steals-chrome-master-key-via-debugger-trick.md",
+      "committedAt": "2026-03-23T15:01:11.209-04:00",
+      "title": "VoidStealer malware steals Chrome master key via debugger trick"
     }
   ]
 }
