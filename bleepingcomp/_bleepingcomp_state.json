@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-23T10:05:58.163-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/",
-  "lastId": "fgl9sj0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/23/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks.md",
+  "updatedAt": "2026-03-23T11:00:50.439-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
+  "lastId": "hhybha0000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/21/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions.md",
   "items": [
     {
-      "id": "fgl9sj0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/",
-      "filePath": "bleepingcomp/pages/2026/03/23/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks.md",
-      "committedAt": "2026-03-23T10:05:58.163-04:00",
-      "title": "CISA orders feds to patch DarkSword iOS flaws exploited attacks"
+      "id": "hhybha0000",
+      "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
+      "filePath": "bleepingcomp/pages/2026/03/21/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions.md",
+      "committedAt": "2026-03-23T11:00:50.439-04:00",
+      "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions"
     }
   ]
 }
