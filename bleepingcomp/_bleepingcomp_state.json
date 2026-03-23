@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-23T18:01:00.102-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/",
-  "lastId": "3kvi4z0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/23/tycoon2fa-phishing-platform-returns-after-recent-police-disruption.md",
+  "updatedAt": "2026-03-23T19:00:54.886-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
+  "lastId": "1yy2wxq000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/23/mazda-discloses-security-breach-exposing-employee-and-partner-data.md",
   "items": [
     {
-      "id": "3kvi4z0000",
-      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/",
-      "filePath": "bleepingcomp/pages/2026/03/23/tycoon2fa-phishing-platform-returns-after-recent-police-disruption.md",
-      "committedAt": "2026-03-23T18:01:00.102-04:00",
-      "title": "Tycoon2FA phishing platform returns after recent police disruption"
+      "id": "1yy2wxq000",
+      "link": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
+      "filePath": "bleepingcomp/pages/2026/03/23/mazda-discloses-security-breach-exposing-employee-and-partner-data.md",
+      "committedAt": "2026-03-23T19:00:54.886-04:00",
+      "title": "Mazda discloses security breach exposing employee and partner data"
     }
   ]
 }
