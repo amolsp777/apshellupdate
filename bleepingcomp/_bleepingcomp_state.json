@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-23T12:00:55.451-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
-  "lastId": "we62er0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/20/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw.md",
+  "updatedAt": "2026-03-23T13:01:00.732-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/",
+  "lastId": "f0gs0j0000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/23/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks.md",
   "items": [
     {
-      "id": "we62er0000",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
-      "filePath": "bleepingcomp/pages/2026/03/20/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw.md",
-      "committedAt": "2026-03-23T12:00:55.451-04:00",
-      "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw"
+      "id": "f0gs0j0000",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/",
+      "filePath": "bleepingcomp/pages/2026/03/23/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks.md",
+      "committedAt": "2026-03-23T13:01:00.732-04:00",
+      "title": "FBI warns of Handala hackers using Telegram in malware attacks"
     }
   ]
 }
