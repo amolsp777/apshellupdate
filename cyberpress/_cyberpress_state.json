@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-24T11:52:53.801-04:00",
-  "lastLink": "https://cyberpress.org/trivy-attack-hits-dockerhub/",
-  "lastId": "udt39y0000",
-  "lastFilePath": "cyberpress/pages/2026/03/24/trivy-supply-chain-attack-spreads-through-compromised-docker-hub-images.md",
+  "updatedAt": "2026-03-24T12:00:33.055-04:00",
+  "lastLink": "https://cyberpress.org/leak-site-tied-broker/",
+  "lastId": "vu9sdu0000",
+  "lastFilePath": "cyberpress/pages/2026/03/24/researchers-uncover-data-leak-site-linked-to-active-initial-access-broker.md",
   "items": [
     {
-      "id": "udt39y0000",
-      "link": "https://cyberpress.org/trivy-attack-hits-dockerhub/",
-      "filePath": "cyberpress/pages/2026/03/24/trivy-supply-chain-attack-spreads-through-compromised-docker-hub-images.md",
-      "committedAt": "2026-03-24T11:52:53.801-04:00",
-      "title": "Trivy Supply Chain Attack Spreads Through Compromised Docker Hub Images"
+      "id": "vu9sdu0000",
+      "link": "https://cyberpress.org/leak-site-tied-broker/",
+      "filePath": "cyberpress/pages/2026/03/24/researchers-uncover-data-leak-site-linked-to-active-initial-access-broker.md",
+      "committedAt": "2026-03-24T12:00:33.055-04:00",
+      "title": "Researchers Uncover Data Leak Site Linked To Active Initial Access Broker"
     }
   ]
 }
