@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-23T19:00:54.886-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
-  "lastId": "1yy2wxq000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/23/mazda-discloses-security-breach-exposing-employee-and-partner-data.md",
+  "updatedAt": "2026-03-23T20:01:31.916-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
+  "lastId": "11cddaz000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/23/openai-rolls-out-chatgpt-library-to-store-your-personal-files.md",
   "items": [
     {
-      "id": "1yy2wxq000",
-      "link": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
-      "filePath": "bleepingcomp/pages/2026/03/23/mazda-discloses-security-breach-exposing-employee-and-partner-data.md",
-      "committedAt": "2026-03-23T19:00:54.886-04:00",
-      "title": "Mazda discloses security breach exposing employee and partner data"
+      "id": "11cddaz000",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
+      "filePath": "bleepingcomp/pages/2026/03/23/openai-rolls-out-chatgpt-library-to-store-your-personal-files.md",
+      "committedAt": "2026-03-23T20:01:31.916-04:00",
+      "title": "OpenAI rolls out ChatGPT Library to store your personal files"
     }
   ]
 }
