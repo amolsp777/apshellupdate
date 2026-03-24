@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-24T12:00:55.382-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/",
-  "lastId": "1aj9wce000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/24/yanluowang-ransomware-access-broker-gets-81-months-in-prison.md",
+  "updatedAt": "2026-03-24T13:01:28.268-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/",
+  "lastId": "1r6ak1a000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/24/microsoft-fixes-bug-causing-classic-outlook-sync-issues-with-gmail.md",
   "items": [
     {
-      "id": "1aj9wce000",
-      "link": "https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/",
-      "filePath": "bleepingcomp/pages/2026/03/24/yanluowang-ransomware-access-broker-gets-81-months-in-prison.md",
-      "committedAt": "2026-03-24T12:00:55.382-04:00",
-      "title": "Yanluowang ransomware access broker gets 81 months in prison"
+      "id": "1r6ak1a000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/",
+      "filePath": "bleepingcomp/pages/2026/03/24/microsoft-fixes-bug-causing-classic-outlook-sync-issues-with-gmail.md",
+      "committedAt": "2026-03-24T13:01:28.268-04:00",
+      "title": "Microsoft fixes bug causing Classic Outlook sync issues with Gmail"
     }
   ]
 }
