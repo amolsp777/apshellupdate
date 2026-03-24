@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-24T16:00:54.109-04:00",
-  "lastLink": "https://cyberpress.org/quest-kace-sma-flaw/",
-  "lastId": "rojc6b0000",
-  "lastFilePath": "cyberpress/pages/2026/03/23/hackers-exploit-quest-kace-sma-flaw-to-steal-credentials.md",
+  "updatedAt": "2026-03-24T17:00:59.733-04:00",
+  "lastLink": "https://cyberpress.org/seo-poisoning-spreads-asyncrat/",
+  "lastId": "1lizqa7000",
+  "lastFilePath": "cyberpress/pages/2026/03/24/seo-poisoning-campaign-impersonates-2025-popular-apps-to-spread-asyncrat.md",
   "items": [
     {
-      "id": "rojc6b0000",
-      "link": "https://cyberpress.org/quest-kace-sma-flaw/",
-      "filePath": "cyberpress/pages/2026/03/23/hackers-exploit-quest-kace-sma-flaw-to-steal-credentials.md",
-      "committedAt": "2026-03-24T16:00:54.109-04:00",
-      "title": "Hackers Exploit Quest KACE SMA Flaw to Steal Credentials"
+      "id": "1lizqa7000",
+      "link": "https://cyberpress.org/seo-poisoning-spreads-asyncrat/",
+      "filePath": "cyberpress/pages/2026/03/24/seo-poisoning-campaign-impersonates-2025-popular-apps-to-spread-asyncrat.md",
+      "committedAt": "2026-03-24T17:00:59.733-04:00",
+      "title": "SEO Poisoning Campaign Impersonates 2025 Popular Apps To Spread AsyncRAT"
     }
   ]
 }
