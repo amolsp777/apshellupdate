@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-13T16:13:02.798-04:00",
-  "lastLink": "https://cyberpress.org/starbucks-data-breach/",
-  "lastId": "u4n85u0000",
-  "lastFilePath": "cyberpress/pages/2026/03/13/starbucks-data-breach-exposes-personal-information-of-hundreds-of-users.md",
+  "updatedAt": "2026-03-24T11:52:53.801-04:00",
+  "lastLink": "https://cyberpress.org/trivy-attack-hits-dockerhub/",
+  "lastId": "udt39y0000",
+  "lastFilePath": "cyberpress/pages/2026/03/24/trivy-supply-chain-attack-spreads-through-compromised-docker-hub-images.md",
   "items": [
     {
-      "id": "u4n85u0000",
-      "link": "https://cyberpress.org/starbucks-data-breach/",
-      "filePath": "cyberpress/pages/2026/03/13/starbucks-data-breach-exposes-personal-information-of-hundreds-of-users.md",
-      "committedAt": "2026-03-13T16:13:02.798-04:00",
-      "title": "Starbucks Data Breach Exposes Personal Information of Hundreds of Users"
+      "id": "udt39y0000",
+      "link": "https://cyberpress.org/trivy-attack-hits-dockerhub/",
+      "filePath": "cyberpress/pages/2026/03/24/trivy-supply-chain-attack-spreads-through-compromised-docker-hub-images.md",
+      "committedAt": "2026-03-24T11:52:53.801-04:00",
+      "title": "Trivy Supply Chain Attack Spreads Through Compromised Docker Hub Images"
     }
   ]
 }
