@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T15:01:05.952-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
-  "lastId": "1mwfyf2000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/25/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets.md",
+  "updatedAt": "2026-03-25T16:01:22.009-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/",
+  "lastId": "2fevg30000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/25/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials.md",
   "items": [
     {
-      "id": "1mwfyf2000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
-      "filePath": "bleepingcomp/pages/2026/03/25/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets.md",
-      "committedAt": "2026-03-25T15:01:05.952-04:00",
-      "title": "New Torg Grabber infostealer malware targets 728 crypto wallets"
+      "id": "2fevg30000",
+      "link": "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/",
+      "filePath": "bleepingcomp/pages/2026/03/25/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials.md",
+      "committedAt": "2026-03-25T16:01:22.009-04:00",
+      "title": "Bubble AI app builder abused to steal Microsoft account credentials"
     }
   ]
 }
