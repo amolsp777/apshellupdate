@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T04:00:26.898-04:00",
-  "lastLink": "https://cyberpress.org/hackerone-data-breach/",
-  "lastId": "mra98o0000",
-  "lastFilePath": "cyberpress/pages/2026/03/25/hackerone-data-breach-employee-data-stolen-in-navia-linked-hack.md",
+  "updatedAt": "2026-03-25T05:00:32.303-04:00",
+  "lastLink": "https://cyberpress.org/teampcp-litellm-package/",
+  "lastId": "1hqz7vr000",
+  "lastFilePath": "cyberpress/pages/2026/03/25/teampcp-hackers-behind-trivy-kics-breaches-now-target-litellm-package.md",
   "items": [
     {
-      "id": "mra98o0000",
-      "link": "https://cyberpress.org/hackerone-data-breach/",
-      "filePath": "cyberpress/pages/2026/03/25/hackerone-data-breach-employee-data-stolen-in-navia-linked-hack.md",
-      "committedAt": "2026-03-25T04:00:26.898-04:00",
-      "title": "HackerOne Data Breach: Employee Data Stolen in Navia-Linked Hack"
+      "id": "1hqz7vr000",
+      "link": "https://cyberpress.org/teampcp-litellm-package/",
+      "filePath": "cyberpress/pages/2026/03/25/teampcp-hackers-behind-trivy-kics-breaches-now-target-litellm-package.md",
+      "committedAt": "2026-03-25T05:00:32.303-04:00",
+      "title": "TeamPCP Hackers Behind Trivy & KICS Breaches Now Target LiteLLM Package"
     }
   ]
 }
