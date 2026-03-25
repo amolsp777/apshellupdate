@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-24T21:01:26.658-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
-  "lastId": "u7qkvu0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/24/popular-litellm-pypi-package-backdoored-to-steal-credentials-auth-tokens.md",
+  "updatedAt": "2026-03-25T05:00:44.225-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/",
+  "lastId": "1t7dypo000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/25/manager-of-botnet-used-in-ransomware-attacks-gets-2-years-in-prison.md",
   "items": [
     {
-      "id": "u7qkvu0000",
-      "link": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
-      "filePath": "bleepingcomp/pages/2026/03/24/popular-litellm-pypi-package-backdoored-to-steal-credentials-auth-tokens.md",
-      "committedAt": "2026-03-24T21:01:26.658-04:00",
-      "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens"
+      "id": "1t7dypo000",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/",
+      "filePath": "bleepingcomp/pages/2026/03/25/manager-of-botnet-used-in-ransomware-attacks-gets-2-years-in-prison.md",
+      "committedAt": "2026-03-25T05:00:44.225-04:00",
+      "title": "Manager of botnet used in ransomware attacks gets 2 years in prison"
     }
   ]
 }
