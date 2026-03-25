@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T15:01:09.947-04:00",
-  "lastLink": "https://cyberpress.org/f5-nginx-flaw/",
-  "lastId": "68l1xl0000",
-  "lastFilePath": "cyberpress/pages/2026/03/25/f5-nginx-flaw-allows-code-execution-via-malicious-mp4-files.md",
+  "updatedAt": "2026-03-25T16:01:15.962-04:00",
+  "lastLink": "https://cyberpress.org/google-authenticator-passkey-vulnerability/",
+  "lastId": "1msap4j000",
+  "lastFilePath": "cyberpress/pages/2026/03/25/passkey-architecture-in-google-authenticator-poses-new-cyberattack-threats.md",
   "items": [
     {
-      "id": "68l1xl0000",
-      "link": "https://cyberpress.org/f5-nginx-flaw/",
-      "filePath": "cyberpress/pages/2026/03/25/f5-nginx-flaw-allows-code-execution-via-malicious-mp4-files.md",
-      "committedAt": "2026-03-25T15:01:09.947-04:00",
-      "title": "F5 NGINX Flaw Allows Code Execution via Malicious MP4 Files"
+      "id": "1msap4j000",
+      "link": "https://cyberpress.org/google-authenticator-passkey-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/25/passkey-architecture-in-google-authenticator-poses-new-cyberattack-threats.md",
+      "committedAt": "2026-03-25T16:01:15.962-04:00",
+      "title": "Passkey Architecture In Google Authenticator Poses New Cyberattack Threats"
     }
   ]
 }
