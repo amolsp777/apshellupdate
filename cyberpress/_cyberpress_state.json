@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T14:00:53.829-04:00",
-  "lastLink": "https://cyberpress.org/how-elite-socs-and-mssps-escalate-30-fewer-alerts-with-better-threat-intelligence/",
-  "lastId": "zzvzzl0000",
-  "lastFilePath": "cyberpress/pages/2026/03/25/how-elite-socs-and-mssps-escalate-30-fewer-alerts-with-better-threat-intelligenc.md",
+  "updatedAt": "2026-03-25T15:01:09.947-04:00",
+  "lastLink": "https://cyberpress.org/f5-nginx-flaw/",
+  "lastId": "68l1xl0000",
+  "lastFilePath": "cyberpress/pages/2026/03/25/f5-nginx-flaw-allows-code-execution-via-malicious-mp4-files.md",
   "items": [
     {
-      "id": "zzvzzl0000",
-      "link": "https://cyberpress.org/how-elite-socs-and-mssps-escalate-30-fewer-alerts-with-better-threat-intelligence/",
-      "filePath": "cyberpress/pages/2026/03/25/how-elite-socs-and-mssps-escalate-30-fewer-alerts-with-better-threat-intelligenc.md",
-      "committedAt": "2026-03-25T14:00:53.829-04:00",
-      "title": "How Elite SOCs and MSSPs Escalate 30% Fewer Alerts with Better Threat Intelligence"
+      "id": "68l1xl0000",
+      "link": "https://cyberpress.org/f5-nginx-flaw/",
+      "filePath": "cyberpress/pages/2026/03/25/f5-nginx-flaw-allows-code-execution-via-malicious-mp4-files.md",
+      "committedAt": "2026-03-25T15:01:09.947-04:00",
+      "title": "F5 NGINX Flaw Allows Code Execution via Malicious MP4 Files"
     }
   ]
 }
