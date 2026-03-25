@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-24T20:00:44.546-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
-  "lastId": "nh1toy0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/24/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug.md",
+  "updatedAt": "2026-03-24T21:01:26.658-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
+  "lastId": "u7qkvu0000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/24/popular-litellm-pypi-package-backdoored-to-steal-credentials-auth-tokens.md",
   "items": [
     {
-      "id": "nh1toy0000",
-      "link": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
-      "filePath": "bleepingcomp/pages/2026/03/24/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug.md",
-      "committedAt": "2026-03-24T20:00:44.546-04:00",
-      "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug"
+      "id": "u7qkvu0000",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
+      "filePath": "bleepingcomp/pages/2026/03/24/popular-litellm-pypi-package-backdoored-to-steal-credentials-auth-tokens.md",
+      "committedAt": "2026-03-24T21:01:26.658-04:00",
+      "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens"
     }
   ]
 }
