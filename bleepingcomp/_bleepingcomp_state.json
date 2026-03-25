@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T05:00:44.225-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/",
-  "lastId": "1t7dypo000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/25/manager-of-botnet-used-in-ransomware-attacks-gets-2-years-in-prison.md",
+  "updatedAt": "2026-03-25T08:00:44.338-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/",
+  "lastId": "un5dar0000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/25/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw.md",
   "items": [
     {
-      "id": "1t7dypo000",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/",
-      "filePath": "bleepingcomp/pages/2026/03/25/manager-of-botnet-used-in-ransomware-attacks-gets-2-years-in-prison.md",
-      "committedAt": "2026-03-25T05:00:44.225-04:00",
-      "title": "Manager of botnet used in ransomware attacks gets 2 years in prison"
+      "id": "un5dar0000",
+      "link": "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/",
+      "filePath": "bleepingcomp/pages/2026/03/25/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw.md",
+      "committedAt": "2026-03-25T08:00:44.338-04:00",
+      "title": "TP-Link warns users to patch critical router auth bypass flaw"
     }
   ]
 }
