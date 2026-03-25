@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T08:00:26.891-04:00",
-  "lastLink": "https://cyberpress.org/hackers-exploit-magento-flaw/",
-  "lastId": "1xr8krq000",
-  "lastFilePath": "cyberpress/pages/2026/03/25/hackers-exploit-magento-flaw-for-remote-code-execution-and-account-takeover.md",
+  "updatedAt": "2026-03-25T09:00:26.863-04:00",
+  "lastLink": "https://cyberpress.org/rdp-servers-exploited-for-malware/",
+  "lastId": "2orjdb0000",
+  "lastFilePath": "cyberpress/pages/2026/03/25/threat-actors-exploit-rdp-servers-to-deliver-malware-and-establish-long-term-acc.md",
   "items": [
     {
-      "id": "1xr8krq000",
-      "link": "https://cyberpress.org/hackers-exploit-magento-flaw/",
-      "filePath": "cyberpress/pages/2026/03/25/hackers-exploit-magento-flaw-for-remote-code-execution-and-account-takeover.md",
-      "committedAt": "2026-03-25T08:00:26.891-04:00",
-      "title": "Hackers Exploit Magento Flaw for Remote Code Execution and Account Takeover"
+      "id": "2orjdb0000",
+      "link": "https://cyberpress.org/rdp-servers-exploited-for-malware/",
+      "filePath": "cyberpress/pages/2026/03/25/threat-actors-exploit-rdp-servers-to-deliver-malware-and-establish-long-term-acc.md",
+      "committedAt": "2026-03-25T09:00:26.863-04:00",
+      "title": "Threat Actors Exploit RDP Servers To Deliver Malware and Establish Long-Term Access"
     }
   ]
 }
