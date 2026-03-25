@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T11:01:29.319-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/",
-  "lastId": "1y70tcu000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/25/paid-ai-accounts-are-now-a-hot-underground-commodity.md",
+  "updatedAt": "2026-03-25T12:01:06.859-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
+  "lastId": "1y1mvby000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/25/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible.md",
   "items": [
     {
-      "id": "1y70tcu000",
-      "link": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/",
-      "filePath": "bleepingcomp/pages/2026/03/25/paid-ai-accounts-are-now-a-hot-underground-commodity.md",
-      "committedAt": "2026-03-25T11:01:29.319-04:00",
-      "title": "Paid AI Accounts Are Now a Hot Underground Commodity"
+      "id": "1y1mvby000",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
+      "filePath": "bleepingcomp/pages/2026/03/25/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible.md",
+      "committedAt": "2026-03-25T12:01:06.859-04:00",
+      "title": "Citrix urges admins to patch NetScaler flaws as soon as possible"
     }
   ]
 }
