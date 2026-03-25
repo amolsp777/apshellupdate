@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T09:00:26.863-04:00",
-  "lastLink": "https://cyberpress.org/rdp-servers-exploited-for-malware/",
-  "lastId": "2orjdb0000",
-  "lastFilePath": "cyberpress/pages/2026/03/25/threat-actors-exploit-rdp-servers-to-deliver-malware-and-establish-long-term-acc.md",
+  "updatedAt": "2026-03-25T10:00:26.759-04:00",
+  "lastLink": "https://cyberpress.org/goharbor-vulnerability/",
+  "lastId": "18sodfm000",
+  "lastFilePath": "cyberpress/pages/2026/03/25/goharbor-vulnerability-allows-attackers-to-fully-compromise-container-registry.md",
   "items": [
     {
-      "id": "2orjdb0000",
-      "link": "https://cyberpress.org/rdp-servers-exploited-for-malware/",
-      "filePath": "cyberpress/pages/2026/03/25/threat-actors-exploit-rdp-servers-to-deliver-malware-and-establish-long-term-acc.md",
-      "committedAt": "2026-03-25T09:00:26.863-04:00",
-      "title": "Threat Actors Exploit RDP Servers To Deliver Malware and Establish Long-Term Access"
+      "id": "18sodfm000",
+      "link": "https://cyberpress.org/goharbor-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/25/goharbor-vulnerability-allows-attackers-to-fully-compromise-container-registry.md",
+      "committedAt": "2026-03-25T10:00:26.759-04:00",
+      "title": "GoHarbor Vulnerability Allows Attackers to Fully Compromise Container Registry"
     }
   ]
 }
