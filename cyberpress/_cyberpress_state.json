@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T03:00:53.589-04:00",
-  "lastLink": "https://cyberpress.org/azure-ai-enhances-generative-security/",
-  "lastId": "1wttc38000",
-  "lastFilePath": "cyberpress/pages/2026/03/25/azure-ai-foundry-strengthens-cybersecurity-with-new-safeguards-for-generative-ai.md",
+  "updatedAt": "2026-03-25T04:00:26.898-04:00",
+  "lastLink": "https://cyberpress.org/hackerone-data-breach/",
+  "lastId": "mra98o0000",
+  "lastFilePath": "cyberpress/pages/2026/03/25/hackerone-data-breach-employee-data-stolen-in-navia-linked-hack.md",
   "items": [
     {
-      "id": "1wttc38000",
-      "link": "https://cyberpress.org/azure-ai-enhances-generative-security/",
-      "filePath": "cyberpress/pages/2026/03/25/azure-ai-foundry-strengthens-cybersecurity-with-new-safeguards-for-generative-ai.md",
-      "committedAt": "2026-03-25T03:00:53.589-04:00",
-      "title": "Azure AI Foundry Strengthens Cybersecurity With New Safeguards For Generative AI Models"
+      "id": "mra98o0000",
+      "link": "https://cyberpress.org/hackerone-data-breach/",
+      "filePath": "cyberpress/pages/2026/03/25/hackerone-data-breach-employee-data-stolen-in-navia-linked-hack.md",
+      "committedAt": "2026-03-25T04:00:26.898-04:00",
+      "title": "HackerOne Data Breach: Employee Data Stolen in Navia-Linked Hack"
     }
   ]
 }
