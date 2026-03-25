@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T08:00:44.338-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/",
-  "lastId": "un5dar0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/25/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw.md",
+  "updatedAt": "2026-03-25T09:01:28.095-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/",
+  "lastId": "czjugc0000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/25/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode.md",
   "items": [
     {
-      "id": "un5dar0000",
-      "link": "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/",
-      "filePath": "bleepingcomp/pages/2026/03/25/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw.md",
-      "committedAt": "2026-03-25T08:00:44.338-04:00",
-      "title": "TP-Link warns users to patch critical router auth bypass flaw"
+      "id": "czjugc0000",
+      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/",
+      "filePath": "bleepingcomp/pages/2026/03/25/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode.md",
+      "committedAt": "2026-03-25T09:01:28.095-04:00",
+      "title": "Kali Linux 2026.1 released with 8 new tools, new BackTrack mode"
     }
   ]
 }
