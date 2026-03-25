@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T10:00:26.759-04:00",
-  "lastLink": "https://cyberpress.org/goharbor-vulnerability/",
-  "lastId": "18sodfm000",
-  "lastFilePath": "cyberpress/pages/2026/03/25/goharbor-vulnerability-allows-attackers-to-fully-compromise-container-registry.md",
+  "updatedAt": "2026-03-25T11:00:44.553-04:00",
+  "lastLink": "https://cyberpress.org/tycoon2fa-resumes-cloud-phishing/",
+  "lastId": "1w5zsl0000",
+  "lastFilePath": "cyberpress/pages/2026/03/25/cloud-based-phishing-resumes-after-tycoon2fa-disruption.md",
   "items": [
     {
-      "id": "18sodfm000",
-      "link": "https://cyberpress.org/goharbor-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/25/goharbor-vulnerability-allows-attackers-to-fully-compromise-container-registry.md",
-      "committedAt": "2026-03-25T10:00:26.759-04:00",
-      "title": "GoHarbor Vulnerability Allows Attackers to Fully Compromise Container Registry"
+      "id": "1w5zsl0000",
+      "link": "https://cyberpress.org/tycoon2fa-resumes-cloud-phishing/",
+      "filePath": "cyberpress/pages/2026/03/25/cloud-based-phishing-resumes-after-tycoon2fa-disruption.md",
+      "committedAt": "2026-03-25T11:00:44.553-04:00",
+      "title": "Cloud-based Phishing Resumes After Tycoon2FA Disruption"
     }
   ]
 }
