@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T14:01:10.857-04:00",
-  "lastLink": "https://cyberpress.org/leakbase-admin-arrested/",
-  "lastId": "5vewng0000",
-  "lastFilePath": "cyberpress/pages/2026/03/26/leakbase-hacker-forum-admin-arrested-by-russian-authorities.md",
+  "updatedAt": "2026-03-26T15:01:15.592-04:00",
+  "lastLink": "https://cyberpress.org/microsoft-trivy-supply-chain-attack/",
+  "lastId": "t73m3k0000",
+  "lastFilePath": "cyberpress/pages/2026/03/26/microsoft-releases-guidance-to-detect-and-defend-against-trivy-supply-chain-atta.md",
   "items": [
     {
-      "id": "5vewng0000",
-      "link": "https://cyberpress.org/leakbase-admin-arrested/",
-      "filePath": "cyberpress/pages/2026/03/26/leakbase-hacker-forum-admin-arrested-by-russian-authorities.md",
-      "committedAt": "2026-03-26T14:01:10.857-04:00",
-      "title": "LeakBase Hacker Forum Admin Arrested by Russian Authorities"
+      "id": "t73m3k0000",
+      "link": "https://cyberpress.org/microsoft-trivy-supply-chain-attack/",
+      "filePath": "cyberpress/pages/2026/03/26/microsoft-releases-guidance-to-detect-and-defend-against-trivy-supply-chain-atta.md",
+      "committedAt": "2026-03-26T15:01:15.592-04:00",
+      "title": "Microsoft Releases Guidance to Detect and Defend Against Trivy Supply Chain Attack"
     }
   ]
 }
