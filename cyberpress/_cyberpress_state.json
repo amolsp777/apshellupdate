@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T10:00:26.843-04:00",
-  "lastLink": "https://cyberpress.org/ivanti-epmm-vulnerabilities/",
-  "lastId": "1tjy7bx000",
-  "lastFilePath": "cyberpress/pages/2026/03/26/critical-ivanti-epmm-vulnerabilities-allow-remote-code-execution.md",
+  "updatedAt": "2026-03-26T11:00:32.472-04:00",
+  "lastLink": "https://cyberpress.org/critical-nvidia-vulnerabilities-enable-rce-and-dos-attacks/",
+  "lastId": "oz87dl0000",
+  "lastFilePath": "cyberpress/pages/2026/03/26/critical-nvidia-vulnerabilities-enable-rce-and-dos-attacks.md",
   "items": [
     {
-      "id": "1tjy7bx000",
-      "link": "https://cyberpress.org/ivanti-epmm-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/03/26/critical-ivanti-epmm-vulnerabilities-allow-remote-code-execution.md",
-      "committedAt": "2026-03-26T10:00:26.843-04:00",
-      "title": "Critical Ivanti EPMM Vulnerabilities Allow Remote Code Execution"
+      "id": "oz87dl0000",
+      "link": "https://cyberpress.org/critical-nvidia-vulnerabilities-enable-rce-and-dos-attacks/",
+      "filePath": "cyberpress/pages/2026/03/26/critical-nvidia-vulnerabilities-enable-rce-and-dos-attacks.md",
+      "committedAt": "2026-03-26T11:00:32.472-04:00",
+      "title": "Critical NVIDIA Vulnerabilities Enable RCE and DoS Attacks"
     }
   ]
 }
