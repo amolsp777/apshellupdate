@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T16:01:15.962-04:00",
-  "lastLink": "https://cyberpress.org/google-authenticator-passkey-vulnerability/",
-  "lastId": "1msap4j000",
-  "lastFilePath": "cyberpress/pages/2026/03/25/passkey-architecture-in-google-authenticator-poses-new-cyberattack-threats.md",
+  "updatedAt": "2026-03-26T03:00:49.257-04:00",
+  "lastLink": "https://cyberpress.org/telegram-attack-targets-crypto-developers/",
+  "lastId": "o0yijt0000",
+  "lastFilePath": "cyberpress/pages/2026/03/26/telegram-driven-attack-targets-crypto-developers-with-malicious-npm-packages.md",
   "items": [
     {
-      "id": "1msap4j000",
-      "link": "https://cyberpress.org/google-authenticator-passkey-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/25/passkey-architecture-in-google-authenticator-poses-new-cyberattack-threats.md",
-      "committedAt": "2026-03-25T16:01:15.962-04:00",
-      "title": "Passkey Architecture In Google Authenticator Poses New Cyberattack Threats"
+      "id": "o0yijt0000",
+      "link": "https://cyberpress.org/telegram-attack-targets-crypto-developers/",
+      "filePath": "cyberpress/pages/2026/03/26/telegram-driven-attack-targets-crypto-developers-with-malicious-npm-packages.md",
+      "committedAt": "2026-03-26T03:00:49.257-04:00",
+      "title": "Telegram-Driven Attack Targets Crypto Developers with Malicious npm Packages"
     }
   ]
 }
