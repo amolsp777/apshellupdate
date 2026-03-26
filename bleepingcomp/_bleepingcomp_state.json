@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T18:01:16.482-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
-  "lastId": "dubfbh0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/25/polyshell-attacks-target-56-of-all-vulnerable-magento-stores.md",
+  "updatedAt": "2026-03-25T20:01:10.577-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
+  "lastId": "qavoou0000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/25/github-adds-ai-powered-bug-detection-to-expand-security-coverage.md",
   "items": [
     {
-      "id": "dubfbh0000",
-      "link": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
-      "filePath": "bleepingcomp/pages/2026/03/25/polyshell-attacks-target-56-of-all-vulnerable-magento-stores.md",
-      "committedAt": "2026-03-25T18:01:16.482-04:00",
-      "title": "PolyShell attacks target 56% of all vulnerable Magento stores"
+      "id": "qavoou0000",
+      "link": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
+      "filePath": "bleepingcomp/pages/2026/03/25/github-adds-ai-powered-bug-detection-to-expand-security-coverage.md",
+      "committedAt": "2026-03-25T20:01:10.577-04:00",
+      "title": "GitHub adds AI-powered bug detection to expand security coverage"
     }
   ]
 }
