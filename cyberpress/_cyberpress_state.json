@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T04:00:32.589-04:00",
-  "lastLink": "https://cyberpress.org/infostealer-leads-to-dark-web/",
-  "lastId": "1navzgg000",
-  "lastFilePath": "cyberpress/pages/2026/03/26/research-shows-infostealer-infections-can-lead-to-dark-web-leaks-within-48-hours.md",
+  "updatedAt": "2026-03-26T05:00:37.510-04:00",
+  "lastLink": "https://cyberpress.org/cisco-secure-firewall-flaw/",
+  "lastId": "79g1x80000",
+  "lastFilePath": "cyberpress/pages/2026/03/26/cisco-secure-firewall-flaw-allows-remote-code-execution-as-root.md",
   "items": [
     {
-      "id": "1navzgg000",
-      "link": "https://cyberpress.org/infostealer-leads-to-dark-web/",
-      "filePath": "cyberpress/pages/2026/03/26/research-shows-infostealer-infections-can-lead-to-dark-web-leaks-within-48-hours.md",
-      "committedAt": "2026-03-26T04:00:32.589-04:00",
-      "title": "Research Shows Infostealer Infections Can Lead To Dark Web Leaks Within 48 Hours"
+      "id": "79g1x80000",
+      "link": "https://cyberpress.org/cisco-secure-firewall-flaw/",
+      "filePath": "cyberpress/pages/2026/03/26/cisco-secure-firewall-flaw-allows-remote-code-execution-as-root.md",
+      "committedAt": "2026-03-26T05:00:37.510-04:00",
+      "title": "Cisco Secure Firewall Flaw Allows Remote Code Execution as Root"
     }
   ]
 }
