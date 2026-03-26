@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T13:01:28.603-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/",
-  "lastId": "1bkbeq3000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/26/whatsapp-rolls-out-more-ai-features-ios-multi-account-support.md",
+  "updatedAt": "2026-03-26T14:01:33.430-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/",
+  "lastId": "17kv5ac000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/26/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers.md",
   "items": [
     {
-      "id": "1bkbeq3000",
-      "link": "https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/",
-      "filePath": "bleepingcomp/pages/2026/03/26/whatsapp-rolls-out-more-ai-features-ios-multi-account-support.md",
-      "committedAt": "2026-03-26T13:01:28.603-04:00",
-      "title": "WhatsApp rolls out more AI features, iOS multi-account support"
+      "id": "17kv5ac000",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/",
+      "filePath": "bleepingcomp/pages/2026/03/26/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers.md",
+      "committedAt": "2026-03-26T14:01:33.430-04:00",
+      "title": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers"
     }
   ]
 }
