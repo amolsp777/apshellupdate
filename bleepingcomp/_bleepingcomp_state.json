@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T09:01:00.854-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/",
-  "lastId": "1xx9nrr000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/26/russia-arrests-suspected-owner-of-leakbase-cybercrime-forum.md",
+  "updatedAt": "2026-03-26T10:01:00.717-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
+  "lastId": "1ctfjjn000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/26/coruna-ios-exploit-framework-linked-to-triangulation-attacks.md",
   "items": [
     {
-      "id": "1xx9nrr000",
-      "link": "https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/",
-      "filePath": "bleepingcomp/pages/2026/03/26/russia-arrests-suspected-owner-of-leakbase-cybercrime-forum.md",
-      "committedAt": "2026-03-26T09:01:00.854-04:00",
-      "title": "Russia arrests suspected owner of LeakBase cybercrime forum"
+      "id": "1ctfjjn000",
+      "link": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
+      "filePath": "bleepingcomp/pages/2026/03/26/coruna-ios-exploit-framework-linked-to-triangulation-attacks.md",
+      "committedAt": "2026-03-26T10:01:00.717-04:00",
+      "title": "Coruna iOS exploit framework linked to Triangulation attacks"
     }
   ]
 }
