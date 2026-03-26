@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T12:00:50.597-04:00",
-  "lastLink": "https://cyberpress.org/langflow-code-injection-flaw/",
-  "lastId": "1jfolyj000",
-  "lastFilePath": "cyberpress/pages/2026/03/26/cisa-warns-of-langflow-code-injection-flaw-exploited-in-the-wild.md",
+  "updatedAt": "2026-03-26T13:00:59.780-04:00",
+  "lastLink": "https://cyberpress.org/pay2key-targets-linux-servers/",
+  "lastId": "1nnh6uc000",
+  "lastFilePath": "cyberpress/pages/2026/03/26/linux-ransomware-pay2key-targets-servers-virtualization-hosts.md",
   "items": [
     {
-      "id": "1jfolyj000",
-      "link": "https://cyberpress.org/langflow-code-injection-flaw/",
-      "filePath": "cyberpress/pages/2026/03/26/cisa-warns-of-langflow-code-injection-flaw-exploited-in-the-wild.md",
-      "committedAt": "2026-03-26T12:00:50.597-04:00",
-      "title": "CISA Warns of Langflow Code Injection Flaw Exploited in the Wild"
+      "id": "1nnh6uc000",
+      "link": "https://cyberpress.org/pay2key-targets-linux-servers/",
+      "filePath": "cyberpress/pages/2026/03/26/linux-ransomware-pay2key-targets-servers-virtualization-hosts.md",
+      "committedAt": "2026-03-26T13:00:59.780-04:00",
+      "title": "Linux Ransomware Pay2Key Targets Servers, Virtualization Hosts"
     }
   ]
 }
