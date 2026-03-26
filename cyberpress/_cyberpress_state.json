@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T09:00:37.756-04:00",
-  "lastLink": "https://cyberpress.org/china-hackers-breach-military-systems/",
-  "lastId": "lgapve0000",
-  "lastFilePath": "cyberpress/pages/2026/03/26/china-linked-hackers-breach-southeast-asian-military-systems.md",
+  "updatedAt": "2026-03-26T10:00:26.843-04:00",
+  "lastLink": "https://cyberpress.org/ivanti-epmm-vulnerabilities/",
+  "lastId": "1tjy7bx000",
+  "lastFilePath": "cyberpress/pages/2026/03/26/critical-ivanti-epmm-vulnerabilities-allow-remote-code-execution.md",
   "items": [
     {
-      "id": "lgapve0000",
-      "link": "https://cyberpress.org/china-hackers-breach-military-systems/",
-      "filePath": "cyberpress/pages/2026/03/26/china-linked-hackers-breach-southeast-asian-military-systems.md",
-      "committedAt": "2026-03-26T09:00:37.756-04:00",
-      "title": "China-Linked Hackers Breach Southeast Asian Military Systems"
+      "id": "1tjy7bx000",
+      "link": "https://cyberpress.org/ivanti-epmm-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/03/26/critical-ivanti-epmm-vulnerabilities-allow-remote-code-execution.md",
+      "committedAt": "2026-03-26T10:00:26.843-04:00",
+      "title": "Critical Ivanti EPMM Vulnerabilities Allow Remote Code Execution"
     }
   ]
 }
