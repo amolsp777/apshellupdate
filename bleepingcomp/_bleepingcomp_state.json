@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T14:01:33.430-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/",
-  "lastId": "17kv5ac000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/26/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers.md",
+  "updatedAt": "2026-03-26T16:00:44.263-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
+  "lastId": "mff1qh0000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/26/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows.md",
   "items": [
     {
-      "id": "17kv5ac000",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/",
-      "filePath": "bleepingcomp/pages/2026/03/26/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers.md",
-      "committedAt": "2026-03-26T14:01:33.430-04:00",
-      "title": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers"
+      "id": "mff1qh0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
+      "filePath": "bleepingcomp/pages/2026/03/26/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows.md",
+      "committedAt": "2026-03-26T16:00:44.263-04:00",
+      "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows"
     }
   ]
 }
