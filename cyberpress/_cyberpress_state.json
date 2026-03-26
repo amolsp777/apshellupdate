@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T11:00:32.472-04:00",
-  "lastLink": "https://cyberpress.org/critical-nvidia-vulnerabilities-enable-rce-and-dos-attacks/",
-  "lastId": "oz87dl0000",
-  "lastFilePath": "cyberpress/pages/2026/03/26/critical-nvidia-vulnerabilities-enable-rce-and-dos-attacks.md",
+  "updatedAt": "2026-03-26T12:00:50.597-04:00",
+  "lastLink": "https://cyberpress.org/langflow-code-injection-flaw/",
+  "lastId": "1jfolyj000",
+  "lastFilePath": "cyberpress/pages/2026/03/26/cisa-warns-of-langflow-code-injection-flaw-exploited-in-the-wild.md",
   "items": [
     {
-      "id": "oz87dl0000",
-      "link": "https://cyberpress.org/critical-nvidia-vulnerabilities-enable-rce-and-dos-attacks/",
-      "filePath": "cyberpress/pages/2026/03/26/critical-nvidia-vulnerabilities-enable-rce-and-dos-attacks.md",
-      "committedAt": "2026-03-26T11:00:32.472-04:00",
-      "title": "Critical NVIDIA Vulnerabilities Enable RCE and DoS Attacks"
+      "id": "1jfolyj000",
+      "link": "https://cyberpress.org/langflow-code-injection-flaw/",
+      "filePath": "cyberpress/pages/2026/03/26/cisa-warns-of-langflow-code-injection-flaw-exploited-in-the-wild.md",
+      "committedAt": "2026-03-26T12:00:50.597-04:00",
+      "title": "CISA Warns of Langflow Code Injection Flaw Exploited in the Wild"
     }
   ]
 }
