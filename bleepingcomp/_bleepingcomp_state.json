@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T16:00:44.263-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
-  "lastId": "mff1qh0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/26/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows.md",
+  "updatedAt": "2026-03-26T17:01:21.980-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/",
+  "lastId": "xy0yv30000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/26/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack.md",
   "items": [
     {
-      "id": "mff1qh0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
-      "filePath": "bleepingcomp/pages/2026/03/26/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows.md",
-      "committedAt": "2026-03-26T16:00:44.263-04:00",
-      "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows"
+      "id": "xy0yv30000",
+      "link": "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/",
+      "filePath": "bleepingcomp/pages/2026/03/26/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack.md",
+      "committedAt": "2026-03-26T17:01:21.980-04:00",
+      "title": "Ajax football club hack exposed fan data, enabled ticket hijack"
     }
   ]
 }
