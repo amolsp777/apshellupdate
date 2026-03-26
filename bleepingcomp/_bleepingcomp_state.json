@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T10:01:00.717-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
-  "lastId": "1ctfjjn000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/26/coruna-ios-exploit-framework-linked-to-triangulation-attacks.md",
+  "updatedAt": "2026-03-26T11:00:56.137-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/",
+  "lastId": "1pkhrmm000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/26/tiktok-for-business-accounts-targeted-in-new-phishing-campaign.md",
   "items": [
     {
-      "id": "1ctfjjn000",
-      "link": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
-      "filePath": "bleepingcomp/pages/2026/03/26/coruna-ios-exploit-framework-linked-to-triangulation-attacks.md",
-      "committedAt": "2026-03-26T10:01:00.717-04:00",
-      "title": "Coruna iOS exploit framework linked to Triangulation attacks"
+      "id": "1pkhrmm000",
+      "link": "https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/",
+      "filePath": "bleepingcomp/pages/2026/03/26/tiktok-for-business-accounts-targeted-in-new-phishing-campaign.md",
+      "committedAt": "2026-03-26T11:00:56.137-04:00",
+      "title": "TikTok for Business accounts targeted in new phishing campaign"
     }
   ]
 }
