@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T05:00:37.510-04:00",
-  "lastLink": "https://cyberpress.org/cisco-secure-firewall-flaw/",
-  "lastId": "79g1x80000",
-  "lastFilePath": "cyberpress/pages/2026/03/26/cisco-secure-firewall-flaw-allows-remote-code-execution-as-root.md",
+  "updatedAt": "2026-03-26T06:00:26.892-04:00",
+  "lastLink": "https://cyberpress.org/idrive-for-windows-vulnerability/",
+  "lastId": "wgc1o20000",
+  "lastFilePath": "cyberpress/pages/2026/03/26/idrive-for-windows-vulnerability-allows-privilege-escalation-attacks.md",
   "items": [
     {
-      "id": "79g1x80000",
-      "link": "https://cyberpress.org/cisco-secure-firewall-flaw/",
-      "filePath": "cyberpress/pages/2026/03/26/cisco-secure-firewall-flaw-allows-remote-code-execution-as-root.md",
-      "committedAt": "2026-03-26T05:00:37.510-04:00",
-      "title": "Cisco Secure Firewall Flaw Allows Remote Code Execution as Root"
+      "id": "wgc1o20000",
+      "link": "https://cyberpress.org/idrive-for-windows-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/26/idrive-for-windows-vulnerability-allows-privilege-escalation-attacks.md",
+      "committedAt": "2026-03-26T06:00:26.892-04:00",
+      "title": "IDrive for Windows Vulnerability Allows Privilege Escalation Attacks"
     }
   ]
 }
