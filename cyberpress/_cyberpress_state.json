@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T07:00:32.240-04:00",
-  "lastLink": "https://cyberpress.org/synology-dsm-vulnerability/",
-  "lastId": "3fas3c0000",
-  "lastFilePath": "cyberpress/pages/2026/03/26/synology-dsm-vulnerability-allows-remote-command-execution-by-attackers.md",
+  "updatedAt": "2026-03-26T08:00:27.017-04:00",
+  "lastLink": "https://cyberpress.org/mirai-botnet-drives-ddos-surge/",
+  "lastId": "1f37dw1000",
+  "lastFilePath": "cyberpress/pages/2026/03/26/mirai-botnet-growth-spurs-massive-ddos-attacks-and-proxy-exploits.md",
   "items": [
     {
-      "id": "3fas3c0000",
-      "link": "https://cyberpress.org/synology-dsm-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/26/synology-dsm-vulnerability-allows-remote-command-execution-by-attackers.md",
-      "committedAt": "2026-03-26T07:00:32.240-04:00",
-      "title": "Synology DSM Vulnerability Allows Remote Command Execution by Attackers"
+      "id": "1f37dw1000",
+      "link": "https://cyberpress.org/mirai-botnet-drives-ddos-surge/",
+      "filePath": "cyberpress/pages/2026/03/26/mirai-botnet-growth-spurs-massive-ddos-attacks-and-proxy-exploits.md",
+      "committedAt": "2026-03-26T08:00:27.017-04:00",
+      "title": "Mirai Botnet Growth Spurs Massive DDoS Attacks and Proxy Exploits"
     }
   ]
 }
