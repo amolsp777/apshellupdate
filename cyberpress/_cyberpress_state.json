@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T06:00:26.892-04:00",
-  "lastLink": "https://cyberpress.org/idrive-for-windows-vulnerability/",
-  "lastId": "wgc1o20000",
-  "lastFilePath": "cyberpress/pages/2026/03/26/idrive-for-windows-vulnerability-allows-privilege-escalation-attacks.md",
+  "updatedAt": "2026-03-26T07:00:32.240-04:00",
+  "lastLink": "https://cyberpress.org/synology-dsm-vulnerability/",
+  "lastId": "3fas3c0000",
+  "lastFilePath": "cyberpress/pages/2026/03/26/synology-dsm-vulnerability-allows-remote-command-execution-by-attackers.md",
   "items": [
     {
-      "id": "wgc1o20000",
-      "link": "https://cyberpress.org/idrive-for-windows-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/26/idrive-for-windows-vulnerability-allows-privilege-escalation-attacks.md",
-      "committedAt": "2026-03-26T06:00:26.892-04:00",
-      "title": "IDrive for Windows Vulnerability Allows Privilege Escalation Attacks"
+      "id": "3fas3c0000",
+      "link": "https://cyberpress.org/synology-dsm-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/26/synology-dsm-vulnerability-allows-remote-command-execution-by-attackers.md",
+      "committedAt": "2026-03-26T07:00:32.240-04:00",
+      "title": "Synology DSM Vulnerability Allows Remote Command Execution by Attackers"
     }
   ]
 }
