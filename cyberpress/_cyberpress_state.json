@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-27T13:01:01.928-04:00",
-  "lastLink": "https://cyberpress.org/cisa-adds-aqua-security-trivy-scanner-flaw-to-kev-catalog/",
-  "lastId": "1oqdd09000",
-  "lastFilePath": "cyberpress/pages/2026/03/27/cisa-adds-aqua-security-trivy-scanner-flaw-to-kev-catalog.md",
+  "updatedAt": "2026-03-27T13:00:57.830-05:00",
+  "lastLink": "https://cyberpress.org/torg-grabber-uses-encrypted-c2/",
+  "lastId": "1wpmajn000",
+  "lastFilePath": "cyberpress/pages/2026/03/27/new-torg-grabber-stealer-uses-encrypted-rest-api-for-c2-communication.md",
   "items": [
     {
-      "id": "1oqdd09000",
-      "link": "https://cyberpress.org/cisa-adds-aqua-security-trivy-scanner-flaw-to-kev-catalog/",
-      "filePath": "cyberpress/pages/2026/03/27/cisa-adds-aqua-security-trivy-scanner-flaw-to-kev-catalog.md",
-      "committedAt": "2026-03-27T13:01:01.928-04:00",
-      "title": "CISA Adds Aqua Security Trivy Scanner Flaw to KEV Catalog"
+      "id": "1wpmajn000",
+      "link": "https://cyberpress.org/torg-grabber-uses-encrypted-c2/",
+      "filePath": "cyberpress/pages/2026/03/27/new-torg-grabber-stealer-uses-encrypted-rest-api-for-c2-communication.md",
+      "committedAt": "2026-03-27T13:00:57.830-05:00",
+      "title": "New Torg Grabber Stealer Uses Encrypted REST API For C2 Communication"
     }
   ]
 }
