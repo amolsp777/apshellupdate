@@ -1,1 +1,11 @@
-
+[
+  {
+    "symbol": "AAPL",
+    "upper_limit": 250,
+    "lower_limit": 200,
+    "direction": "both",
+    "cooldown_minutes": 15,
+    "last_alert_price": 0,
+    "last_alert_time": ""
+  }
+]
