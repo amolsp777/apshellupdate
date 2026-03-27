@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-27T04:00:53.275-04:00",
-  "lastLink": "https://cyberpress.org/isc-warns-of-critical-kea-dhcp-flaw/",
-  "lastId": "1del9ys000",
-  "lastFilePath": "cyberpress/pages/2026/03/27/isc-warns-of-critical-kea-dhcp-flaw-causing-remote-service-crashes.md",
+  "updatedAt": "2026-03-27T05:01:09.421-04:00",
+  "lastLink": "https://cyberpress.org/windows-error-reporting-flaw-lets-attackers-gain-system-privileges/",
+  "lastId": "1t5o7g4000",
+  "lastFilePath": "cyberpress/pages/2026/03/27/windows-error-reporting-flaw-lets-attackers-gain-system-privileges.md",
   "items": [
     {
-      "id": "1del9ys000",
-      "link": "https://cyberpress.org/isc-warns-of-critical-kea-dhcp-flaw/",
-      "filePath": "cyberpress/pages/2026/03/27/isc-warns-of-critical-kea-dhcp-flaw-causing-remote-service-crashes.md",
-      "committedAt": "2026-03-27T04:00:53.275-04:00",
-      "title": "ISC Warns of Critical Kea DHCP Flaw Causing Remote Service Crashes"
+      "id": "1t5o7g4000",
+      "link": "https://cyberpress.org/windows-error-reporting-flaw-lets-attackers-gain-system-privileges/",
+      "filePath": "cyberpress/pages/2026/03/27/windows-error-reporting-flaw-lets-attackers-gain-system-privileges.md",
+      "committedAt": "2026-03-27T05:01:09.421-04:00",
+      "title": "Windows Error Reporting Flaw Lets Attackers Gain SYSTEM Privileges"
     }
   ]
 }
