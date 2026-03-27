@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-27T08:00:48.856-04:00",
-  "lastLink": "https://cyberpress.org/silver-fox-shifts-to-python/",
-  "lastId": "l8ft3d0000",
-  "lastFilePath": "cyberpress/pages/2026/03/27/silver-fox-phishing-campaign-shifts-from-rats-to-python-stealers.md",
+  "updatedAt": "2026-03-27T09:00:27.057-04:00",
+  "lastLink": "https://cyberpress.org/bind-9-vulnerabilities-allow-attackers-to-bypass-security-and-crash-servers/",
+  "lastId": "1nshd90000",
+  "lastFilePath": "cyberpress/pages/2026/03/27/bind-9-vulnerabilities-allow-attackers-to-bypass-security-and-crash-servers.md",
   "items": [
     {
-      "id": "l8ft3d0000",
-      "link": "https://cyberpress.org/silver-fox-shifts-to-python/",
-      "filePath": "cyberpress/pages/2026/03/27/silver-fox-phishing-campaign-shifts-from-rats-to-python-stealers.md",
-      "committedAt": "2026-03-27T08:00:48.856-04:00",
-      "title": "Silver Fox Phishing Campaign Shifts From RATs To Python Stealers"
+      "id": "1nshd90000",
+      "link": "https://cyberpress.org/bind-9-vulnerabilities-allow-attackers-to-bypass-security-and-crash-servers/",
+      "filePath": "cyberpress/pages/2026/03/27/bind-9-vulnerabilities-allow-attackers-to-bypass-security-and-crash-servers.md",
+      "committedAt": "2026-03-27T09:00:27.057-04:00",
+      "title": "BIND 9 Vulnerabilities Allow Attackers to Bypass Security and Crash Servers"
     }
   ]
 }
