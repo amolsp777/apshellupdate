@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-27T06:00:37.677-04:00",
-  "lastLink": "https://cyberpress.org/fake-screenshots-infect-web3-support/",
-  "lastId": "1b24jkh000",
-  "lastFilePath": "cyberpress/pages/2026/03/27/cyberattack-on-web3-support-staff-uses-fake-screenshots-for-malware-delivery.md",
+  "updatedAt": "2026-03-27T07:00:42.589-04:00",
+  "lastLink": "https://cyberpress.org/kiss-loader-uses-apc-injection/",
+  "lastId": "17fp9gx000",
+  "lastFilePath": "cyberpress/pages/2026/03/27/new-kiss-loader-malware-targets-systems-with-early-bird-apc-injection.md",
   "items": [
     {
-      "id": "1b24jkh000",
-      "link": "https://cyberpress.org/fake-screenshots-infect-web3-support/",
-      "filePath": "cyberpress/pages/2026/03/27/cyberattack-on-web3-support-staff-uses-fake-screenshots-for-malware-delivery.md",
-      "committedAt": "2026-03-27T06:00:37.677-04:00",
-      "title": "Cyberattack On Web3 Support Staff Uses Fake Screenshots For Malware Delivery"
+      "id": "17fp9gx000",
+      "link": "https://cyberpress.org/kiss-loader-uses-apc-injection/",
+      "filePath": "cyberpress/pages/2026/03/27/new-kiss-loader-malware-targets-systems-with-early-bird-apc-injection.md",
+      "committedAt": "2026-03-27T07:00:42.589-04:00",
+      "title": "New Kiss Loader Malware Targets Systems With Early Bird APC Injection"
     }
   ]
 }
