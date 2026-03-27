@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-27T05:01:09.421-04:00",
-  "lastLink": "https://cyberpress.org/windows-error-reporting-flaw-lets-attackers-gain-system-privileges/",
-  "lastId": "1t5o7g4000",
-  "lastFilePath": "cyberpress/pages/2026/03/27/windows-error-reporting-flaw-lets-attackers-gain-system-privileges.md",
+  "updatedAt": "2026-03-27T06:00:37.677-04:00",
+  "lastLink": "https://cyberpress.org/fake-screenshots-infect-web3-support/",
+  "lastId": "1b24jkh000",
+  "lastFilePath": "cyberpress/pages/2026/03/27/cyberattack-on-web3-support-staff-uses-fake-screenshots-for-malware-delivery.md",
   "items": [
     {
-      "id": "1t5o7g4000",
-      "link": "https://cyberpress.org/windows-error-reporting-flaw-lets-attackers-gain-system-privileges/",
-      "filePath": "cyberpress/pages/2026/03/27/windows-error-reporting-flaw-lets-attackers-gain-system-privileges.md",
-      "committedAt": "2026-03-27T05:01:09.421-04:00",
-      "title": "Windows Error Reporting Flaw Lets Attackers Gain SYSTEM Privileges"
+      "id": "1b24jkh000",
+      "link": "https://cyberpress.org/fake-screenshots-infect-web3-support/",
+      "filePath": "cyberpress/pages/2026/03/27/cyberattack-on-web3-support-staff-uses-fake-screenshots-for-malware-delivery.md",
+      "committedAt": "2026-03-27T06:00:37.677-04:00",
+      "title": "Cyberattack On Web3 Support Staff Uses Fake Screenshots For Malware Delivery"
     }
   ]
 }
