@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-27T13:00:57.830-05:00",
-  "lastLink": "https://cyberpress.org/torg-grabber-uses-encrypted-c2/",
-  "lastId": "1wpmajn000",
-  "lastFilePath": "cyberpress/pages/2026/03/27/new-torg-grabber-stealer-uses-encrypted-rest-api-for-c2-communication.md",
+  "updatedAt": "2026-03-27T14:01:02.877-05:00",
+  "lastLink": "https://cyberpress.org/teampcp-hackers-target-ai/",
+  "lastId": "si5pkt0000",
+  "lastFilePath": "cyberpress/pages/2026/03/27/teampcp-hackers-target-ai-developers-with-malicious-code-injections.md",
   "items": [
     {
-      "id": "1wpmajn000",
-      "link": "https://cyberpress.org/torg-grabber-uses-encrypted-c2/",
-      "filePath": "cyberpress/pages/2026/03/27/new-torg-grabber-stealer-uses-encrypted-rest-api-for-c2-communication.md",
-      "committedAt": "2026-03-27T13:00:57.830-05:00",
-      "title": "New Torg Grabber Stealer Uses Encrypted REST API For C2 Communication"
+      "id": "si5pkt0000",
+      "link": "https://cyberpress.org/teampcp-hackers-target-ai/",
+      "filePath": "cyberpress/pages/2026/03/27/teampcp-hackers-target-ai-developers-with-malicious-code-injections.md",
+      "committedAt": "2026-03-27T14:01:02.877-05:00",
+      "title": "TeamPCP Hackers Target AI Developers with Malicious Code Injections"
     }
   ]
 }
