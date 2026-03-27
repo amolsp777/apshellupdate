@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T15:01:15.592-04:00",
-  "lastLink": "https://cyberpress.org/microsoft-trivy-supply-chain-attack/",
-  "lastId": "t73m3k0000",
-  "lastFilePath": "cyberpress/pages/2026/03/26/microsoft-releases-guidance-to-detect-and-defend-against-trivy-supply-chain-atta.md",
+  "updatedAt": "2026-03-27T02:00:42.734-04:00",
+  "lastLink": "https://cyberpress.org/fake-vs-code-alerts-deliver-malware/",
+  "lastId": "1u1jo1g000",
+  "lastFilePath": "cyberpress/pages/2026/03/27/phishing-attack-pushes-malware-using-fake-vs-code-alerts-on-github.md",
   "items": [
     {
-      "id": "t73m3k0000",
-      "link": "https://cyberpress.org/microsoft-trivy-supply-chain-attack/",
-      "filePath": "cyberpress/pages/2026/03/26/microsoft-releases-guidance-to-detect-and-defend-against-trivy-supply-chain-atta.md",
-      "committedAt": "2026-03-26T15:01:15.592-04:00",
-      "title": "Microsoft Releases Guidance to Detect and Defend Against Trivy Supply Chain Attack"
+      "id": "1u1jo1g000",
+      "link": "https://cyberpress.org/fake-vs-code-alerts-deliver-malware/",
+      "filePath": "cyberpress/pages/2026/03/27/phishing-attack-pushes-malware-using-fake-vs-code-alerts-on-github.md",
+      "committedAt": "2026-03-27T02:00:42.734-04:00",
+      "title": "Phishing Attack Pushes Malware Using Fake VS Code Alerts On GitHub"
     }
   ]
 }
