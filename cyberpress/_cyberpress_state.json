@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-27T09:00:27.057-04:00",
-  "lastLink": "https://cyberpress.org/bind-9-vulnerabilities-allow-attackers-to-bypass-security-and-crash-servers/",
-  "lastId": "1nshd90000",
-  "lastFilePath": "cyberpress/pages/2026/03/27/bind-9-vulnerabilities-allow-attackers-to-bypass-security-and-crash-servers.md",
+  "updatedAt": "2026-03-27T10:00:32.577-04:00",
+  "lastLink": "https://cyberpress.org/voidlink-rootkit-hides-using-ebpf/",
+  "lastId": "gudxzr0000",
+  "lastFilePath": "cyberpress/pages/2026/03/27/voidlink-rootkit-exploits-ebpf-and-kernel-modules-for-stealth-on-linux.md",
   "items": [
     {
-      "id": "1nshd90000",
-      "link": "https://cyberpress.org/bind-9-vulnerabilities-allow-attackers-to-bypass-security-and-crash-servers/",
-      "filePath": "cyberpress/pages/2026/03/27/bind-9-vulnerabilities-allow-attackers-to-bypass-security-and-crash-servers.md",
-      "committedAt": "2026-03-27T09:00:27.057-04:00",
-      "title": "BIND 9 Vulnerabilities Allow Attackers to Bypass Security and Crash Servers"
+      "id": "gudxzr0000",
+      "link": "https://cyberpress.org/voidlink-rootkit-hides-using-ebpf/",
+      "filePath": "cyberpress/pages/2026/03/27/voidlink-rootkit-exploits-ebpf-and-kernel-modules-for-stealth-on-linux.md",
+      "committedAt": "2026-03-27T10:00:32.577-04:00",
+      "title": "VoidLink Rootkit Exploits eBPF and Kernel Modules For Stealth On Linux"
     }
   ]
 }
