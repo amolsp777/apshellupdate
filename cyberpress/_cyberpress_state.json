@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-27T12:00:59.030-04:00",
-  "lastLink": "https://cyberpress.org/red-hat-warns-of-malware-embedded/",
-  "lastId": "dxtoys0000",
-  "lastFilePath": "cyberpress/pages/2026/03/27/red-hat-warns-of-malware-embedded-in-popular-linux-tool-allowing-unauthorized-ac.md",
+  "updatedAt": "2026-03-27T13:01:01.928-04:00",
+  "lastLink": "https://cyberpress.org/cisa-adds-aqua-security-trivy-scanner-flaw-to-kev-catalog/",
+  "lastId": "1oqdd09000",
+  "lastFilePath": "cyberpress/pages/2026/03/27/cisa-adds-aqua-security-trivy-scanner-flaw-to-kev-catalog.md",
   "items": [
     {
-      "id": "dxtoys0000",
-      "link": "https://cyberpress.org/red-hat-warns-of-malware-embedded/",
-      "filePath": "cyberpress/pages/2026/03/27/red-hat-warns-of-malware-embedded-in-popular-linux-tool-allowing-unauthorized-ac.md",
-      "committedAt": "2026-03-27T12:00:59.030-04:00",
-      "title": "Red Hat Warns of Malware Embedded in Popular Linux Tool Allowing Unauthorized Access"
+      "id": "1oqdd09000",
+      "link": "https://cyberpress.org/cisa-adds-aqua-security-trivy-scanner-flaw-to-kev-catalog/",
+      "filePath": "cyberpress/pages/2026/03/27/cisa-adds-aqua-security-trivy-scanner-flaw-to-kev-catalog.md",
+      "committedAt": "2026-03-27T13:01:01.928-04:00",
+      "title": "CISA Adds Aqua Security Trivy Scanner Flaw to KEV Catalog"
     }
   ]
 }
