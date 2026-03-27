@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-27T03:00:42.734-04:00",
-  "lastLink": "https://cyberpress.org/fake-npm-installs-distribute-rat/",
-  "lastId": "1oyng04000",
-  "lastFilePath": "cyberpress/pages/2026/03/27/hackers-use-fake-npm-install-alerts-to-distribute-rat-malware-in-open-source-eco.md",
+  "updatedAt": "2026-03-27T04:00:53.275-04:00",
+  "lastLink": "https://cyberpress.org/isc-warns-of-critical-kea-dhcp-flaw/",
+  "lastId": "1del9ys000",
+  "lastFilePath": "cyberpress/pages/2026/03/27/isc-warns-of-critical-kea-dhcp-flaw-causing-remote-service-crashes.md",
   "items": [
     {
-      "id": "1oyng04000",
-      "link": "https://cyberpress.org/fake-npm-installs-distribute-rat/",
-      "filePath": "cyberpress/pages/2026/03/27/hackers-use-fake-npm-install-alerts-to-distribute-rat-malware-in-open-source-eco.md",
-      "committedAt": "2026-03-27T03:00:42.734-04:00",
-      "title": "Hackers Use Fake NPM Install Alerts To Distribute RAT Malware In Open Source Ecosystem"
+      "id": "1del9ys000",
+      "link": "https://cyberpress.org/isc-warns-of-critical-kea-dhcp-flaw/",
+      "filePath": "cyberpress/pages/2026/03/27/isc-warns-of-critical-kea-dhcp-flaw-causing-remote-service-crashes.md",
+      "committedAt": "2026-03-27T04:00:53.275-04:00",
+      "title": "ISC Warns of Critical Kea DHCP Flaw Causing Remote Service Crashes"
     }
   ]
 }
