@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-27T11:01:29.702-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/",
-  "lastId": "yvmfou0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/27/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing.md",
+  "updatedAt": "2026-03-27T13:00:10.172-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
+  "lastId": "xakas30000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/27/fake-vs-code-alerts-on-github-spread-malware-to-developers.md",
   "items": [
     {
-      "id": "yvmfou0000",
-      "link": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/",
-      "filePath": "bleepingcomp/pages/2026/03/27/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing.md",
-      "committedAt": "2026-03-27T11:01:29.702-04:00",
-      "title": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing."
+      "id": "xakas30000",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
+      "filePath": "bleepingcomp/pages/2026/03/27/fake-vs-code-alerts-on-github-spread-malware-to-developers.md",
+      "committedAt": "2026-03-27T13:00:10.172-04:00",
+      "title": "Fake VS Code alerts on GitHub spread malware to developers"
     }
   ]
 }
