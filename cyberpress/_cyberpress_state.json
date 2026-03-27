@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-27T10:00:32.577-04:00",
-  "lastLink": "https://cyberpress.org/voidlink-rootkit-hides-using-ebpf/",
-  "lastId": "gudxzr0000",
-  "lastFilePath": "cyberpress/pages/2026/03/27/voidlink-rootkit-exploits-ebpf-and-kernel-modules-for-stealth-on-linux.md",
+  "updatedAt": "2026-03-27T11:00:38.217-04:00",
+  "lastLink": "https://cyberpress.org/ghostclaw-ai-steals-credentials/",
+  "lastId": "e1cx460000",
+  "lastFilePath": "cyberpress/pages/2026/03/27/ai-powered-ghostclaw-malware-strikes-macos-stealing-credentials.md",
   "items": [
     {
-      "id": "gudxzr0000",
-      "link": "https://cyberpress.org/voidlink-rootkit-hides-using-ebpf/",
-      "filePath": "cyberpress/pages/2026/03/27/voidlink-rootkit-exploits-ebpf-and-kernel-modules-for-stealth-on-linux.md",
-      "committedAt": "2026-03-27T10:00:32.577-04:00",
-      "title": "VoidLink Rootkit Exploits eBPF and Kernel Modules For Stealth On Linux"
+      "id": "e1cx460000",
+      "link": "https://cyberpress.org/ghostclaw-ai-steals-credentials/",
+      "filePath": "cyberpress/pages/2026/03/27/ai-powered-ghostclaw-malware-strikes-macos-stealing-credentials.md",
+      "committedAt": "2026-03-27T11:00:38.217-04:00",
+      "title": "AI-Powered GhostClaw Malware Strikes macOS, Stealing Credentials"
     }
   ]
 }
