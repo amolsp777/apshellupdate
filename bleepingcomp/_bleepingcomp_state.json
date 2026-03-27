@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-27T13:00:10.172-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
-  "lastId": "xakas30000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/27/fake-vs-code-alerts-on-github-spread-malware-to-developers.md",
+  "updatedAt": "2026-03-27T14:00:14.813-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
+  "lastId": "1uxonj2000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/27/european-commission-investigating-breach-after-amazon-cloud-account-hack.md",
   "items": [
     {
-      "id": "xakas30000",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
-      "filePath": "bleepingcomp/pages/2026/03/27/fake-vs-code-alerts-on-github-spread-malware-to-developers.md",
-      "committedAt": "2026-03-27T13:00:10.172-04:00",
-      "title": "Fake VS Code alerts on GitHub spread malware to developers"
+      "id": "1uxonj2000",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
+      "filePath": "bleepingcomp/pages/2026/03/27/european-commission-investigating-breach-after-amazon-cloud-account-hack.md",
+      "committedAt": "2026-03-27T14:00:14.813-04:00",
+      "title": "European Commission investigating breach after Amazon cloud account hack"
     }
   ]
 }
