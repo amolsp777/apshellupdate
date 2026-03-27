@@ -7,5 +7,50 @@
     "cooldown_minutes": 15,
     "last_alert_price": 0,
     "last_alert_time": ""
+  },
+  {
+    "symbol": "MSFT",
+    "upper_limit": 500,
+    "lower_limit": 380,
+    "direction": "both",
+    "cooldown_minutes": 15,
+    "last_alert_price": 0,
+    "last_alert_time": ""
+  },
+  {
+    "symbol": "GOOGL",
+    "upper_limit": 220,
+    "lower_limit": 170,
+    "direction": "both",
+    "cooldown_minutes": 15,
+    "last_alert_price": 0,
+    "last_alert_time": ""
+  },
+  {
+    "symbol": "TSLA",
+    "upper_limit": 400,
+    "lower_limit": 300,
+    "direction": "both",
+    "cooldown_minutes": 15,
+    "last_alert_price": 0,
+    "last_alert_time": ""
+  },
+  {
+    "symbol": "RELIANCE.BSE",
+    "upper_limit": 1600,
+    "lower_limit": 1300,
+    "direction": "both",
+    "cooldown_minutes": 15,
+    "last_alert_price": 0,
+    "last_alert_time": ""
+  },
+  {
+    "symbol": "TCS.NSE",
+    "upper_limit": 4500,
+    "lower_limit": 3800,
+    "direction": "both",
+    "cooldown_minutes": 15,
+    "last_alert_price": 0,
+    "last_alert_time": ""
   }
 ]
