@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-28T04:00:19.757-05:00",
-  "lastLink": "https://cyberpress.org/aws-account-breach/",
-  "lastId": "1tqfep8000",
-  "lastFilePath": "cyberpress/pages/2026/03/28/european-commission-confirms-cyberattack-after-aws-account-breach.md",
+  "updatedAt": "2026-03-28T05:00:13.679-05:00",
+  "lastLink": "https://cyberpress.org/blankgrabber-malware/",
+  "lastId": "hxyctf0000",
+  "lastFilePath": "cyberpress/pages/2026/03/28/fake-certificate-loader-conceals-blankgrabber-malware-chain.md",
   "items": [
     {
-      "id": "1tqfep8000",
-      "link": "https://cyberpress.org/aws-account-breach/",
-      "filePath": "cyberpress/pages/2026/03/28/european-commission-confirms-cyberattack-after-aws-account-breach.md",
-      "committedAt": "2026-03-28T04:00:19.757-05:00",
-      "title": "European Commission Confirms Cyberattack After AWS Account Breach"
+      "id": "hxyctf0000",
+      "link": "https://cyberpress.org/blankgrabber-malware/",
+      "filePath": "cyberpress/pages/2026/03/28/fake-certificate-loader-conceals-blankgrabber-malware-chain.md",
+      "committedAt": "2026-03-28T05:00:13.679-05:00",
+      "title": "Fake Certificate Loader Conceals BlankGrabber Malware Chain"
     }
   ]
 }
