@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-27T14:01:02.877-05:00",
-  "lastLink": "https://cyberpress.org/teampcp-hackers-target-ai/",
-  "lastId": "si5pkt0000",
-  "lastFilePath": "cyberpress/pages/2026/03/27/teampcp-hackers-target-ai-developers-with-malicious-code-injections.md",
+  "updatedAt": "2026-03-28T03:00:21.920-05:00",
+  "lastLink": "https://cyberpress.org/open-vsx-vulnerability/",
+  "lastId": "9qff4n0000",
+  "lastFilePath": "cyberpress/pages/2026/03/28/open-vsx-vulnerability-lets-malicious-extension-go-live.md",
   "items": [
     {
-      "id": "si5pkt0000",
-      "link": "https://cyberpress.org/teampcp-hackers-target-ai/",
-      "filePath": "cyberpress/pages/2026/03/27/teampcp-hackers-target-ai-developers-with-malicious-code-injections.md",
-      "committedAt": "2026-03-27T14:01:02.877-05:00",
-      "title": "TeamPCP Hackers Target AI Developers with Malicious Code Injections"
+      "id": "9qff4n0000",
+      "link": "https://cyberpress.org/open-vsx-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/28/open-vsx-vulnerability-lets-malicious-extension-go-live.md",
+      "committedAt": "2026-03-28T03:00:21.920-05:00",
+      "title": "Open VSX Vulnerability lets malicious extension go live"
     }
   ]
 }
