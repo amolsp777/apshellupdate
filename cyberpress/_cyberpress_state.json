@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-28T03:00:21.920-05:00",
-  "lastLink": "https://cyberpress.org/open-vsx-vulnerability/",
-  "lastId": "9qff4n0000",
-  "lastFilePath": "cyberpress/pages/2026/03/28/open-vsx-vulnerability-lets-malicious-extension-go-live.md",
+  "updatedAt": "2026-03-28T04:00:19.757-05:00",
+  "lastLink": "https://cyberpress.org/aws-account-breach/",
+  "lastId": "1tqfep8000",
+  "lastFilePath": "cyberpress/pages/2026/03/28/european-commission-confirms-cyberattack-after-aws-account-breach.md",
   "items": [
     {
-      "id": "9qff4n0000",
-      "link": "https://cyberpress.org/open-vsx-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/28/open-vsx-vulnerability-lets-malicious-extension-go-live.md",
-      "committedAt": "2026-03-28T03:00:21.920-05:00",
-      "title": "Open VSX Vulnerability lets malicious extension go live"
+      "id": "1tqfep8000",
+      "link": "https://cyberpress.org/aws-account-breach/",
+      "filePath": "cyberpress/pages/2026/03/28/european-commission-confirms-cyberattack-after-aws-account-breach.md",
+      "committedAt": "2026-03-28T04:00:19.757-05:00",
+      "title": "European Commission Confirms Cyberattack After AWS Account Breach"
     }
   ]
 }
