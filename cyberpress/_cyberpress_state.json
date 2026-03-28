@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-28T05:00:13.679-05:00",
-  "lastLink": "https://cyberpress.org/blankgrabber-malware/",
-  "lastId": "hxyctf0000",
-  "lastFilePath": "cyberpress/pages/2026/03/28/fake-certificate-loader-conceals-blankgrabber-malware-chain.md",
+  "updatedAt": "2026-03-28T07:00:45.718-05:00",
+  "lastLink": "https://cyberpress.org/prompt-poaching-attack/",
+  "lastId": "1uprs9w000",
+  "lastFilePath": "cyberpress/pages/2026/03/28/malicious-browser-extensions-can-steal-ai-chats-in-new-prompt-poaching-attack.md",
   "items": [
     {
-      "id": "hxyctf0000",
-      "link": "https://cyberpress.org/blankgrabber-malware/",
-      "filePath": "cyberpress/pages/2026/03/28/fake-certificate-loader-conceals-blankgrabber-malware-chain.md",
-      "committedAt": "2026-03-28T05:00:13.679-05:00",
-      "title": "Fake Certificate Loader Conceals BlankGrabber Malware Chain"
+      "id": "1uprs9w000",
+      "link": "https://cyberpress.org/prompt-poaching-attack/",
+      "filePath": "cyberpress/pages/2026/03/28/malicious-browser-extensions-can-steal-ai-chats-in-new-prompt-poaching-attack.md",
+      "committedAt": "2026-03-28T07:00:45.718-05:00",
+      "title": "Malicious Browser Extensions Can Steal AI Chats in New “Prompt Poaching” Attack"
     }
   ]
 }
