@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-29T11:00:45.589-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
-  "lastId": "1kbjm66000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/29/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites.md",
+  "updatedAt": "2026-03-29T18:00:45.501-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
+  "lastId": "axuxbt0000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/29/fbi-confirms-hack-of-director-patels-personal-email-inbox.md",
   "items": [
     {
-      "id": "1kbjm66000",
-      "link": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
-      "filePath": "bleepingcomp/pages/2026/03/29/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites.md",
-      "committedAt": "2026-03-29T11:00:45.589-04:00",
-      "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites"
+      "id": "axuxbt0000",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
+      "filePath": "bleepingcomp/pages/2026/03/29/fbi-confirms-hack-of-director-patels-personal-email-inbox.md",
+      "committedAt": "2026-03-29T18:00:45.501-04:00",
+      "title": "FBI confirms hack of Director Patel's personal email inbox"
     }
   ]
 }
