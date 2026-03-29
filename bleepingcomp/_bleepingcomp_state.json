@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-28T11:00:08.483-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
-  "lastId": "12qw6z7000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/28/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures.md",
+  "updatedAt": "2026-03-29T11:00:45.589-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
+  "lastId": "1kbjm66000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/29/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites.md",
   "items": [
     {
-      "id": "12qw6z7000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
-      "filePath": "bleepingcomp/pages/2026/03/28/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures.md",
-      "committedAt": "2026-03-28T11:00:08.483-04:00",
-      "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures"
+      "id": "1kbjm66000",
+      "link": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
+      "filePath": "bleepingcomp/pages/2026/03/29/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites.md",
+      "committedAt": "2026-03-29T11:00:45.589-04:00",
+      "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites"
     }
   ]
 }
