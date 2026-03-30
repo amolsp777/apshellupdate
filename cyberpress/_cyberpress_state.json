@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30T03:00:14.401-05:00",
-  "lastLink": "https://cyberpress.org/hackers-scan-citrix-netscaler/",
-  "lastId": "1b0wx5u000",
-  "lastFilePath": "cyberpress/pages/2026/03/30/hackers-scan-citrix-netscaler-systems-ahead-of-suspected-cve-2026-3055-exploitat.md",
+  "updatedAt": "2026-03-30T04:00:20.358-05:00",
+  "lastLink": "https://cyberpress.org/stored-xss-flaw-in-jira-work/",
+  "lastId": "1xxf08d000",
+  "lastFilePath": "cyberpress/pages/2026/03/30/stored-xss-flaw-in-jira-work-management-could-enable-full-org-compromise.md",
   "items": [
     {
-      "id": "1b0wx5u000",
-      "link": "https://cyberpress.org/hackers-scan-citrix-netscaler/",
-      "filePath": "cyberpress/pages/2026/03/30/hackers-scan-citrix-netscaler-systems-ahead-of-suspected-cve-2026-3055-exploitat.md",
-      "committedAt": "2026-03-30T03:00:14.401-05:00",
-      "title": "Hackers Scan Citrix NetScaler Systems Ahead of Suspected CVE-2026-3055 Exploitation"
+      "id": "1xxf08d000",
+      "link": "https://cyberpress.org/stored-xss-flaw-in-jira-work/",
+      "filePath": "cyberpress/pages/2026/03/30/stored-xss-flaw-in-jira-work-management-could-enable-full-org-compromise.md",
+      "committedAt": "2026-03-30T04:00:20.358-05:00",
+      "title": "Stored XSS Flaw in Jira Work Management Could Enable Full Org Compromise"
     }
   ]
 }
