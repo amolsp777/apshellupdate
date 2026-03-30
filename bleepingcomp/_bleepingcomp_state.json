@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30T12:00:58.350-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
-  "lastId": "18ft2x5000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/30/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking.md",
+  "updatedAt": "2026-03-30T15:00:09.105-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
+  "lastId": "1oejflq000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/30/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks.md",
   "items": [
     {
-      "id": "18ft2x5000",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
-      "filePath": "bleepingcomp/pages/2026/03/30/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking.md",
-      "committedAt": "2026-03-30T12:00:58.350-04:00",
-      "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking"
+      "id": "1oejflq000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/03/30/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks.md",
+      "committedAt": "2026-03-30T15:00:09.105-04:00",
+      "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks"
     }
   ]
 }
