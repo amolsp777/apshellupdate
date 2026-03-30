@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30T13:00:57.868-05:00",
-  "lastLink": "https://cyberpress.org/brushworm-hits-finance-firm/",
-  "lastId": "1shj7b0000",
-  "lastFilePath": "cyberpress/pages/2026/03/30/brushworm-and-brushlogger-used-in-attack-on-south-asian-financial-firm.md",
+  "updatedAt": "2026-03-30T14:01:02.470-05:00",
+  "lastLink": "https://cyberpress.org/wordpress-plugin-flaw/",
+  "lastId": "vdz4am0000",
+  "lastFilePath": "cyberpress/pages/2026/03/30/wordpress-plugin-flaw-exposes-sensitive-data-from-800000-websites.md",
   "items": [
     {
-      "id": "1shj7b0000",
-      "link": "https://cyberpress.org/brushworm-hits-finance-firm/",
-      "filePath": "cyberpress/pages/2026/03/30/brushworm-and-brushlogger-used-in-attack-on-south-asian-financial-firm.md",
-      "committedAt": "2026-03-30T13:00:57.868-05:00",
-      "title": "BRUSHWORM and BRUSHLOGGER Used In Attack On South Asian Financial Firm"
+      "id": "vdz4am0000",
+      "link": "https://cyberpress.org/wordpress-plugin-flaw/",
+      "filePath": "cyberpress/pages/2026/03/30/wordpress-plugin-flaw-exposes-sensitive-data-from-800000-websites.md",
+      "committedAt": "2026-03-30T14:01:02.470-05:00",
+      "title": "WordPress Plugin Flaw Exposes Sensitive Data from 800,000+ Websites"
     }
   ]
 }
