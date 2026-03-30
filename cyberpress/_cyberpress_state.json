@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30T07:00:30.337-05:00",
-  "lastLink": "https://cyberpress.org/voidlink-makes-ai-malware/",
-  "lastId": "1pqlfzk000",
-  "lastFilePath": "cyberpress/pages/2026/03/30/voidlink-framework-signals-ai-assisted-malware-is-no-longer-experimental.md",
+  "updatedAt": "2026-03-30T08:00:35.668-05:00",
+  "lastLink": "https://cyberpress.org/usb-malware-fuels-espionage/",
+  "lastId": "1ew4ejd000",
+  "lastFilePath": "cyberpress/pages/2026/03/30/espionage-campaign-targets-southeast-asian-government-with-usb-malware.md",
   "items": [
     {
-      "id": "1pqlfzk000",
-      "link": "https://cyberpress.org/voidlink-makes-ai-malware/",
-      "filePath": "cyberpress/pages/2026/03/30/voidlink-framework-signals-ai-assisted-malware-is-no-longer-experimental.md",
-      "committedAt": "2026-03-30T07:00:30.337-05:00",
-      "title": "VoidLink Framework Signals AI-Assisted Malware Is No Longer Experimental"
+      "id": "1ew4ejd000",
+      "link": "https://cyberpress.org/usb-malware-fuels-espionage/",
+      "filePath": "cyberpress/pages/2026/03/30/espionage-campaign-targets-southeast-asian-government-with-usb-malware.md",
+      "committedAt": "2026-03-30T08:00:35.668-05:00",
+      "title": "Espionage Campaign Targets Southeast Asian Government With USB Malware"
     }
   ]
 }
