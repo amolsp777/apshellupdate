@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30T08:00:35.668-05:00",
-  "lastLink": "https://cyberpress.org/usb-malware-fuels-espionage/",
-  "lastId": "1ew4ejd000",
-  "lastFilePath": "cyberpress/pages/2026/03/30/espionage-campaign-targets-southeast-asian-government-with-usb-malware.md",
+  "updatedAt": "2026-03-30T09:00:27.605-05:00",
+  "lastLink": "https://cyberpress.org/vim-vulnerability/",
+  "lastId": "jkr9gz0000",
+  "lastFilePath": "cyberpress/pages/2026/03/30/vim-vulnerability-allows-arbitrary-command-execution-via-malicious-files.md",
   "items": [
     {
-      "id": "1ew4ejd000",
-      "link": "https://cyberpress.org/usb-malware-fuels-espionage/",
-      "filePath": "cyberpress/pages/2026/03/30/espionage-campaign-targets-southeast-asian-government-with-usb-malware.md",
-      "committedAt": "2026-03-30T08:00:35.668-05:00",
-      "title": "Espionage Campaign Targets Southeast Asian Government With USB Malware"
+      "id": "jkr9gz0000",
+      "link": "https://cyberpress.org/vim-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/30/vim-vulnerability-allows-arbitrary-command-execution-via-malicious-files.md",
+      "committedAt": "2026-03-30T09:00:27.605-05:00",
+      "title": "Vim Vulnerability Allows Arbitrary Command Execution via Malicious Files"
     }
   ]
 }
