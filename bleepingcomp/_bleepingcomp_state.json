@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30T17:00:25.055-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
-  "lastId": "1aha8mr000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/30/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks.md",
+  "updatedAt": "2026-03-30T18:00:51.385-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
+  "lastId": "hizv6m0000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/30/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data.md",
   "items": [
     {
-      "id": "1aha8mr000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
-      "filePath": "bleepingcomp/pages/2026/03/30/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks.md",
-      "committedAt": "2026-03-30T17:00:25.055-04:00",
-      "title": "New RoadK1ll WebSocket implant used to pivot on breached networks"
+      "id": "hizv6m0000",
+      "link": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
+      "filePath": "bleepingcomp/pages/2026/03/30/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data.md",
+      "committedAt": "2026-03-30T18:00:51.385-04:00",
+      "title": "Healthcare tech firm CareCloud says hackers stole patient data"
     }
   ]
 }
