@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-29T18:00:45.501-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
-  "lastId": "axuxbt0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/29/fbi-confirms-hack-of-director-patels-personal-email-inbox.md",
+  "updatedAt": "2026-03-30T03:00:03.525-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
+  "lastId": "o4w1p90000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/30/european-commission-confirms-data-breach-after-europaeu-hack.md",
   "items": [
     {
-      "id": "axuxbt0000",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
-      "filePath": "bleepingcomp/pages/2026/03/29/fbi-confirms-hack-of-director-patels-personal-email-inbox.md",
-      "committedAt": "2026-03-29T18:00:45.501-04:00",
-      "title": "FBI confirms hack of Director Patel's personal email inbox"
+      "id": "o4w1p90000",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
+      "filePath": "bleepingcomp/pages/2026/03/30/european-commission-confirms-data-breach-after-europaeu-hack.md",
+      "committedAt": "2026-03-30T03:00:03.525-04:00",
+      "title": "European Commission confirms data breach after Europa.eu hack"
     }
   ]
 }
