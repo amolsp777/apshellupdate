@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30T10:00:36.016-05:00",
-  "lastLink": "https://cyberpress.org/canisterworm-hits-containers/",
-  "lastId": "ol0zpi0000",
-  "lastFilePath": "cyberpress/pages/2026/03/30/new-canisterworm-malware-hits-docker-k8s-redis-environments.md",
+  "updatedAt": "2026-03-30T11:00:47.005-05:00",
+  "lastLink": "https://cyberpress.org/new-ctrl-rat-linked-to-russian-hackers-enables-rdp-hijacking-attacks/",
+  "lastId": "18f3wgl000",
+  "lastFilePath": "cyberpress/pages/2026/03/30/new-ctrl-rat-linked-to-russian-hackers-enables-rdp-hijacking-attacks.md",
   "items": [
     {
-      "id": "ol0zpi0000",
-      "link": "https://cyberpress.org/canisterworm-hits-containers/",
-      "filePath": "cyberpress/pages/2026/03/30/new-canisterworm-malware-hits-docker-k8s-redis-environments.md",
-      "committedAt": "2026-03-30T10:00:36.016-05:00",
-      "title": "New CanisterWorm Malware Hits Docker, K8s, Redis Environments"
+      "id": "18f3wgl000",
+      "link": "https://cyberpress.org/new-ctrl-rat-linked-to-russian-hackers-enables-rdp-hijacking-attacks/",
+      "filePath": "cyberpress/pages/2026/03/30/new-ctrl-rat-linked-to-russian-hackers-enables-rdp-hijacking-attacks.md",
+      "committedAt": "2026-03-30T11:00:47.005-05:00",
+      "title": "New “CTRL” RAT Linked to Russian Hackers Enables RDP Hijacking Attacks"
     }
   ]
 }
