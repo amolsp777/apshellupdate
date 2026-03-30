@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30T04:00:20.358-05:00",
-  "lastLink": "https://cyberpress.org/stored-xss-flaw-in-jira-work/",
-  "lastId": "1xxf08d000",
-  "lastFilePath": "cyberpress/pages/2026/03/30/stored-xss-flaw-in-jira-work-management-could-enable-full-org-compromise.md",
+  "updatedAt": "2026-03-30T05:00:24.737-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-releases-winre-setup-updates/",
+  "lastId": "i7ofz10000",
+  "lastFilePath": "cyberpress/pages/2026/03/30/microsoft-releases-critical-winre-setup-updates-before-2026-secure-boot-certific.md",
   "items": [
     {
-      "id": "1xxf08d000",
-      "link": "https://cyberpress.org/stored-xss-flaw-in-jira-work/",
-      "filePath": "cyberpress/pages/2026/03/30/stored-xss-flaw-in-jira-work-management-could-enable-full-org-compromise.md",
-      "committedAt": "2026-03-30T04:00:20.358-05:00",
-      "title": "Stored XSS Flaw in Jira Work Management Could Enable Full Org Compromise"
+      "id": "i7ofz10000",
+      "link": "https://cyberpress.org/microsoft-releases-winre-setup-updates/",
+      "filePath": "cyberpress/pages/2026/03/30/microsoft-releases-critical-winre-setup-updates-before-2026-secure-boot-certific.md",
+      "committedAt": "2026-03-30T05:00:24.737-05:00",
+      "title": "Microsoft Releases Critical WinRE & Setup Updates Before 2026 Secure Boot Certificate Expiry"
     }
   ]
 }
