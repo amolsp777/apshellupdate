@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30T04:00:03.912-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
-  "lastId": "1neyf32000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/30/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks.md",
+  "updatedAt": "2026-03-30T06:00:19.923-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
+  "lastId": "xyzwm50000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/30/microsoft-pulls-kb5079391-windows-update-over-install-issues.md",
   "items": [
     {
-      "id": "1neyf32000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/03/30/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks.md",
-      "committedAt": "2026-03-30T04:00:03.912-04:00",
-      "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks"
+      "id": "xyzwm50000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
+      "filePath": "bleepingcomp/pages/2026/03/30/microsoft-pulls-kb5079391-windows-update-over-install-issues.md",
+      "committedAt": "2026-03-30T06:00:19.923-04:00",
+      "title": "Microsoft pulls KB5079391 Windows update over install issues"
     }
   ]
 }
