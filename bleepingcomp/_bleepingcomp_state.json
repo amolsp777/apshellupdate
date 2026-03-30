@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30T03:00:03.525-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
-  "lastId": "o4w1p90000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/30/european-commission-confirms-data-breach-after-europaeu-hack.md",
+  "updatedAt": "2026-03-30T04:00:03.912-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
+  "lastId": "1neyf32000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/30/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks.md",
   "items": [
     {
-      "id": "o4w1p90000",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
-      "filePath": "bleepingcomp/pages/2026/03/30/european-commission-confirms-data-breach-after-europaeu-hack.md",
-      "committedAt": "2026-03-30T03:00:03.525-04:00",
-      "title": "European Commission confirms data breach after Europa.eu hack"
+      "id": "1neyf32000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/03/30/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks.md",
+      "committedAt": "2026-03-30T04:00:03.912-04:00",
+      "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks"
     }
   ]
 }
