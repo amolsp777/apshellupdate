@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30T18:00:51.385-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
-  "lastId": "hizv6m0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/30/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data.md",
+  "updatedAt": "2026-03-31T02:00:03.216-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
+  "lastId": "vdoe5g0000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/30/hackers-exploiting-critical-f5-big-ip-flaw-in-attacks-patch-now.md",
   "items": [
     {
-      "id": "hizv6m0000",
-      "link": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
-      "filePath": "bleepingcomp/pages/2026/03/30/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data.md",
-      "committedAt": "2026-03-30T18:00:51.385-04:00",
-      "title": "Healthcare tech firm CareCloud says hackers stole patient data"
+      "id": "vdoe5g0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
+      "filePath": "bleepingcomp/pages/2026/03/30/hackers-exploiting-critical-f5-big-ip-flaw-in-attacks-patch-now.md",
+      "committedAt": "2026-03-31T02:00:03.216-04:00",
+      "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now"
     }
   ]
 }
