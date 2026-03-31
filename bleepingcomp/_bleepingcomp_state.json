@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T14:00:09.379-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
-  "lastId": "1jdtpku000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/31/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach.md",
+  "updatedAt": "2026-03-31T18:00:30.323-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
+  "lastId": "hoiae70000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/31/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open.md",
   "items": [
     {
-      "id": "1jdtpku000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
-      "filePath": "bleepingcomp/pages/2026/03/31/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach.md",
-      "committedAt": "2026-03-31T14:00:09.379-04:00",
-      "title": "Cisco source code stolen in Trivy-linked dev environment breach"
+      "id": "hoiae70000",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
+      "filePath": "bleepingcomp/pages/2026/03/31/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open.md",
+      "committedAt": "2026-03-31T18:00:30.323-04:00",
+      "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open"
     }
   ]
 }
