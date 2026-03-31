@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T03:00:14.376-05:00",
-  "lastLink": "https://cyberpress.org/zero-day-alert-claude-ai/",
-  "lastId": "1b6mgby000",
-  "lastFilePath": "cyberpress/pages/2026/03/31/zero-day-alert-claude-ai-finds-critical-rce-bugs-in-vim-and-emacs.md",
+  "updatedAt": "2026-03-31T04:00:25.108-05:00",
+  "lastLink": "https://cyberpress.org/chatgpt-vulnerability/",
+  "lastId": "1bvak2v000",
+  "lastFilePath": "cyberpress/pages/2026/03/31/chatgpt-vulnerability-allows-silent-exfiltration-of-user-prompts-and-sensitive-d.md",
   "items": [
     {
-      "id": "1b6mgby000",
-      "link": "https://cyberpress.org/zero-day-alert-claude-ai/",
-      "filePath": "cyberpress/pages/2026/03/31/zero-day-alert-claude-ai-finds-critical-rce-bugs-in-vim-and-emacs.md",
-      "committedAt": "2026-03-31T03:00:14.376-05:00",
-      "title": "Zero-Day Alert: Claude AI Finds Critical RCE Bugs in Vim and Emacs"
+      "id": "1bvak2v000",
+      "link": "https://cyberpress.org/chatgpt-vulnerability/",
+      "filePath": "cyberpress/pages/2026/03/31/chatgpt-vulnerability-allows-silent-exfiltration-of-user-prompts-and-sensitive-d.md",
+      "committedAt": "2026-03-31T04:00:25.108-05:00",
+      "title": "ChatGPT Vulnerability Allows Silent Exfiltration of User Prompts and Sensitive Data"
     }
   ]
 }
