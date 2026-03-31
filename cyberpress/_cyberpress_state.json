@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T02:00:14.150-05:00",
-  "lastLink": "https://cyberpress.org/notepad-v8-9-3-update/",
-  "lastId": "db7lxm0000",
-  "lastFilePath": "cyberpress/pages/2026/03/31/notepad-v893-update-fixes-curl-vulnerability-and-crash-bugs.md",
+  "updatedAt": "2026-03-31T03:00:14.376-05:00",
+  "lastLink": "https://cyberpress.org/zero-day-alert-claude-ai/",
+  "lastId": "1b6mgby000",
+  "lastFilePath": "cyberpress/pages/2026/03/31/zero-day-alert-claude-ai-finds-critical-rce-bugs-in-vim-and-emacs.md",
   "items": [
     {
-      "id": "db7lxm0000",
-      "link": "https://cyberpress.org/notepad-v8-9-3-update/",
-      "filePath": "cyberpress/pages/2026/03/31/notepad-v893-update-fixes-curl-vulnerability-and-crash-bugs.md",
-      "committedAt": "2026-03-31T02:00:14.150-05:00",
-      "title": "Notepad++ v8.9.3 Update Fixes cURL Vulnerability and Crash Bugs"
+      "id": "1b6mgby000",
+      "link": "https://cyberpress.org/zero-day-alert-claude-ai/",
+      "filePath": "cyberpress/pages/2026/03/31/zero-day-alert-claude-ai-finds-critical-rce-bugs-in-vim-and-emacs.md",
+      "committedAt": "2026-03-31T03:00:14.376-05:00",
+      "title": "Zero-Day Alert: Claude AI Finds Critical RCE Bugs in Vim and Emacs"
     }
   ]
 }
