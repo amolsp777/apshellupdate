@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T04:00:25.108-05:00",
-  "lastLink": "https://cyberpress.org/chatgpt-vulnerability/",
-  "lastId": "1bvak2v000",
-  "lastFilePath": "cyberpress/pages/2026/03/31/chatgpt-vulnerability-allows-silent-exfiltration-of-user-prompts-and-sensitive-d.md",
+  "updatedAt": "2026-03-31T05:00:19.464-05:00",
+  "lastLink": "https://cyberpress.org/carecloud-data-breach/",
+  "lastId": "st9ntw0000",
+  "lastFilePath": "cyberpress/pages/2026/03/31/carecloud-data-breach-hackers-access-it-systems-steal-patient-data.md",
   "items": [
     {
-      "id": "1bvak2v000",
-      "link": "https://cyberpress.org/chatgpt-vulnerability/",
-      "filePath": "cyberpress/pages/2026/03/31/chatgpt-vulnerability-allows-silent-exfiltration-of-user-prompts-and-sensitive-d.md",
-      "committedAt": "2026-03-31T04:00:25.108-05:00",
-      "title": "ChatGPT Vulnerability Allows Silent Exfiltration of User Prompts and Sensitive Data"
+      "id": "st9ntw0000",
+      "link": "https://cyberpress.org/carecloud-data-breach/",
+      "filePath": "cyberpress/pages/2026/03/31/carecloud-data-breach-hackers-access-it-systems-steal-patient-data.md",
+      "committedAt": "2026-03-31T05:00:19.464-05:00",
+      "title": "CareCloud Data Breach: Hackers Access IT Systems, Steal Patient Data"
     }
   ]
 }
