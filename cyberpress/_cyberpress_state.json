@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30T14:01:02.470-05:00",
-  "lastLink": "https://cyberpress.org/wordpress-plugin-flaw/",
-  "lastId": "vdz4am0000",
-  "lastFilePath": "cyberpress/pages/2026/03/30/wordpress-plugin-flaw-exposes-sensitive-data-from-800000-websites.md",
+  "updatedAt": "2026-03-31T02:00:14.150-05:00",
+  "lastLink": "https://cyberpress.org/notepad-v8-9-3-update/",
+  "lastId": "db7lxm0000",
+  "lastFilePath": "cyberpress/pages/2026/03/31/notepad-v893-update-fixes-curl-vulnerability-and-crash-bugs.md",
   "items": [
     {
-      "id": "vdz4am0000",
-      "link": "https://cyberpress.org/wordpress-plugin-flaw/",
-      "filePath": "cyberpress/pages/2026/03/30/wordpress-plugin-flaw-exposes-sensitive-data-from-800000-websites.md",
-      "committedAt": "2026-03-30T14:01:02.470-05:00",
-      "title": "WordPress Plugin Flaw Exposes Sensitive Data from 800,000+ Websites"
+      "id": "db7lxm0000",
+      "link": "https://cyberpress.org/notepad-v8-9-3-update/",
+      "filePath": "cyberpress/pages/2026/03/31/notepad-v893-update-fixes-curl-vulnerability-and-crash-bugs.md",
+      "committedAt": "2026-03-31T02:00:14.150-05:00",
+      "title": "Notepad++ v8.9.3 Update Fixes cURL Vulnerability and Crash Bugs"
     }
   ]
 }
