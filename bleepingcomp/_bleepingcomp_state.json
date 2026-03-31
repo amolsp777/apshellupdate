@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T02:00:03.216-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
-  "lastId": "vdoe5g0000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/30/hackers-exploiting-critical-f5-big-ip-flaw-in-attacks-patch-now.md",
+  "updatedAt": "2026-03-31T04:00:09.511-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
+  "lastId": "16g8gvy000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/31/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday.md",
   "items": [
     {
-      "id": "vdoe5g0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
-      "filePath": "bleepingcomp/pages/2026/03/30/hackers-exploiting-critical-f5-big-ip-flaw-in-attacks-patch-now.md",
-      "committedAt": "2026-03-31T02:00:03.216-04:00",
-      "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now"
+      "id": "16g8gvy000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
+      "filePath": "bleepingcomp/pages/2026/03/31/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday.md",
+      "committedAt": "2026-03-31T04:00:09.511-04:00",
+      "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday"
     }
   ]
 }
