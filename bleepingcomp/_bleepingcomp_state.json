@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T09:00:55.552-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
-  "lastId": "1no41v5000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/31/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in.md",
+  "updatedAt": "2026-03-31T10:00:08.818-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
+  "lastId": "htffi00000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/31/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware.md",
   "items": [
     {
-      "id": "1no41v5000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
-      "filePath": "bleepingcomp/pages/2026/03/31/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in.md",
-      "committedAt": "2026-03-31T09:00:55.552-04:00",
-      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in"
+      "id": "htffi00000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
+      "filePath": "bleepingcomp/pages/2026/03/31/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware.md",
+      "committedAt": "2026-03-31T10:00:08.818-04:00",
+      "title": "Hackers compromise Axios npm package to drop cross-platform malware"
     }
   ]
 }
