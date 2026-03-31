@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T10:00:28.387-05:00",
-  "lastLink": "https://cyberpress.org/png-vulnerabilities/",
-  "lastId": "17s7vum000",
-  "lastFilePath": "cyberpress/pages/2026/03/31/png-vulnerabilities-allow-attackers-to-crash-systems-and-leak-sensitive-data.md",
+  "updatedAt": "2026-03-31T12:00:53.773-05:00",
+  "lastLink": "https://cyberpress.org/any-run-macos-sandbox-cross-platform-threat-analysis/",
+  "lastId": "z2p4v70000",
+  "lastFilePath": "cyberpress/pages/2026/03/31/new-anyrun-macos-sandbox-helps-soc-teams-analyze-apple-threats-faster.md",
   "items": [
     {
-      "id": "17s7vum000",
-      "link": "https://cyberpress.org/png-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/03/31/png-vulnerabilities-allow-attackers-to-crash-systems-and-leak-sensitive-data.md",
-      "committedAt": "2026-03-31T10:00:28.387-05:00",
-      "title": "PNG Vulnerabilities Allow Attackers to Crash Systems and Leak Sensitive Data"
+      "id": "z2p4v70000",
+      "link": "https://cyberpress.org/any-run-macos-sandbox-cross-platform-threat-analysis/",
+      "filePath": "cyberpress/pages/2026/03/31/new-anyrun-macos-sandbox-helps-soc-teams-analyze-apple-threats-faster.md",
+      "committedAt": "2026-03-31T12:00:53.773-05:00",
+      "title": "New ANY.RUN macOS Sandbox Helps SOC Teams Analyze Apple Threats Faster"
     }
   ]
 }
