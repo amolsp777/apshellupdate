@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T04:00:09.511-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
-  "lastId": "16g8gvy000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/31/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday.md",
+  "updatedAt": "2026-03-31T05:00:31.267-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
+  "lastId": "1grftqr000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/31/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach.md",
   "items": [
     {
-      "id": "16g8gvy000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
-      "filePath": "bleepingcomp/pages/2026/03/31/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday.md",
-      "committedAt": "2026-03-31T04:00:09.511-04:00",
-      "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday"
+      "id": "1grftqr000",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
+      "filePath": "bleepingcomp/pages/2026/03/31/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach.md",
+      "committedAt": "2026-03-31T05:00:31.267-04:00",
+      "title": "Dutch Finance Ministry takes treasury banking portal offline after breach"
     }
   ]
 }
