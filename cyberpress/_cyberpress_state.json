@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T08:00:53.231-05:00",
-  "lastLink": "https://cyberpress.org/dutch-ministry-cyberattack/",
-  "lastId": "1094ndn000",
-  "lastFilePath": "cyberpress/pages/2026/03/31/dutch-ministry-of-finance-takes-systems-offline-following-cyberattack.md",
+  "updatedAt": "2026-03-31T09:00:19.674-05:00",
+  "lastLink": "https://cyberpress.org/axios-npm-packages-compromised/",
+  "lastId": "1ak8g84000",
+  "lastFilePath": "cyberpress/pages/2026/03/31/axios-npm-packages-compromised-in-active-supply-chain-attack.md",
   "items": [
     {
-      "id": "1094ndn000",
-      "link": "https://cyberpress.org/dutch-ministry-cyberattack/",
-      "filePath": "cyberpress/pages/2026/03/31/dutch-ministry-of-finance-takes-systems-offline-following-cyberattack.md",
-      "committedAt": "2026-03-31T08:00:53.231-05:00",
-      "title": "Dutch Ministry of Finance Takes Systems Offline Following Cyberattack"
+      "id": "1ak8g84000",
+      "link": "https://cyberpress.org/axios-npm-packages-compromised/",
+      "filePath": "cyberpress/pages/2026/03/31/axios-npm-packages-compromised-in-active-supply-chain-attack.md",
+      "committedAt": "2026-03-31T09:00:19.674-05:00",
+      "title": "Axios NPM Packages Compromised in Active Supply Chain Attack"
     }
   ]
 }
