@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T10:00:08.818-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
-  "lastId": "htffi00000",
-  "lastFilePath": "bleepingcomp/pages/2026/03/31/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware.md",
+  "updatedAt": "2026-03-31T11:00:55.878-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
+  "lastId": "1cuaa2b000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/31/how-to-categorize-ai-agents-and-prioritize-risk.md",
   "items": [
     {
-      "id": "htffi00000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
-      "filePath": "bleepingcomp/pages/2026/03/31/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware.md",
-      "committedAt": "2026-03-31T10:00:08.818-04:00",
-      "title": "Hackers compromise Axios npm package to drop cross-platform malware"
+      "id": "1cuaa2b000",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
+      "filePath": "bleepingcomp/pages/2026/03/31/how-to-categorize-ai-agents-and-prioritize-risk.md",
+      "committedAt": "2026-03-31T11:00:55.878-04:00",
+      "title": "How to Categorize AI Agents and Prioritize Risk"
     }
   ]
 }
