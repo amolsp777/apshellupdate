@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T08:00:47.106-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
-  "lastId": "11wk85l000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/01/fbi-warns-against-using-chinese-mobile-apps-due-to-privacy-risks.md",
+  "updatedAt": "2026-04-01T11:00:43.442-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/",
+  "lastId": "aaww0i0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/01/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds.md",
   "items": [
     {
-      "id": "11wk85l000",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
-      "filePath": "bleepingcomp/pages/2026/04/01/fbi-warns-against-using-chinese-mobile-apps-due-to-privacy-risks.md",
-      "committedAt": "2026-04-01T08:00:47.106-04:00",
-      "title": "FBI warns against using Chinese mobile apps due to privacy risks"
+      "id": "aaww0i0000",
+      "link": "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/",
+      "filePath": "bleepingcomp/pages/2026/04/01/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds.md",
+      "committedAt": "2026-04-01T11:00:43.442-04:00",
+      "title": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds"
     }
   ]
 }
