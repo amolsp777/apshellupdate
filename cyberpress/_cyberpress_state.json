@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T05:00:25.136-05:00",
-  "lastLink": "https://cyberpress.org/trueconf-zero-day-exploited/",
-  "lastId": "4u63xf0000",
-  "lastFilePath": "cyberpress/pages/2026/04/01/trueconf-zero-day-exploited-in-attacks-on-southeast-asian-government-entities.md",
+  "updatedAt": "2026-04-01T06:00:41.104-05:00",
+  "lastLink": "https://cyberpress.org/windows-11-emergency-update-fixes-installation-loop-issue/",
+  "lastId": "cc6xcp0000",
+  "lastFilePath": "cyberpress/pages/2026/04/01/windows-11-emergency-update-fixes-installation-loop-issue.md",
   "items": [
     {
-      "id": "4u63xf0000",
-      "link": "https://cyberpress.org/trueconf-zero-day-exploited/",
-      "filePath": "cyberpress/pages/2026/04/01/trueconf-zero-day-exploited-in-attacks-on-southeast-asian-government-entities.md",
-      "committedAt": "2026-04-01T05:00:25.136-05:00",
-      "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Entities"
+      "id": "cc6xcp0000",
+      "link": "https://cyberpress.org/windows-11-emergency-update-fixes-installation-loop-issue/",
+      "filePath": "cyberpress/pages/2026/04/01/windows-11-emergency-update-fixes-installation-loop-issue.md",
+      "committedAt": "2026-04-01T06:00:41.104-05:00",
+      "title": "Windows 11 Emergency Update Fixes Installation Loop Issue"
     }
   ]
 }
