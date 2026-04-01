@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T02:00:24.652-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
-  "lastId": "172k8pi000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/01/new-windows-11-emergency-update-fixes-preview-update-install-issues.md",
+  "updatedAt": "2026-04-01T03:00:25.201-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
+  "lastId": "wu01we0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/01/google-drive-ransomware-detection-now-on-by-default-for-paying-users.md",
   "items": [
     {
-      "id": "172k8pi000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
-      "filePath": "bleepingcomp/pages/2026/04/01/new-windows-11-emergency-update-fixes-preview-update-install-issues.md",
-      "committedAt": "2026-04-01T02:00:24.652-04:00",
-      "title": "New Windows 11 emergency update fixes preview update install issues"
+      "id": "wu01we0000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
+      "filePath": "bleepingcomp/pages/2026/04/01/google-drive-ransomware-detection-now-on-by-default-for-paying-users.md",
+      "committedAt": "2026-04-01T03:00:25.201-04:00",
+      "title": "Google Drive ransomware detection now on by default for paying users"
     }
   ]
 }
