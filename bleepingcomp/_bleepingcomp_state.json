@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T16:00:25.814-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
-  "lastId": "jg45q60000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/01/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks.md",
+  "updatedAt": "2026-04-01T18:00:03.502-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
+  "lastId": "n1fcv20000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/01/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates.md",
   "items": [
     {
-      "id": "jg45q60000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/01/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks.md",
-      "committedAt": "2026-04-01T16:00:25.814-04:00",
-      "title": "New EvilTokens service fuels Microsoft device code phishing attacks"
+      "id": "n1fcv20000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
+      "filePath": "bleepingcomp/pages/2026/04/01/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates.md",
+      "committedAt": "2026-04-01T18:00:03.502-04:00",
+      "title": "Hackers exploit TrueConf zero-day to push malicious software updates"
     }
   ]
 }
