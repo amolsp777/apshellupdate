@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T10:00:27.065-05:00",
-  "lastLink": "https://cyberpress.org/data-leak-allegedly-claimed-by-shinyhunters/",
-  "lastId": "asqtiv0000",
-  "lastFilePath": "cyberpress/pages/2026/04/01/cisco-source-code-and-data-leak-allegedly-claimed-by-shinyhunters.md",
+  "updatedAt": "2026-04-01T11:00:36.930-05:00",
+  "lastLink": "https://cyberpress.org/crysome-rat-adds-hvnc/",
+  "lastId": "1hgu4b5000",
+  "lastFilePath": "cyberpress/pages/2026/04/01/new-crysome-rat-malware-features-av-killer-and-hvnc-modules.md",
   "items": [
     {
-      "id": "asqtiv0000",
-      "link": "https://cyberpress.org/data-leak-allegedly-claimed-by-shinyhunters/",
-      "filePath": "cyberpress/pages/2026/04/01/cisco-source-code-and-data-leak-allegedly-claimed-by-shinyhunters.md",
-      "committedAt": "2026-04-01T10:00:27.065-05:00",
-      "title": "Cisco Source Code and Data Leak Allegedly Claimed by ShinyHunters"
+      "id": "1hgu4b5000",
+      "link": "https://cyberpress.org/crysome-rat-adds-hvnc/",
+      "filePath": "cyberpress/pages/2026/04/01/new-crysome-rat-malware-features-av-killer-and-hvnc-modules.md",
+      "committedAt": "2026-04-01T11:00:36.930-05:00",
+      "title": "New CrySome RAT Malware Features AV Killer and HVNC Modules"
     }
   ]
 }
