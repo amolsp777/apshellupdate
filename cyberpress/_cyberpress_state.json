@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T09:00:14.013-05:00",
-  "lastLink": "https://cyberpress.org/chrome-zero-day-vulnerability/",
-  "lastId": "1ts8gtl000",
-  "lastFilePath": "cyberpress/pages/2026/04/01/new-chrome-zero-day-vulnerability-under-active-exploitation-patch-now.md",
+  "updatedAt": "2026-04-01T10:00:27.065-05:00",
+  "lastLink": "https://cyberpress.org/data-leak-allegedly-claimed-by-shinyhunters/",
+  "lastId": "asqtiv0000",
+  "lastFilePath": "cyberpress/pages/2026/04/01/cisco-source-code-and-data-leak-allegedly-claimed-by-shinyhunters.md",
   "items": [
     {
-      "id": "1ts8gtl000",
-      "link": "https://cyberpress.org/chrome-zero-day-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/01/new-chrome-zero-day-vulnerability-under-active-exploitation-patch-now.md",
-      "committedAt": "2026-04-01T09:00:14.013-05:00",
-      "title": "New Chrome Zero-Day Vulnerability Under Active Exploitation – Patch Now"
+      "id": "asqtiv0000",
+      "link": "https://cyberpress.org/data-leak-allegedly-claimed-by-shinyhunters/",
+      "filePath": "cyberpress/pages/2026/04/01/cisco-source-code-and-data-leak-allegedly-claimed-by-shinyhunters.md",
+      "committedAt": "2026-04-01T10:00:27.065-05:00",
+      "title": "Cisco Source Code and Data Leak Allegedly Claimed by ShinyHunters"
     }
   ]
 }
