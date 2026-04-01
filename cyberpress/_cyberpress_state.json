@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T03:00:14.039-05:00",
-  "lastLink": "https://cyberpress.org/weblogic-remote-code-execution-flaws/",
-  "lastId": "12ayypl000",
-  "lastFilePath": "cyberpress/pages/2026/04/01/active-attacks-target-critical-weblogic-remote-code-execution-flaws.md",
+  "updatedAt": "2026-04-01T04:00:14.463-05:00",
+  "lastLink": "https://cyberpress.org/crewai-vulnerabilities/",
+  "lastId": "1l0mjyd000",
+  "lastFilePath": "cyberpress/pages/2026/04/01/crewai-vulnerabilities-allow-attackers-to-bypass-sandboxes-and-compromise-system.md",
   "items": [
     {
-      "id": "12ayypl000",
-      "link": "https://cyberpress.org/weblogic-remote-code-execution-flaws/",
-      "filePath": "cyberpress/pages/2026/04/01/active-attacks-target-critical-weblogic-remote-code-execution-flaws.md",
-      "committedAt": "2026-04-01T03:00:14.039-05:00",
-      "title": "Active Attacks Target Critical WebLogic Remote Code Execution Flaws"
+      "id": "1l0mjyd000",
+      "link": "https://cyberpress.org/crewai-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/04/01/crewai-vulnerabilities-allow-attackers-to-bypass-sandboxes-and-compromise-system.md",
+      "committedAt": "2026-04-01T04:00:14.463-05:00",
+      "title": "CrewAI Vulnerabilities Allow Attackers to Bypass Sandboxes and Compromise Systems"
     }
   ]
 }
