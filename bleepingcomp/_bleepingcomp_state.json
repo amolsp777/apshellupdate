@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T03:00:25.201-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
-  "lastId": "wu01we0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/01/google-drive-ransomware-detection-now-on-by-default-for-paying-users.md",
+  "updatedAt": "2026-04-01T07:00:03.331-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
+  "lastId": "a2o3tf0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/01/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026.md",
   "items": [
     {
-      "id": "wu01we0000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
-      "filePath": "bleepingcomp/pages/2026/04/01/google-drive-ransomware-detection-now-on-by-default-for-paying-users.md",
-      "committedAt": "2026-04-01T03:00:25.201-04:00",
-      "title": "Google Drive ransomware detection now on by default for paying users"
+      "id": "a2o3tf0000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
+      "filePath": "bleepingcomp/pages/2026/04/01/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026.md",
+      "committedAt": "2026-04-01T07:00:03.331-04:00",
+      "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026"
     }
   ]
 }
