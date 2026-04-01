@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T18:00:03.502-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
-  "lastId": "n1fcv20000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/01/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates.md",
+  "updatedAt": "2026-04-01T19:00:27.446-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
+  "lastId": "danbxv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/01/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks.md",
   "items": [
     {
-      "id": "n1fcv20000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
-      "filePath": "bleepingcomp/pages/2026/04/01/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates.md",
-      "committedAt": "2026-04-01T18:00:03.502-04:00",
-      "title": "Hackers exploit TrueConf zero-day to push malicious software updates"
+      "id": "danbxv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/01/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks.md",
+      "committedAt": "2026-04-01T19:00:27.446-04:00",
+      "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks"
     }
   ]
 }
