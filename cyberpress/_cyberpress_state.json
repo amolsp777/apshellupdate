@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T07:00:35.561-05:00",
-  "lastLink": "https://cyberpress.org/google-cloud-vertex-ai-vulnerability/",
-  "lastId": "1mdy74o000",
-  "lastFilePath": "cyberpress/pages/2026/04/01/google-cloud-vertex-ai-vulnerability-exposes-sensitive-data-to-attackers.md",
+  "updatedAt": "2026-04-01T08:00:14.401-05:00",
+  "lastLink": "https://cyberpress.org/public-poc-exploit-released-for-nginx-ui-backup-restore-vulnerability/",
+  "lastId": "1wr3dn8000",
+  "lastFilePath": "cyberpress/pages/2026/04/01/public-poc-exploit-released-for-nginx-ui-backup-restore-vulnerability.md",
   "items": [
     {
-      "id": "1mdy74o000",
-      "link": "https://cyberpress.org/google-cloud-vertex-ai-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/01/google-cloud-vertex-ai-vulnerability-exposes-sensitive-data-to-attackers.md",
-      "committedAt": "2026-04-01T07:00:35.561-05:00",
-      "title": "Google Cloud Vertex AI Vulnerability Exposes Sensitive Data to Attackers"
+      "id": "1wr3dn8000",
+      "link": "https://cyberpress.org/public-poc-exploit-released-for-nginx-ui-backup-restore-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/01/public-poc-exploit-released-for-nginx-ui-backup-restore-vulnerability.md",
+      "committedAt": "2026-04-01T08:00:14.401-05:00",
+      "title": "Public PoC Exploit Released for nginx-ui Backup Restore Vulnerability"
     }
   ]
 }
