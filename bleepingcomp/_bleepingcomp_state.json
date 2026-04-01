@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T15:00:25.479-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
-  "lastId": "1dtmicd000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/01/novoice-android-malware-on-google-play-infected-23-million-devices.md",
+  "updatedAt": "2026-04-01T16:00:25.814-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
+  "lastId": "jg45q60000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/01/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks.md",
   "items": [
     {
-      "id": "1dtmicd000",
-      "link": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
-      "filePath": "bleepingcomp/pages/2026/04/01/novoice-android-malware-on-google-play-infected-23-million-devices.md",
-      "committedAt": "2026-04-01T15:00:25.479-04:00",
-      "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices"
+      "id": "jg45q60000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/01/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks.md",
+      "committedAt": "2026-04-01T16:00:25.814-04:00",
+      "title": "New EvilTokens service fuels Microsoft device code phishing attacks"
     }
   ]
 }
