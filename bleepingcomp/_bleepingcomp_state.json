@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T07:00:03.331-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
-  "lastId": "a2o3tf0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/01/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026.md",
+  "updatedAt": "2026-04-01T08:00:47.106-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
+  "lastId": "11wk85l000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/01/fbi-warns-against-using-chinese-mobile-apps-due-to-privacy-risks.md",
   "items": [
     {
-      "id": "a2o3tf0000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
-      "filePath": "bleepingcomp/pages/2026/04/01/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026.md",
-      "committedAt": "2026-04-01T07:00:03.331-04:00",
-      "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026"
+      "id": "11wk85l000",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
+      "filePath": "bleepingcomp/pages/2026/04/01/fbi-warns-against-using-chinese-mobile-apps-due-to-privacy-risks.md",
+      "committedAt": "2026-04-01T08:00:47.106-04:00",
+      "title": "FBI warns against using Chinese mobile apps due to privacy risks"
     }
   ]
 }
