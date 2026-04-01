@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T12:00:53.773-05:00",
-  "lastLink": "https://cyberpress.org/any-run-macos-sandbox-cross-platform-threat-analysis/",
-  "lastId": "z2p4v70000",
-  "lastFilePath": "cyberpress/pages/2026/03/31/new-anyrun-macos-sandbox-helps-soc-teams-analyze-apple-threats-faster.md",
+  "updatedAt": "2026-04-01T01:00:46.182-05:00",
+  "lastLink": "https://cyberpress.org/malicious-pypi-sdk-targets/",
+  "lastId": "koj1na0000",
+  "lastFilePath": "cyberpress/pages/2026/04/01/malicious-telnyx-python-package-on-pypi-targets-developer-credentials.md",
   "items": [
     {
-      "id": "z2p4v70000",
-      "link": "https://cyberpress.org/any-run-macos-sandbox-cross-platform-threat-analysis/",
-      "filePath": "cyberpress/pages/2026/03/31/new-anyrun-macos-sandbox-helps-soc-teams-analyze-apple-threats-faster.md",
-      "committedAt": "2026-03-31T12:00:53.773-05:00",
-      "title": "New ANY.RUN macOS Sandbox Helps SOC Teams Analyze Apple Threats Faster"
+      "id": "koj1na0000",
+      "link": "https://cyberpress.org/malicious-pypi-sdk-targets/",
+      "filePath": "cyberpress/pages/2026/04/01/malicious-telnyx-python-package-on-pypi-targets-developer-credentials.md",
+      "committedAt": "2026-04-01T01:00:46.182-05:00",
+      "title": "Malicious Telnyx Python Package On PyPI Targets Developer Credentials"
     }
   ]
 }
