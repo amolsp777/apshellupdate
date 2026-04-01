@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T21:00:03.352-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
-  "lastId": "1ghm3yu000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/01/claude-code-source-code-accidentally-leaked-in-npm-package.md",
+  "updatedAt": "2026-03-31T22:00:57.513-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
+  "lastId": "5sey0u0000",
+  "lastFilePath": "bleepingcomp/pages/2026/03/31/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw.md",
   "items": [
     {
-      "id": "1ghm3yu000",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
-      "filePath": "bleepingcomp/pages/2026/04/01/claude-code-source-code-accidentally-leaked-in-npm-package.md",
-      "committedAt": "2026-03-31T21:00:03.352-04:00",
-      "title": "Claude Code source code accidentally leaked in NPM package"
+      "id": "5sey0u0000",
+      "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
+      "filePath": "bleepingcomp/pages/2026/03/31/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw.md",
+      "committedAt": "2026-03-31T22:00:57.513-04:00",
+      "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw"
     }
   ]
 }
