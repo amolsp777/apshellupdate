@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T06:00:41.104-05:00",
-  "lastLink": "https://cyberpress.org/windows-11-emergency-update-fixes-installation-loop-issue/",
-  "lastId": "cc6xcp0000",
-  "lastFilePath": "cyberpress/pages/2026/04/01/windows-11-emergency-update-fixes-installation-loop-issue.md",
+  "updatedAt": "2026-04-01T07:00:35.561-05:00",
+  "lastLink": "https://cyberpress.org/google-cloud-vertex-ai-vulnerability/",
+  "lastId": "1mdy74o000",
+  "lastFilePath": "cyberpress/pages/2026/04/01/google-cloud-vertex-ai-vulnerability-exposes-sensitive-data-to-attackers.md",
   "items": [
     {
-      "id": "cc6xcp0000",
-      "link": "https://cyberpress.org/windows-11-emergency-update-fixes-installation-loop-issue/",
-      "filePath": "cyberpress/pages/2026/04/01/windows-11-emergency-update-fixes-installation-loop-issue.md",
-      "committedAt": "2026-04-01T06:00:41.104-05:00",
-      "title": "Windows 11 Emergency Update Fixes Installation Loop Issue"
+      "id": "1mdy74o000",
+      "link": "https://cyberpress.org/google-cloud-vertex-ai-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/01/google-cloud-vertex-ai-vulnerability-exposes-sensitive-data-to-attackers.md",
+      "committedAt": "2026-04-01T07:00:35.561-05:00",
+      "title": "Google Cloud Vertex AI Vulnerability Exposes Sensitive Data to Attackers"
     }
   ]
 }
