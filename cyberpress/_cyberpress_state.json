@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T08:00:14.401-05:00",
-  "lastLink": "https://cyberpress.org/public-poc-exploit-released-for-nginx-ui-backup-restore-vulnerability/",
-  "lastId": "1wr3dn8000",
-  "lastFilePath": "cyberpress/pages/2026/04/01/public-poc-exploit-released-for-nginx-ui-backup-restore-vulnerability.md",
+  "updatedAt": "2026-04-01T09:00:14.013-05:00",
+  "lastLink": "https://cyberpress.org/chrome-zero-day-vulnerability/",
+  "lastId": "1ts8gtl000",
+  "lastFilePath": "cyberpress/pages/2026/04/01/new-chrome-zero-day-vulnerability-under-active-exploitation-patch-now.md",
   "items": [
     {
-      "id": "1wr3dn8000",
-      "link": "https://cyberpress.org/public-poc-exploit-released-for-nginx-ui-backup-restore-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/01/public-poc-exploit-released-for-nginx-ui-backup-restore-vulnerability.md",
-      "committedAt": "2026-04-01T08:00:14.401-05:00",
-      "title": "Public PoC Exploit Released for nginx-ui Backup Restore Vulnerability"
+      "id": "1ts8gtl000",
+      "link": "https://cyberpress.org/chrome-zero-day-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/01/new-chrome-zero-day-vulnerability-under-active-exploitation-patch-now.md",
+      "committedAt": "2026-04-01T09:00:14.013-05:00",
+      "title": "New Chrome Zero-Day Vulnerability Under Active Exploitation – Patch Now"
     }
   ]
 }
