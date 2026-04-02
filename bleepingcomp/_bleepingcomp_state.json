@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T13:01:02.576-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
-  "lastId": "18w56yb000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/02/medtech-giant-stryker-fully-operational-after-data-wiping-attack.md",
+  "updatedAt": "2026-04-02T16:00:51.868-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
+  "lastId": "1ep19ef000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/02/drift-loses-280-million-as-hackers-seize-security-council-powers.md",
   "items": [
     {
-      "id": "18w56yb000",
-      "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
-      "filePath": "bleepingcomp/pages/2026/04/02/medtech-giant-stryker-fully-operational-after-data-wiping-attack.md",
-      "committedAt": "2026-04-02T13:01:02.576-04:00",
-      "title": "Medtech giant Stryker fully operational after data-wiping attack"
+      "id": "1ep19ef000",
+      "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
+      "filePath": "bleepingcomp/pages/2026/04/02/drift-loses-280-million-as-hackers-seize-security-council-powers.md",
+      "committedAt": "2026-04-02T16:00:51.868-04:00",
+      "title": "Drift loses $280 million as hackers seize Security Council powers"
     }
   ]
 }
