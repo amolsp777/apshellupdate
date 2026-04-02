@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T20:00:19.254-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
-  "lastId": "5rz5bm0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/01/new-crystalrat-malware-adds-rat-stealer-and-prankware-features.md",
+  "updatedAt": "2026-04-02T05:00:19.889-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/",
+  "lastId": "9pqswv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/02/over-14000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks.md",
   "items": [
     {
-      "id": "5rz5bm0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
-      "filePath": "bleepingcomp/pages/2026/04/01/new-crystalrat-malware-adds-rat-stealer-and-prankware-features.md",
-      "committedAt": "2026-04-01T20:00:19.254-04:00",
-      "title": "New CrystalRAT malware adds RAT, stealer and prankware features"
+      "id": "9pqswv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/02/over-14000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks.md",
+      "committedAt": "2026-04-02T05:00:19.889-04:00",
+      "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks"
     }
   ]
 }
