@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T06:00:29.841-05:00",
-  "lastLink": "https://cyberpress.org/critical-px4-autopilot-flaw-lets-hackers-take-control-of-drones/",
-  "lastId": "1xajdl0000",
-  "lastFilePath": "cyberpress/pages/2026/04/02/critical-px4-autopilot-flaw-lets-hackers-take-control-of-drones.md",
+  "updatedAt": "2026-04-02T07:00:14.020-05:00",
+  "lastLink": "https://cyberpress.org/cisa-alerts-on-chrome-zero-day-exploit/",
+  "lastId": "1xqzdwb000",
+  "lastFilePath": "cyberpress/pages/2026/04/02/cisa-alerts-on-chrome-zero-day-exploit-actively-used-in-attacks.md",
   "items": [
     {
-      "id": "1xajdl0000",
-      "link": "https://cyberpress.org/critical-px4-autopilot-flaw-lets-hackers-take-control-of-drones/",
-      "filePath": "cyberpress/pages/2026/04/02/critical-px4-autopilot-flaw-lets-hackers-take-control-of-drones.md",
-      "committedAt": "2026-04-02T06:00:29.841-05:00",
-      "title": "Critical PX4 Autopilot Flaw Lets Hackers Take Control of Drones"
+      "id": "1xqzdwb000",
+      "link": "https://cyberpress.org/cisa-alerts-on-chrome-zero-day-exploit/",
+      "filePath": "cyberpress/pages/2026/04/02/cisa-alerts-on-chrome-zero-day-exploit-actively-used-in-attacks.md",
+      "committedAt": "2026-04-02T07:00:14.020-05:00",
+      "title": "CISA Alerts on Chrome Zero-Day Exploit Actively Used in Attacks"
     }
   ]
 }
