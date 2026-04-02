@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T10:00:41.585-05:00",
-  "lastLink": "https://cyberpress.org/novoice-threat-hits-millions/",
-  "lastId": "lmp22f0000",
-  "lastFilePath": "cyberpress/pages/2026/04/02/novoice-campaign-on-google-play-puts-millions-of-android-users-at-risk.md",
+  "updatedAt": "2026-04-02T11:00:47.142-05:00",
+  "lastLink": "https://cyberpress.org/new-zap-ptk-add-on-converts/",
+  "lastId": "2mxwyb0000",
+  "lastFilePath": "cyberpress/pages/2026/04/02/new-zap-ptk-add-on-converts-browser-security-findings-into-native-zap-alerts.md",
   "items": [
     {
-      "id": "lmp22f0000",
-      "link": "https://cyberpress.org/novoice-threat-hits-millions/",
-      "filePath": "cyberpress/pages/2026/04/02/novoice-campaign-on-google-play-puts-millions-of-android-users-at-risk.md",
-      "committedAt": "2026-04-02T10:00:41.585-05:00",
-      "title": "NoVoice Campaign On Google Play Puts Millions Of Android Users At Risk"
+      "id": "2mxwyb0000",
+      "link": "https://cyberpress.org/new-zap-ptk-add-on-converts/",
+      "filePath": "cyberpress/pages/2026/04/02/new-zap-ptk-add-on-converts-browser-security-findings-into-native-zap-alerts.md",
+      "committedAt": "2026-04-02T11:00:47.142-05:00",
+      "title": "New ZAP PTK Add-On Converts Browser Security Findings into Native ZAP Alerts"
     }
   ]
 }
