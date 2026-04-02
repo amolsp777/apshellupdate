@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T06:00:57.368-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/",
-  "lastId": "6xywlj0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/02/microsoft-links-classic-outlook-issue-to-email-delivery-problems.md",
+  "updatedAt": "2026-04-02T08:00:09.084-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
+  "lastId": "vkomta0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/02/critical-cisco-imc-auth-bypass-gives-attackers-admin-access.md",
   "items": [
     {
-      "id": "6xywlj0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/",
-      "filePath": "bleepingcomp/pages/2026/04/02/microsoft-links-classic-outlook-issue-to-email-delivery-problems.md",
-      "committedAt": "2026-04-02T06:00:57.368-04:00",
-      "title": "Microsoft links Classic Outlook issue to email delivery problems"
+      "id": "vkomta0000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
+      "filePath": "bleepingcomp/pages/2026/04/02/critical-cisco-imc-auth-bypass-gives-attackers-admin-access.md",
+      "committedAt": "2026-04-02T08:00:09.084-04:00",
+      "title": "Critical Cisco IMC auth bypass gives attackers Admin access"
     }
   ]
 }
