@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T09:00:37.783-05:00",
-  "lastLink": "https://cyberpress.org/boeing-rfq-attack-escalates/",
-  "lastId": "1fwzhhg000",
-  "lastFilePath": "cyberpress/pages/2026/04/02/hackers-weaponize-docx-rtf-javascript-and-python-in-boeing-rfq-attack.md",
+  "updatedAt": "2026-04-02T10:00:41.585-05:00",
+  "lastLink": "https://cyberpress.org/novoice-threat-hits-millions/",
+  "lastId": "lmp22f0000",
+  "lastFilePath": "cyberpress/pages/2026/04/02/novoice-campaign-on-google-play-puts-millions-of-android-users-at-risk.md",
   "items": [
     {
-      "id": "1fwzhhg000",
-      "link": "https://cyberpress.org/boeing-rfq-attack-escalates/",
-      "filePath": "cyberpress/pages/2026/04/02/hackers-weaponize-docx-rtf-javascript-and-python-in-boeing-rfq-attack.md",
-      "committedAt": "2026-04-02T09:00:37.783-05:00",
-      "title": "Hackers Weaponize DOCX, RTF, JavaScript, and Python In Boeing RFQ Attack"
+      "id": "lmp22f0000",
+      "link": "https://cyberpress.org/novoice-threat-hits-millions/",
+      "filePath": "cyberpress/pages/2026/04/02/novoice-campaign-on-google-play-puts-millions-of-android-users-at-risk.md",
+      "committedAt": "2026-04-02T10:00:41.585-05:00",
+      "title": "NoVoice Campaign On Google Play Puts Millions Of Android Users At Risk"
     }
   ]
 }
