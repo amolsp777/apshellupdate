@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T16:00:51.868-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
-  "lastId": "1ep19ef000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/02/drift-loses-280-million-as-hackers-seize-security-council-powers.md",
+  "updatedAt": "2026-04-02T17:00:08.739-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
+  "lastId": "8n59yr0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/02/claude-code-leak-used-to-push-infostealer-malware-on-github.md",
   "items": [
     {
-      "id": "1ep19ef000",
-      "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
-      "filePath": "bleepingcomp/pages/2026/04/02/drift-loses-280-million-as-hackers-seize-security-council-powers.md",
-      "committedAt": "2026-04-02T16:00:51.868-04:00",
-      "title": "Drift loses $280 million as hackers seize Security Council powers"
+      "id": "8n59yr0000",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
+      "filePath": "bleepingcomp/pages/2026/04/02/claude-code-leak-used-to-push-infostealer-malware-on-github.md",
+      "committedAt": "2026-04-02T17:00:08.739-04:00",
+      "title": "Claude Code leak used to push infostealer malware on GitHub"
     }
   ]
 }
