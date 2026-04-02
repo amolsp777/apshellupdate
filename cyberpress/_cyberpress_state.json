@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T03:00:24.787-05:00",
-  "lastLink": "https://cyberpress.org/vulnerability-in-symantec-dlp/",
-  "lastId": "xfncn10000",
-  "lastFilePath": "cyberpress/pages/2026/04/02/critical-vulnerability-in-symantec-dlp-agent-allows-attackers-to-gain-elevated-a.md",
+  "updatedAt": "2026-04-02T04:00:13.985-05:00",
+  "lastLink": "https://cyberpress.org/critical-cisco-smart-software-manager-vulnerability/",
+  "lastId": "15rgm0a000",
+  "lastFilePath": "cyberpress/pages/2026/04/02/critical-cisco-smart-software-manager-vulnerability-enables-arbitrary-command-ex.md",
   "items": [
     {
-      "id": "xfncn10000",
-      "link": "https://cyberpress.org/vulnerability-in-symantec-dlp/",
-      "filePath": "cyberpress/pages/2026/04/02/critical-vulnerability-in-symantec-dlp-agent-allows-attackers-to-gain-elevated-a.md",
-      "committedAt": "2026-04-02T03:00:24.787-05:00",
-      "title": "Critical Vulnerability in Symantec DLP Agent Allows Attackers to Gain Elevated Access"
+      "id": "15rgm0a000",
+      "link": "https://cyberpress.org/critical-cisco-smart-software-manager-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/02/critical-cisco-smart-software-manager-vulnerability-enables-arbitrary-command-ex.md",
+      "committedAt": "2026-04-02T04:00:13.985-05:00",
+      "title": "Critical Cisco Smart Software Manager Vulnerability Enables Arbitrary Command Execution"
     }
   ]
 }
