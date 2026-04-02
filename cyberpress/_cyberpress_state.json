@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T07:00:14.020-05:00",
-  "lastLink": "https://cyberpress.org/cisa-alerts-on-chrome-zero-day-exploit/",
-  "lastId": "1xqzdwb000",
-  "lastFilePath": "cyberpress/pages/2026/04/02/cisa-alerts-on-chrome-zero-day-exploit-actively-used-in-attacks.md",
+  "updatedAt": "2026-04-02T08:00:25.551-05:00",
+  "lastLink": "https://cyberpress.org/apple-rolls-out-ios-18-7-7/",
+  "lastId": "fpmfiv0000",
+  "lastFilePath": "cyberpress/pages/2026/04/02/apple-rolls-out-ios-1877-to-counter-darksword-exploit-threat.md",
   "items": [
     {
-      "id": "1xqzdwb000",
-      "link": "https://cyberpress.org/cisa-alerts-on-chrome-zero-day-exploit/",
-      "filePath": "cyberpress/pages/2026/04/02/cisa-alerts-on-chrome-zero-day-exploit-actively-used-in-attacks.md",
-      "committedAt": "2026-04-02T07:00:14.020-05:00",
-      "title": "CISA Alerts on Chrome Zero-Day Exploit Actively Used in Attacks"
+      "id": "fpmfiv0000",
+      "link": "https://cyberpress.org/apple-rolls-out-ios-18-7-7/",
+      "filePath": "cyberpress/pages/2026/04/02/apple-rolls-out-ios-1877-to-counter-darksword-exploit-threat.md",
+      "committedAt": "2026-04-02T08:00:25.551-05:00",
+      "title": "Apple Rolls Out iOS 18.7.7 to Counter DarkSword Exploit Threat"
     }
   ]
 }
