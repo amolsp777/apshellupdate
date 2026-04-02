@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T13:00:56.693-05:00",
-  "lastLink": "https://cyberpress.org/ta416-expands-europe-espionage/",
-  "lastId": "axyb2y0000",
-  "lastFilePath": "cyberpress/pages/2026/04/02/ta416-expands-cyber-espionage-across-europe-using-web-bug-recon.md",
+  "updatedAt": "2026-04-02T14:01:02.412-05:00",
+  "lastLink": "https://cyberpress.org/whatsapp-chain-drops-backdoor/",
+  "lastId": "bdkfia0000",
+  "lastFilePath": "cyberpress/pages/2026/04/02/whatsapp-attack-chain-delivers-backdoor-via-vbs-cloud-payloads-and-msi-installer.md",
   "items": [
     {
-      "id": "axyb2y0000",
-      "link": "https://cyberpress.org/ta416-expands-europe-espionage/",
-      "filePath": "cyberpress/pages/2026/04/02/ta416-expands-cyber-espionage-across-europe-using-web-bug-recon.md",
-      "committedAt": "2026-04-02T13:00:56.693-05:00",
-      "title": "TA416 Expands Cyber Espionage Across Europe Using Web Bug Recon"
+      "id": "bdkfia0000",
+      "link": "https://cyberpress.org/whatsapp-chain-drops-backdoor/",
+      "filePath": "cyberpress/pages/2026/04/02/whatsapp-attack-chain-delivers-backdoor-via-vbs-cloud-payloads-and-msi-installer.md",
+      "committedAt": "2026-04-02T14:01:02.412-05:00",
+      "title": "WhatsApp Attack Chain Delivers Backdoor via VBS, Cloud Payloads, and MSI Installer"
     }
   ]
 }
