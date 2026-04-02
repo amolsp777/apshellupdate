@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T11:00:09.254-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
-  "lastId": "1hmoj1v000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/02/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime.md",
+  "updatedAt": "2026-04-02T12:00:59.600-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
+  "lastId": "1t71w31000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/02/residential-proxies-evaded-ip-reputation-checks-in-78-of-4b-sessions.md",
   "items": [
     {
-      "id": "1hmoj1v000",
-      "link": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
-      "filePath": "bleepingcomp/pages/2026/04/02/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime.md",
-      "committedAt": "2026-04-02T11:00:09.254-04:00",
-      "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime"
+      "id": "1t71w31000",
+      "link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
+      "filePath": "bleepingcomp/pages/2026/04/02/residential-proxies-evaded-ip-reputation-checks-in-78-of-4b-sessions.md",
+      "committedAt": "2026-04-02T12:00:59.600-04:00",
+      "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions"
     }
   ]
 }
