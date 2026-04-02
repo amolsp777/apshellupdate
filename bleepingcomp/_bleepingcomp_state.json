@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T10:00:20.964-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
-  "lastId": "1ndclb2000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/02/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks.md",
+  "updatedAt": "2026-04-02T11:00:09.254-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
+  "lastId": "1hmoj1v000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/02/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime.md",
   "items": [
     {
-      "id": "1ndclb2000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/02/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks.md",
-      "committedAt": "2026-04-02T10:00:20.964-04:00",
-      "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks"
+      "id": "1hmoj1v000",
+      "link": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
+      "filePath": "bleepingcomp/pages/2026/04/02/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime.md",
+      "committedAt": "2026-04-02T11:00:09.254-04:00",
+      "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime"
     }
   ]
 }
