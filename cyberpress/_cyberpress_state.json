@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T11:00:47.142-05:00",
-  "lastLink": "https://cyberpress.org/new-zap-ptk-add-on-converts/",
-  "lastId": "2mxwyb0000",
-  "lastFilePath": "cyberpress/pages/2026/04/02/new-zap-ptk-add-on-converts-browser-security-findings-into-native-zap-alerts.md",
+  "updatedAt": "2026-04-02T12:00:51.611-05:00",
+  "lastLink": "https://cyberpress.org/fbi-flags-risky-chinese-apps/",
+  "lastId": "1ug2vnn000",
+  "lastFilePath": "cyberpress/pages/2026/04/02/fbi-flags-chinese-mobile-apps-over-potential-data-exposure-risks.md",
   "items": [
     {
-      "id": "2mxwyb0000",
-      "link": "https://cyberpress.org/new-zap-ptk-add-on-converts/",
-      "filePath": "cyberpress/pages/2026/04/02/new-zap-ptk-add-on-converts-browser-security-findings-into-native-zap-alerts.md",
-      "committedAt": "2026-04-02T11:00:47.142-05:00",
-      "title": "New ZAP PTK Add-On Converts Browser Security Findings into Native ZAP Alerts"
+      "id": "1ug2vnn000",
+      "link": "https://cyberpress.org/fbi-flags-risky-chinese-apps/",
+      "filePath": "cyberpress/pages/2026/04/02/fbi-flags-chinese-mobile-apps-over-potential-data-exposure-risks.md",
+      "committedAt": "2026-04-02T12:00:51.611-05:00",
+      "title": "FBI Flags Chinese Mobile Apps Over Potential Data Exposure Risks"
     }
   ]
 }
