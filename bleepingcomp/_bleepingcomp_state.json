@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T08:00:09.084-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
-  "lastId": "vkomta0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/02/critical-cisco-imc-auth-bypass-gives-attackers-admin-access.md",
+  "updatedAt": "2026-04-02T10:00:20.964-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
+  "lastId": "1ndclb2000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/02/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks.md",
   "items": [
     {
-      "id": "vkomta0000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
-      "filePath": "bleepingcomp/pages/2026/04/02/critical-cisco-imc-auth-bypass-gives-attackers-admin-access.md",
-      "committedAt": "2026-04-02T08:00:09.084-04:00",
-      "title": "Critical Cisco IMC auth bypass gives attackers Admin access"
+      "id": "1ndclb2000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/02/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks.md",
+      "committedAt": "2026-04-02T10:00:20.964-04:00",
+      "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks"
     }
   ]
 }
