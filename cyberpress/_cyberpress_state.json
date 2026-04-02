@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T02:00:24.986-05:00",
-  "lastLink": "https://cyberpress.org/roadk1ll-enables-network-pivoting/",
-  "lastId": "heh79s0000",
-  "lastFilePath": "cyberpress/pages/2026/04/02/roadk1ll-malware-converts-compromised-systems-into-pivoting-relays.md",
+  "updatedAt": "2026-04-02T03:00:24.787-05:00",
+  "lastLink": "https://cyberpress.org/vulnerability-in-symantec-dlp/",
+  "lastId": "xfncn10000",
+  "lastFilePath": "cyberpress/pages/2026/04/02/critical-vulnerability-in-symantec-dlp-agent-allows-attackers-to-gain-elevated-a.md",
   "items": [
     {
-      "id": "heh79s0000",
-      "link": "https://cyberpress.org/roadk1ll-enables-network-pivoting/",
-      "filePath": "cyberpress/pages/2026/04/02/roadk1ll-malware-converts-compromised-systems-into-pivoting-relays.md",
-      "committedAt": "2026-04-02T02:00:24.986-05:00",
-      "title": "RoadK1ll Malware Converts Compromised Systems Into Pivoting Relays"
+      "id": "xfncn10000",
+      "link": "https://cyberpress.org/vulnerability-in-symantec-dlp/",
+      "filePath": "cyberpress/pages/2026/04/02/critical-vulnerability-in-symantec-dlp-agent-allows-attackers-to-gain-elevated-a.md",
+      "committedAt": "2026-04-02T03:00:24.787-05:00",
+      "title": "Critical Vulnerability in Symantec DLP Agent Allows Attackers to Gain Elevated Access"
     }
   ]
 }
