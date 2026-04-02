@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T19:00:27.446-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
-  "lastId": "danbxv0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/01/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks.md",
+  "updatedAt": "2026-04-01T20:00:19.254-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
+  "lastId": "5rz5bm0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/01/new-crystalrat-malware-adds-rat-stealer-and-prankware-features.md",
   "items": [
     {
-      "id": "danbxv0000",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/01/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks.md",
-      "committedAt": "2026-04-01T19:00:27.446-04:00",
-      "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks"
+      "id": "5rz5bm0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
+      "filePath": "bleepingcomp/pages/2026/04/01/new-crystalrat-malware-adds-rat-stealer-and-prankware-features.md",
+      "committedAt": "2026-04-01T20:00:19.254-04:00",
+      "title": "New CrystalRAT malware adds RAT, stealer and prankware features"
     }
   ]
 }
