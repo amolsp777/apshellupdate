@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T05:00:30.156-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-warns-on-axios/",
-  "lastId": "i6cdvq0000",
-  "lastFilePath": "cyberpress/pages/2026/04/02/axios-npm-supply-chain-attack-prompts-microsoft-mitigation-guidance.md",
+  "updatedAt": "2026-04-02T06:00:29.841-05:00",
+  "lastLink": "https://cyberpress.org/critical-px4-autopilot-flaw-lets-hackers-take-control-of-drones/",
+  "lastId": "1xajdl0000",
+  "lastFilePath": "cyberpress/pages/2026/04/02/critical-px4-autopilot-flaw-lets-hackers-take-control-of-drones.md",
   "items": [
     {
-      "id": "i6cdvq0000",
-      "link": "https://cyberpress.org/microsoft-warns-on-axios/",
-      "filePath": "cyberpress/pages/2026/04/02/axios-npm-supply-chain-attack-prompts-microsoft-mitigation-guidance.md",
-      "committedAt": "2026-04-02T05:00:30.156-05:00",
-      "title": "Axios npm Supply Chain Attack Prompts Microsoft Mitigation Guidance"
+      "id": "1xajdl0000",
+      "link": "https://cyberpress.org/critical-px4-autopilot-flaw-lets-hackers-take-control-of-drones/",
+      "filePath": "cyberpress/pages/2026/04/02/critical-px4-autopilot-flaw-lets-hackers-take-control-of-drones.md",
+      "committedAt": "2026-04-02T06:00:29.841-05:00",
+      "title": "Critical PX4 Autopilot Flaw Lets Hackers Take Control of Drones"
     }
   ]
 }
