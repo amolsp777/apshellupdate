@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T04:00:13.985-05:00",
-  "lastLink": "https://cyberpress.org/critical-cisco-smart-software-manager-vulnerability/",
-  "lastId": "15rgm0a000",
-  "lastFilePath": "cyberpress/pages/2026/04/02/critical-cisco-smart-software-manager-vulnerability-enables-arbitrary-command-ex.md",
+  "updatedAt": "2026-04-02T05:00:30.156-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-warns-on-axios/",
+  "lastId": "i6cdvq0000",
+  "lastFilePath": "cyberpress/pages/2026/04/02/axios-npm-supply-chain-attack-prompts-microsoft-mitigation-guidance.md",
   "items": [
     {
-      "id": "15rgm0a000",
-      "link": "https://cyberpress.org/critical-cisco-smart-software-manager-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/02/critical-cisco-smart-software-manager-vulnerability-enables-arbitrary-command-ex.md",
-      "committedAt": "2026-04-02T04:00:13.985-05:00",
-      "title": "Critical Cisco Smart Software Manager Vulnerability Enables Arbitrary Command Execution"
+      "id": "i6cdvq0000",
+      "link": "https://cyberpress.org/microsoft-warns-on-axios/",
+      "filePath": "cyberpress/pages/2026/04/02/axios-npm-supply-chain-attack-prompts-microsoft-mitigation-guidance.md",
+      "committedAt": "2026-04-02T05:00:30.156-05:00",
+      "title": "Axios npm Supply Chain Attack Prompts Microsoft Mitigation Guidance"
     }
   ]
 }
