@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T11:00:30.020-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-pushes-forced-upgrade/",
-  "lastId": "g7awn20000",
-  "lastFilePath": "cyberpress/pages/2026/04/03/microsoft-pushes-forced-upgrade-to-windows-11-version-24h2-for-unmanaged-pcs.md",
+  "updatedAt": "2026-04-03T12:00:34.959-05:00",
+  "lastLink": "https://cyberpress.org/axios-npm-breach-confirmed/",
+  "lastId": "1juhrsq000",
+  "lastFilePath": "cyberpress/pages/2026/04/03/axios-maintainer-says-npm-compromise-stemmed-from-targeted-social-engineering.md",
   "items": [
     {
-      "id": "g7awn20000",
-      "link": "https://cyberpress.org/microsoft-pushes-forced-upgrade/",
-      "filePath": "cyberpress/pages/2026/04/03/microsoft-pushes-forced-upgrade-to-windows-11-version-24h2-for-unmanaged-pcs.md",
-      "committedAt": "2026-04-03T11:00:30.020-05:00",
-      "title": "Microsoft Pushes Forced Upgrade to Windows 11 Version 24H2 for Unmanaged PCs"
+      "id": "1juhrsq000",
+      "link": "https://cyberpress.org/axios-npm-breach-confirmed/",
+      "filePath": "cyberpress/pages/2026/04/03/axios-maintainer-says-npm-compromise-stemmed-from-targeted-social-engineering.md",
+      "committedAt": "2026-04-03T12:00:34.959-05:00",
+      "title": "Axios Maintainer Says npm Compromise Stemmed From Targeted Social Engineering"
     }
   ]
 }
