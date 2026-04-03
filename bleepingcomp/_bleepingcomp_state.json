@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T13:00:19.246-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
-  "lastId": "38jzum0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/03/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware.md",
+  "updatedAt": "2026-04-03T14:00:03.375-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
+  "lastId": "1fv99i6000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/03/hims-hers-warns-of-data-breach-after-zendesk-support-ticket-breach.md",
   "items": [
     {
-      "id": "38jzum0000",
-      "link": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
-      "filePath": "bleepingcomp/pages/2026/04/03/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware.md",
-      "committedAt": "2026-04-03T13:00:19.246-04:00",
-      "title": "Die Linke German political party confirms data stolen by Qilin ransomware"
+      "id": "1fv99i6000",
+      "link": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
+      "filePath": "bleepingcomp/pages/2026/04/03/hims-hers-warns-of-data-breach-after-zendesk-support-ticket-breach.md",
+      "committedAt": "2026-04-03T14:00:03.375-04:00",
+      "title": "Hims & Hers warns of data breach after Zendesk support ticket breach"
     }
   ]
 }
