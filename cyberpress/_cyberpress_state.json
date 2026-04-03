@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T05:00:19.278-05:00",
-  "lastLink": "https://cyberpress.org/axios-npm-package-compromised/",
-  "lastId": "g4evmd0000",
-  "lastFilePath": "cyberpress/pages/2026/04/03/axios-npm-package-compromised-by-north-korea-linked-threat-actors.md",
+  "updatedAt": "2026-04-03T06:00:13.807-05:00",
+  "lastLink": "https://cyberpress.org/phorpiex-botnet-fuels-malware/",
+  "lastId": "72dhae0000",
+  "lastFilePath": "cyberpress/pages/2026/04/03/hackers-leverage-phorpiex-botnet-in-multi-pronged-malware-campaign.md",
   "items": [
     {
-      "id": "g4evmd0000",
-      "link": "https://cyberpress.org/axios-npm-package-compromised/",
-      "filePath": "cyberpress/pages/2026/04/03/axios-npm-package-compromised-by-north-korea-linked-threat-actors.md",
-      "committedAt": "2026-04-03T05:00:19.278-05:00",
-      "title": "Axios npm Package Compromised by North Korea-Linked Threat Actors"
+      "id": "72dhae0000",
+      "link": "https://cyberpress.org/phorpiex-botnet-fuels-malware/",
+      "filePath": "cyberpress/pages/2026/04/03/hackers-leverage-phorpiex-botnet-in-multi-pronged-malware-campaign.md",
+      "committedAt": "2026-04-03T06:00:13.807-05:00",
+      "title": "Hackers Leverage Phorpiex Botnet In Multi-Pronged Malware Campaign"
     }
   ]
 }
