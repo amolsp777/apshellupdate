@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T14:01:02.412-05:00",
-  "lastLink": "https://cyberpress.org/whatsapp-chain-drops-backdoor/",
-  "lastId": "bdkfia0000",
-  "lastFilePath": "cyberpress/pages/2026/04/02/whatsapp-attack-chain-delivers-backdoor-via-vbs-cloud-payloads-and-msi-installer.md",
+  "updatedAt": "2026-04-03T00:00:29.777-05:00",
+  "lastLink": "https://cyberpress.org/cert-ua-spoofing-drops-gorat/",
+  "lastId": "15biauw000",
+  "lastFilePath": "cyberpress/pages/2026/04/03/threat-actors-impersonate-cert-ua-in-go-based-rat-delivery-campaign.md",
   "items": [
     {
-      "id": "bdkfia0000",
-      "link": "https://cyberpress.org/whatsapp-chain-drops-backdoor/",
-      "filePath": "cyberpress/pages/2026/04/02/whatsapp-attack-chain-delivers-backdoor-via-vbs-cloud-payloads-and-msi-installer.md",
-      "committedAt": "2026-04-02T14:01:02.412-05:00",
-      "title": "WhatsApp Attack Chain Delivers Backdoor via VBS, Cloud Payloads, and MSI Installer"
+      "id": "15biauw000",
+      "link": "https://cyberpress.org/cert-ua-spoofing-drops-gorat/",
+      "filePath": "cyberpress/pages/2026/04/03/threat-actors-impersonate-cert-ua-in-go-based-rat-delivery-campaign.md",
+      "committedAt": "2026-04-03T00:00:29.777-05:00",
+      "title": "Threat Actors Impersonate CERT-UA In Go-Based RAT Delivery Campaign"
     }
   ]
 }
