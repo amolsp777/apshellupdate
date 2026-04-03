@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T06:00:50.883-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/",
-  "lastId": "1fztl9z000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/03/man-admits-to-locking-thousands-of-windows-devices-in-extortion-plot.md",
+  "updatedAt": "2026-04-03T08:00:46.014-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/",
+  "lastId": "h2fsnl0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/03/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues.md",
   "items": [
     {
-      "id": "1fztl9z000",
-      "link": "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/",
-      "filePath": "bleepingcomp/pages/2026/04/03/man-admits-to-locking-thousands-of-windows-devices-in-extortion-plot.md",
-      "committedAt": "2026-04-03T06:00:50.883-04:00",
-      "title": "Man admits to locking thousands of Windows devices in extortion plot"
+      "id": "h2fsnl0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/",
+      "filePath": "bleepingcomp/pages/2026/04/03/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues.md",
+      "committedAt": "2026-04-03T08:00:46.014-04:00",
+      "title": "Microsoft still working to fix Exchange Online mailbox access issues"
     }
   ]
 }
