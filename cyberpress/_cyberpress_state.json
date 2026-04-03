@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T07:00:19.127-05:00",
-  "lastLink": "https://cyberpress.org/hackers-exploit-react2shell-flaw-to-compromise-700-next-js-hosts/",
-  "lastId": "op54ik0000",
-  "lastFilePath": "cyberpress/pages/2026/04/03/hackers-exploit-react2shell-flaw-to-compromise-700-nextjs-hosts.md",
+  "updatedAt": "2026-04-03T08:00:14.058-05:00",
+  "lastLink": "https://cyberpress.org/14000-f5-big-ip-apm-instances-exposed-as-rce-exploits-surge/",
+  "lastId": "gw8uou0000",
+  "lastFilePath": "cyberpress/pages/2026/04/03/14000-f5-big-ip-apm-instances-exposed-as-rce-exploits-surge.md",
   "items": [
     {
-      "id": "op54ik0000",
-      "link": "https://cyberpress.org/hackers-exploit-react2shell-flaw-to-compromise-700-next-js-hosts/",
-      "filePath": "cyberpress/pages/2026/04/03/hackers-exploit-react2shell-flaw-to-compromise-700-nextjs-hosts.md",
-      "committedAt": "2026-04-03T07:00:19.127-05:00",
-      "title": "Hackers Exploit React2Shell Flaw to Compromise 700+ Next.js Hosts"
+      "id": "gw8uou0000",
+      "link": "https://cyberpress.org/14000-f5-big-ip-apm-instances-exposed-as-rce-exploits-surge/",
+      "filePath": "cyberpress/pages/2026/04/03/14000-f5-big-ip-apm-instances-exposed-as-rce-exploits-surge.md",
+      "committedAt": "2026-04-03T08:00:14.058-05:00",
+      "title": "14,000+ F5 BIG-IP APM Instances Exposed as RCE Exploits Surge"
     }
   ]
 }
