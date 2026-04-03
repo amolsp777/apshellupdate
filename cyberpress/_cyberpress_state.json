@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T08:00:14.058-05:00",
-  "lastLink": "https://cyberpress.org/14000-f5-big-ip-apm-instances-exposed-as-rce-exploits-surge/",
-  "lastId": "gw8uou0000",
-  "lastFilePath": "cyberpress/pages/2026/04/03/14000-f5-big-ip-apm-instances-exposed-as-rce-exploits-surge.md",
+  "updatedAt": "2026-04-03T09:00:13.967-05:00",
+  "lastLink": "https://cyberpress.org/cisa-adds-trueconf-flaw/",
+  "lastId": "1fnutqi000",
+  "lastFilePath": "cyberpress/pages/2026/04/03/cisa-adds-trueconf-flaw-to-kev-catalog-amid-active-exploitation.md",
   "items": [
     {
-      "id": "gw8uou0000",
-      "link": "https://cyberpress.org/14000-f5-big-ip-apm-instances-exposed-as-rce-exploits-surge/",
-      "filePath": "cyberpress/pages/2026/04/03/14000-f5-big-ip-apm-instances-exposed-as-rce-exploits-surge.md",
-      "committedAt": "2026-04-03T08:00:14.058-05:00",
-      "title": "14,000+ F5 BIG-IP APM Instances Exposed as RCE Exploits Surge"
+      "id": "1fnutqi000",
+      "link": "https://cyberpress.org/cisa-adds-trueconf-flaw/",
+      "filePath": "cyberpress/pages/2026/04/03/cisa-adds-trueconf-flaw-to-kev-catalog-amid-active-exploitation.md",
+      "committedAt": "2026-04-03T09:00:13.967-05:00",
+      "title": "CISA Adds TrueConf Flaw to KEV Catalog Amid Active Exploitation"
     }
   ]
 }
