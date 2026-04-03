@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T14:00:03.375-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
-  "lastId": "1fv99i6000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/03/hims-hers-warns-of-data-breach-after-zendesk-support-ticket-breach.md",
+  "updatedAt": "2026-04-03T17:00:45.630-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/",
+  "lastId": "zka9ov0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/03/linkedin-secretely-scans-for-6000-chrome-extensions-collects-data.md",
   "items": [
     {
-      "id": "1fv99i6000",
-      "link": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
-      "filePath": "bleepingcomp/pages/2026/04/03/hims-hers-warns-of-data-breach-after-zendesk-support-ticket-breach.md",
-      "committedAt": "2026-04-03T14:00:03.375-04:00",
-      "title": "Hims & Hers warns of data breach after Zendesk support ticket breach"
+      "id": "zka9ov0000",
+      "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/",
+      "filePath": "bleepingcomp/pages/2026/04/03/linkedin-secretely-scans-for-6000-chrome-extensions-collects-data.md",
+      "committedAt": "2026-04-03T17:00:45.630-04:00",
+      "title": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data"
     }
   ]
 }
