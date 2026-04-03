@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T02:00:56.523-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
-  "lastId": "xh1jga0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/02/drift-loses-280-million-north-korean-hackers-seize-security-council-powers.md",
+  "updatedAt": "2026-04-03T03:00:56.737-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
+  "lastId": "12pbz9l000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/03/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities.md",
   "items": [
     {
-      "id": "xh1jga0000",
-      "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
-      "filePath": "bleepingcomp/pages/2026/04/02/drift-loses-280-million-north-korean-hackers-seize-security-council-powers.md",
-      "committedAt": "2026-04-03T02:00:56.523-04:00",
-      "title": "Drift loses $280 million North Korean hackers seize Security Council powers"
+      "id": "12pbz9l000",
+      "link": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
+      "filePath": "bleepingcomp/pages/2026/04/03/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities.md",
+      "committedAt": "2026-04-03T03:00:56.737-04:00",
+      "title": "CERT-EU: European Commission hack exposes data of 30 EU entities"
     }
   ]
 }
