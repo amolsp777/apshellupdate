@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T10:00:24.358-05:00",
-  "lastLink": "https://cyberpress.org/new-progress-sharefile-vulnerabilities-enable-server-takeover-with-no-login-required/",
-  "lastId": "17h9ek4000",
-  "lastFilePath": "cyberpress/pages/2026/04/03/new-progress-sharefile-vulnerabilities-enable-server-takeover-with-no-login-requ.md",
+  "updatedAt": "2026-04-03T11:00:30.020-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-pushes-forced-upgrade/",
+  "lastId": "g7awn20000",
+  "lastFilePath": "cyberpress/pages/2026/04/03/microsoft-pushes-forced-upgrade-to-windows-11-version-24h2-for-unmanaged-pcs.md",
   "items": [
     {
-      "id": "17h9ek4000",
-      "link": "https://cyberpress.org/new-progress-sharefile-vulnerabilities-enable-server-takeover-with-no-login-required/",
-      "filePath": "cyberpress/pages/2026/04/03/new-progress-sharefile-vulnerabilities-enable-server-takeover-with-no-login-requ.md",
-      "committedAt": "2026-04-03T10:00:24.358-05:00",
-      "title": "New Progress ShareFile Vulnerabilities Enable Server Takeover with No Login Required"
+      "id": "g7awn20000",
+      "link": "https://cyberpress.org/microsoft-pushes-forced-upgrade/",
+      "filePath": "cyberpress/pages/2026/04/03/microsoft-pushes-forced-upgrade-to-windows-11-version-24h2-for-unmanaged-pcs.md",
+      "committedAt": "2026-04-03T11:00:30.020-05:00",
+      "title": "Microsoft Pushes Forced Upgrade to Windows 11 Version 24H2 for Unmanaged PCs"
     }
   ]
 }
