@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T04:00:24.568-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/",
-  "lastId": "9b9ddo0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/03/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs.md",
+  "updatedAt": "2026-04-03T06:00:50.883-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/",
+  "lastId": "1fztl9z000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/03/man-admits-to-locking-thousands-of-windows-devices-in-extortion-plot.md",
   "items": [
     {
-      "id": "9b9ddo0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/",
-      "filePath": "bleepingcomp/pages/2026/04/03/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs.md",
-      "committedAt": "2026-04-03T04:00:24.568-04:00",
-      "title": "Microsoft now force upgrades unmanaged Windows 11 24H2 PCs"
+      "id": "1fztl9z000",
+      "link": "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/",
+      "filePath": "bleepingcomp/pages/2026/04/03/man-admits-to-locking-thousands-of-windows-devices-in-extortion-plot.md",
+      "committedAt": "2026-04-03T06:00:50.883-04:00",
+      "title": "Man admits to locking thousands of Windows devices in extortion plot"
     }
   ]
 }
