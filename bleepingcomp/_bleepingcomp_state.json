@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T03:00:56.737-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
-  "lastId": "12pbz9l000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/03/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities.md",
+  "updatedAt": "2026-04-03T04:00:24.568-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/",
+  "lastId": "9b9ddo0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/03/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs.md",
   "items": [
     {
-      "id": "12pbz9l000",
-      "link": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
-      "filePath": "bleepingcomp/pages/2026/04/03/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities.md",
-      "committedAt": "2026-04-03T03:00:56.737-04:00",
-      "title": "CERT-EU: European Commission hack exposes data of 30 EU entities"
+      "id": "9b9ddo0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/",
+      "filePath": "bleepingcomp/pages/2026/04/03/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs.md",
+      "committedAt": "2026-04-03T04:00:24.568-04:00",
+      "title": "Microsoft now force upgrades unmanaged Windows 11 24H2 PCs"
     }
   ]
 }
