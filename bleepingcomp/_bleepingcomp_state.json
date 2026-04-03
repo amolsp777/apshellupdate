@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T11:00:19.592-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/",
-  "lastId": "1u9hjrd000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/03/evolution-of-ransomware-multi-extortion-ransomware-attacks.md",
+  "updatedAt": "2026-04-03T13:00:19.246-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
+  "lastId": "38jzum0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/03/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware.md",
   "items": [
     {
-      "id": "1u9hjrd000",
-      "link": "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/03/evolution-of-ransomware-multi-extortion-ransomware-attacks.md",
-      "committedAt": "2026-04-03T11:00:19.592-04:00",
-      "title": "Evolution of Ransomware: Multi-Extortion Ransomware Attacks"
+      "id": "38jzum0000",
+      "link": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
+      "filePath": "bleepingcomp/pages/2026/04/03/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware.md",
+      "committedAt": "2026-04-03T13:00:19.246-04:00",
+      "title": "Die Linke German political party confirms data stolen by Qilin ransomware"
     }
   ]
 }
