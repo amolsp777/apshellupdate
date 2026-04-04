@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-04T11:00:18.874-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
-  "lastId": "1knns8u000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/04/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online.md",
+  "updatedAt": "2026-04-04T12:00:45.778-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/",
+  "lastId": "1jzi773000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/03/linkedin-secretly-scans-for-6000-chrome-extensions-collects-data.md",
   "items": [
     {
-      "id": "1knns8u000",
-      "link": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
-      "filePath": "bleepingcomp/pages/2026/04/04/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online.md",
-      "committedAt": "2026-04-04T11:00:18.874-04:00",
-      "title": "Device code phishing attacks surge 37x as new kits spread online"
+      "id": "1jzi773000",
+      "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/",
+      "filePath": "bleepingcomp/pages/2026/04/03/linkedin-secretly-scans-for-6000-chrome-extensions-collects-data.md",
+      "committedAt": "2026-04-04T12:00:45.778-04:00",
+      "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data"
     }
   ]
 }
