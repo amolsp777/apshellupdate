@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-04T02:00:51.598-05:00",
-  "lastLink": "https://cyberpress.org/anthropic-officially-terminates-claude-subscriptions/",
-  "lastId": "m9rx1h0000",
-  "lastFilePath": "cyberpress/pages/2026/04/04/anthropic-officially-terminates-claude-subscriptions-used-by-tools-like-openclaw.md",
+  "updatedAt": "2026-04-04T05:00:13.986-05:00",
+  "lastLink": "https://cyberpress.org/claude-code-leak-exploited-to-deliver-vidar-and-ghostsocks/",
+  "lastId": "1nsk2cq000",
+  "lastFilePath": "cyberpress/pages/2026/04/04/claude-code-leak-exploited-by-hackers-to-deliver-vidar-and-ghostsocks.md",
   "items": [
     {
-      "id": "m9rx1h0000",
-      "link": "https://cyberpress.org/anthropic-officially-terminates-claude-subscriptions/",
-      "filePath": "cyberpress/pages/2026/04/04/anthropic-officially-terminates-claude-subscriptions-used-by-tools-like-openclaw.md",
-      "committedAt": "2026-04-04T02:00:51.598-05:00",
-      "title": "Anthropic Officially Terminates Claude Subscriptions Used by Tools Like OpenClaw"
+      "id": "1nsk2cq000",
+      "link": "https://cyberpress.org/claude-code-leak-exploited-to-deliver-vidar-and-ghostsocks/",
+      "filePath": "cyberpress/pages/2026/04/04/claude-code-leak-exploited-by-hackers-to-deliver-vidar-and-ghostsocks.md",
+      "committedAt": "2026-04-04T05:00:13.986-05:00",
+      "title": "Claude Code Leak Exploited by Hackers to Deliver Vidar and GhostSocks"
     }
   ]
 }
