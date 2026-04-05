@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-04T17:00:45.225-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
-  "lastId": "1i1u4mr000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/04/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account.md",
+  "updatedAt": "2026-04-05T11:00:18.937-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
+  "lastId": "8l6efn0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/05/hackers-exploit-react2shell-in-automated-credential-theft-campaign.md",
   "items": [
     {
-      "id": "1i1u4mr000",
-      "link": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
-      "filePath": "bleepingcomp/pages/2026/04/04/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account.md",
-      "committedAt": "2026-04-04T17:00:45.225-04:00",
-      "title": "Axios npm hack used fake Teams error fix to hijack maintainer account"
+      "id": "8l6efn0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
+      "filePath": "bleepingcomp/pages/2026/04/05/hackers-exploit-react2shell-in-automated-credential-theft-campaign.md",
+      "committedAt": "2026-04-05T11:00:18.937-04:00",
+      "title": "Hackers exploit React2Shell in automated credential theft campaign"
     }
   ]
 }
