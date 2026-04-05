@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-05T11:00:18.937-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
-  "lastId": "8l6efn0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/05/hackers-exploit-react2shell-in-automated-credential-theft-campaign.md",
+  "updatedAt": "2026-04-05T15:00:03.321-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
+  "lastId": "92xm9s0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/05/new-forticlient-ems-flaw-exploited-in-attacks-emergency-patch-released.md",
   "items": [
     {
-      "id": "8l6efn0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
-      "filePath": "bleepingcomp/pages/2026/04/05/hackers-exploit-react2shell-in-automated-credential-theft-campaign.md",
-      "committedAt": "2026-04-05T11:00:18.937-04:00",
-      "title": "Hackers exploit React2Shell in automated credential theft campaign"
+      "id": "92xm9s0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/05/new-forticlient-ems-flaw-exploited-in-attacks-emergency-patch-released.md",
+      "committedAt": "2026-04-05T15:00:03.321-04:00",
+      "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released"
     }
   ]
 }
