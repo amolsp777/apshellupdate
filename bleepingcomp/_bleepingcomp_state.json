@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T14:00:09.046-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
-  "lastId": "16ihd90000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/06/cisa-orders-feds-to-patch-exploited-fortinet-ems-flaw-by-friday.md",
+  "updatedAt": "2026-04-06T15:00:59.594-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
+  "lastId": "1emyac1000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/06/microsoft-removes-support-and-recovery-assistant-from-windows.md",
   "items": [
     {
-      "id": "16ihd90000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
-      "filePath": "bleepingcomp/pages/2026/04/06/cisa-orders-feds-to-patch-exploited-fortinet-ems-flaw-by-friday.md",
-      "committedAt": "2026-04-06T14:00:09.046-04:00",
-      "title": "CISA orders feds to patch exploited Fortinet EMS flaw by Friday"
+      "id": "1emyac1000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
+      "filePath": "bleepingcomp/pages/2026/04/06/microsoft-removes-support-and-recovery-assistant-from-windows.md",
+      "committedAt": "2026-04-06T15:00:59.594-04:00",
+      "title": "Microsoft removes Support and Recovery Assistant from Windows"
     }
   ]
 }
