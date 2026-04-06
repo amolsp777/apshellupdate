@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T11:00:24.582-05:00",
-  "lastLink": "https://cyberpress.org/github-malware-targets-south-korea/",
-  "lastId": "1cejgxf000",
-  "lastFilePath": "cyberpress/pages/2026/04/06/github-hosted-malware-delivered-through-lnk-files-in-south-korea-attack-wave.md",
+  "updatedAt": "2026-04-06T12:00:35.215-05:00",
+  "lastLink": "https://cyberpress.org/north-korea-adopts-modular-malware/",
+  "lastId": "4kl3cw0000",
+  "lastFilePath": "cyberpress/pages/2026/04/06/north-koreas-cyber-operations-adopt-modular-malware-to-resist-disruption.md",
   "items": [
     {
-      "id": "1cejgxf000",
-      "link": "https://cyberpress.org/github-malware-targets-south-korea/",
-      "filePath": "cyberpress/pages/2026/04/06/github-hosted-malware-delivered-through-lnk-files-in-south-korea-attack-wave.md",
-      "committedAt": "2026-04-06T11:00:24.582-05:00",
-      "title": "GitHub-Hosted Malware Delivered Through LNK Files In South Korea Attack Wave"
+      "id": "4kl3cw0000",
+      "link": "https://cyberpress.org/north-korea-adopts-modular-malware/",
+      "filePath": "cyberpress/pages/2026/04/06/north-koreas-cyber-operations-adopt-modular-malware-to-resist-disruption.md",
+      "committedAt": "2026-04-06T12:00:35.215-05:00",
+      "title": "North Korea’s Cyber Operations Adopt Modular Malware To Resist Disruption"
     }
   ]
 }
