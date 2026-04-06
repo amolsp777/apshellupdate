@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T03:00:13.780-05:00",
-  "lastLink": "https://cyberpress.org/rogue-npm-packages-deliver-malware/",
-  "lastId": "8zyhux0000",
-  "lastFilePath": "cyberpress/pages/2026/04/06/researchers-uncover-36-rogue-npm-packages-delivering-redis-rce-and-persistent-ma.md",
+  "updatedAt": "2026-04-06T04:00:13.706-05:00",
+  "lastLink": "https://cyberpress.org/breach-ilspy-wordpress/",
+  "lastId": "8flly40000",
+  "lastFilePath": "cyberpress/pages/2026/04/06/hackers-breach-ilspy-wordpress-domain-to-distribute-malware.md",
   "items": [
     {
-      "id": "8zyhux0000",
-      "link": "https://cyberpress.org/rogue-npm-packages-deliver-malware/",
-      "filePath": "cyberpress/pages/2026/04/06/researchers-uncover-36-rogue-npm-packages-delivering-redis-rce-and-persistent-ma.md",
-      "committedAt": "2026-04-06T03:00:13.780-05:00",
-      "title": "Researchers Uncover 36 Rogue npm Packages Delivering Redis RCE and Persistent Malware"
+      "id": "8flly40000",
+      "link": "https://cyberpress.org/breach-ilspy-wordpress/",
+      "filePath": "cyberpress/pages/2026/04/06/hackers-breach-ilspy-wordpress-domain-to-distribute-malware.md",
+      "committedAt": "2026-04-06T04:00:13.706-05:00",
+      "title": "Hackers Breach ILSpy WordPress Domain to Distribute Malware"
     }
   ]
 }
