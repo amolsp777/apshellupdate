@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T10:00:21.475-05:00",
-  "lastLink": "https://cyberpress.org/claude-code-flaw/",
-  "lastId": "xae4jm0000",
-  "lastFilePath": "cyberpress/pages/2026/04/06/critical-claude-code-flaw-ignores-user-defined-security-rules.md",
+  "updatedAt": "2026-04-06T11:00:24.582-05:00",
+  "lastLink": "https://cyberpress.org/github-malware-targets-south-korea/",
+  "lastId": "1cejgxf000",
+  "lastFilePath": "cyberpress/pages/2026/04/06/github-hosted-malware-delivered-through-lnk-files-in-south-korea-attack-wave.md",
   "items": [
     {
-      "id": "xae4jm0000",
-      "link": "https://cyberpress.org/claude-code-flaw/",
-      "filePath": "cyberpress/pages/2026/04/06/critical-claude-code-flaw-ignores-user-defined-security-rules.md",
-      "committedAt": "2026-04-06T10:00:21.475-05:00",
-      "title": "Critical Claude Code Flaw Ignores User-Defined Security Rules"
+      "id": "1cejgxf000",
+      "link": "https://cyberpress.org/github-malware-targets-south-korea/",
+      "filePath": "cyberpress/pages/2026/04/06/github-hosted-malware-delivered-through-lnk-files-in-south-korea-attack-wave.md",
+      "committedAt": "2026-04-06T11:00:24.582-05:00",
+      "title": "GitHub-Hosted Malware Delivered Through LNK Files In South Korea Attack Wave"
     }
   ]
 }
