@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T15:00:59.594-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
-  "lastId": "1emyac1000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/06/microsoft-removes-support-and-recovery-assistant-from-windows.md",
+  "updatedAt": "2026-04-06T16:00:03.848-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
+  "lastId": "n7j4fz0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/06/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit.md",
   "items": [
     {
-      "id": "1emyac1000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
-      "filePath": "bleepingcomp/pages/2026/04/06/microsoft-removes-support-and-recovery-assistant-from-windows.md",
-      "committedAt": "2026-04-06T15:00:59.594-04:00",
-      "title": "Microsoft removes Support and Recovery Assistant from Windows"
+      "id": "n7j4fz0000",
+      "link": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
+      "filePath": "bleepingcomp/pages/2026/04/06/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit.md",
+      "committedAt": "2026-04-06T16:00:03.848-04:00",
+      "title": "Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit"
     }
   ]
 }
