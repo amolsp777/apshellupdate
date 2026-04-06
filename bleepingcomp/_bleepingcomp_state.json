@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T17:00:57.356-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
-  "lastId": "2w4vw00000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/06/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues.md",
+  "updatedAt": "2026-04-06T18:00:29.828-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
+  "lastId": "82ibjy0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/06/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer.md",
   "items": [
     {
-      "id": "2w4vw00000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
-      "filePath": "bleepingcomp/pages/2026/04/06/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues.md",
-      "committedAt": "2026-04-06T17:00:57.356-04:00",
-      "title": "Microsoft fixes Classic Outlook bug causing email delivery issues"
+      "id": "82ibjy0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
+      "filePath": "bleepingcomp/pages/2026/04/06/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer.md",
+      "committedAt": "2026-04-06T18:00:29.828-04:00",
+      "title": "New GPUBreach attack enables system takeover via GPU rowhammer"
     }
   ]
 }
