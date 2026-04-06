@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T08:00:24.751-05:00",
-  "lastLink": "https://cyberpress.org/fake-ci-updates-steal-secrets/",
-  "lastId": "xy7wg00000",
-  "lastFilePath": "cyberpress/pages/2026/04/06/fake-ci-updates-fuel-github-actions-attack-chain-stealing-secrets-and-tokens.md",
+  "updatedAt": "2026-04-06T09:00:14.190-05:00",
+  "lastLink": "https://cyberpress.org/google-brings-lazy-chrome-update/",
+  "lastId": "iu76iq0000",
+  "lastFilePath": "cyberpress/pages/2026/04/06/google-brings-lazy-loading-to-video-and-audio-in-chrome-update.md",
   "items": [
     {
-      "id": "xy7wg00000",
-      "link": "https://cyberpress.org/fake-ci-updates-steal-secrets/",
-      "filePath": "cyberpress/pages/2026/04/06/fake-ci-updates-fuel-github-actions-attack-chain-stealing-secrets-and-tokens.md",
-      "committedAt": "2026-04-06T08:00:24.751-05:00",
-      "title": "Fake CI Updates Fuel GitHub Actions Attack Chain Stealing Secrets and Tokens"
+      "id": "iu76iq0000",
+      "link": "https://cyberpress.org/google-brings-lazy-chrome-update/",
+      "filePath": "cyberpress/pages/2026/04/06/google-brings-lazy-loading-to-video-and-audio-in-chrome-update.md",
+      "committedAt": "2026-04-06T09:00:14.190-05:00",
+      "title": "Google Brings Lazy Loading to Video and Audio in Chrome Update"
     }
   ]
 }
