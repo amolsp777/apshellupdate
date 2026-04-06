@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T15:00:58.231-05:00",
-  "lastLink": "https://cyberpress.org/google-bug-bounty-payouts/",
-  "lastId": "1v0gxph000",
-  "lastFilePath": "cyberpress/pages/2026/04/06/google-bug-bounty-payouts-reach-record-17-million-in-2025.md",
+  "updatedAt": "2026-04-06T16:01:03.348-05:00",
+  "lastLink": "https://cyberpress.org/apache-traffic-server-flaw/",
+  "lastId": "59a7ui0000",
+  "lastFilePath": "cyberpress/pages/2026/04/06/apache-traffic-server-flaw-allows-attackers-to-launch-dos-attacks.md",
   "items": [
     {
-      "id": "1v0gxph000",
-      "link": "https://cyberpress.org/google-bug-bounty-payouts/",
-      "filePath": "cyberpress/pages/2026/04/06/google-bug-bounty-payouts-reach-record-17-million-in-2025.md",
-      "committedAt": "2026-04-06T15:00:58.231-05:00",
-      "title": "Google Bug Bounty Payouts Reach Record $17 Million in 2025"
+      "id": "59a7ui0000",
+      "link": "https://cyberpress.org/apache-traffic-server-flaw/",
+      "filePath": "cyberpress/pages/2026/04/06/apache-traffic-server-flaw-allows-attackers-to-launch-dos-attacks.md",
+      "committedAt": "2026-04-06T16:01:03.348-05:00",
+      "title": "Apache Traffic Server Flaw Allows Attackers to Launch DoS Attacks"
     }
   ]
 }
