@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T09:00:14.190-05:00",
-  "lastLink": "https://cyberpress.org/google-brings-lazy-chrome-update/",
-  "lastId": "iu76iq0000",
-  "lastFilePath": "cyberpress/pages/2026/04/06/google-brings-lazy-loading-to-video-and-audio-in-chrome-update.md",
+  "updatedAt": "2026-04-06T10:00:21.475-05:00",
+  "lastLink": "https://cyberpress.org/claude-code-flaw/",
+  "lastId": "xae4jm0000",
+  "lastFilePath": "cyberpress/pages/2026/04/06/critical-claude-code-flaw-ignores-user-defined-security-rules.md",
   "items": [
     {
-      "id": "iu76iq0000",
-      "link": "https://cyberpress.org/google-brings-lazy-chrome-update/",
-      "filePath": "cyberpress/pages/2026/04/06/google-brings-lazy-loading-to-video-and-audio-in-chrome-update.md",
-      "committedAt": "2026-04-06T09:00:14.190-05:00",
-      "title": "Google Brings Lazy Loading to Video and Audio in Chrome Update"
+      "id": "xae4jm0000",
+      "link": "https://cyberpress.org/claude-code-flaw/",
+      "filePath": "cyberpress/pages/2026/04/06/critical-claude-code-flaw-ignores-user-defined-security-rules.md",
+      "committedAt": "2026-04-06T10:00:21.475-05:00",
+      "title": "Critical Claude Code Flaw Ignores User-Defined Security Rules"
     }
   ]
 }
