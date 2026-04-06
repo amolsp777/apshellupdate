@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-04T05:00:13.986-05:00",
-  "lastLink": "https://cyberpress.org/claude-code-leak-exploited-to-deliver-vidar-and-ghostsocks/",
-  "lastId": "1nsk2cq000",
-  "lastFilePath": "cyberpress/pages/2026/04/04/claude-code-leak-exploited-by-hackers-to-deliver-vidar-and-ghostsocks.md",
+  "updatedAt": "2026-04-06T01:00:45.358-05:00",
+  "lastLink": "https://cyberpress.org/kimsuky-lnks-drop-backdoor/",
+  "lastId": "1vatmue000",
+  "lastFilePath": "cyberpress/pages/2026/04/06/kimsuky-uses-malicious-lnk-files-to-deliver-python-backdoor.md",
   "items": [
     {
-      "id": "1nsk2cq000",
-      "link": "https://cyberpress.org/claude-code-leak-exploited-to-deliver-vidar-and-ghostsocks/",
-      "filePath": "cyberpress/pages/2026/04/04/claude-code-leak-exploited-by-hackers-to-deliver-vidar-and-ghostsocks.md",
-      "committedAt": "2026-04-04T05:00:13.986-05:00",
-      "title": "Claude Code Leak Exploited by Hackers to Deliver Vidar and GhostSocks"
+      "id": "1vatmue000",
+      "link": "https://cyberpress.org/kimsuky-lnks-drop-backdoor/",
+      "filePath": "cyberpress/pages/2026/04/06/kimsuky-uses-malicious-lnk-files-to-deliver-python-backdoor.md",
+      "committedAt": "2026-04-06T01:00:45.358-05:00",
+      "title": "Kimsuky Uses Malicious LNK Files To Deliver Python Backdoor"
     }
   ]
 }
