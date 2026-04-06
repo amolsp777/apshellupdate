@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T13:00:03.961-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/",
-  "lastId": "1y2i78z000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/06/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks.md",
+  "updatedAt": "2026-04-06T14:00:09.046-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
+  "lastId": "16ihd90000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/06/cisa-orders-feds-to-patch-exploited-fortinet-ems-flaw-by-friday.md",
   "items": [
     {
-      "id": "1y2i78z000",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/06/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks.md",
-      "committedAt": "2026-04-06T13:00:03.961-04:00",
-      "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks"
+      "id": "16ihd90000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
+      "filePath": "bleepingcomp/pages/2026/04/06/cisa-orders-feds-to-patch-exploited-fortinet-ems-flaw-by-friday.md",
+      "committedAt": "2026-04-06T14:00:09.046-04:00",
+      "title": "CISA orders feds to patch exploited Fortinet EMS flaw by Friday"
     }
   ]
 }
