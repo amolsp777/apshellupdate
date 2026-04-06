@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T06:00:35.257-05:00",
-  "lastLink": "https://cyberpress.org/dgraph-flaw/",
-  "lastId": "14bfedh000",
-  "lastFilePath": "cyberpress/pages/2026/04/06/critical-dgraph-flaw-allows-attackers-to-bypass-authentication.md",
+  "updatedAt": "2026-04-06T07:00:35.602-05:00",
+  "lastLink": "https://cyberpress.org/exploit-fake-microsoft-teams/",
+  "lastId": "1mnth3a000",
+  "lastFilePath": "cyberpress/pages/2026/04/06/hackers-exploit-fake-microsoft-teams-domains-to-deliver-malicious-payloads.md",
   "items": [
     {
-      "id": "14bfedh000",
-      "link": "https://cyberpress.org/dgraph-flaw/",
-      "filePath": "cyberpress/pages/2026/04/06/critical-dgraph-flaw-allows-attackers-to-bypass-authentication.md",
-      "committedAt": "2026-04-06T06:00:35.257-05:00",
-      "title": "Critical Dgraph Flaw Allows Attackers to Bypass Authentication"
+      "id": "1mnth3a000",
+      "link": "https://cyberpress.org/exploit-fake-microsoft-teams/",
+      "filePath": "cyberpress/pages/2026/04/06/hackers-exploit-fake-microsoft-teams-domains-to-deliver-malicious-payloads.md",
+      "committedAt": "2026-04-06T07:00:35.602-05:00",
+      "title": "Hackers Exploit Fake Microsoft Teams Domains to Deliver Malicious Payloads"
     }
   ]
 }
