@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T05:00:19.333-05:00",
-  "lastLink": "https://cyberpress.org/tax-scams-drain-victim-funds/",
-  "lastId": "1wdxlwi000",
-  "lastFilePath": "cyberpress/pages/2026/04/06/tax-season-phishing-campaigns-spread-malware-and-drain-victim-funds.md",
+  "updatedAt": "2026-04-06T06:00:35.257-05:00",
+  "lastLink": "https://cyberpress.org/dgraph-flaw/",
+  "lastId": "14bfedh000",
+  "lastFilePath": "cyberpress/pages/2026/04/06/critical-dgraph-flaw-allows-attackers-to-bypass-authentication.md",
   "items": [
     {
-      "id": "1wdxlwi000",
-      "link": "https://cyberpress.org/tax-scams-drain-victim-funds/",
-      "filePath": "cyberpress/pages/2026/04/06/tax-season-phishing-campaigns-spread-malware-and-drain-victim-funds.md",
-      "committedAt": "2026-04-06T05:00:19.333-05:00",
-      "title": "Tax Season Phishing Campaigns Spread Malware and Drain Victim Funds"
+      "id": "14bfedh000",
+      "link": "https://cyberpress.org/dgraph-flaw/",
+      "filePath": "cyberpress/pages/2026/04/06/critical-dgraph-flaw-allows-attackers-to-bypass-authentication.md",
+      "committedAt": "2026-04-06T06:00:35.257-05:00",
+      "title": "Critical Dgraph Flaw Allows Attackers to Bypass Authentication"
     }
   ]
 }
