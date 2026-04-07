@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T04:00:14.258-05:00",
-  "lastLink": "https://cyberpress.org/fortinet-0-day-vulnerability/",
-  "lastId": "1wagisb000",
-  "lastFilePath": "cyberpress/pages/2026/04/07/cisa-alerts-on-actively-exploited-fortinet-0-day-vulnerability.md",
+  "updatedAt": "2026-04-07T05:00:19.444-05:00",
+  "lastLink": "https://cyberpress.org/storm-1175-fuels-medusa-attacks/",
+  "lastId": "1ib5g3p000",
+  "lastFilePath": "cyberpress/pages/2026/04/07/storm-1175-targets-web-facing-vulnerabilities-in-medusa-ransomware-campaigns.md",
   "items": [
     {
-      "id": "1wagisb000",
-      "link": "https://cyberpress.org/fortinet-0-day-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/07/cisa-alerts-on-actively-exploited-fortinet-0-day-vulnerability.md",
-      "committedAt": "2026-04-07T04:00:14.258-05:00",
-      "title": "CISA Alerts on Actively Exploited Fortinet 0-Day Vulnerability"
+      "id": "1ib5g3p000",
+      "link": "https://cyberpress.org/storm-1175-fuels-medusa-attacks/",
+      "filePath": "cyberpress/pages/2026/04/07/storm-1175-targets-web-facing-vulnerabilities-in-medusa-ransomware-campaigns.md",
+      "committedAt": "2026-04-07T05:00:19.444-05:00",
+      "title": "Storm-1175 Targets Web-Facing Vulnerabilities In Medusa Ransomware Campaigns"
     }
   ]
 }
