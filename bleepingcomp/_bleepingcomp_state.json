@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-06T18:00:29.828-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
-  "lastId": "82ibjy0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/06/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer.md",
+  "updatedAt": "2026-04-06T20:00:24.779-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
+  "lastId": "kxumlv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/06/german-authorities-identify-revil-and-gangcrab-ransomware-bosses.md",
   "items": [
     {
-      "id": "82ibjy0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
-      "filePath": "bleepingcomp/pages/2026/04/06/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer.md",
-      "committedAt": "2026-04-06T18:00:29.828-04:00",
-      "title": "New GPUBreach attack enables system takeover via GPU rowhammer"
+      "id": "kxumlv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
+      "filePath": "bleepingcomp/pages/2026/04/06/german-authorities-identify-revil-and-gangcrab-ransomware-bosses.md",
+      "committedAt": "2026-04-06T20:00:24.779-04:00",
+      "title": "German authorities identify REvil and GangCrab ransomware bosses"
     }
   ]
 }
