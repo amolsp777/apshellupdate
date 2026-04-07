@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T14:00:52.109-05:00",
-  "lastLink": "https://cyberpress.org/clickfix-drops-node-js-rat/",
-  "lastId": "zmtaos0000",
-  "lastFilePath": "cyberpress/pages/2026/04/07/nodejs-based-windows-rat-delivered-via-clickfix-phishing-luse.md",
+  "updatedAt": "2026-04-07T15:00:58.637-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-rolls-out-new-defender-update-for-windows-11-10-and-server-images/",
+  "lastId": "1kztctw000",
+  "lastFilePath": "cyberpress/pages/2026/04/07/microsoft-rolls-out-new-defender-update-for-windows-11-10-and-server-images.md",
   "items": [
     {
-      "id": "zmtaos0000",
-      "link": "https://cyberpress.org/clickfix-drops-node-js-rat/",
-      "filePath": "cyberpress/pages/2026/04/07/nodejs-based-windows-rat-delivered-via-clickfix-phishing-luse.md",
-      "committedAt": "2026-04-07T14:00:52.109-05:00",
-      "title": "Node.js-Based Windows RAT Delivered via ClickFix Phishing Luse"
+      "id": "1kztctw000",
+      "link": "https://cyberpress.org/microsoft-rolls-out-new-defender-update-for-windows-11-10-and-server-images/",
+      "filePath": "cyberpress/pages/2026/04/07/microsoft-rolls-out-new-defender-update-for-windows-11-10-and-server-images.md",
+      "committedAt": "2026-04-07T15:00:58.637-05:00",
+      "title": "Microsoft Rolls Out New Defender Update for Windows 11, 10, and Server Images"
     }
   ]
 }
