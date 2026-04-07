@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T00:00:25.064-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
-  "lastId": "1b4hyc0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/06/german-authorities-identify-revil-and-gandcrab-ransomware-bosses.md",
+  "updatedAt": "2026-04-07T11:01:00.384-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
+  "lastId": "1aoeji6000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/07/why-your-automated-pentesting-tool-just-hit-a-wall.md",
   "items": [
     {
-      "id": "1b4hyc0000",
-      "link": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
-      "filePath": "bleepingcomp/pages/2026/04/06/german-authorities-identify-revil-and-gandcrab-ransomware-bosses.md",
-      "committedAt": "2026-04-07T00:00:25.064-04:00",
-      "title": "German authorities identify REvil and GandCrab ransomware bosses"
+      "id": "1aoeji6000",
+      "link": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
+      "filePath": "bleepingcomp/pages/2026/04/07/why-your-automated-pentesting-tool-just-hit-a-wall.md",
+      "committedAt": "2026-04-07T11:01:00.384-04:00",
+      "title": "Why Your Automated Pentesting Tool Just Hit a Wall"
     }
   ]
 }
