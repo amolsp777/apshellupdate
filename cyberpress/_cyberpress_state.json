@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T02:00:46.372-05:00",
-  "lastLink": "https://cyberpress.org/reddit-posts-spread-stealers/",
-  "lastId": "178dqev000",
-  "lastFilePath": "cyberpress/pages/2026/04/07/fake-tradingview-premium-posts-on-reddit-spread-vidar-and-amos-stealers.md",
+  "updatedAt": "2026-04-07T03:00:14.184-05:00",
+  "lastLink": "https://cyberpress.org/releases-windows-defender-0-day/",
+  "lastId": "t0ee6w0000",
+  "lastFilePath": "cyberpress/pages/2026/04/07/researcher-releases-windows-defender-0-day-exploit-granting-full-system-access.md",
   "items": [
     {
-      "id": "178dqev000",
-      "link": "https://cyberpress.org/reddit-posts-spread-stealers/",
-      "filePath": "cyberpress/pages/2026/04/07/fake-tradingview-premium-posts-on-reddit-spread-vidar-and-amos-stealers.md",
-      "committedAt": "2026-04-07T02:00:46.372-05:00",
-      "title": "Fake TradingView Premium Posts On Reddit Spread Vidar and AMOS Stealers"
+      "id": "t0ee6w0000",
+      "link": "https://cyberpress.org/releases-windows-defender-0-day/",
+      "filePath": "cyberpress/pages/2026/04/07/researcher-releases-windows-defender-0-day-exploit-granting-full-system-access.md",
+      "committedAt": "2026-04-07T03:00:14.184-05:00",
+      "title": "Researcher Releases Windows Defender 0-Day Exploit Granting Full System Access"
     }
   ]
 }
