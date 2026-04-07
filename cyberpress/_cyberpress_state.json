@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T03:00:14.184-05:00",
-  "lastLink": "https://cyberpress.org/releases-windows-defender-0-day/",
-  "lastId": "t0ee6w0000",
-  "lastFilePath": "cyberpress/pages/2026/04/07/researcher-releases-windows-defender-0-day-exploit-granting-full-system-access.md",
+  "updatedAt": "2026-04-07T04:00:14.258-05:00",
+  "lastLink": "https://cyberpress.org/fortinet-0-day-vulnerability/",
+  "lastId": "1wagisb000",
+  "lastFilePath": "cyberpress/pages/2026/04/07/cisa-alerts-on-actively-exploited-fortinet-0-day-vulnerability.md",
   "items": [
     {
-      "id": "t0ee6w0000",
-      "link": "https://cyberpress.org/releases-windows-defender-0-day/",
-      "filePath": "cyberpress/pages/2026/04/07/researcher-releases-windows-defender-0-day-exploit-granting-full-system-access.md",
-      "committedAt": "2026-04-07T03:00:14.184-05:00",
-      "title": "Researcher Releases Windows Defender 0-Day Exploit Granting Full System Access"
+      "id": "1wagisb000",
+      "link": "https://cyberpress.org/fortinet-0-day-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/07/cisa-alerts-on-actively-exploited-fortinet-0-day-vulnerability.md",
+      "committedAt": "2026-04-07T04:00:14.258-05:00",
+      "title": "CISA Alerts on Actively Exploited Fortinet 0-Day Vulnerability"
     }
   ]
 }
