@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T12:00:35.924-05:00",
-  "lastLink": "https://cyberpress.org/hackers-weaponize-remote-access/",
-  "lastId": "8i1gdy0000",
-  "lastFilePath": "cyberpress/pages/2026/04/07/hackers-leverage-logmein-resolve-and-screenconnect-in-phishing-attacks.md",
+  "updatedAt": "2026-04-07T13:00:40.844-05:00",
+  "lastLink": "https://cyberpress.org/android-zero-interaction/",
+  "lastId": "1la0w82000",
+  "lastFilePath": "cyberpress/pages/2026/04/07/critical-android-zero-interaction-flaw-triggers-remote-dos-attacks.md",
   "items": [
     {
-      "id": "8i1gdy0000",
-      "link": "https://cyberpress.org/hackers-weaponize-remote-access/",
-      "filePath": "cyberpress/pages/2026/04/07/hackers-leverage-logmein-resolve-and-screenconnect-in-phishing-attacks.md",
-      "committedAt": "2026-04-07T12:00:35.924-05:00",
-      "title": "Hackers Leverage LogMeIn Resolve and ScreenConnect In Phishing Attacks"
+      "id": "1la0w82000",
+      "link": "https://cyberpress.org/android-zero-interaction/",
+      "filePath": "cyberpress/pages/2026/04/07/critical-android-zero-interaction-flaw-triggers-remote-dos-attacks.md",
+      "committedAt": "2026-04-07T13:00:40.844-05:00",
+      "title": "Critical Android Zero-Interaction Flaw Triggers Remote DoS Attacks"
     }
   ]
 }
