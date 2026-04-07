@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T16:00:25.155-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
-  "lastId": "1fvxr3y000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/07/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach.md",
+  "updatedAt": "2026-04-07T17:00:52.293-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/",
+  "lastId": "1pgqi9s000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/07/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year.md",
   "items": [
     {
-      "id": "1fvxr3y000",
-      "link": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
-      "filePath": "bleepingcomp/pages/2026/04/07/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach.md",
-      "committedAt": "2026-04-07T16:00:25.155-04:00",
-      "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach"
+      "id": "1pgqi9s000",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/",
+      "filePath": "bleepingcomp/pages/2026/04/07/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year.md",
+      "committedAt": "2026-04-07T17:00:52.293-04:00",
+      "title": "FBI: Americans lost a record $21 billion to cybercrime last year"
     }
   ]
 }
