@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T09:00:14.077-05:00",
-  "lastLink": "https://cyberpress.org/cups-vulnerability/",
-  "lastId": "12voy4a000",
-  "lastFilePath": "cyberpress/pages/2026/04/07/critical-cups-vulnerability-chain-allows-remote-code-execution-as-root.md",
+  "updatedAt": "2026-04-07T10:00:19.607-05:00",
+  "lastLink": "https://cyberpress.org/flaw-in-windmill-developer-platform/",
+  "lastId": "1k9pzo9000",
+  "lastFilePath": "cyberpress/pages/2026/04/07/critical-flaw-in-windmill-developer-platform-allows-remote-code-execution-poc-pu.md",
   "items": [
     {
-      "id": "12voy4a000",
-      "link": "https://cyberpress.org/cups-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/07/critical-cups-vulnerability-chain-allows-remote-code-execution-as-root.md",
-      "committedAt": "2026-04-07T09:00:14.077-05:00",
-      "title": "Critical CUPS Vulnerability Chain Allows Remote Code Execution as Root"
+      "id": "1k9pzo9000",
+      "link": "https://cyberpress.org/flaw-in-windmill-developer-platform/",
+      "filePath": "cyberpress/pages/2026/04/07/critical-flaw-in-windmill-developer-platform-allows-remote-code-execution-poc-pu.md",
+      "committedAt": "2026-04-07T10:00:19.607-05:00",
+      "title": "Critical Flaw in Windmill Developer Platform Allows Remote Code Execution – PoC Published"
     }
   ]
 }
