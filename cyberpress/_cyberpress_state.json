@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T06:00:24.496-05:00",
-  "lastLink": "https://cyberpress.org/ninja-forms-rce-flaw/",
-  "lastId": "6fdpbl0000",
-  "lastFilePath": "cyberpress/pages/2026/04/07/50000-wordpress-sites-at-risk-from-critical-ninja-forms-rce-flaw.md",
+  "updatedAt": "2026-04-07T07:00:35.925-05:00",
+  "lastLink": "https://cyberpress.org/flowise-ai-vulnerabil/",
+  "lastId": "1hd84is000",
+  "lastFilePath": "cyberpress/pages/2026/04/07/flowise-ai-vulnerability-under-active-attack-15000-instances-left-exposed.md",
   "items": [
     {
-      "id": "6fdpbl0000",
-      "link": "https://cyberpress.org/ninja-forms-rce-flaw/",
-      "filePath": "cyberpress/pages/2026/04/07/50000-wordpress-sites-at-risk-from-critical-ninja-forms-rce-flaw.md",
-      "committedAt": "2026-04-07T06:00:24.496-05:00",
-      "title": "50,000+ WordPress Sites at Risk from Critical Ninja Forms RCE Flaw"
+      "id": "1hd84is000",
+      "link": "https://cyberpress.org/flowise-ai-vulnerabil/",
+      "filePath": "cyberpress/pages/2026/04/07/flowise-ai-vulnerability-under-active-attack-15000-instances-left-exposed.md",
+      "committedAt": "2026-04-07T07:00:35.925-05:00",
+      "title": "Flowise AI Vulnerability Under Active Attack: 15,000+ Instances Left Exposed"
     }
   ]
 }
