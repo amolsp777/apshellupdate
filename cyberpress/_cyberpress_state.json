@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T07:00:35.925-05:00",
-  "lastLink": "https://cyberpress.org/flowise-ai-vulnerabil/",
-  "lastId": "1hd84is000",
-  "lastFilePath": "cyberpress/pages/2026/04/07/flowise-ai-vulnerability-under-active-attack-15000-instances-left-exposed.md",
+  "updatedAt": "2026-04-07T08:00:19.396-05:00",
+  "lastLink": "https://cyberpress.org/gpubreach-attack-grants/",
+  "lastId": "16c5eom000",
+  "lastFilePath": "cyberpress/pages/2026/04/07/new-gpubreach-attack-grants-full-system-compromise-and-root-shell-access.md",
   "items": [
     {
-      "id": "1hd84is000",
-      "link": "https://cyberpress.org/flowise-ai-vulnerabil/",
-      "filePath": "cyberpress/pages/2026/04/07/flowise-ai-vulnerability-under-active-attack-15000-instances-left-exposed.md",
-      "committedAt": "2026-04-07T07:00:35.925-05:00",
-      "title": "Flowise AI Vulnerability Under Active Attack: 15,000+ Instances Left Exposed"
+      "id": "16c5eom000",
+      "link": "https://cyberpress.org/gpubreach-attack-grants/",
+      "filePath": "cyberpress/pages/2026/04/07/new-gpubreach-attack-grants-full-system-compromise-and-root-shell-access.md",
+      "committedAt": "2026-04-07T08:00:19.396-05:00",
+      "title": "New “GPUBreach” Attack Grants Full System Compromise and Root Shell Access"
     }
   ]
 }
