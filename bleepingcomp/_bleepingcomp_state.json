@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T15:00:30.398-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
-  "lastId": "s3dggj0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/07/us-warns-of-iranian-hackers-targeting-critical-infrastructure.md",
+  "updatedAt": "2026-04-07T16:00:25.155-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
+  "lastId": "1fvxr3y000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/07/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach.md",
   "items": [
     {
-      "id": "s3dggj0000",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
-      "filePath": "bleepingcomp/pages/2026/04/07/us-warns-of-iranian-hackers-targeting-critical-infrastructure.md",
-      "committedAt": "2026-04-07T15:00:30.398-04:00",
-      "title": "US warns of Iranian hackers targeting critical infrastructure"
+      "id": "1fvxr3y000",
+      "link": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
+      "filePath": "bleepingcomp/pages/2026/04/07/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach.md",
+      "committedAt": "2026-04-07T16:00:25.155-04:00",
+      "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach"
     }
   ]
 }
