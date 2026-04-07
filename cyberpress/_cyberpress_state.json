@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T05:00:19.444-05:00",
-  "lastLink": "https://cyberpress.org/storm-1175-fuels-medusa-attacks/",
-  "lastId": "1ib5g3p000",
-  "lastFilePath": "cyberpress/pages/2026/04/07/storm-1175-targets-web-facing-vulnerabilities-in-medusa-ransomware-campaigns.md",
+  "updatedAt": "2026-04-07T06:00:24.496-05:00",
+  "lastLink": "https://cyberpress.org/ninja-forms-rce-flaw/",
+  "lastId": "6fdpbl0000",
+  "lastFilePath": "cyberpress/pages/2026/04/07/50000-wordpress-sites-at-risk-from-critical-ninja-forms-rce-flaw.md",
   "items": [
     {
-      "id": "1ib5g3p000",
-      "link": "https://cyberpress.org/storm-1175-fuels-medusa-attacks/",
-      "filePath": "cyberpress/pages/2026/04/07/storm-1175-targets-web-facing-vulnerabilities-in-medusa-ransomware-campaigns.md",
-      "committedAt": "2026-04-07T05:00:19.444-05:00",
-      "title": "Storm-1175 Targets Web-Facing Vulnerabilities In Medusa Ransomware Campaigns"
+      "id": "6fdpbl0000",
+      "link": "https://cyberpress.org/ninja-forms-rce-flaw/",
+      "filePath": "cyberpress/pages/2026/04/07/50000-wordpress-sites-at-risk-from-critical-ninja-forms-rce-flaw.md",
+      "committedAt": "2026-04-07T06:00:24.496-05:00",
+      "title": "50,000+ WordPress Sites at Risk from Critical Ninja Forms RCE Flaw"
     }
   ]
 }
