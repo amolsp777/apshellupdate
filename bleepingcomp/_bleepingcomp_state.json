@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T12:00:53.579-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
-  "lastId": "4howjc0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/07/authorities-disrupt-router-dns-hijacks-used-to-steal-microsoft-365-logins.md",
+  "updatedAt": "2026-04-07T14:00:03.529-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
+  "lastId": "dmcxvi0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/07/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks.md",
   "items": [
     {
-      "id": "4howjc0000",
-      "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
-      "filePath": "bleepingcomp/pages/2026/04/07/authorities-disrupt-router-dns-hijacks-used-to-steal-microsoft-365-logins.md",
-      "committedAt": "2026-04-07T12:00:53.579-04:00",
-      "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins"
+      "id": "dmcxvi0000",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/07/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks.md",
+      "committedAt": "2026-04-07T14:00:03.529-04:00",
+      "title": "Max severity Flowise RCE vulnerability now exploited in attacks"
     }
   ]
 }
