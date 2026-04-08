@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T07:00:25.011-05:00",
-  "lastLink": "https://cyberpress.org/ibm-security-verify-access-vulnerabilities/",
-  "lastId": "rx3ndy0000",
-  "lastFilePath": "cyberpress/pages/2026/04/08/ibm-security-verify-access-vulnerabilities-allow-remote-attackers-to-access-sens.md",
+  "updatedAt": "2026-04-08T08:00:14.396-05:00",
+  "lastLink": "https://cyberpress.org/sophisticated-zero-day-exploit/",
+  "lastId": "lak2q00000",
+  "lastFilePath": "cyberpress/pages/2026/04/08/hackers-target-adobe-reader-users-with-sophisticated-zero-day-exploit.md",
   "items": [
     {
-      "id": "rx3ndy0000",
-      "link": "https://cyberpress.org/ibm-security-verify-access-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/04/08/ibm-security-verify-access-vulnerabilities-allow-remote-attackers-to-access-sens.md",
-      "committedAt": "2026-04-08T07:00:25.011-05:00",
-      "title": "IBM Security Verify Access Vulnerabilities Allow Remote Attackers to Access Sensitive Data"
+      "id": "lak2q00000",
+      "link": "https://cyberpress.org/sophisticated-zero-day-exploit/",
+      "filePath": "cyberpress/pages/2026/04/08/hackers-target-adobe-reader-users-with-sophisticated-zero-day-exploit.md",
+      "committedAt": "2026-04-08T08:00:14.396-05:00",
+      "title": "Hackers Target Adobe Reader Users with Sophisticated Zero-Day Exploit"
     }
   ]
 }
