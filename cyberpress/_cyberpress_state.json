@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T11:00:41.863-05:00",
-  "lastLink": "https://cyberpress.org/remus-infostealer-emerges-fast/",
-  "lastId": "1529hoz000",
-  "lastFilePath": "cyberpress/pages/2026/04/08/remus-infostealer-emerges-with-credential-theft-and-advanced-evasion-tricks.md",
+  "updatedAt": "2026-04-08T12:00:47.022-05:00",
+  "lastLink": "https://cyberpress.org/multiple-openssl-flaws/",
+  "lastId": "12459tj000",
+  "lastFilePath": "cyberpress/pages/2026/04/08/multiple-openssl-flaws-expose-sensitive-data-in-rsa-kem-handling.md",
   "items": [
     {
-      "id": "1529hoz000",
-      "link": "https://cyberpress.org/remus-infostealer-emerges-fast/",
-      "filePath": "cyberpress/pages/2026/04/08/remus-infostealer-emerges-with-credential-theft-and-advanced-evasion-tricks.md",
-      "committedAt": "2026-04-08T11:00:41.863-05:00",
-      "title": "Remus Infostealer Emerges With Credential Theft and Advanced Evasion Tricks"
+      "id": "12459tj000",
+      "link": "https://cyberpress.org/multiple-openssl-flaws/",
+      "filePath": "cyberpress/pages/2026/04/08/multiple-openssl-flaws-expose-sensitive-data-in-rsa-kem-handling.md",
+      "committedAt": "2026-04-08T12:00:47.022-05:00",
+      "title": "Multiple OpenSSL Flaws Expose Sensitive Data in RSA KEM Handling"
     }
   ]
 }
