@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T14:00:58.130-05:00",
-  "lastLink": "https://cyberpress.org/bpfdoor-variants-go-stealthier/",
-  "lastId": "4in57s0000",
-  "lastFilePath": "cyberpress/pages/2026/04/08/threat-actors-deploy-new-bpfdoor-variants-with-stealthier-c2-tactics.md",
+  "updatedAt": "2026-04-08T15:01:03.349-05:00",
+  "lastLink": "https://cyberpress.org/fake-meeting-lures-weaponized/",
+  "lastId": "1i25fd5000",
+  "lastFilePath": "cyberpress/pages/2026/04/08/threat-actors-weaponize-browser-based-zoom-and-teams-lures.md",
   "items": [
     {
-      "id": "4in57s0000",
-      "link": "https://cyberpress.org/bpfdoor-variants-go-stealthier/",
-      "filePath": "cyberpress/pages/2026/04/08/threat-actors-deploy-new-bpfdoor-variants-with-stealthier-c2-tactics.md",
-      "committedAt": "2026-04-08T14:00:58.130-05:00",
-      "title": "Threat Actors Deploy New BPFDoor Variants With Stealthier C2 Tactics"
+      "id": "1i25fd5000",
+      "link": "https://cyberpress.org/fake-meeting-lures-weaponized/",
+      "filePath": "cyberpress/pages/2026/04/08/threat-actors-weaponize-browser-based-zoom-and-teams-lures.md",
+      "committedAt": "2026-04-08T15:01:03.349-05:00",
+      "title": "Threat Actors Weaponize Browser-Based Zoom and Teams Lures"
     }
   ]
 }
