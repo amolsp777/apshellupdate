@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T16:01:02.776-05:00",
-  "lastLink": "https://cyberpress.org/iran-sprays-m365-tenants/",
-  "lastId": "v4hgj00000",
-  "lastFilePath": "cyberpress/pages/2026/04/07/iran-linked-hackers-target-microsoft-365-tenants-in-middle-east-password-spray-c.md",
+  "updatedAt": "2026-04-08T02:00:25.032-05:00",
+  "lastLink": "https://cyberpress.org/claude-discovers-13-year-old-rce-vulnerability-in-apache-activemq-within-minutes/",
+  "lastId": "e6m3jt0000",
+  "lastFilePath": "cyberpress/pages/2026/04/08/claude-discovers-13-year-old-rce-vulnerability-in-apache-activemq-within-minutes.md",
   "items": [
     {
-      "id": "v4hgj00000",
-      "link": "https://cyberpress.org/iran-sprays-m365-tenants/",
-      "filePath": "cyberpress/pages/2026/04/07/iran-linked-hackers-target-microsoft-365-tenants-in-middle-east-password-spray-c.md",
-      "committedAt": "2026-04-07T16:01:02.776-05:00",
-      "title": "Iran-Linked Hackers Target Microsoft 365 Tenants In Middle East Password Spray Campaign"
+      "id": "e6m3jt0000",
+      "link": "https://cyberpress.org/claude-discovers-13-year-old-rce-vulnerability-in-apache-activemq-within-minutes/",
+      "filePath": "cyberpress/pages/2026/04/08/claude-discovers-13-year-old-rce-vulnerability-in-apache-activemq-within-minutes.md",
+      "committedAt": "2026-04-08T02:00:25.032-05:00",
+      "title": "Claude Discovers 13-Year-Old RCE Vulnerability in Apache ActiveMQ Within Minutes"
     }
   ]
 }
