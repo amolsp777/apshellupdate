@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T04:00:24.955-05:00",
-  "lastLink": "https://cyberpress.org/masjesu-botnet-targets-routers/",
-  "lastId": "1ibb93t000",
-  "lastFilePath": "cyberpress/pages/2026/04/08/masjesu-botnet-targets-routers-and-gateways-for-paid-ddos-attacks.md",
+  "updatedAt": "2026-04-08T05:00:41.146-05:00",
+  "lastLink": "https://cyberpress.org/kubernetes-flaws-expose-clouds/",
+  "lastId": "sy222m0000",
+  "lastFilePath": "cyberpress/pages/2026/04/08/kubernetes-misconfigurations-enable-attackers-to-breach-cloud-accounts.md",
   "items": [
     {
-      "id": "1ibb93t000",
-      "link": "https://cyberpress.org/masjesu-botnet-targets-routers/",
-      "filePath": "cyberpress/pages/2026/04/08/masjesu-botnet-targets-routers-and-gateways-for-paid-ddos-attacks.md",
-      "committedAt": "2026-04-08T04:00:24.955-05:00",
-      "title": "Masjesu Botnet Targets Routers and Gateways For Paid DDoS Attacks"
+      "id": "sy222m0000",
+      "link": "https://cyberpress.org/kubernetes-flaws-expose-clouds/",
+      "filePath": "cyberpress/pages/2026/04/08/kubernetes-misconfigurations-enable-attackers-to-breach-cloud-accounts.md",
+      "committedAt": "2026-04-08T05:00:41.146-05:00",
+      "title": "Kubernetes Misconfigurations Enable Attackers To Breach Cloud Accounts"
     }
   ]
 }
