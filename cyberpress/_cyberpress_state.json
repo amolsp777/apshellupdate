@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T12:00:47.022-05:00",
-  "lastLink": "https://cyberpress.org/multiple-openssl-flaws/",
-  "lastId": "12459tj000",
-  "lastFilePath": "cyberpress/pages/2026/04/08/multiple-openssl-flaws-expose-sensitive-data-in-rsa-kem-handling.md",
+  "updatedAt": "2026-04-08T13:00:53.153-05:00",
+  "lastLink": "https://cyberpress.org/trojanized-pypi-proxy-steals/",
+  "lastId": "4firn60000",
+  "lastFilePath": "cyberpress/pages/2026/04/08/trojanized-pypi-ai-proxy-steals-data-with-stolen-claude-prompt.md",
   "items": [
     {
-      "id": "12459tj000",
-      "link": "https://cyberpress.org/multiple-openssl-flaws/",
-      "filePath": "cyberpress/pages/2026/04/08/multiple-openssl-flaws-expose-sensitive-data-in-rsa-kem-handling.md",
-      "committedAt": "2026-04-08T12:00:47.022-05:00",
-      "title": "Multiple OpenSSL Flaws Expose Sensitive Data in RSA KEM Handling"
+      "id": "4firn60000",
+      "link": "https://cyberpress.org/trojanized-pypi-proxy-steals/",
+      "filePath": "cyberpress/pages/2026/04/08/trojanized-pypi-ai-proxy-steals-data-with-stolen-claude-prompt.md",
+      "committedAt": "2026-04-08T13:00:53.153-05:00",
+      "title": "Trojanized PyPI AI Proxy Steals Data With Stolen Claude Prompt"
     }
   ]
 }
