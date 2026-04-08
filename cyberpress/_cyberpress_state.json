@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T06:00:14.011-05:00",
-  "lastLink": "https://cyberpress.org/critical-docker-vulnerability/",
-  "lastId": "1tjd8sh000",
-  "lastFilePath": "cyberpress/pages/2026/04/08/critical-docker-vulnerability-allows-attackers-to-bypass-authorization-and-acces.md",
+  "updatedAt": "2026-04-08T07:00:25.011-05:00",
+  "lastLink": "https://cyberpress.org/ibm-security-verify-access-vulnerabilities/",
+  "lastId": "rx3ndy0000",
+  "lastFilePath": "cyberpress/pages/2026/04/08/ibm-security-verify-access-vulnerabilities-allow-remote-attackers-to-access-sens.md",
   "items": [
     {
-      "id": "1tjd8sh000",
-      "link": "https://cyberpress.org/critical-docker-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/08/critical-docker-vulnerability-allows-attackers-to-bypass-authorization-and-acces.md",
-      "committedAt": "2026-04-08T06:00:14.011-05:00",
-      "title": "Critical Docker Vulnerability Allows Attackers to Bypass Authorization and Access Host Systems"
+      "id": "rx3ndy0000",
+      "link": "https://cyberpress.org/ibm-security-verify-access-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/04/08/ibm-security-verify-access-vulnerabilities-allow-remote-attackers-to-access-sens.md",
+      "committedAt": "2026-04-08T07:00:25.011-05:00",
+      "title": "IBM Security Verify Access Vulnerabilities Allow Remote Attackers to Access Sensitive Data"
     }
   ]
 }
