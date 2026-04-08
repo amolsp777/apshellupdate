@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T09:00:36.012-05:00",
-  "lastLink": "https://cyberpress.org/greynoise-spots-c2-traffic/",
-  "lastId": "1nm6gwi000",
-  "lastFilePath": "cyberpress/pages/2026/04/08/new-greynoise-tool-spots-c2-traffic-on-hacked-routers-and-firewalls.md",
+  "updatedAt": "2026-04-08T10:00:25.660-05:00",
+  "lastLink": "https://cyberpress.org/anthropic-introduces-claude-mythos-preview-with-advanced-zero-day-discovery-capabilities/",
+  "lastId": "13zwct5000",
+  "lastFilePath": "cyberpress/pages/2026/04/08/anthropic-introduces-claude-mythos-preview-with-advanced-zero-day-discovery-capa.md",
   "items": [
     {
-      "id": "1nm6gwi000",
-      "link": "https://cyberpress.org/greynoise-spots-c2-traffic/",
-      "filePath": "cyberpress/pages/2026/04/08/new-greynoise-tool-spots-c2-traffic-on-hacked-routers-and-firewalls.md",
-      "committedAt": "2026-04-08T09:00:36.012-05:00",
-      "title": "New GreyNoise Tool Spots C2 Traffic On Hacked Routers and Firewalls"
+      "id": "13zwct5000",
+      "link": "https://cyberpress.org/anthropic-introduces-claude-mythos-preview-with-advanced-zero-day-discovery-capabilities/",
+      "filePath": "cyberpress/pages/2026/04/08/anthropic-introduces-claude-mythos-preview-with-advanced-zero-day-discovery-capa.md",
+      "committedAt": "2026-04-08T10:00:25.660-05:00",
+      "title": "Anthropic Introduces Claude Mythos Preview with Advanced Zero-Day Discovery Capabilities"
     }
   ]
 }
