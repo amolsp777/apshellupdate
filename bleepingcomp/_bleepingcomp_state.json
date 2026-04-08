@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T16:00:47.123-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
-  "lastId": "4e6a9f0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/08/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack.md",
+  "updatedAt": "2026-04-08T18:00:40.813-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
+  "lastId": "1awg3dw000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/08/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets.md",
   "items": [
     {
-      "id": "4e6a9f0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
-      "filePath": "bleepingcomp/pages/2026/04/08/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack.md",
-      "committedAt": "2026-04-08T16:00:47.123-04:00",
-      "title": "New macOS stealer campaign uses Script Editor in ClickFix attack"
+      "id": "1awg3dw000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
+      "filePath": "bleepingcomp/pages/2026/04/08/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets.md",
+      "committedAt": "2026-04-08T18:00:40.813-04:00",
+      "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets"
     }
   ]
 }
