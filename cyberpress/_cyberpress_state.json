@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T13:00:53.153-05:00",
-  "lastLink": "https://cyberpress.org/trojanized-pypi-proxy-steals/",
-  "lastId": "4firn60000",
-  "lastFilePath": "cyberpress/pages/2026/04/08/trojanized-pypi-ai-proxy-steals-data-with-stolen-claude-prompt.md",
+  "updatedAt": "2026-04-08T14:00:58.130-05:00",
+  "lastLink": "https://cyberpress.org/bpfdoor-variants-go-stealthier/",
+  "lastId": "4in57s0000",
+  "lastFilePath": "cyberpress/pages/2026/04/08/threat-actors-deploy-new-bpfdoor-variants-with-stealthier-c2-tactics.md",
   "items": [
     {
-      "id": "4firn60000",
-      "link": "https://cyberpress.org/trojanized-pypi-proxy-steals/",
-      "filePath": "cyberpress/pages/2026/04/08/trojanized-pypi-ai-proxy-steals-data-with-stolen-claude-prompt.md",
-      "committedAt": "2026-04-08T13:00:53.153-05:00",
-      "title": "Trojanized PyPI AI Proxy Steals Data With Stolen Claude Prompt"
+      "id": "4in57s0000",
+      "link": "https://cyberpress.org/bpfdoor-variants-go-stealthier/",
+      "filePath": "cyberpress/pages/2026/04/08/threat-actors-deploy-new-bpfdoor-variants-with-stealthier-c2-tactics.md",
+      "committedAt": "2026-04-08T14:00:58.130-05:00",
+      "title": "Threat Actors Deploy New BPFDoor Variants With Stealthier C2 Tactics"
     }
   ]
 }
