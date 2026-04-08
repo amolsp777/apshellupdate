@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T15:00:14.837-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
-  "lastId": "uvjndq0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/08/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday.md",
+  "updatedAt": "2026-04-08T16:00:47.123-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
+  "lastId": "4e6a9f0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/08/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack.md",
   "items": [
     {
-      "id": "uvjndq0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
-      "filePath": "bleepingcomp/pages/2026/04/08/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday.md",
-      "committedAt": "2026-04-08T15:00:14.837-04:00",
-      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday"
+      "id": "4e6a9f0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
+      "filePath": "bleepingcomp/pages/2026/04/08/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack.md",
+      "committedAt": "2026-04-08T16:00:47.123-04:00",
+      "title": "New macOS stealer campaign uses Script Editor in ClickFix attack"
     }
   ]
 }
