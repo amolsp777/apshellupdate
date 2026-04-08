@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T18:00:40.813-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
-  "lastId": "1awg3dw000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/08/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets.md",
+  "updatedAt": "2026-04-08T19:00:34.799-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
+  "lastId": "1lw1awj000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/08/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer.md",
   "items": [
     {
-      "id": "1awg3dw000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
-      "filePath": "bleepingcomp/pages/2026/04/08/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets.md",
-      "committedAt": "2026-04-08T18:00:40.813-04:00",
-      "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets"
+      "id": "1lw1awj000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
+      "filePath": "bleepingcomp/pages/2026/04/08/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer.md",
+      "committedAt": "2026-04-08T19:00:34.799-04:00",
+      "title": "Hackers use pixel-large SVG trick to hide credit card stealer"
     }
   ]
 }
