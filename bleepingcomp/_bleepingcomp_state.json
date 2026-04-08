@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T14:00:42.096-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/",
-  "lastId": "1wtkof2000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/08/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands.md",
+  "updatedAt": "2026-04-08T15:00:14.837-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
+  "lastId": "uvjndq0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/08/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday.md",
   "items": [
     {
-      "id": "1wtkof2000",
-      "link": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/",
-      "filePath": "bleepingcomp/pages/2026/04/08/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands.md",
-      "committedAt": "2026-04-08T14:00:42.096-04:00",
-      "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands"
+      "id": "uvjndq0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
+      "filePath": "bleepingcomp/pages/2026/04/08/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday.md",
+      "committedAt": "2026-04-08T15:00:14.837-04:00",
+      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday"
     }
   ]
 }
