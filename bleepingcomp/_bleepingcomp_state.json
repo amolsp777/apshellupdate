@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T19:00:14.014-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
-  "lastId": "1thoi2m000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/07/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin.md",
+  "updatedAt": "2026-04-08T04:00:47.393-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/",
+  "lastId": "1kp1f81000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/08/microsoft-rolls-out-fix-for-broken-windows-start-menu-search.md",
   "items": [
     {
-      "id": "1thoi2m000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
-      "filePath": "bleepingcomp/pages/2026/04/07/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin.md",
-      "committedAt": "2026-04-07T19:00:14.014-04:00",
-      "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin"
+      "id": "1kp1f81000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/",
+      "filePath": "bleepingcomp/pages/2026/04/08/microsoft-rolls-out-fix-for-broken-windows-start-menu-search.md",
+      "committedAt": "2026-04-08T04:00:47.393-04:00",
+      "title": "Microsoft rolls out fix for broken Windows Start Menu search"
     }
   ]
 }
