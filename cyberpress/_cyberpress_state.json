@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T12:00:51.678-05:00",
-  "lastLink": "https://cyberpress.org/clickfix-delivers-atomic-stealer/",
-  "lastId": "17yez8v000",
-  "lastFilePath": "cyberpress/pages/2026/04/09/clickfix-campaign-abuses-macos-script-editor-to-deploy-atomic-stealer.md",
+  "updatedAt": "2026-04-09T13:00:57.833-05:00",
+  "lastLink": "https://cyberpress.org/stx-rat-steals-silently/",
+  "lastId": "1qoaal0000",
+  "lastFilePath": "cyberpress/pages/2026/04/09/stx-rat-combines-hidden-remote-access-with-infostealing-capabilities.md",
   "items": [
     {
-      "id": "17yez8v000",
-      "link": "https://cyberpress.org/clickfix-delivers-atomic-stealer/",
-      "filePath": "cyberpress/pages/2026/04/09/clickfix-campaign-abuses-macos-script-editor-to-deploy-atomic-stealer.md",
-      "committedAt": "2026-04-09T12:00:51.678-05:00",
-      "title": "ClickFix Campaign Abuses macOS Script Editor To Deploy Atomic Stealer"
+      "id": "1qoaal0000",
+      "link": "https://cyberpress.org/stx-rat-steals-silently/",
+      "filePath": "cyberpress/pages/2026/04/09/stx-rat-combines-hidden-remote-access-with-infostealing-capabilities.md",
+      "committedAt": "2026-04-09T13:00:57.833-05:00",
+      "title": "STX RAT Combines Hidden Remote Access With Infostealing Capabilities"
     }
   ]
 }
