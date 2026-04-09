@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T13:00:26.490-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/",
-  "lastId": "kb4lzz0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/09/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions.md",
+  "updatedAt": "2026-04-09T15:00:30.786-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/",
+  "lastId": "1md9ppa000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/09/google-chrome-adds-infostealer-protection-against-session-cookie-theft.md",
   "items": [
     {
-      "id": "kb4lzz0000",
-      "link": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/",
-      "filePath": "bleepingcomp/pages/2026/04/09/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions.md",
-      "committedAt": "2026-04-09T13:00:26.490-04:00",
-      "title": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions"
+      "id": "1md9ppa000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/",
+      "filePath": "bleepingcomp/pages/2026/04/09/google-chrome-adds-infostealer-protection-against-session-cookie-theft.md",
+      "committedAt": "2026-04-09T15:00:30.786-04:00",
+      "title": "Google Chrome adds infostealer protection against session cookie theft"
     }
   ]
 }
