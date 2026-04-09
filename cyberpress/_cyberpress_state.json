@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T13:00:57.833-05:00",
-  "lastLink": "https://cyberpress.org/stx-rat-steals-silently/",
-  "lastId": "1qoaal0000",
-  "lastFilePath": "cyberpress/pages/2026/04/09/stx-rat-combines-hidden-remote-access-with-infostealing-capabilities.md",
+  "updatedAt": "2026-04-09T14:01:02.645-05:00",
+  "lastLink": "https://cyberpress.org/roningloader-evades-through-injection/",
+  "lastId": "1lwo9fy000",
+  "lastFilePath": "cyberpress/pages/2026/04/09/roningloader-attack-chain-combines-dll-side-loading-with-code-injection.md",
   "items": [
     {
-      "id": "1qoaal0000",
-      "link": "https://cyberpress.org/stx-rat-steals-silently/",
-      "filePath": "cyberpress/pages/2026/04/09/stx-rat-combines-hidden-remote-access-with-infostealing-capabilities.md",
-      "committedAt": "2026-04-09T13:00:57.833-05:00",
-      "title": "STX RAT Combines Hidden Remote Access With Infostealing Capabilities"
+      "id": "1lwo9fy000",
+      "link": "https://cyberpress.org/roningloader-evades-through-injection/",
+      "filePath": "cyberpress/pages/2026/04/09/roningloader-attack-chain-combines-dll-side-loading-with-code-injection.md",
+      "committedAt": "2026-04-09T14:01:02.645-05:00",
+      "title": "RoningLoader Attack Chain Combines DLL Side-Loading With Code Injection"
     }
   ]
 }
