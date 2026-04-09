@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T00:00:14.016-05:00",
-  "lastLink": "https://cyberpress.org/claude-leak-fuels-malware/",
-  "lastId": "17lanaf000",
-  "lastFilePath": "cyberpress/pages/2026/04/09/threat-actors-abuse-claude-code-leak-in-github-malware-campaign.md",
+  "updatedAt": "2026-04-09T02:00:30.387-05:00",
+  "lastLink": "https://cyberpress.org/meta-notifications-abused/",
+  "lastId": "d5k2vc0000",
+  "lastFilePath": "cyberpress/pages/2026/04/09/attackers-weaponize-real-meta-business-manager-notifications-in-new-phishing-cam.md",
   "items": [
     {
-      "id": "17lanaf000",
-      "link": "https://cyberpress.org/claude-leak-fuels-malware/",
-      "filePath": "cyberpress/pages/2026/04/09/threat-actors-abuse-claude-code-leak-in-github-malware-campaign.md",
-      "committedAt": "2026-04-09T00:00:14.016-05:00",
-      "title": "Threat Actors Abuse Claude Code Leak In GitHub Malware Campaign"
+      "id": "d5k2vc0000",
+      "link": "https://cyberpress.org/meta-notifications-abused/",
+      "filePath": "cyberpress/pages/2026/04/09/attackers-weaponize-real-meta-business-manager-notifications-in-new-phishing-cam.md",
+      "committedAt": "2026-04-09T02:00:30.387-05:00",
+      "title": "Attackers Weaponize Real Meta Business Manager Notifications In New Phishing Campaign"
     }
   ]
 }
