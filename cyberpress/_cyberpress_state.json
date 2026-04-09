@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T07:00:30.128-05:00",
-  "lastLink": "https://cyberpress.org/slack-impersonation-targets-developers/",
-  "lastId": "tbxs8a0000",
-  "lastFilePath": "cyberpress/pages/2026/04/09/threat-actors-pose-as-linux-foundation-leader-in-slack-phishing-campaign.md",
+  "updatedAt": "2026-04-09T08:00:20.105-05:00",
+  "lastLink": "https://cyberpress.org/ivanti-epmm-code-injection-vulnerability/",
+  "lastId": "1fbirxz000",
+  "lastFilePath": "cyberpress/pages/2026/04/09/cisa-warns-of-actively-exploited-ivanti-epmm-code-injection-vulnerability.md",
   "items": [
     {
-      "id": "tbxs8a0000",
-      "link": "https://cyberpress.org/slack-impersonation-targets-developers/",
-      "filePath": "cyberpress/pages/2026/04/09/threat-actors-pose-as-linux-foundation-leader-in-slack-phishing-campaign.md",
-      "committedAt": "2026-04-09T07:00:30.128-05:00",
-      "title": "Threat Actors Pose As Linux Foundation Leader In Slack Phishing Campaign"
+      "id": "1fbirxz000",
+      "link": "https://cyberpress.org/ivanti-epmm-code-injection-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/09/cisa-warns-of-actively-exploited-ivanti-epmm-code-injection-vulnerability.md",
+      "committedAt": "2026-04-09T08:00:20.105-05:00",
+      "title": "CISA Warns of Actively Exploited Ivanti EPMM Code Injection Vulnerability"
     }
   ]
 }
