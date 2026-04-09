@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T03:00:19.980-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
-  "lastId": "m8f6jg0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/09/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects.md",
+  "updatedAt": "2026-04-09T04:00:36.060-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
+  "lastId": "o5wy6w0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/09/hackers-steal-36-million-from-crypto-atm-giant-bitcoin-depot.md",
   "items": [
     {
-      "id": "m8f6jg0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
-      "filePath": "bleepingcomp/pages/2026/04/09/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects.md",
-      "committedAt": "2026-04-09T03:00:19.980-04:00",
-      "title": "Microsoft suspends dev accounts for high-profile open source projects"
+      "id": "o5wy6w0000",
+      "link": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
+      "filePath": "bleepingcomp/pages/2026/04/09/hackers-steal-36-million-from-crypto-atm-giant-bitcoin-depot.md",
+      "committedAt": "2026-04-09T04:00:36.060-04:00",
+      "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot"
     }
   ]
 }
