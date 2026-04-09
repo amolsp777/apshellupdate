@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T11:00:32.563-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
-  "lastId": "gjdj9u0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/09/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open.md",
+  "updatedAt": "2026-04-09T13:00:26.490-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/",
+  "lastId": "kb4lzz0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/09/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions.md",
   "items": [
     {
-      "id": "gjdj9u0000",
-      "link": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
-      "filePath": "bleepingcomp/pages/2026/04/09/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open.md",
-      "committedAt": "2026-04-09T11:00:32.563-04:00",
-      "title": "When attackers already have the keys, MFA is just another door to open"
+      "id": "kb4lzz0000",
+      "link": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/",
+      "filePath": "bleepingcomp/pages/2026/04/09/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions.md",
+      "committedAt": "2026-04-09T13:00:26.490-04:00",
+      "title": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions"
     }
   ]
 }
