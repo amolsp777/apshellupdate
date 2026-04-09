@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T16:00:20.478-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
-  "lastId": "jhptpa0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/09/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack.md",
+  "updatedAt": "2026-04-09T18:00:19.193-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/",
+  "lastId": "xmlm490000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/09/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins.md",
   "items": [
     {
-      "id": "jhptpa0000",
-      "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
-      "filePath": "bleepingcomp/pages/2026/04/09/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack.md",
-      "committedAt": "2026-04-09T16:00:20.478-04:00",
-      "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack"
+      "id": "xmlm490000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/",
+      "filePath": "bleepingcomp/pages/2026/04/09/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins.md",
+      "committedAt": "2026-04-09T18:00:19.193-04:00",
+      "title": "New VENOM phishing attacks steal senior executives' Microsoft logins"
     }
   ]
 }
