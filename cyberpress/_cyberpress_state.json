@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T10:00:42.152-05:00",
-  "lastLink": "https://cyberpress.org/hackers-use-svg-onload-trick-to-hide-magecart-skimmer-on-magento-checkout-pages/",
-  "lastId": "1kd8np0000",
-  "lastFilePath": "cyberpress/pages/2026/04/09/hackers-use-svg-onload-trick-to-hide-magecart-skimmer-on-magento-checkout-pages.md",
+  "updatedAt": "2026-04-09T11:00:47.067-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-real-world-attacks/",
+  "lastId": "1c4oq99000",
+  "lastFilePath": "cyberpress/pages/2026/04/09/microsoft-details-how-defender-protects-high-value-assets-in-real-world-attacks.md",
   "items": [
     {
-      "id": "1kd8np0000",
-      "link": "https://cyberpress.org/hackers-use-svg-onload-trick-to-hide-magecart-skimmer-on-magento-checkout-pages/",
-      "filePath": "cyberpress/pages/2026/04/09/hackers-use-svg-onload-trick-to-hide-magecart-skimmer-on-magento-checkout-pages.md",
-      "committedAt": "2026-04-09T10:00:42.152-05:00",
-      "title": "Hackers Use SVG onload Trick to Hide Magecart Skimmer on Magento Checkout Pages"
+      "id": "1c4oq99000",
+      "link": "https://cyberpress.org/microsoft-real-world-attacks/",
+      "filePath": "cyberpress/pages/2026/04/09/microsoft-details-how-defender-protects-high-value-assets-in-real-world-attacks.md",
+      "committedAt": "2026-04-09T11:00:47.067-05:00",
+      "title": "Microsoft Details How Defender Protects High-Value Assets in Real-World Attacks"
     }
   ]
 }
