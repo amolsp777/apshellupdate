@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T11:00:47.067-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-real-world-attacks/",
-  "lastId": "1c4oq99000",
-  "lastFilePath": "cyberpress/pages/2026/04/09/microsoft-details-how-defender-protects-high-value-assets-in-real-world-attacks.md",
+  "updatedAt": "2026-04-09T12:00:51.678-05:00",
+  "lastLink": "https://cyberpress.org/clickfix-delivers-atomic-stealer/",
+  "lastId": "17yez8v000",
+  "lastFilePath": "cyberpress/pages/2026/04/09/clickfix-campaign-abuses-macos-script-editor-to-deploy-atomic-stealer.md",
   "items": [
     {
-      "id": "1c4oq99000",
-      "link": "https://cyberpress.org/microsoft-real-world-attacks/",
-      "filePath": "cyberpress/pages/2026/04/09/microsoft-details-how-defender-protects-high-value-assets-in-real-world-attacks.md",
-      "committedAt": "2026-04-09T11:00:47.067-05:00",
-      "title": "Microsoft Details How Defender Protects High-Value Assets in Real-World Attacks"
+      "id": "17yez8v000",
+      "link": "https://cyberpress.org/clickfix-delivers-atomic-stealer/",
+      "filePath": "cyberpress/pages/2026/04/09/clickfix-campaign-abuses-macos-script-editor-to-deploy-atomic-stealer.md",
+      "committedAt": "2026-04-09T12:00:51.678-05:00",
+      "title": "ClickFix Campaign Abuses macOS Script Editor To Deploy Atomic Stealer"
     }
   ]
 }
