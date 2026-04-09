@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T19:00:34.799-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
-  "lastId": "1lw1awj000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/08/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer.md",
+  "updatedAt": "2026-04-09T03:00:19.980-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+  "lastId": "m8f6jg0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/09/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects.md",
   "items": [
     {
-      "id": "1lw1awj000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
-      "filePath": "bleepingcomp/pages/2026/04/08/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer.md",
-      "committedAt": "2026-04-08T19:00:34.799-04:00",
-      "title": "Hackers use pixel-large SVG trick to hide credit card stealer"
+      "id": "m8f6jg0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+      "filePath": "bleepingcomp/pages/2026/04/09/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects.md",
+      "committedAt": "2026-04-09T03:00:19.980-04:00",
+      "title": "Microsoft suspends dev accounts for high-profile open source projects"
     }
   ]
 }
