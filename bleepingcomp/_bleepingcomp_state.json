@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T07:00:03.195-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
-  "lastId": "pki40i0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/09/eurail-says-december-data-breach-impacts-300000-individuals.md",
+  "updatedAt": "2026-04-09T09:00:36.474-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/",
+  "lastId": "1dqtvnt000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/09/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next.md",
   "items": [
     {
-      "id": "pki40i0000",
-      "link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
-      "filePath": "bleepingcomp/pages/2026/04/09/eurail-says-december-data-breach-impacts-300000-individuals.md",
-      "committedAt": "2026-04-09T07:00:03.195-04:00",
-      "title": "Eurail says December data breach impacts 300,000 individuals"
+      "id": "1dqtvnt000",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/",
+      "filePath": "bleepingcomp/pages/2026/04/09/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next.md",
+      "committedAt": "2026-04-09T09:00:36.474-04:00",
+      "title": "Webinar: From noise to signal - What threat actors are targeting next"
     }
   ]
 }
