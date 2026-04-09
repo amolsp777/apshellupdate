@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T18:00:19.193-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/",
-  "lastId": "xmlm490000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/09/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins.md",
+  "updatedAt": "2026-04-09T19:00:19.007-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
+  "lastId": "wmkhdq0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/09/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities.md",
   "items": [
     {
-      "id": "xmlm490000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/",
-      "filePath": "bleepingcomp/pages/2026/04/09/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins.md",
-      "committedAt": "2026-04-09T18:00:19.193-04:00",
-      "title": "New VENOM phishing attacks steal senior executives' Microsoft logins"
+      "id": "wmkhdq0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
+      "filePath": "bleepingcomp/pages/2026/04/09/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities.md",
+      "committedAt": "2026-04-09T19:00:19.007-04:00",
+      "title": "New ‘LucidRook’ malware used in targeted attacks on NGOs, universities"
     }
   ]
 }
