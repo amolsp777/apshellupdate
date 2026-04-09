@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T15:01:03.349-05:00",
-  "lastLink": "https://cyberpress.org/fake-meeting-lures-weaponized/",
-  "lastId": "1i25fd5000",
-  "lastFilePath": "cyberpress/pages/2026/04/08/threat-actors-weaponize-browser-based-zoom-and-teams-lures.md",
+  "updatedAt": "2026-04-09T00:00:14.016-05:00",
+  "lastLink": "https://cyberpress.org/claude-leak-fuels-malware/",
+  "lastId": "17lanaf000",
+  "lastFilePath": "cyberpress/pages/2026/04/09/threat-actors-abuse-claude-code-leak-in-github-malware-campaign.md",
   "items": [
     {
-      "id": "1i25fd5000",
-      "link": "https://cyberpress.org/fake-meeting-lures-weaponized/",
-      "filePath": "cyberpress/pages/2026/04/08/threat-actors-weaponize-browser-based-zoom-and-teams-lures.md",
-      "committedAt": "2026-04-08T15:01:03.349-05:00",
-      "title": "Threat Actors Weaponize Browser-Based Zoom and Teams Lures"
+      "id": "17lanaf000",
+      "link": "https://cyberpress.org/claude-leak-fuels-malware/",
+      "filePath": "cyberpress/pages/2026/04/09/threat-actors-abuse-claude-code-leak-in-github-malware-campaign.md",
+      "committedAt": "2026-04-09T00:00:14.016-05:00",
+      "title": "Threat Actors Abuse Claude Code Leak In GitHub Malware Campaign"
     }
   ]
 }
