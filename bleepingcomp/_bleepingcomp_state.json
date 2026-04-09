@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T15:00:30.786-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/",
-  "lastId": "1md9ppa000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/09/google-chrome-adds-infostealer-protection-against-session-cookie-theft.md",
+  "updatedAt": "2026-04-09T16:00:20.478-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
+  "lastId": "jhptpa0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/09/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack.md",
   "items": [
     {
-      "id": "1md9ppa000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/",
-      "filePath": "bleepingcomp/pages/2026/04/09/google-chrome-adds-infostealer-protection-against-session-cookie-theft.md",
-      "committedAt": "2026-04-09T15:00:30.786-04:00",
-      "title": "Google Chrome adds infostealer protection against session cookie theft"
+      "id": "jhptpa0000",
+      "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
+      "filePath": "bleepingcomp/pages/2026/04/09/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack.md",
+      "committedAt": "2026-04-09T16:00:20.478-04:00",
+      "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack"
     }
   ]
 }
