@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T09:00:36.474-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/",
-  "lastId": "1dqtvnt000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/09/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next.md",
+  "updatedAt": "2026-04-09T11:00:32.563-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
+  "lastId": "gjdj9u0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/09/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open.md",
   "items": [
     {
-      "id": "1dqtvnt000",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/",
-      "filePath": "bleepingcomp/pages/2026/04/09/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next.md",
-      "committedAt": "2026-04-09T09:00:36.474-04:00",
-      "title": "Webinar: From noise to signal - What threat actors are targeting next"
+      "id": "gjdj9u0000",
+      "link": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
+      "filePath": "bleepingcomp/pages/2026/04/09/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open.md",
+      "committedAt": "2026-04-09T11:00:32.563-04:00",
+      "title": "When attackers already have the keys, MFA is just another door to open"
     }
   ]
 }
