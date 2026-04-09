@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T09:00:14.072-05:00",
-  "lastLink": "https://cyberpress.org/technical-details-released-for-critical-cisco-smart-software-manager-command-execution-vulnerability/",
-  "lastId": "1u48o1l000",
-  "lastFilePath": "cyberpress/pages/2026/04/09/technical-details-released-for-critical-cisco-smart-software-manager-command-exe.md",
+  "updatedAt": "2026-04-09T10:00:42.152-05:00",
+  "lastLink": "https://cyberpress.org/hackers-use-svg-onload-trick-to-hide-magecart-skimmer-on-magento-checkout-pages/",
+  "lastId": "1kd8np0000",
+  "lastFilePath": "cyberpress/pages/2026/04/09/hackers-use-svg-onload-trick-to-hide-magecart-skimmer-on-magento-checkout-pages.md",
   "items": [
     {
-      "id": "1u48o1l000",
-      "link": "https://cyberpress.org/technical-details-released-for-critical-cisco-smart-software-manager-command-execution-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/09/technical-details-released-for-critical-cisco-smart-software-manager-command-exe.md",
-      "committedAt": "2026-04-09T09:00:14.072-05:00",
-      "title": "Technical Details Released for Critical Cisco Smart Software Manager Command Execution Vulnerability"
+      "id": "1kd8np0000",
+      "link": "https://cyberpress.org/hackers-use-svg-onload-trick-to-hide-magecart-skimmer-on-magento-checkout-pages/",
+      "filePath": "cyberpress/pages/2026/04/09/hackers-use-svg-onload-trick-to-hide-magecart-skimmer-on-magento-checkout-pages.md",
+      "committedAt": "2026-04-09T10:00:42.152-05:00",
+      "title": "Hackers Use SVG onload Trick to Hide Magecart Skimmer on Magento Checkout Pages"
     }
   ]
 }
