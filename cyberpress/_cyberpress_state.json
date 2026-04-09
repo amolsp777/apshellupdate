@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T08:00:20.105-05:00",
-  "lastLink": "https://cyberpress.org/ivanti-epmm-code-injection-vulnerability/",
-  "lastId": "1fbirxz000",
-  "lastFilePath": "cyberpress/pages/2026/04/09/cisa-warns-of-actively-exploited-ivanti-epmm-code-injection-vulnerability.md",
+  "updatedAt": "2026-04-09T09:00:14.072-05:00",
+  "lastLink": "https://cyberpress.org/technical-details-released-for-critical-cisco-smart-software-manager-command-execution-vulnerability/",
+  "lastId": "1u48o1l000",
+  "lastFilePath": "cyberpress/pages/2026/04/09/technical-details-released-for-critical-cisco-smart-software-manager-command-exe.md",
   "items": [
     {
-      "id": "1fbirxz000",
-      "link": "https://cyberpress.org/ivanti-epmm-code-injection-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/09/cisa-warns-of-actively-exploited-ivanti-epmm-code-injection-vulnerability.md",
-      "committedAt": "2026-04-09T08:00:20.105-05:00",
-      "title": "CISA Warns of Actively Exploited Ivanti EPMM Code Injection Vulnerability"
+      "id": "1u48o1l000",
+      "link": "https://cyberpress.org/technical-details-released-for-critical-cisco-smart-software-manager-command-execution-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/09/technical-details-released-for-critical-cisco-smart-software-manager-command-exe.md",
+      "committedAt": "2026-04-09T09:00:14.072-05:00",
+      "title": "Technical Details Released for Critical Cisco Smart Software Manager Command Execution Vulnerability"
     }
   ]
 }
