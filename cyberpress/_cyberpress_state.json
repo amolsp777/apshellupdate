@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T09:00:14.071-05:00",
-  "lastLink": "https://cyberpress.org/github-gitlab-fuel-attacks/",
-  "lastId": "7z81uv0000",
-  "lastFilePath": "cyberpress/pages/2026/04/10/threat-actors-exploit-github-and-gitlab-for-malware-delivery-and-phishing-operat.md",
+  "updatedAt": "2026-04-10T10:00:19.593-05:00",
+  "lastLink": "https://cyberpress.org/exploit-github-copilot-vulnerability/",
+  "lastId": "1nak8er000",
+  "lastFilePath": "cyberpress/pages/2026/04/10/hackers-exploit-github-copilot-vulnerability-to-exfiltrate-sensitive-data.md",
   "items": [
     {
-      "id": "7z81uv0000",
-      "link": "https://cyberpress.org/github-gitlab-fuel-attacks/",
-      "filePath": "cyberpress/pages/2026/04/10/threat-actors-exploit-github-and-gitlab-for-malware-delivery-and-phishing-operat.md",
-      "committedAt": "2026-04-10T09:00:14.071-05:00",
-      "title": "Threat Actors Exploit GitHub and GitLab For Malware Delivery and Phishing Operations"
+      "id": "1nak8er000",
+      "link": "https://cyberpress.org/exploit-github-copilot-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/10/hackers-exploit-github-copilot-vulnerability-to-exfiltrate-sensitive-data.md",
+      "committedAt": "2026-04-10T10:00:19.593-05:00",
+      "title": "Hackers Exploit GitHub Copilot Vulnerability to Exfiltrate Sensitive Data"
     }
   ]
 }
