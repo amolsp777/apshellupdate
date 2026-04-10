@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T11:00:46.722-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
-  "lastId": "bz14ou0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/10/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-sca.md",
+  "updatedAt": "2026-04-10T12:00:41.131-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
+  "lastId": "1nf6hkv000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/10/nearly-4000-us-industrial-devices-exposed-to-iranian-cyberattacks.md",
   "items": [
     {
-      "id": "bz14ou0000",
-      "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
-      "filePath": "bleepingcomp/pages/2026/04/10/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-sca.md",
-      "committedAt": "2026-04-10T11:00:46.722-04:00",
-      "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security"
+      "id": "1nf6hkv000",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
+      "filePath": "bleepingcomp/pages/2026/04/10/nearly-4000-us-industrial-devices-exposed-to-iranian-cyberattacks.md",
+      "committedAt": "2026-04-10T12:00:41.131-04:00",
+      "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks"
     }
   ]
 }
