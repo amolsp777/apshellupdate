@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T03:00:13.955-05:00",
-  "lastLink": "https://cyberpress.org/aws-fixes-critical-rce-and-privilege-escalation-flaws-in-research-and-engineering-studio/",
-  "lastId": "14vsams000",
-  "lastFilePath": "cyberpress/pages/2026/04/10/aws-fixes-critical-rce-and-privilege-escalation-flaws-in-research-and-engineerin.md",
+  "updatedAt": "2026-04-10T04:00:35.160-05:00",
+  "lastLink": "https://cyberpress.org/single-line-of-code-can-jailbreak-11-ai-models-including-chatgpt-claude-and-gemini/",
+  "lastId": "t2d6ol0000",
+  "lastFilePath": "cyberpress/pages/2026/04/10/single-line-of-code-can-jailbreak-11-ai-models-including-chatgpt-claude-and-gemi.md",
   "items": [
     {
-      "id": "14vsams000",
-      "link": "https://cyberpress.org/aws-fixes-critical-rce-and-privilege-escalation-flaws-in-research-and-engineering-studio/",
-      "filePath": "cyberpress/pages/2026/04/10/aws-fixes-critical-rce-and-privilege-escalation-flaws-in-research-and-engineerin.md",
-      "committedAt": "2026-04-10T03:00:13.955-05:00",
-      "title": "AWS Fixes Critical RCE and Privilege Escalation Flaws in Research and Engineering Studio"
+      "id": "t2d6ol0000",
+      "link": "https://cyberpress.org/single-line-of-code-can-jailbreak-11-ai-models-including-chatgpt-claude-and-gemini/",
+      "filePath": "cyberpress/pages/2026/04/10/single-line-of-code-can-jailbreak-11-ai-models-including-chatgpt-claude-and-gemi.md",
+      "committedAt": "2026-04-10T04:00:35.160-05:00",
+      "title": "Single Line of Code Can Jailbreak 11 AI Models, Including ChatGPT, Claude, and Gemini"
     }
   ]
 }
