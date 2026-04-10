@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T04:00:35.160-05:00",
-  "lastLink": "https://cyberpress.org/single-line-of-code-can-jailbreak-11-ai-models-including-chatgpt-claude-and-gemini/",
-  "lastId": "t2d6ol0000",
-  "lastFilePath": "cyberpress/pages/2026/04/10/single-line-of-code-can-jailbreak-11-ai-models-including-chatgpt-claude-and-gemi.md",
+  "updatedAt": "2026-04-10T05:00:30.515-05:00",
+  "lastLink": "https://cyberpress.org/engagesdk-flaw-endangers-millions/",
+  "lastId": "13z2q34000",
+  "lastFilePath": "cyberpress/pages/2026/04/10/security-flaw-in-engagesdk-puts-millions-of-crypto-wallet-users-at-risk.md",
   "items": [
     {
-      "id": "t2d6ol0000",
-      "link": "https://cyberpress.org/single-line-of-code-can-jailbreak-11-ai-models-including-chatgpt-claude-and-gemini/",
-      "filePath": "cyberpress/pages/2026/04/10/single-line-of-code-can-jailbreak-11-ai-models-including-chatgpt-claude-and-gemi.md",
-      "committedAt": "2026-04-10T04:00:35.160-05:00",
-      "title": "Single Line of Code Can Jailbreak 11 AI Models, Including ChatGPT, Claude, and Gemini"
+      "id": "13z2q34000",
+      "link": "https://cyberpress.org/engagesdk-flaw-endangers-millions/",
+      "filePath": "cyberpress/pages/2026/04/10/security-flaw-in-engagesdk-puts-millions-of-crypto-wallet-users-at-risk.md",
+      "committedAt": "2026-04-10T05:00:30.515-05:00",
+      "title": "Security Flaw In EngageSDK Puts Millions Of Crypto Wallet Users At Risk"
     }
   ]
 }
