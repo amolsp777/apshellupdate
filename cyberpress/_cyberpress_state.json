@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T05:00:30.515-05:00",
-  "lastLink": "https://cyberpress.org/engagesdk-flaw-endangers-millions/",
-  "lastId": "13z2q34000",
-  "lastFilePath": "cyberpress/pages/2026/04/10/security-flaw-in-engagesdk-puts-millions-of-crypto-wallet-users-at-risk.md",
+  "updatedAt": "2026-04-10T06:00:19.538-05:00",
+  "lastLink": "https://cyberpress.org/multiple-tp-link-vulnerabilities-allow-attackers-to-seize-full-device-control/",
+  "lastId": "9uvjjt0000",
+  "lastFilePath": "cyberpress/pages/2026/04/10/multiple-tp-link-vulnerabilities-allow-attackers-to-seize-full-device-control.md",
   "items": [
     {
-      "id": "13z2q34000",
-      "link": "https://cyberpress.org/engagesdk-flaw-endangers-millions/",
-      "filePath": "cyberpress/pages/2026/04/10/security-flaw-in-engagesdk-puts-millions-of-crypto-wallet-users-at-risk.md",
-      "committedAt": "2026-04-10T05:00:30.515-05:00",
-      "title": "Security Flaw In EngageSDK Puts Millions Of Crypto Wallet Users At Risk"
+      "id": "9uvjjt0000",
+      "link": "https://cyberpress.org/multiple-tp-link-vulnerabilities-allow-attackers-to-seize-full-device-control/",
+      "filePath": "cyberpress/pages/2026/04/10/multiple-tp-link-vulnerabilities-allow-attackers-to-seize-full-device-control.md",
+      "committedAt": "2026-04-10T06:00:19.538-05:00",
+      "title": "Multiple TP-Link Vulnerabilities Allow Attackers to Seize Full Device Control"
     }
   ]
 }
