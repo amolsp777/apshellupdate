@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T14:01:02.645-05:00",
-  "lastLink": "https://cyberpress.org/roningloader-evades-through-injection/",
-  "lastId": "1lwo9fy000",
-  "lastFilePath": "cyberpress/pages/2026/04/09/roningloader-attack-chain-combines-dll-side-loading-with-code-injection.md",
+  "updatedAt": "2026-04-10T01:00:34.750-05:00",
+  "lastLink": "https://cyberpress.org/google-storage-drops-remcos/",
+  "lastId": "5qr3h90000",
+  "lastFilePath": "cyberpress/pages/2026/04/10/remcos-rat-deployed-through-new-google-storage-phishing-campaign.md",
   "items": [
     {
-      "id": "1lwo9fy000",
-      "link": "https://cyberpress.org/roningloader-evades-through-injection/",
-      "filePath": "cyberpress/pages/2026/04/09/roningloader-attack-chain-combines-dll-side-loading-with-code-injection.md",
-      "committedAt": "2026-04-09T14:01:02.645-05:00",
-      "title": "RoningLoader Attack Chain Combines DLL Side-Loading With Code Injection"
+      "id": "5qr3h90000",
+      "link": "https://cyberpress.org/google-storage-drops-remcos/",
+      "filePath": "cyberpress/pages/2026/04/10/remcos-rat-deployed-through-new-google-storage-phishing-campaign.md",
+      "committedAt": "2026-04-10T01:00:34.750-05:00",
+      "title": "Remcos RAT Deployed Through New Google Storage Phishing Campaign"
     }
   ]
 }
