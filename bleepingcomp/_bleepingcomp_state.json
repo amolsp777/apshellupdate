@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T12:00:41.131-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
-  "lastId": "1nf6hkv000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/10/nearly-4000-us-industrial-devices-exposed-to-iranian-cyberattacks.md",
+  "updatedAt": "2026-04-10T13:00:14.517-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+  "lastId": "8e173l0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/10/cpuid-hacked-to-deliver-malware-via-cpu-z-hwmonitor-downloads.md",
   "items": [
     {
-      "id": "1nf6hkv000",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
-      "filePath": "bleepingcomp/pages/2026/04/10/nearly-4000-us-industrial-devices-exposed-to-iranian-cyberattacks.md",
-      "committedAt": "2026-04-10T12:00:41.131-04:00",
-      "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks"
+      "id": "8e173l0000",
+      "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+      "filePath": "bleepingcomp/pages/2026/04/10/cpuid-hacked-to-deliver-malware-via-cpu-z-hwmonitor-downloads.md",
+      "committedAt": "2026-04-10T13:00:14.517-04:00",
+      "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads"
     }
   ]
 }
