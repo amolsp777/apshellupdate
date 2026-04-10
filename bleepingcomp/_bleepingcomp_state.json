@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T10:00:03.435-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
-  "lastId": "15ksmzg000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/10/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-zhwmonitor.md",
+  "updatedAt": "2026-04-10T11:00:46.722-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
+  "lastId": "bz14ou0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/10/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-sca.md",
   "items": [
     {
-      "id": "15ksmzg000",
-      "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
-      "filePath": "bleepingcomp/pages/2026/04/10/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-zhwmonitor.md",
-      "committedAt": "2026-04-10T10:00:03.435-04:00",
-      "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor"
+      "id": "bz14ou0000",
+      "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
+      "filePath": "bleepingcomp/pages/2026/04/10/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-sca.md",
+      "committedAt": "2026-04-10T11:00:46.722-04:00",
+      "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security"
     }
   ]
 }
