@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T19:00:19.007-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
-  "lastId": "wmkhdq0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/09/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities.md",
+  "updatedAt": "2026-04-10T07:00:41.003-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
+  "lastId": "1cbixxd000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/10/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices.md",
   "items": [
     {
-      "id": "wmkhdq0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
-      "filePath": "bleepingcomp/pages/2026/04/09/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities.md",
-      "committedAt": "2026-04-09T19:00:19.007-04:00",
-      "title": "New ‘LucidRook’ malware used in targeted attacks on NGOs, universities"
+      "id": "1cbixxd000",
+      "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
+      "filePath": "bleepingcomp/pages/2026/04/10/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices.md",
+      "committedAt": "2026-04-10T07:00:41.003-04:00",
+      "title": "Google rolls out Gmail end-to-end encryption on mobile devices"
     }
   ]
 }
