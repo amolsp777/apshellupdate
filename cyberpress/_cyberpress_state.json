@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T11:00:24.650-05:00",
-  "lastLink": "https://cyberpress.org/hpe-aruba-private-5g-platform-vulnerability/",
-  "lastId": "wimdtc0000",
-  "lastFilePath": "cyberpress/pages/2026/04/10/hpe-aruba-private-5g-platform-vulnerability-enables-credential-theft-attacks.md",
+  "updatedAt": "2026-04-10T12:00:41.024-05:00",
+  "lastLink": "https://cyberpress.org/prospy-targets-messaging-users/",
+  "lastId": "6b3o2s0000",
+  "lastFilePath": "cyberpress/pages/2026/04/10/prospy-spyware-spread-through-fake-messaging-apps-in-middle-east-campaign.md",
   "items": [
     {
-      "id": "wimdtc0000",
-      "link": "https://cyberpress.org/hpe-aruba-private-5g-platform-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/10/hpe-aruba-private-5g-platform-vulnerability-enables-credential-theft-attacks.md",
-      "committedAt": "2026-04-10T11:00:24.650-05:00",
-      "title": "HPE Aruba Private 5G Platform Vulnerability Enables Credential Theft Attacks"
+      "id": "6b3o2s0000",
+      "link": "https://cyberpress.org/prospy-targets-messaging-users/",
+      "filePath": "cyberpress/pages/2026/04/10/prospy-spyware-spread-through-fake-messaging-apps-in-middle-east-campaign.md",
+      "committedAt": "2026-04-10T12:00:41.024-05:00",
+      "title": "ProSpy Spyware Spread Through Fake Messaging Apps In Middle East Campaign"
     }
   ]
 }
