@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T01:00:34.750-05:00",
-  "lastLink": "https://cyberpress.org/google-storage-drops-remcos/",
-  "lastId": "5qr3h90000",
-  "lastFilePath": "cyberpress/pages/2026/04/10/remcos-rat-deployed-through-new-google-storage-phishing-campaign.md",
+  "updatedAt": "2026-04-10T02:00:35.247-05:00",
+  "lastLink": "https://cyberpress.org/muddywater-adopts-russian-maas/",
+  "lastId": "17k8994000",
+  "lastFilePath": "cyberpress/pages/2026/04/10/researchers-link-muddywater-to-russian-maas-in-latest-chainshell-operation.md",
   "items": [
     {
-      "id": "5qr3h90000",
-      "link": "https://cyberpress.org/google-storage-drops-remcos/",
-      "filePath": "cyberpress/pages/2026/04/10/remcos-rat-deployed-through-new-google-storage-phishing-campaign.md",
-      "committedAt": "2026-04-10T01:00:34.750-05:00",
-      "title": "Remcos RAT Deployed Through New Google Storage Phishing Campaign"
+      "id": "17k8994000",
+      "link": "https://cyberpress.org/muddywater-adopts-russian-maas/",
+      "filePath": "cyberpress/pages/2026/04/10/researchers-link-muddywater-to-russian-maas-in-latest-chainshell-operation.md",
+      "committedAt": "2026-04-10T02:00:35.247-05:00",
+      "title": "Researchers Link MuddyWater To Russian MaaS In Latest ChainShell Operation"
     }
   ]
 }
