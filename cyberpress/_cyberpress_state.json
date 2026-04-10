@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T13:00:47.617-05:00",
-  "lastLink": "https://cyberpress.org/openvsx-extension-spreads-glassworm/",
-  "lastId": "1ynotg1000",
-  "lastFilePath": "cyberpress/pages/2026/04/10/malicious-openvsx-extension-delivers-glassworm-to-vs-code-cursor-and-windsurf-us.md",
+  "updatedAt": "2026-04-10T14:01:01.670-05:00",
+  "lastLink": "https://cyberpress.org/juniper-networks-default-password-flaw-lets-attackers-take-full-control-of-devices/",
+  "lastId": "1ez4jh5000",
+  "lastFilePath": "cyberpress/pages/2026/04/10/juniper-networks-default-password-flaw-lets-attackers-take-full-control-of-devic.md",
   "items": [
     {
-      "id": "1ynotg1000",
-      "link": "https://cyberpress.org/openvsx-extension-spreads-glassworm/",
-      "filePath": "cyberpress/pages/2026/04/10/malicious-openvsx-extension-delivers-glassworm-to-vs-code-cursor-and-windsurf-us.md",
-      "committedAt": "2026-04-10T13:00:47.617-05:00",
-      "title": "Malicious OpenVSX Extension Delivers GlassWorm To VS Code, Cursor, and Windsurf Users"
+      "id": "1ez4jh5000",
+      "link": "https://cyberpress.org/juniper-networks-default-password-flaw-lets-attackers-take-full-control-of-devices/",
+      "filePath": "cyberpress/pages/2026/04/10/juniper-networks-default-password-flaw-lets-attackers-take-full-control-of-devic.md",
+      "committedAt": "2026-04-10T14:01:01.670-05:00",
+      "title": "Juniper Networks Default Password Flaw Lets Attackers Take Full Control of Devices"
     }
   ]
 }
