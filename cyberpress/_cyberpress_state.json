@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T02:00:35.247-05:00",
-  "lastLink": "https://cyberpress.org/muddywater-adopts-russian-maas/",
-  "lastId": "17k8994000",
-  "lastFilePath": "cyberpress/pages/2026/04/10/researchers-link-muddywater-to-russian-maas-in-latest-chainshell-operation.md",
+  "updatedAt": "2026-04-10T03:00:13.955-05:00",
+  "lastLink": "https://cyberpress.org/aws-fixes-critical-rce-and-privilege-escalation-flaws-in-research-and-engineering-studio/",
+  "lastId": "14vsams000",
+  "lastFilePath": "cyberpress/pages/2026/04/10/aws-fixes-critical-rce-and-privilege-escalation-flaws-in-research-and-engineerin.md",
   "items": [
     {
-      "id": "17k8994000",
-      "link": "https://cyberpress.org/muddywater-adopts-russian-maas/",
-      "filePath": "cyberpress/pages/2026/04/10/researchers-link-muddywater-to-russian-maas-in-latest-chainshell-operation.md",
-      "committedAt": "2026-04-10T02:00:35.247-05:00",
-      "title": "Researchers Link MuddyWater To Russian MaaS In Latest ChainShell Operation"
+      "id": "14vsams000",
+      "link": "https://cyberpress.org/aws-fixes-critical-rce-and-privilege-escalation-flaws-in-research-and-engineering-studio/",
+      "filePath": "cyberpress/pages/2026/04/10/aws-fixes-critical-rce-and-privilege-escalation-flaws-in-research-and-engineerin.md",
+      "committedAt": "2026-04-10T03:00:13.955-05:00",
+      "title": "AWS Fixes Critical RCE and Privilege Escalation Flaws in Research and Engineering Studio"
     }
   ]
 }
