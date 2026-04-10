@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T06:00:19.538-05:00",
-  "lastLink": "https://cyberpress.org/multiple-tp-link-vulnerabilities-allow-attackers-to-seize-full-device-control/",
-  "lastId": "9uvjjt0000",
-  "lastFilePath": "cyberpress/pages/2026/04/10/multiple-tp-link-vulnerabilities-allow-attackers-to-seize-full-device-control.md",
+  "updatedAt": "2026-04-10T07:00:24.705-05:00",
+  "lastLink": "https://cyberpress.org/react-vulnerability/",
+  "lastId": "aykckv0000",
+  "lastFilePath": "cyberpress/pages/2026/04/10/react-server-components-vulnerability-enables-denial-of-service-dos-attacks.md",
   "items": [
     {
-      "id": "9uvjjt0000",
-      "link": "https://cyberpress.org/multiple-tp-link-vulnerabilities-allow-attackers-to-seize-full-device-control/",
-      "filePath": "cyberpress/pages/2026/04/10/multiple-tp-link-vulnerabilities-allow-attackers-to-seize-full-device-control.md",
-      "committedAt": "2026-04-10T06:00:19.538-05:00",
-      "title": "Multiple TP-Link Vulnerabilities Allow Attackers to Seize Full Device Control"
+      "id": "aykckv0000",
+      "link": "https://cyberpress.org/react-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/10/react-server-components-vulnerability-enables-denial-of-service-dos-attacks.md",
+      "committedAt": "2026-04-10T07:00:24.705-05:00",
+      "title": "React Server Components Vulnerability Enables Denial-of-Service (DoS) Attacks"
     }
   ]
 }
