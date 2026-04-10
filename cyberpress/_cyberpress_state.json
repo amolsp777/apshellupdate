@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T12:00:41.024-05:00",
-  "lastLink": "https://cyberpress.org/prospy-targets-messaging-users/",
-  "lastId": "6b3o2s0000",
-  "lastFilePath": "cyberpress/pages/2026/04/10/prospy-spyware-spread-through-fake-messaging-apps-in-middle-east-campaign.md",
+  "updatedAt": "2026-04-10T13:00:47.617-05:00",
+  "lastLink": "https://cyberpress.org/openvsx-extension-spreads-glassworm/",
+  "lastId": "1ynotg1000",
+  "lastFilePath": "cyberpress/pages/2026/04/10/malicious-openvsx-extension-delivers-glassworm-to-vs-code-cursor-and-windsurf-us.md",
   "items": [
     {
-      "id": "6b3o2s0000",
-      "link": "https://cyberpress.org/prospy-targets-messaging-users/",
-      "filePath": "cyberpress/pages/2026/04/10/prospy-spyware-spread-through-fake-messaging-apps-in-middle-east-campaign.md",
-      "committedAt": "2026-04-10T12:00:41.024-05:00",
-      "title": "ProSpy Spyware Spread Through Fake Messaging Apps In Middle East Campaign"
+      "id": "1ynotg1000",
+      "link": "https://cyberpress.org/openvsx-extension-spreads-glassworm/",
+      "filePath": "cyberpress/pages/2026/04/10/malicious-openvsx-extension-delivers-glassworm-to-vs-code-cursor-and-windsurf-us.md",
+      "committedAt": "2026-04-10T13:00:47.617-05:00",
+      "title": "Malicious OpenVSX Extension Delivers GlassWorm To VS Code, Cursor, and Windsurf Users"
     }
   ]
 }
