@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T14:01:01.670-05:00",
-  "lastLink": "https://cyberpress.org/juniper-networks-default-password-flaw-lets-attackers-take-full-control-of-devices/",
-  "lastId": "1ez4jh5000",
-  "lastFilePath": "cyberpress/pages/2026/04/10/juniper-networks-default-password-flaw-lets-attackers-take-full-control-of-devic.md",
+  "updatedAt": "2026-04-11T01:00:24.378-05:00",
+  "lastLink": "https://cyberpress.org/ransomware-groups-increasingly-turn-to-edr-killers/",
+  "lastId": "18miws8000",
+  "lastFilePath": "cyberpress/pages/2026/04/11/ransomware-groups-increasingly-turn-to-edr-killers-outside-vulnerable-driver-tac.md",
   "items": [
     {
-      "id": "1ez4jh5000",
-      "link": "https://cyberpress.org/juniper-networks-default-password-flaw-lets-attackers-take-full-control-of-devices/",
-      "filePath": "cyberpress/pages/2026/04/10/juniper-networks-default-password-flaw-lets-attackers-take-full-control-of-devic.md",
-      "committedAt": "2026-04-10T14:01:01.670-05:00",
-      "title": "Juniper Networks Default Password Flaw Lets Attackers Take Full Control of Devices"
+      "id": "18miws8000",
+      "link": "https://cyberpress.org/ransomware-groups-increasingly-turn-to-edr-killers/",
+      "filePath": "cyberpress/pages/2026/04/11/ransomware-groups-increasingly-turn-to-edr-killers-outside-vulnerable-driver-tac.md",
+      "committedAt": "2026-04-11T01:00:24.378-05:00",
+      "title": "Ransomware Groups Increasingly Turn to EDR Killers Outside Vulnerable Driver Tactics"
     }
   ]
 }
