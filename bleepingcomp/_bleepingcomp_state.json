@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T13:00:14.517-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
-  "lastId": "8e173l0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/10/cpuid-hacked-to-deliver-malware-via-cpu-z-hwmonitor-downloads.md",
+  "updatedAt": "2026-04-10T23:00:40.164-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
+  "lastId": "x07urj0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/11/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude.md",
   "items": [
     {
-      "id": "8e173l0000",
-      "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
-      "filePath": "bleepingcomp/pages/2026/04/10/cpuid-hacked-to-deliver-malware-via-cpu-z-hwmonitor-downloads.md",
-      "committedAt": "2026-04-10T13:00:14.517-04:00",
-      "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads"
+      "id": "x07urj0000",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
+      "filePath": "bleepingcomp/pages/2026/04/11/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude.md",
+      "committedAt": "2026-04-10T23:00:40.164-04:00",
+      "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude"
     }
   ]
 }
