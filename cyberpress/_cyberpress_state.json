@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T03:00:24.716-05:00",
-  "lastLink": "https://cyberpress.org/wordpress-bug-enables-takeover/",
-  "lastId": "ph2mlm0000",
-  "lastFilePath": "cyberpress/pages/2026/04/13/critical-wordpress-plugin-bug-allows-authentication-bypass-admin-takeover.md",
+  "updatedAt": "2026-04-13T04:00:35.776-05:00",
+  "lastLink": "https://cyberpress.org/ai-tools-target-agencies/",
+  "lastId": "12lrx3j000",
+  "lastFilePath": "cyberpress/pages/2026/04/13/ai-tools-allegedly-used-in-cyberattacks-targeting-government-agencies.md",
   "items": [
     {
-      "id": "ph2mlm0000",
-      "link": "https://cyberpress.org/wordpress-bug-enables-takeover/",
-      "filePath": "cyberpress/pages/2026/04/13/critical-wordpress-plugin-bug-allows-authentication-bypass-admin-takeover.md",
-      "committedAt": "2026-04-13T03:00:24.716-05:00",
-      "title": "Critical WordPress Plugin Bug Allows Authentication Bypass, Admin Takeover"
+      "id": "12lrx3j000",
+      "link": "https://cyberpress.org/ai-tools-target-agencies/",
+      "filePath": "cyberpress/pages/2026/04/13/ai-tools-allegedly-used-in-cyberattacks-targeting-government-agencies.md",
+      "committedAt": "2026-04-13T04:00:35.776-05:00",
+      "title": "AI Tools Allegedly Used In Cyberattacks Targeting Government Agencies"
     }
   ]
 }
