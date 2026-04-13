@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T16:00:14.078-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
-  "lastId": "t52yv20000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/13/critical-flaw-in-wolfssl-library-enables-forged-certificate-use.md",
+  "updatedAt": "2026-04-13T17:00:14.661-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
+  "lastId": "nygdni0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/13/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang.md",
   "items": [
     {
-      "id": "t52yv20000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
-      "filePath": "bleepingcomp/pages/2026/04/13/critical-flaw-in-wolfssl-library-enables-forged-certificate-use.md",
-      "committedAt": "2026-04-13T16:00:14.078-04:00",
-      "title": "Critical flaw in wolfSSL library enables forged certificate use"
+      "id": "nygdni0000",
+      "link": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
+      "filePath": "bleepingcomp/pages/2026/04/13/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang.md",
+      "committedAt": "2026-04-13T17:00:14.661-04:00",
+      "title": "Stolen Rockstar Games analytics data leaked by extortion gang"
     }
   ]
 }
