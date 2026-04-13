@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T14:00:09.125-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/",
-  "lastId": "4yjtdp0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/13/new-bookingcom-data-breach-forces-reservation-pin-resets.md",
+  "updatedAt": "2026-04-13T15:00:14.714-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
+  "lastId": "gtor030000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/13/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest.md",
   "items": [
     {
-      "id": "4yjtdp0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/",
-      "filePath": "bleepingcomp/pages/2026/04/13/new-bookingcom-data-breach-forces-reservation-pin-resets.md",
-      "committedAt": "2026-04-13T14:00:09.125-04:00",
-      "title": "New Booking.com data breach forces reservation PIN resets"
+      "id": "gtor030000",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
+      "filePath": "bleepingcomp/pages/2026/04/13/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest.md",
+      "committedAt": "2026-04-13T15:00:14.714-04:00",
+      "title": "FBI takedown of W3LL phishing service leads to developer arrest"
     }
   ]
 }
