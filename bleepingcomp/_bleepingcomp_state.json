@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-12T11:00:03.249-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
-  "lastId": "n5mlz20000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/12/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation.md",
+  "updatedAt": "2026-04-13T11:00:38.351-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
+  "lastId": "12b7xyh000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/13/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side.md",
   "items": [
     {
-      "id": "n5mlz20000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
-      "filePath": "bleepingcomp/pages/2026/04/12/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation.md",
-      "committedAt": "2026-04-12T11:00:03.249-04:00",
-      "title": "Critical Marimo pre-auth RCE flaw now under active exploitation"
+      "id": "12b7xyh000",
+      "link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
+      "filePath": "bleepingcomp/pages/2026/04/13/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side.md",
+      "committedAt": "2026-04-13T11:00:38.351-04:00",
+      "title": "The silent “Storm”: New infostealer hijacks sessions, decrypts server-side"
     }
   ]
 }
