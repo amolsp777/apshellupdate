@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T10:00:36.418-05:00",
-  "lastLink": "https://cyberpress.org/github-jira-phishing-lures/",
-  "lastId": "1jvd7z9000",
-  "lastFilePath": "cyberpress/pages/2026/04/13/threat-actors-exploit-github-and-jira-messages-for-phishing-delivery.md",
+  "updatedAt": "2026-04-13T11:00:42.160-05:00",
+  "lastLink": "https://cyberpress.org/apache-tomcat-vulnerability-2/",
+  "lastId": "1yyekcl000",
+  "lastFilePath": "cyberpress/pages/2026/04/13/apache-tomcat-vulnerability-enables-bypass-of-encryptinterceptor-protection.md",
   "items": [
     {
-      "id": "1jvd7z9000",
-      "link": "https://cyberpress.org/github-jira-phishing-lures/",
-      "filePath": "cyberpress/pages/2026/04/13/threat-actors-exploit-github-and-jira-messages-for-phishing-delivery.md",
-      "committedAt": "2026-04-13T10:00:36.418-05:00",
-      "title": "Threat Actors Exploit GitHub and Jira Messages For Phishing Delivery"
+      "id": "1yyekcl000",
+      "link": "https://cyberpress.org/apache-tomcat-vulnerability-2/",
+      "filePath": "cyberpress/pages/2026/04/13/apache-tomcat-vulnerability-enables-bypass-of-encryptinterceptor-protection.md",
+      "committedAt": "2026-04-13T11:00:42.160-05:00",
+      "title": "Apache Tomcat Vulnerability Enables Bypass of EncryptInterceptor Protection"
     }
   ]
 }
