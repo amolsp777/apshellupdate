@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T11:00:38.351-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
-  "lastId": "12b7xyh000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/13/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side.md",
+  "updatedAt": "2026-04-13T12:00:09.139-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
+  "lastId": "1gblkvz000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/13/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw.md",
   "items": [
     {
-      "id": "12b7xyh000",
-      "link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
-      "filePath": "bleepingcomp/pages/2026/04/13/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side.md",
-      "committedAt": "2026-04-13T11:00:38.351-04:00",
-      "title": "The silent “Storm”: New infostealer hijacks sessions, decrypts server-side"
+      "id": "1gblkvz000",
+      "link": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
+      "filePath": "bleepingcomp/pages/2026/04/13/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw.md",
+      "committedAt": "2026-04-13T12:00:09.139-04:00",
+      "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw"
     }
   ]
 }
