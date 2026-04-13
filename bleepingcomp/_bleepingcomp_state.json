@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T15:00:14.714-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
-  "lastId": "gtor030000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/13/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest.md",
+  "updatedAt": "2026-04-13T16:00:14.078-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
+  "lastId": "t52yv20000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/13/critical-flaw-in-wolfssl-library-enables-forged-certificate-use.md",
   "items": [
     {
-      "id": "gtor030000",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
-      "filePath": "bleepingcomp/pages/2026/04/13/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest.md",
-      "committedAt": "2026-04-13T15:00:14.714-04:00",
-      "title": "FBI takedown of W3LL phishing service leads to developer arrest"
+      "id": "t52yv20000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
+      "filePath": "bleepingcomp/pages/2026/04/13/critical-flaw-in-wolfssl-library-enables-forged-certificate-use.md",
+      "committedAt": "2026-04-13T16:00:14.078-04:00",
+      "title": "Critical flaw in wolfSSL library enables forged certificate use"
     }
   ]
 }
