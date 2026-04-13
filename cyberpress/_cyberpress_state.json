@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T07:00:14.129-05:00",
-  "lastLink": "https://cyberpress.org/axios-vulnerability-3/",
-  "lastId": "tf0yb00000",
-  "lastFilePath": "cyberpress/pages/2026/04/13/critical-axios-vulnerability-allows-remote-code-execution-poc-exploit-released.md",
+  "updatedAt": "2026-04-13T08:00:25.145-05:00",
+  "lastLink": "https://cyberpress.org/basic-fit-data-breach-exposes-millions-of-users-across-multiple-countries/",
+  "lastId": "6hvjg90000",
+  "lastFilePath": "cyberpress/pages/2026/04/13/basic-fit-data-breach-exposes-millions-of-users-across-multiple-countries.md",
   "items": [
     {
-      "id": "tf0yb00000",
-      "link": "https://cyberpress.org/axios-vulnerability-3/",
-      "filePath": "cyberpress/pages/2026/04/13/critical-axios-vulnerability-allows-remote-code-execution-poc-exploit-released.md",
-      "committedAt": "2026-04-13T07:00:14.129-05:00",
-      "title": "Critical Axios Vulnerability Allows Remote Code Execution – PoC Exploit Released"
+      "id": "6hvjg90000",
+      "link": "https://cyberpress.org/basic-fit-data-breach-exposes-millions-of-users-across-multiple-countries/",
+      "filePath": "cyberpress/pages/2026/04/13/basic-fit-data-breach-exposes-millions-of-users-across-multiple-countries.md",
+      "committedAt": "2026-04-13T08:00:25.145-05:00",
+      "title": "Basic-Fit Data Breach Exposes Millions of Users Across Multiple Countries"
     }
   ]
 }
