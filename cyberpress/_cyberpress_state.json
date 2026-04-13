@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T05:00:41.243-05:00",
-  "lastLink": "https://cyberpress.org/elon-musk-announces-xchat/",
-  "lastId": "1r4cnv0000",
-  "lastFilePath": "cyberpress/pages/2026/04/13/elon-musk-announces-xchat-launch-with-self-destruct-messaging-feature.md",
+  "updatedAt": "2026-04-13T06:00:21.174-05:00",
+  "lastLink": "https://cyberpress.org/marimo-rce-vulnerability-exploited-within-10-hours-of-public-disclosure/",
+  "lastId": "264gxl0000",
+  "lastFilePath": "cyberpress/pages/2026/04/13/marimo-rce-vulnerability-exploited-within-10-hours-of-public-disclosure.md",
   "items": [
     {
-      "id": "1r4cnv0000",
-      "link": "https://cyberpress.org/elon-musk-announces-xchat/",
-      "filePath": "cyberpress/pages/2026/04/13/elon-musk-announces-xchat-launch-with-self-destruct-messaging-feature.md",
-      "committedAt": "2026-04-13T05:00:41.243-05:00",
-      "title": "Elon Musk Announces XChat Launch With Self-Destruct Messaging Feature"
+      "id": "264gxl0000",
+      "link": "https://cyberpress.org/marimo-rce-vulnerability-exploited-within-10-hours-of-public-disclosure/",
+      "filePath": "cyberpress/pages/2026/04/13/marimo-rce-vulnerability-exploited-within-10-hours-of-public-disclosure.md",
+      "committedAt": "2026-04-13T06:00:21.174-05:00",
+      "title": "Marimo RCE Vulnerability Exploited Within 10 Hours of Public Disclosure"
     }
   ]
 }
