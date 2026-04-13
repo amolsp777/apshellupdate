@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T06:00:21.174-05:00",
-  "lastLink": "https://cyberpress.org/marimo-rce-vulnerability-exploited-within-10-hours-of-public-disclosure/",
-  "lastId": "264gxl0000",
-  "lastFilePath": "cyberpress/pages/2026/04/13/marimo-rce-vulnerability-exploited-within-10-hours-of-public-disclosure.md",
+  "updatedAt": "2026-04-13T07:00:14.129-05:00",
+  "lastLink": "https://cyberpress.org/axios-vulnerability-3/",
+  "lastId": "tf0yb00000",
+  "lastFilePath": "cyberpress/pages/2026/04/13/critical-axios-vulnerability-allows-remote-code-execution-poc-exploit-released.md",
   "items": [
     {
-      "id": "264gxl0000",
-      "link": "https://cyberpress.org/marimo-rce-vulnerability-exploited-within-10-hours-of-public-disclosure/",
-      "filePath": "cyberpress/pages/2026/04/13/marimo-rce-vulnerability-exploited-within-10-hours-of-public-disclosure.md",
-      "committedAt": "2026-04-13T06:00:21.174-05:00",
-      "title": "Marimo RCE Vulnerability Exploited Within 10 Hours of Public Disclosure"
+      "id": "tf0yb00000",
+      "link": "https://cyberpress.org/axios-vulnerability-3/",
+      "filePath": "cyberpress/pages/2026/04/13/critical-axios-vulnerability-allows-remote-code-execution-poc-exploit-released.md",
+      "committedAt": "2026-04-13T07:00:14.129-05:00",
+      "title": "Critical Axios Vulnerability Allows Remote Code Execution – PoC Exploit Released"
     }
   ]
 }
