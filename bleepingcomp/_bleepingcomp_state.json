@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T12:00:09.139-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
-  "lastId": "1gblkvz000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/13/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw.md",
+  "updatedAt": "2026-04-13T14:00:09.125-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/",
+  "lastId": "4yjtdp0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/13/new-bookingcom-data-breach-forces-reservation-pin-resets.md",
   "items": [
     {
-      "id": "1gblkvz000",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
-      "filePath": "bleepingcomp/pages/2026/04/13/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw.md",
-      "committedAt": "2026-04-13T12:00:09.139-04:00",
-      "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw"
+      "id": "4yjtdp0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/",
+      "filePath": "bleepingcomp/pages/2026/04/13/new-bookingcom-data-breach-forces-reservation-pin-resets.md",
+      "committedAt": "2026-04-13T14:00:09.125-04:00",
+      "title": "New Booking.com data breach forces reservation PIN resets"
     }
   ]
 }
