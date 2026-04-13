@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T11:00:42.160-05:00",
-  "lastLink": "https://cyberpress.org/apache-tomcat-vulnerability-2/",
-  "lastId": "1yyekcl000",
-  "lastFilePath": "cyberpress/pages/2026/04/13/apache-tomcat-vulnerability-enables-bypass-of-encryptinterceptor-protection.md",
+  "updatedAt": "2026-04-13T12:00:47.615-05:00",
+  "lastLink": "https://cyberpress.org/cyberav3ngers-targets-water-systems/",
+  "lastId": "x6jnep0000",
+  "lastFilePath": "cyberpress/pages/2026/04/13/iran-backed-cyberav3ngers-sets-sights-on-water-and-industrial-control-systems.md",
   "items": [
     {
-      "id": "1yyekcl000",
-      "link": "https://cyberpress.org/apache-tomcat-vulnerability-2/",
-      "filePath": "cyberpress/pages/2026/04/13/apache-tomcat-vulnerability-enables-bypass-of-encryptinterceptor-protection.md",
-      "committedAt": "2026-04-13T11:00:42.160-05:00",
-      "title": "Apache Tomcat Vulnerability Enables Bypass of EncryptInterceptor Protection"
+      "id": "x6jnep0000",
+      "link": "https://cyberpress.org/cyberav3ngers-targets-water-systems/",
+      "filePath": "cyberpress/pages/2026/04/13/iran-backed-cyberav3ngers-sets-sights-on-water-and-industrial-control-systems.md",
+      "committedAt": "2026-04-13T12:00:47.615-05:00",
+      "title": "Iran-Backed CyberAv3ngers Sets Sights On Water and Industrial Control Systems"
     }
   ]
 }
