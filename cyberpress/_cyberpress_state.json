@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T13:00:52.476-05:00",
-  "lastLink": "https://cyberpress.org/msbuild-fuels-fileless-intrusions/",
-  "lastId": "11103h2000",
-  "lastFilePath": "cyberpress/pages/2026/04/13/msbuild-abuse-helps-attackers-launch-stealthy-fileless-windows-intrusions.md",
+  "updatedAt": "2026-04-13T14:00:58.203-05:00",
+  "lastLink": "https://cyberpress.org/apt37-social-lure-campaign/",
+  "lastId": "qyxn5u0000",
+  "lastFilePath": "cyberpress/pages/2026/04/13/apt37-uses-facebook-telegram-and-trojanized-installer-in-new-intrusion-campaign.md",
   "items": [
     {
-      "id": "11103h2000",
-      "link": "https://cyberpress.org/msbuild-fuels-fileless-intrusions/",
-      "filePath": "cyberpress/pages/2026/04/13/msbuild-abuse-helps-attackers-launch-stealthy-fileless-windows-intrusions.md",
-      "committedAt": "2026-04-13T13:00:52.476-05:00",
-      "title": "MSBuild Abuse Helps Attackers Launch Stealthy Fileless Windows Intrusions"
+      "id": "qyxn5u0000",
+      "link": "https://cyberpress.org/apt37-social-lure-campaign/",
+      "filePath": "cyberpress/pages/2026/04/13/apt37-uses-facebook-telegram-and-trojanized-installer-in-new-intrusion-campaign.md",
+      "committedAt": "2026-04-13T14:00:58.203-05:00",
+      "title": "APT37 Uses Facebook, Telegram, and Trojanized Installer In New Intrusion Campaign"
     }
   ]
 }
