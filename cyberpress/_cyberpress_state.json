@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T12:00:47.615-05:00",
-  "lastLink": "https://cyberpress.org/cyberav3ngers-targets-water-systems/",
-  "lastId": "x6jnep0000",
-  "lastFilePath": "cyberpress/pages/2026/04/13/iran-backed-cyberav3ngers-sets-sights-on-water-and-industrial-control-systems.md",
+  "updatedAt": "2026-04-13T13:00:52.476-05:00",
+  "lastLink": "https://cyberpress.org/msbuild-fuels-fileless-intrusions/",
+  "lastId": "11103h2000",
+  "lastFilePath": "cyberpress/pages/2026/04/13/msbuild-abuse-helps-attackers-launch-stealthy-fileless-windows-intrusions.md",
   "items": [
     {
-      "id": "x6jnep0000",
-      "link": "https://cyberpress.org/cyberav3ngers-targets-water-systems/",
-      "filePath": "cyberpress/pages/2026/04/13/iran-backed-cyberav3ngers-sets-sights-on-water-and-industrial-control-systems.md",
-      "committedAt": "2026-04-13T12:00:47.615-05:00",
-      "title": "Iran-Backed CyberAv3ngers Sets Sights On Water and Industrial Control Systems"
+      "id": "11103h2000",
+      "link": "https://cyberpress.org/msbuild-fuels-fileless-intrusions/",
+      "filePath": "cyberpress/pages/2026/04/13/msbuild-abuse-helps-attackers-launch-stealthy-fileless-windows-intrusions.md",
+      "committedAt": "2026-04-13T13:00:52.476-05:00",
+      "title": "MSBuild Abuse Helps Attackers Launch Stealthy Fileless Windows Intrusions"
     }
   ]
 }
