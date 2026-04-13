@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T08:00:25.145-05:00",
-  "lastLink": "https://cyberpress.org/basic-fit-data-breach-exposes-millions-of-users-across-multiple-countries/",
-  "lastId": "6hvjg90000",
-  "lastFilePath": "cyberpress/pages/2026/04/13/basic-fit-data-breach-exposes-millions-of-users-across-multiple-countries.md",
+  "updatedAt": "2026-04-13T09:00:24.746-05:00",
+  "lastLink": "https://cyberpress.org/nginx-1-29-8-and-freenginx/",
+  "lastId": "1lxa895000",
+  "lastFilePath": "cyberpress/pages/2026/04/13/nginx-1298-and-freenginx-released-with-critical-security-updates.md",
   "items": [
     {
-      "id": "6hvjg90000",
-      "link": "https://cyberpress.org/basic-fit-data-breach-exposes-millions-of-users-across-multiple-countries/",
-      "filePath": "cyberpress/pages/2026/04/13/basic-fit-data-breach-exposes-millions-of-users-across-multiple-countries.md",
-      "committedAt": "2026-04-13T08:00:25.145-05:00",
-      "title": "Basic-Fit Data Breach Exposes Millions of Users Across Multiple Countries"
+      "id": "1lxa895000",
+      "link": "https://cyberpress.org/nginx-1-29-8-and-freenginx/",
+      "filePath": "cyberpress/pages/2026/04/13/nginx-1298-and-freenginx-released-with-critical-security-updates.md",
+      "committedAt": "2026-04-13T09:00:24.746-05:00",
+      "title": "Nginx 1.29.8 and FreeNginx Released With Critical Security Updates"
     }
   ]
 }
