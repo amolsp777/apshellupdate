@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T09:00:24.746-05:00",
-  "lastLink": "https://cyberpress.org/nginx-1-29-8-and-freenginx/",
-  "lastId": "1lxa895000",
-  "lastFilePath": "cyberpress/pages/2026/04/13/nginx-1298-and-freenginx-released-with-critical-security-updates.md",
+  "updatedAt": "2026-04-13T10:00:36.418-05:00",
+  "lastLink": "https://cyberpress.org/github-jira-phishing-lures/",
+  "lastId": "1jvd7z9000",
+  "lastFilePath": "cyberpress/pages/2026/04/13/threat-actors-exploit-github-and-jira-messages-for-phishing-delivery.md",
   "items": [
     {
-      "id": "1lxa895000",
-      "link": "https://cyberpress.org/nginx-1-29-8-and-freenginx/",
-      "filePath": "cyberpress/pages/2026/04/13/nginx-1298-and-freenginx-released-with-critical-security-updates.md",
-      "committedAt": "2026-04-13T09:00:24.746-05:00",
-      "title": "Nginx 1.29.8 and FreeNginx Released With Critical Security Updates"
+      "id": "1jvd7z9000",
+      "link": "https://cyberpress.org/github-jira-phishing-lures/",
+      "filePath": "cyberpress/pages/2026/04/13/threat-actors-exploit-github-and-jira-messages-for-phishing-delivery.md",
+      "committedAt": "2026-04-13T10:00:36.418-05:00",
+      "title": "Threat Actors Exploit GitHub and Jira Messages For Phishing Delivery"
     }
   ]
 }
