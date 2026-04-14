@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T09:00:25.168-05:00",
-  "lastLink": "https://cyberpress.org/etcd-auth-bypass-flaw/",
-  "lastId": "o2429a0000",
-  "lastFilePath": "cyberpress/pages/2026/04/14/critical-etcd-auth-bypass-flaw-lets-attackers-access-sensitive-cluster-apis-with.md",
+  "updatedAt": "2026-04-14T10:00:30.648-05:00",
+  "lastLink": "https://cyberpress.org/botnet-admin-leak-exposes-network/",
+  "lastId": "axzwpg0000",
+  "lastFilePath": "cyberpress/pages/2026/04/14/wide-open-botnet-attackers-leave-credential-stuffing-network-vulnerable-via-full.md",
   "items": [
     {
-      "id": "o2429a0000",
-      "link": "https://cyberpress.org/etcd-auth-bypass-flaw/",
-      "filePath": "cyberpress/pages/2026/04/14/critical-etcd-auth-bypass-flaw-lets-attackers-access-sensitive-cluster-apis-with.md",
-      "committedAt": "2026-04-14T09:00:25.168-05:00",
-      "title": "Critical etcd Auth Bypass Flaw Lets Attackers Access Sensitive Cluster APIs Without Authorization"
+      "id": "axzwpg0000",
+      "link": "https://cyberpress.org/botnet-admin-leak-exposes-network/",
+      "filePath": "cyberpress/pages/2026/04/14/wide-open-botnet-attackers-leave-credential-stuffing-network-vulnerable-via-full.md",
+      "committedAt": "2026-04-14T10:00:30.648-05:00",
+      "title": "Wide Open Botnet Attackers Leave Credential Stuffing Network Vulnerable via Full Admin Leaks"
     }
   ]
 }
