@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T18:00:24.517-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
-  "lastId": "nbgvtf0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/14/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach.md",
+  "updatedAt": "2026-04-14T19:00:51.232-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
+  "lastId": "nqy7oc0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/14/microsoft-adds-windows-protections-for-malicious-remote-desktop-files.md",
   "items": [
     {
-      "id": "nbgvtf0000",
-      "link": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
-      "filePath": "bleepingcomp/pages/2026/04/14/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach.md",
-      "committedAt": "2026-04-14T18:00:24.517-04:00",
-      "title": "Crypto-exchange Kraken extorted by hackers after insider breach"
+      "id": "nqy7oc0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
+      "filePath": "bleepingcomp/pages/2026/04/14/microsoft-adds-windows-protections-for-malicious-remote-desktop-files.md",
+      "committedAt": "2026-04-14T19:00:51.232-04:00",
+      "title": "Microsoft adds Windows protections for malicious Remote Desktop files"
     }
   ]
 }
