@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T08:00:35.789-05:00",
-  "lastLink": "https://cyberpress.org/obsidian-plugin-becomes-malware-launcher/",
-  "lastId": "12crhux000",
-  "lastFilePath": "cyberpress/pages/2026/04/14/obsidians-shell-commands-plugin-turned-into-universal-malware-launcher.md",
+  "updatedAt": "2026-04-14T09:00:25.168-05:00",
+  "lastLink": "https://cyberpress.org/etcd-auth-bypass-flaw/",
+  "lastId": "o2429a0000",
+  "lastFilePath": "cyberpress/pages/2026/04/14/critical-etcd-auth-bypass-flaw-lets-attackers-access-sensitive-cluster-apis-with.md",
   "items": [
     {
-      "id": "12crhux000",
-      "link": "https://cyberpress.org/obsidian-plugin-becomes-malware-launcher/",
-      "filePath": "cyberpress/pages/2026/04/14/obsidians-shell-commands-plugin-turned-into-universal-malware-launcher.md",
-      "committedAt": "2026-04-14T08:00:35.789-05:00",
-      "title": "Obsidian’s Shell Commands Plugin Turned Into Universal Malware Launcher"
+      "id": "o2429a0000",
+      "link": "https://cyberpress.org/etcd-auth-bypass-flaw/",
+      "filePath": "cyberpress/pages/2026/04/14/critical-etcd-auth-bypass-flaw-lets-attackers-access-sensitive-cluster-apis-with.md",
+      "committedAt": "2026-04-14T09:00:25.168-05:00",
+      "title": "Critical etcd Auth Bypass Flaw Lets Attackers Access Sensitive Cluster APIs Without Authorization"
     }
   ]
 }
