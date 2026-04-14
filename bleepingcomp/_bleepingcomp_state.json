@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T19:00:46.172-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
-  "lastId": "775l1v0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/13/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow.md",
+  "updatedAt": "2026-04-14T11:00:48.359-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
+  "lastId": "wtq7mm0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/14/5-ways-zero-trust-maximizes-identity-security.md",
   "items": [
     {
-      "id": "775l1v0000",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
-      "filePath": "bleepingcomp/pages/2026/04/13/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow.md",
-      "committedAt": "2026-04-13T19:00:46.172-04:00",
-      "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow"
+      "id": "wtq7mm0000",
+      "link": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
+      "filePath": "bleepingcomp/pages/2026/04/14/5-ways-zero-trust-maximizes-identity-security.md",
+      "committedAt": "2026-04-14T11:00:48.359-04:00",
+      "title": "5 Ways Zero Trust Maximizes Identity Security"
     }
   ]
 }
