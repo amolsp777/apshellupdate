@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T17:00:30.368-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
-  "lastId": "1adbsvw000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/14/windows-11-cumulative-updates-kb5083769-kb5082052-released.md",
+  "updatedAt": "2026-04-14T18:00:24.517-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
+  "lastId": "nbgvtf0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/14/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach.md",
   "items": [
     {
-      "id": "1adbsvw000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
-      "filePath": "bleepingcomp/pages/2026/04/14/windows-11-cumulative-updates-kb5083769-kb5082052-released.md",
-      "committedAt": "2026-04-14T17:00:30.368-04:00",
-      "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released"
+      "id": "nbgvtf0000",
+      "link": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
+      "filePath": "bleepingcomp/pages/2026/04/14/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach.md",
+      "committedAt": "2026-04-14T18:00:24.517-04:00",
+      "title": "Crypto-exchange Kraken extorted by hackers after insider breach"
     }
   ]
 }
