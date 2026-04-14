@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T13:00:47.720-05:00",
-  "lastLink": "https://cyberpress.org/cross-platform-threats-soc/",
-  "lastId": "1ip97mp000",
-  "lastFilePath": "cyberpress/pages/2026/04/14/why-cross-platform-threats-are-becoming-a-bigger-problem-for-soc-teams.md",
+  "updatedAt": "2026-04-14T14:00:52.246-05:00",
+  "lastLink": "https://cyberpress.org/janela-campaign-uses-fake-installers/",
+  "lastId": "gnuv0h0000",
+  "lastFilePath": "cyberpress/pages/2026/04/14/new-janela-campaign-deploys-deceptive-msi-files-malicious-extensions-for-stealth.md",
   "items": [
     {
-      "id": "1ip97mp000",
-      "link": "https://cyberpress.org/cross-platform-threats-soc/",
-      "filePath": "cyberpress/pages/2026/04/14/why-cross-platform-threats-are-becoming-a-bigger-problem-for-soc-teams.md",
-      "committedAt": "2026-04-14T13:00:47.720-05:00",
-      "title": "Why Cross-Platform Threats Are Becoming a Bigger Problem for SOC Teams"
+      "id": "gnuv0h0000",
+      "link": "https://cyberpress.org/janela-campaign-uses-fake-installers/",
+      "filePath": "cyberpress/pages/2026/04/14/new-janela-campaign-deploys-deceptive-msi-files-malicious-extensions-for-stealth.md",
+      "committedAt": "2026-04-14T14:00:52.246-05:00",
+      "title": "New Janela Campaign Deploys Deceptive MSI Files, Malicious Extensions For Stealthy Theft"
     }
   ]
 }
