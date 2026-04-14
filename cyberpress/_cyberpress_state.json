@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T06:00:46.513-05:00",
-  "lastLink": "https://cyberpress.org/okta-targeted-in-cyber-campaigns/",
-  "lastId": "1h6cv9q000",
-  "lastFilePath": "cyberpress/pages/2026/04/14/okta-under-siege-attackers-call-help-desks-to-bypass-mfa-and-steal-saas-data.md",
+  "updatedAt": "2026-04-14T07:00:13.939-05:00",
+  "lastLink": "https://cyberpress.org/showdoc-rce-vulnerability/",
+  "lastId": "1u3jt30000",
+  "lastFilePath": "cyberpress/pages/2026/04/14/critical-showdoc-rce-vulnerability-actively-exploited-in-the-wild.md",
   "items": [
     {
-      "id": "1h6cv9q000",
-      "link": "https://cyberpress.org/okta-targeted-in-cyber-campaigns/",
-      "filePath": "cyberpress/pages/2026/04/14/okta-under-siege-attackers-call-help-desks-to-bypass-mfa-and-steal-saas-data.md",
-      "committedAt": "2026-04-14T06:00:46.513-05:00",
-      "title": "Okta Under Siege Attackers Call Help Desks To Bypass MFA and Steal SaaS Data"
+      "id": "1u3jt30000",
+      "link": "https://cyberpress.org/showdoc-rce-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/14/critical-showdoc-rce-vulnerability-actively-exploited-in-the-wild.md",
+      "committedAt": "2026-04-14T07:00:13.939-05:00",
+      "title": "Critical ShowDoc RCE Vulnerability Actively Exploited in the Wild"
     }
   ]
 }
