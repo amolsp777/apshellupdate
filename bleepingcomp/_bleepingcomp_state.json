@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T15:00:09.183-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
-  "lastId": "2ymnzy0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/14/mcgraw-hill-confirms-data-breach-following-extortion-threat.md",
+  "updatedAt": "2026-04-14T16:00:24.930-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
+  "lastId": "8vc6r50000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/14/microsoft-releases-windows-10-kb5082200-extended-security-update.md",
   "items": [
     {
-      "id": "2ymnzy0000",
-      "link": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
-      "filePath": "bleepingcomp/pages/2026/04/14/mcgraw-hill-confirms-data-breach-following-extortion-threat.md",
-      "committedAt": "2026-04-14T15:00:09.183-04:00",
-      "title": "McGraw-Hill confirms data breach following extortion threat"
+      "id": "8vc6r50000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
+      "filePath": "bleepingcomp/pages/2026/04/14/microsoft-releases-windows-10-kb5082200-extended-security-update.md",
+      "committedAt": "2026-04-14T16:00:24.930-04:00",
+      "title": "Microsoft releases Windows 10 KB5082200 extended security update"
     }
   ]
 }
