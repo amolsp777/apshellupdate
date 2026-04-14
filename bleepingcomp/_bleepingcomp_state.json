@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T11:00:48.359-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
-  "lastId": "wtq7mm0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/14/5-ways-zero-trust-maximizes-identity-security.md",
+  "updatedAt": "2026-04-14T12:00:42.277-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/",
+  "lastId": "avzj0x0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/14/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts.md",
   "items": [
     {
-      "id": "wtq7mm0000",
-      "link": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
-      "filePath": "bleepingcomp/pages/2026/04/14/5-ways-zero-trust-maximizes-identity-security.md",
-      "committedAt": "2026-04-14T11:00:48.359-04:00",
-      "title": "5 Ways Zero Trust Maximizes Identity Security"
+      "id": "avzj0x0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/",
+      "filePath": "bleepingcomp/pages/2026/04/14/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts.md",
+      "committedAt": "2026-04-14T12:00:42.277-04:00",
+      "title": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts"
     }
   ]
 }
