@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T02:00:19.794-05:00",
-  "lastLink": "https://cyberpress.org/rockstars-gta-data-breach-exposes-78-6-million-records-online/",
-  "lastId": "ak4yb20000",
-  "lastFilePath": "cyberpress/pages/2026/04/14/rockstars-gta-data-breach-exposes-786-million-records-online.md",
+  "updatedAt": "2026-04-14T03:00:35.833-05:00",
+  "lastLink": "https://cyberpress.org/synology-ssl-vpn-client-flaw/",
+  "lastId": "zaq0f80000",
+  "lastFilePath": "cyberpress/pages/2026/04/14/critical-synology-ssl-vpn-client-flaw-lets-remote-attackers-access-sensitive-fil.md",
   "items": [
     {
-      "id": "ak4yb20000",
-      "link": "https://cyberpress.org/rockstars-gta-data-breach-exposes-78-6-million-records-online/",
-      "filePath": "cyberpress/pages/2026/04/14/rockstars-gta-data-breach-exposes-786-million-records-online.md",
-      "committedAt": "2026-04-14T02:00:19.794-05:00",
-      "title": "Rockstar’s GTA Data Breach Exposes 78.6 Million Records Online"
+      "id": "zaq0f80000",
+      "link": "https://cyberpress.org/synology-ssl-vpn-client-flaw/",
+      "filePath": "cyberpress/pages/2026/04/14/critical-synology-ssl-vpn-client-flaw-lets-remote-attackers-access-sensitive-fil.md",
+      "committedAt": "2026-04-14T03:00:35.833-05:00",
+      "title": "Critical Synology SSL VPN Client Flaw Lets Remote Attackers Access Sensitive Files"
     }
   ]
 }
