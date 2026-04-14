@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T14:00:14.761-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
-  "lastId": "1pavi0t000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/14/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days.md",
+  "updatedAt": "2026-04-14T15:00:09.183-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
+  "lastId": "2ymnzy0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/14/mcgraw-hill-confirms-data-breach-following-extortion-threat.md",
   "items": [
     {
-      "id": "1pavi0t000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
-      "filePath": "bleepingcomp/pages/2026/04/14/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days.md",
-      "committedAt": "2026-04-14T14:00:14.761-04:00",
-      "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days"
+      "id": "2ymnzy0000",
+      "link": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
+      "filePath": "bleepingcomp/pages/2026/04/14/mcgraw-hill-confirms-data-breach-following-extortion-threat.md",
+      "committedAt": "2026-04-14T15:00:09.183-04:00",
+      "title": "McGraw-Hill confirms data breach following extortion threat"
     }
   ]
 }
