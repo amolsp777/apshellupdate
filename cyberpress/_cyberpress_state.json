@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T07:00:13.939-05:00",
-  "lastLink": "https://cyberpress.org/showdoc-rce-vulnerability/",
-  "lastId": "1u3jt30000",
-  "lastFilePath": "cyberpress/pages/2026/04/14/critical-showdoc-rce-vulnerability-actively-exploited-in-the-wild.md",
+  "updatedAt": "2026-04-14T08:00:35.789-05:00",
+  "lastLink": "https://cyberpress.org/obsidian-plugin-becomes-malware-launcher/",
+  "lastId": "12crhux000",
+  "lastFilePath": "cyberpress/pages/2026/04/14/obsidians-shell-commands-plugin-turned-into-universal-malware-launcher.md",
   "items": [
     {
-      "id": "1u3jt30000",
-      "link": "https://cyberpress.org/showdoc-rce-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/14/critical-showdoc-rce-vulnerability-actively-exploited-in-the-wild.md",
-      "committedAt": "2026-04-14T07:00:13.939-05:00",
-      "title": "Critical ShowDoc RCE Vulnerability Actively Exploited in the Wild"
+      "id": "12crhux000",
+      "link": "https://cyberpress.org/obsidian-plugin-becomes-malware-launcher/",
+      "filePath": "cyberpress/pages/2026/04/14/obsidians-shell-commands-plugin-turned-into-universal-malware-launcher.md",
+      "committedAt": "2026-04-14T08:00:35.789-05:00",
+      "title": "Obsidian’s Shell Commands Plugin Turned Into Universal Malware Launcher"
     }
   ]
 }
