@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T12:00:41.744-05:00",
-  "lastLink": "https://cyberpress.org/cisa-warns-of-microsoft-exchange-and-windows-clfs-flaws-exploited-in-attacks/",
-  "lastId": "cjm6610000",
-  "lastFilePath": "cyberpress/pages/2026/04/14/cisa-warns-of-microsoft-exchange-and-windows-clfs-flaws-exploited-in-attacks.md",
+  "updatedAt": "2026-04-14T13:00:47.720-05:00",
+  "lastLink": "https://cyberpress.org/cross-platform-threats-soc/",
+  "lastId": "1ip97mp000",
+  "lastFilePath": "cyberpress/pages/2026/04/14/why-cross-platform-threats-are-becoming-a-bigger-problem-for-soc-teams.md",
   "items": [
     {
-      "id": "cjm6610000",
-      "link": "https://cyberpress.org/cisa-warns-of-microsoft-exchange-and-windows-clfs-flaws-exploited-in-attacks/",
-      "filePath": "cyberpress/pages/2026/04/14/cisa-warns-of-microsoft-exchange-and-windows-clfs-flaws-exploited-in-attacks.md",
-      "committedAt": "2026-04-14T12:00:41.744-05:00",
-      "title": "CISA Warns of Microsoft Exchange and Windows CLFS Flaws Exploited in Attacks"
+      "id": "1ip97mp000",
+      "link": "https://cyberpress.org/cross-platform-threats-soc/",
+      "filePath": "cyberpress/pages/2026/04/14/why-cross-platform-threats-are-becoming-a-bigger-problem-for-soc-teams.md",
+      "committedAt": "2026-04-14T13:00:47.720-05:00",
+      "title": "Why Cross-Platform Threats Are Becoming a Bigger Problem for SOC Teams"
     }
   ]
 }
