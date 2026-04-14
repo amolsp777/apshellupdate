@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T04:00:14.240-05:00",
-  "lastLink": "https://cyberpress.org/cisa-warns-of-fortinet-sql-injection-flaw-actively-exploited-in-attacks/",
-  "lastId": "1mzuypg000",
-  "lastFilePath": "cyberpress/pages/2026/04/14/cisa-warns-of-fortinet-sql-injection-flaw-actively-exploited-in-attacks.md",
+  "updatedAt": "2026-04-14T05:00:14.323-05:00",
+  "lastLink": "https://cyberpress.org/sap-patch-day-fixes-critical-sql-injection-dos-and-code-injection-flaws/",
+  "lastId": "1vmvry1000",
+  "lastFilePath": "cyberpress/pages/2026/04/14/sap-patch-day-fixes-critical-sql-injection-dos-and-code-injection-flaws.md",
   "items": [
     {
-      "id": "1mzuypg000",
-      "link": "https://cyberpress.org/cisa-warns-of-fortinet-sql-injection-flaw-actively-exploited-in-attacks/",
-      "filePath": "cyberpress/pages/2026/04/14/cisa-warns-of-fortinet-sql-injection-flaw-actively-exploited-in-attacks.md",
-      "committedAt": "2026-04-14T04:00:14.240-05:00",
-      "title": "CISA Warns of Fortinet SQL Injection Flaw Actively Exploited in Attacks"
+      "id": "1vmvry1000",
+      "link": "https://cyberpress.org/sap-patch-day-fixes-critical-sql-injection-dos-and-code-injection-flaws/",
+      "filePath": "cyberpress/pages/2026/04/14/sap-patch-day-fixes-critical-sql-injection-dos-and-code-injection-flaws.md",
+      "committedAt": "2026-04-14T05:00:14.323-05:00",
+      "title": "SAP Patch Day Fixes Critical SQL Injection, DoS, and Code Injection Flaws"
     }
   ]
 }
