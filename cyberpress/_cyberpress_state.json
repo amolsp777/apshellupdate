@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T02:00:14.030-05:00",
-  "lastLink": "https://cyberpress.org/dragon-boss-update-breach/",
-  "lastId": "1yryva7000",
-  "lastFilePath": "cyberpress/pages/2026/04/15/25000-endpoints-left-exposed-in-dragon-boss-solutions-domain-update-breach.md",
+  "updatedAt": "2026-04-15T03:00:13.823-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-april-2026-patch-tuesday-fixes-168-flaws-includes-actively-exploited-zero-day/",
+  "lastId": "18kdcmt000",
+  "lastFilePath": "cyberpress/pages/2026/04/15/microsoft-april-2026-patch-tuesday-fixes-168-flaws-includes-actively-exploited-z.md",
   "items": [
     {
-      "id": "1yryva7000",
-      "link": "https://cyberpress.org/dragon-boss-update-breach/",
-      "filePath": "cyberpress/pages/2026/04/15/25000-endpoints-left-exposed-in-dragon-boss-solutions-domain-update-breach.md",
-      "committedAt": "2026-04-15T02:00:14.030-05:00",
-      "title": "25,000+ Endpoints Left Exposed In Dragon Boss Solutions Domain Update Breach"
+      "id": "18kdcmt000",
+      "link": "https://cyberpress.org/microsoft-april-2026-patch-tuesday-fixes-168-flaws-includes-actively-exploited-zero-day/",
+      "filePath": "cyberpress/pages/2026/04/15/microsoft-april-2026-patch-tuesday-fixes-168-flaws-includes-actively-exploited-z.md",
+      "committedAt": "2026-04-15T03:00:13.823-05:00",
+      "title": "Microsoft April 2026 Patch Tuesday Fixes 168 Flaws, Includes Actively Exploited Zero-Day"
     }
   ]
 }
