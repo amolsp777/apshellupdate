@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T18:00:20.363-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
-  "lastId": "18awx8f000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/15/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals.md",
+  "updatedAt": "2026-04-15T19:00:03.336-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
+  "lastId": "16xy1yr000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/15/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild.md",
   "items": [
     {
-      "id": "18awx8f000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
-      "filePath": "bleepingcomp/pages/2026/04/15/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals.md",
-      "committedAt": "2026-04-15T18:00:20.363-04:00",
-      "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals"
+      "id": "16xy1yr000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
+      "filePath": "bleepingcomp/pages/2026/04/15/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild.md",
+      "committedAt": "2026-04-15T19:00:03.336-04:00",
+      "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild"
     }
   ]
 }
