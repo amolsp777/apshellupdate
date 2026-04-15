@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T17:00:19.668-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
-  "lastId": "191pjj2000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/15/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites.md",
+  "updatedAt": "2026-04-15T18:00:20.363-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
+  "lastId": "18awx8f000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/15/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals.md",
   "items": [
     {
-      "id": "191pjj2000",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
-      "filePath": "bleepingcomp/pages/2026/04/15/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites.md",
-      "committedAt": "2026-04-15T17:00:19.668-04:00",
-      "title": "WordPress plugin suite hacked to push malware to thousands of sites"
+      "id": "18awx8f000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
+      "filePath": "bleepingcomp/pages/2026/04/15/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals.md",
+      "committedAt": "2026-04-15T18:00:20.363-04:00",
+      "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals"
     }
   ]
 }
