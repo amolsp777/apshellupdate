@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T08:00:19.993-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
-  "lastId": "15joq90000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/15/microsoft-april-updates-trigger-bitlocker-key-prompts-on-some-servers.md",
+  "updatedAt": "2026-04-15T11:00:03.502-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
+  "lastId": "1ryccpf000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/15/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks.md",
   "items": [
     {
-      "id": "15joq90000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
-      "filePath": "bleepingcomp/pages/2026/04/15/microsoft-april-updates-trigger-bitlocker-key-prompts-on-some-servers.md",
-      "committedAt": "2026-04-15T08:00:19.993-04:00",
-      "title": "Microsoft: April updates trigger BitLocker key prompts on some servers"
+      "id": "1ryccpf000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/15/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks.md",
+      "committedAt": "2026-04-15T11:00:03.502-04:00",
+      "title": "CISA flags Windows Task Host vulnerability as exploited in attacks"
     }
   ]
 }
