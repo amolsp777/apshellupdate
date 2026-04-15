@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T11:00:03.502-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
-  "lastId": "1ryccpf000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/15/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks.md",
+  "updatedAt": "2026-04-15T12:01:18.231-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
+  "lastId": "mfo4ax0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/15/rolling-networks-securing-the-transportation-sector.md",
   "items": [
     {
-      "id": "1ryccpf000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/15/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks.md",
-      "committedAt": "2026-04-15T11:00:03.502-04:00",
-      "title": "CISA flags Windows Task Host vulnerability as exploited in attacks"
+      "id": "mfo4ax0000",
+      "link": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
+      "filePath": "bleepingcomp/pages/2026/04/15/rolling-networks-securing-the-transportation-sector.md",
+      "committedAt": "2026-04-15T12:01:18.231-04:00",
+      "title": "Rolling Networks: Securing the Transportation Sector"
     }
   ]
 }
