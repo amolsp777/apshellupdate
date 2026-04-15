@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T13:00:41.677-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
-  "lastId": "htoqwn0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/15/microsoft-pays-23m-for-cloud-and-ai-flaws-at-zero-day-quest.md",
+  "updatedAt": "2026-04-15T14:00:41.034-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
+  "lastId": "h0jkzi0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/15/signed-software-abused-to-deploy-antivirus-killing-scripts.md",
   "items": [
     {
-      "id": "htoqwn0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
-      "filePath": "bleepingcomp/pages/2026/04/15/microsoft-pays-23m-for-cloud-and-ai-flaws-at-zero-day-quest.md",
-      "committedAt": "2026-04-15T13:00:41.677-04:00",
-      "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest"
+      "id": "h0jkzi0000",
+      "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
+      "filePath": "bleepingcomp/pages/2026/04/15/signed-software-abused-to-deploy-antivirus-killing-scripts.md",
+      "committedAt": "2026-04-15T14:00:41.034-04:00",
+      "title": "Signed software abused to deploy antivirus-killing scripts"
     }
   ]
 }
