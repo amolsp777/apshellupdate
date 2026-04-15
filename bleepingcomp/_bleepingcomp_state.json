@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T12:01:18.231-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
-  "lastId": "mfo4ax0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/15/rolling-networks-securing-the-transportation-sector.md",
+  "updatedAt": "2026-04-15T13:00:41.677-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
+  "lastId": "htoqwn0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/15/microsoft-pays-23m-for-cloud-and-ai-flaws-at-zero-day-quest.md",
   "items": [
     {
-      "id": "mfo4ax0000",
-      "link": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
-      "filePath": "bleepingcomp/pages/2026/04/15/rolling-networks-securing-the-transportation-sector.md",
-      "committedAt": "2026-04-15T12:01:18.231-04:00",
-      "title": "Rolling Networks: Securing the Transportation Sector"
+      "id": "htoqwn0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
+      "filePath": "bleepingcomp/pages/2026/04/15/microsoft-pays-23m-for-cloud-and-ai-flaws-at-zero-day-quest.md",
+      "committedAt": "2026-04-15T13:00:41.677-04:00",
+      "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest"
     }
   ]
 }
