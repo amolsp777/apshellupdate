@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T06:00:35.604-05:00",
-  "lastLink": "https://cyberpress.org/openai-launches-gpt-5-4-cyber/",
-  "lastId": "nf324z0000",
-  "lastFilePath": "cyberpress/pages/2026/04/15/openai-launches-gpt-54-cyber-with-reverse-engineering-and-malware-analysis-featu.md",
+  "updatedAt": "2026-04-15T07:00:24.719-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-releases-kb5083769-cumulative-update-for-windows-11-25h2-and-24h2/",
+  "lastId": "1c2xt3o000",
+  "lastFilePath": "cyberpress/pages/2026/04/15/microsoft-releases-kb5083769-cumulative-update-for-windows-11-25h2-and-24h2.md",
   "items": [
     {
-      "id": "nf324z0000",
-      "link": "https://cyberpress.org/openai-launches-gpt-5-4-cyber/",
-      "filePath": "cyberpress/pages/2026/04/15/openai-launches-gpt-54-cyber-with-reverse-engineering-and-malware-analysis-featu.md",
-      "committedAt": "2026-04-15T06:00:35.604-05:00",
-      "title": "OpenAI Launches GPT-5.4-Cyber with Reverse Engineering and Malware Analysis Features"
+      "id": "1c2xt3o000",
+      "link": "https://cyberpress.org/microsoft-releases-kb5083769-cumulative-update-for-windows-11-25h2-and-24h2/",
+      "filePath": "cyberpress/pages/2026/04/15/microsoft-releases-kb5083769-cumulative-update-for-windows-11-25h2-and-24h2.md",
+      "committedAt": "2026-04-15T07:00:24.719-05:00",
+      "title": "Microsoft Releases KB5083769 Cumulative Update for Windows 11 25H2 and 24H2"
     }
   ]
 }
