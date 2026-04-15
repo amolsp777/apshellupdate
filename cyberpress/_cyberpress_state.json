@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T08:00:19.439-05:00",
-  "lastLink": "https://cyberpress.org/windows-active-directory-vulnerability/",
-  "lastId": "1y32lp8000",
-  "lastFilePath": "cyberpress/pages/2026/04/15/windows-active-directory-vulnerability-allows-attackers-to-execute-malicious-cod.md",
+  "updatedAt": "2026-04-15T09:00:30.855-05:00",
+  "lastLink": "https://cyberpress.org/trusted-plugins-spread-malware/",
+  "lastId": "1du7irg000",
+  "lastFilePath": "cyberpress/pages/2026/04/15/trusted-wordpress-plugins-weaponized-in-delayed-malware-campaign.md",
   "items": [
     {
-      "id": "1y32lp8000",
-      "link": "https://cyberpress.org/windows-active-directory-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/15/windows-active-directory-vulnerability-allows-attackers-to-execute-malicious-cod.md",
-      "committedAt": "2026-04-15T08:00:19.439-05:00",
-      "title": "Windows Active Directory Vulnerability Allows Attackers to Execute Malicious Code"
+      "id": "1du7irg000",
+      "link": "https://cyberpress.org/trusted-plugins-spread-malware/",
+      "filePath": "cyberpress/pages/2026/04/15/trusted-wordpress-plugins-weaponized-in-delayed-malware-campaign.md",
+      "committedAt": "2026-04-15T09:00:30.855-05:00",
+      "title": "Trusted WordPress Plugins Weaponized In Delayed Malware Campaign"
     }
   ]
 }
