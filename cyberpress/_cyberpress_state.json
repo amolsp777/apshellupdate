@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T04:00:19.410-05:00",
-  "lastLink": "https://cyberpress.org/fortinet-patches-11-vulnerabilities-across-fortisandbox-fortios-fortianalyzer-and-fortimanager/",
-  "lastId": "55aj890000",
-  "lastFilePath": "cyberpress/pages/2026/04/15/fortinet-patches-11-vulnerabilities-across-fortisandbox-fortios-fortianalyzer-an.md",
+  "updatedAt": "2026-04-15T05:00:14.059-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-sharepoint-server-zero-day-vulnerability/",
+  "lastId": "192ph7n000",
+  "lastFilePath": "cyberpress/pages/2026/04/15/microsoft-sharepoint-server-zero-day-vulnerability-actively-exploited-in-attacks.md",
   "items": [
     {
-      "id": "55aj890000",
-      "link": "https://cyberpress.org/fortinet-patches-11-vulnerabilities-across-fortisandbox-fortios-fortianalyzer-and-fortimanager/",
-      "filePath": "cyberpress/pages/2026/04/15/fortinet-patches-11-vulnerabilities-across-fortisandbox-fortios-fortianalyzer-an.md",
-      "committedAt": "2026-04-15T04:00:19.410-05:00",
-      "title": "Fortinet Patches 11 Vulnerabilities Across FortiSandbox, FortiOS, FortiAnalyzer and FortiManager"
+      "id": "192ph7n000",
+      "link": "https://cyberpress.org/microsoft-sharepoint-server-zero-day-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/15/microsoft-sharepoint-server-zero-day-vulnerability-actively-exploited-in-attacks.md",
+      "committedAt": "2026-04-15T05:00:14.059-05:00",
+      "title": "Microsoft SharePoint Server Zero-Day Vulnerability Actively Exploited in Attacks"
     }
   ]
 }
