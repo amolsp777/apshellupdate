@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T03:00:13.823-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-april-2026-patch-tuesday-fixes-168-flaws-includes-actively-exploited-zero-day/",
-  "lastId": "18kdcmt000",
-  "lastFilePath": "cyberpress/pages/2026/04/15/microsoft-april-2026-patch-tuesday-fixes-168-flaws-includes-actively-exploited-z.md",
+  "updatedAt": "2026-04-15T04:00:19.410-05:00",
+  "lastLink": "https://cyberpress.org/fortinet-patches-11-vulnerabilities-across-fortisandbox-fortios-fortianalyzer-and-fortimanager/",
+  "lastId": "55aj890000",
+  "lastFilePath": "cyberpress/pages/2026/04/15/fortinet-patches-11-vulnerabilities-across-fortisandbox-fortios-fortianalyzer-an.md",
   "items": [
     {
-      "id": "18kdcmt000",
-      "link": "https://cyberpress.org/microsoft-april-2026-patch-tuesday-fixes-168-flaws-includes-actively-exploited-zero-day/",
-      "filePath": "cyberpress/pages/2026/04/15/microsoft-april-2026-patch-tuesday-fixes-168-flaws-includes-actively-exploited-z.md",
-      "committedAt": "2026-04-15T03:00:13.823-05:00",
-      "title": "Microsoft April 2026 Patch Tuesday Fixes 168 Flaws, Includes Actively Exploited Zero-Day"
+      "id": "55aj890000",
+      "link": "https://cyberpress.org/fortinet-patches-11-vulnerabilities-across-fortisandbox-fortios-fortianalyzer-and-fortimanager/",
+      "filePath": "cyberpress/pages/2026/04/15/fortinet-patches-11-vulnerabilities-across-fortisandbox-fortios-fortianalyzer-an.md",
+      "committedAt": "2026-04-15T04:00:19.410-05:00",
+      "title": "Fortinet Patches 11 Vulnerabilities Across FortiSandbox, FortiOS, FortiAnalyzer and FortiManager"
     }
   ]
 }
