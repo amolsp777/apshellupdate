@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T19:00:51.232-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
-  "lastId": "nqy7oc0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/14/microsoft-adds-windows-protections-for-malicious-remote-desktop-files.md",
+  "updatedAt": "2026-04-14T20:00:56.190-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
+  "lastId": "zec4ta0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/14/over-100-chrome-web-store-extensions-steal-user-accounts-data.md",
   "items": [
     {
-      "id": "nqy7oc0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
-      "filePath": "bleepingcomp/pages/2026/04/14/microsoft-adds-windows-protections-for-malicious-remote-desktop-files.md",
-      "committedAt": "2026-04-14T19:00:51.232-04:00",
-      "title": "Microsoft adds Windows protections for malicious Remote Desktop files"
+      "id": "zec4ta0000",
+      "link": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
+      "filePath": "bleepingcomp/pages/2026/04/14/over-100-chrome-web-store-extensions-steal-user-accounts-data.md",
+      "committedAt": "2026-04-14T20:00:56.190-04:00",
+      "title": "Over 100 Chrome Web Store extensions steal user accounts, data"
     }
   ]
 }
