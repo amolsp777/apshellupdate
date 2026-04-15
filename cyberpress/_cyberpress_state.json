@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T07:00:24.719-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-releases-kb5083769-cumulative-update-for-windows-11-25h2-and-24h2/",
-  "lastId": "1c2xt3o000",
-  "lastFilePath": "cyberpress/pages/2026/04/15/microsoft-releases-kb5083769-cumulative-update-for-windows-11-25h2-and-24h2.md",
+  "updatedAt": "2026-04-15T08:00:19.439-05:00",
+  "lastLink": "https://cyberpress.org/windows-active-directory-vulnerability/",
+  "lastId": "1y32lp8000",
+  "lastFilePath": "cyberpress/pages/2026/04/15/windows-active-directory-vulnerability-allows-attackers-to-execute-malicious-cod.md",
   "items": [
     {
-      "id": "1c2xt3o000",
-      "link": "https://cyberpress.org/microsoft-releases-kb5083769-cumulative-update-for-windows-11-25h2-and-24h2/",
-      "filePath": "cyberpress/pages/2026/04/15/microsoft-releases-kb5083769-cumulative-update-for-windows-11-25h2-and-24h2.md",
-      "committedAt": "2026-04-15T07:00:24.719-05:00",
-      "title": "Microsoft Releases KB5083769 Cumulative Update for Windows 11 25H2 and 24H2"
+      "id": "1y32lp8000",
+      "link": "https://cyberpress.org/windows-active-directory-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/15/windows-active-directory-vulnerability-allows-attackers-to-execute-malicious-cod.md",
+      "committedAt": "2026-04-15T08:00:19.439-05:00",
+      "title": "Windows Active Directory Vulnerability Allows Attackers to Execute Malicious Code"
     }
   ]
 }
