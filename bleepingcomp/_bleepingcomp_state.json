@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T20:00:56.190-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
-  "lastId": "zec4ta0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/14/over-100-chrome-web-store-extensions-steal-user-accounts-data.md",
+  "updatedAt": "2026-04-15T07:00:52.079-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
+  "lastId": "r65hi40000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/15/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades.md",
   "items": [
     {
-      "id": "zec4ta0000",
-      "link": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
-      "filePath": "bleepingcomp/pages/2026/04/14/over-100-chrome-web-store-extensions-steal-user-accounts-data.md",
-      "committedAt": "2026-04-14T20:00:56.190-04:00",
-      "title": "Over 100 Chrome Web Store extensions steal user accounts, data"
+      "id": "r65hi40000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
+      "filePath": "bleepingcomp/pages/2026/04/15/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades.md",
+      "committedAt": "2026-04-15T07:00:52.079-04:00",
+      "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades"
     }
   ]
 }
