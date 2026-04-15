@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T13:00:51.655-05:00",
-  "lastLink": "https://cyberpress.org/google-uses-rust-in-pixel-10/",
-  "lastId": "inftsk0000",
-  "lastFilePath": "cyberpress/pages/2026/04/15/google-uses-rust-in-pixel-10-modem-firmware-to-eliminate-memory-safety-bugs.md",
+  "updatedAt": "2026-04-15T14:00:57.415-05:00",
+  "lastLink": "https://cyberpress.org/google-cloud-delivers-remcos/",
+  "lastId": "rjxouq0000",
+  "lastFilePath": "cyberpress/pages/2026/04/15/remcos-rat-delivered-through-google-cloud-storage-in-email-evasion-campaign.md",
   "items": [
     {
-      "id": "inftsk0000",
-      "link": "https://cyberpress.org/google-uses-rust-in-pixel-10/",
-      "filePath": "cyberpress/pages/2026/04/15/google-uses-rust-in-pixel-10-modem-firmware-to-eliminate-memory-safety-bugs.md",
-      "committedAt": "2026-04-15T13:00:51.655-05:00",
-      "title": "Google Uses Rust in Pixel 10 Modem Firmware to Eliminate Memory-Safety Bugs"
+      "id": "rjxouq0000",
+      "link": "https://cyberpress.org/google-cloud-delivers-remcos/",
+      "filePath": "cyberpress/pages/2026/04/15/remcos-rat-delivered-through-google-cloud-storage-in-email-evasion-campaign.md",
+      "committedAt": "2026-04-15T14:00:57.415-05:00",
+      "title": "Remcos RAT Delivered Through Google Cloud Storage In Email Evasion Campaign"
     }
   ]
 }
