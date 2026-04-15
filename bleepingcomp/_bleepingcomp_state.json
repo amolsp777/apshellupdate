@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T07:00:52.079-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
-  "lastId": "r65hi40000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/15/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades.md",
+  "updatedAt": "2026-04-15T08:00:19.993-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
+  "lastId": "15joq90000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/15/microsoft-april-updates-trigger-bitlocker-key-prompts-on-some-servers.md",
   "items": [
     {
-      "id": "r65hi40000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
-      "filePath": "bleepingcomp/pages/2026/04/15/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades.md",
-      "committedAt": "2026-04-15T07:00:52.079-04:00",
-      "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades"
+      "id": "15joq90000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
+      "filePath": "bleepingcomp/pages/2026/04/15/microsoft-april-updates-trigger-bitlocker-key-prompts-on-some-servers.md",
+      "committedAt": "2026-04-15T08:00:19.993-04:00",
+      "title": "Microsoft: April updates trigger BitLocker key prompts on some servers"
     }
   ]
 }
