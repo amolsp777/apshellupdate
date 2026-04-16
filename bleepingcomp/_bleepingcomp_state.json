@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T17:00:08.753-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
-  "lastId": "1ezxie5000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/16/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges.md",
+  "updatedAt": "2026-04-16T19:00:24.349-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
+  "lastId": "pymctb0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/16/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains.md",
   "items": [
     {
-      "id": "1ezxie5000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
-      "filePath": "bleepingcomp/pages/2026/04/16/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges.md",
-      "committedAt": "2026-04-16T17:00:08.753-04:00",
-      "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges"
+      "id": "pymctb0000",
+      "link": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
+      "filePath": "bleepingcomp/pages/2026/04/16/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains.md",
+      "committedAt": "2026-04-16T19:00:24.349-04:00",
+      "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains"
     }
   ]
 }
