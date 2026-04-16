@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T12:00:47.531-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/",
-  "lastId": "103qyrw000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/16/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform.md",
+  "updatedAt": "2026-04-16T13:00:09.129-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
+  "lastId": "1bjkaam000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/16/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face.md",
   "items": [
     {
-      "id": "103qyrw000",
-      "link": "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/",
-      "filePath": "bleepingcomp/pages/2026/04/16/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform.md",
-      "committedAt": "2026-04-16T12:00:47.531-04:00",
-      "title": "Google expands Gemini AI use to fight malicious ads on its platform"
+      "id": "1bjkaam000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
+      "filePath": "bleepingcomp/pages/2026/04/16/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face.md",
+      "committedAt": "2026-04-16T13:00:09.129-04:00",
+      "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face"
     }
   ]
 }
