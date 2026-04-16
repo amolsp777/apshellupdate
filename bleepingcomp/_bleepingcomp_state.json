@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T14:00:58.124-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/",
-  "lastId": "5rqifo0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/16/most-ai-socs-are-just-faster-triage-thats-not-enough.md",
+  "updatedAt": "2026-04-16T17:00:08.753-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
+  "lastId": "1ezxie5000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/16/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges.md",
   "items": [
     {
-      "id": "5rqifo0000",
-      "link": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/",
-      "filePath": "bleepingcomp/pages/2026/04/16/most-ai-socs-are-just-faster-triage-thats-not-enough.md",
-      "committedAt": "2026-04-16T14:00:58.124-04:00",
-      "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough."
+      "id": "1ezxie5000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
+      "filePath": "bleepingcomp/pages/2026/04/16/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges.md",
+      "committedAt": "2026-04-16T17:00:08.753-04:00",
+      "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges"
     }
   ]
 }
