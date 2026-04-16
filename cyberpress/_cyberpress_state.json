@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T08:00:30.004-05:00",
-  "lastLink": "https://cyberpress.org/n8n-webhook-malware-campaign/",
-  "lastId": "ow1id70000",
-  "lastFilePath": "cyberpress/pages/2026/04/16/malware-delivered-through-trusted-webhooks-in-new-n8n-abuse-campaign.md",
+  "updatedAt": "2026-04-16T09:00:37.247-05:00",
+  "lastLink": "https://cyberpress.org/windows-snipping-tool-vulnerability/",
+  "lastId": "155siry000",
+  "lastFilePath": "cyberpress/pages/2026/04/16/windows-snipping-tool-vulnerability-allows-attackers-to-perform-network-spoofing.md",
   "items": [
     {
-      "id": "ow1id70000",
-      "link": "https://cyberpress.org/n8n-webhook-malware-campaign/",
-      "filePath": "cyberpress/pages/2026/04/16/malware-delivered-through-trusted-webhooks-in-new-n8n-abuse-campaign.md",
-      "committedAt": "2026-04-16T08:00:30.004-05:00",
-      "title": "Malware Delivered Through Trusted Webhooks In New n8n Abuse Campaign"
+      "id": "155siry000",
+      "link": "https://cyberpress.org/windows-snipping-tool-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/16/windows-snipping-tool-vulnerability-allows-attackers-to-perform-network-spoofing.md",
+      "committedAt": "2026-04-16T09:00:37.247-05:00",
+      "title": "Windows Snipping Tool Vulnerability Allows Attackers to Perform Network Spoofing"
     }
   ]
 }
