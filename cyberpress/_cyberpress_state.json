@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T14:00:57.821-05:00",
-  "lastLink": "https://cyberpress.org/russian-hosting-c2-network/",
-  "lastId": "1iwxsd8000",
-  "lastFilePath": "cyberpress/pages/2026/04/16/researchers-map-1250-c2-servers-across-russian-hosting-providers.md",
+  "updatedAt": "2026-04-16T15:01:02.302-05:00",
+  "lastLink": "https://cyberpress.org/fake-reader-deploys-screenconnect/",
+  "lastId": "10hvtyl000",
+  "lastFilePath": "cyberpress/pages/2026/04/16/threat-actors-use-fake-adobe-reader-download-to-deploy-screenconnect.md",
   "items": [
     {
-      "id": "1iwxsd8000",
-      "link": "https://cyberpress.org/russian-hosting-c2-network/",
-      "filePath": "cyberpress/pages/2026/04/16/researchers-map-1250-c2-servers-across-russian-hosting-providers.md",
-      "committedAt": "2026-04-16T14:00:57.821-05:00",
-      "title": "Researchers Map 1,250+ C2 Servers Across Russian Hosting Providers"
+      "id": "10hvtyl000",
+      "link": "https://cyberpress.org/fake-reader-deploys-screenconnect/",
+      "filePath": "cyberpress/pages/2026/04/16/threat-actors-use-fake-adobe-reader-download-to-deploy-screenconnect.md",
+      "committedAt": "2026-04-16T15:01:02.302-05:00",
+      "title": "Threat Actors Use Fake Adobe Reader Download To Deploy ScreenConnect"
     }
   ]
 }
