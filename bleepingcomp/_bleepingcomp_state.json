@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T05:00:47.971-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/",
-  "lastId": "1rmgmwd000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/16/us-nationals-behind-dprk-it-worker-laptop-farm-sent-to-prison.md",
+  "updatedAt": "2026-04-16T07:00:09.110-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
+  "lastId": "18tgmk0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/16/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts.md",
   "items": [
     {
-      "id": "1rmgmwd000",
-      "link": "https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/",
-      "filePath": "bleepingcomp/pages/2026/04/16/us-nationals-behind-dprk-it-worker-laptop-farm-sent-to-prison.md",
-      "committedAt": "2026-04-16T05:00:47.971-04:00",
-      "title": "US nationals behind DPRK IT worker 'laptop farm' sent to prison"
+      "id": "18tgmk0000",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
+      "filePath": "bleepingcomp/pages/2026/04/16/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts.md",
+      "committedAt": "2026-04-16T07:00:09.110-04:00",
+      "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts"
     }
   ]
 }
