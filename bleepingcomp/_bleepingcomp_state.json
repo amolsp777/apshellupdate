@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T13:00:09.129-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
-  "lastId": "1bjkaam000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/16/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face.md",
+  "updatedAt": "2026-04-16T14:00:58.124-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/",
+  "lastId": "5rqifo0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/16/most-ai-socs-are-just-faster-triage-thats-not-enough.md",
   "items": [
     {
-      "id": "1bjkaam000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
-      "filePath": "bleepingcomp/pages/2026/04/16/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face.md",
-      "committedAt": "2026-04-16T13:00:09.129-04:00",
-      "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face"
+      "id": "5rqifo0000",
+      "link": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/",
+      "filePath": "bleepingcomp/pages/2026/04/16/most-ai-socs-are-just-faster-triage-thats-not-enough.md",
+      "committedAt": "2026-04-16T14:00:58.124-04:00",
+      "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough."
     }
   ]
 }
