@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T06:00:13.942-05:00",
-  "lastLink": "https://cyberpress.org/interlock-hits-cisco-zero-day/",
-  "lastId": "t8v8qa0000",
-  "lastFilePath": "cyberpress/pages/2026/04/16/interlock-exploits-cisco-fmc-zero-day-amid-31-high-impact-march-vulnerabilities.md",
+  "updatedAt": "2026-04-16T07:00:13.837-05:00",
+  "lastLink": "https://cyberpress.org/poc-exploit-released-for-microsoft-defender-0-day-vulnerability/",
+  "lastId": "80m1mh0000",
+  "lastFilePath": "cyberpress/pages/2026/04/16/poc-exploit-released-for-microsoft-defender-0-day-vulnerability.md",
   "items": [
     {
-      "id": "t8v8qa0000",
-      "link": "https://cyberpress.org/interlock-hits-cisco-zero-day/",
-      "filePath": "cyberpress/pages/2026/04/16/interlock-exploits-cisco-fmc-zero-day-amid-31-high-impact-march-vulnerabilities.md",
-      "committedAt": "2026-04-16T06:00:13.942-05:00",
-      "title": "Interlock Exploits Cisco FMC Zero-Day Amid 31 High-Impact March Vulnerabilities"
+      "id": "80m1mh0000",
+      "link": "https://cyberpress.org/poc-exploit-released-for-microsoft-defender-0-day-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/16/poc-exploit-released-for-microsoft-defender-0-day-vulnerability.md",
+      "committedAt": "2026-04-16T07:00:13.837-05:00",
+      "title": "PoC Exploit Released for Microsoft Defender 0-Day Vulnerability"
     }
   ]
 }
