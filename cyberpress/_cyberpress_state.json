@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T11:00:41.551-05:00",
-  "lastLink": "https://cyberpress.org/uac-0247-data-theft-campaign/",
-  "lastId": "1mqk26h000",
-  "lastFilePath": "cyberpress/pages/2026/04/16/uac-0247-targets-hospitals-and-governments-in-browser-and-whatsapp-data-theft-ca.md",
+  "updatedAt": "2026-04-16T12:00:46.248-05:00",
+  "lastLink": "https://cyberpress.org/fake-vpns-spread-nwhstealer/",
+  "lastId": "129yiic000",
+  "lastFilePath": "cyberpress/pages/2026/04/16/nwhstealer-distributed-through-fake-proton-vpn-pages-and-malicious-gaming-mods.md",
   "items": [
     {
-      "id": "1mqk26h000",
-      "link": "https://cyberpress.org/uac-0247-data-theft-campaign/",
-      "filePath": "cyberpress/pages/2026/04/16/uac-0247-targets-hospitals-and-governments-in-browser-and-whatsapp-data-theft-ca.md",
-      "committedAt": "2026-04-16T11:00:41.551-05:00",
-      "title": "UAC-0247 Targets Hospitals and Governments In Browser and WhatsApp Data Theft Campaign"
+      "id": "129yiic000",
+      "link": "https://cyberpress.org/fake-vpns-spread-nwhstealer/",
+      "filePath": "cyberpress/pages/2026/04/16/nwhstealer-distributed-through-fake-proton-vpn-pages-and-malicious-gaming-mods.md",
+      "committedAt": "2026-04-16T12:00:46.248-05:00",
+      "title": "NWHStealer Distributed Through Fake Proton VPN Pages and Malicious Gaming Mods"
     }
   ]
 }
