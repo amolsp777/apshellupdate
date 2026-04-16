@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T11:00:48.464-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/",
-  "lastId": "16rjem0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/16/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks.md",
+  "updatedAt": "2026-04-16T12:00:47.531-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/",
+  "lastId": "103qyrw000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/16/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform.md",
   "items": [
     {
-      "id": "16rjem0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/16/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks.md",
-      "committedAt": "2026-04-16T11:00:48.464-04:00",
-      "title": "New ATHR vishing platform uses AI voice agents for automated attacks"
+      "id": "103qyrw000",
+      "link": "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/",
+      "filePath": "bleepingcomp/pages/2026/04/16/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform.md",
+      "committedAt": "2026-04-16T12:00:47.531-04:00",
+      "title": "Google expands Gemini AI use to fight malicious ads on its platform"
     }
   ]
 }
