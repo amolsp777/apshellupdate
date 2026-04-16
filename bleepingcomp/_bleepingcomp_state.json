@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T19:00:03.336-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
-  "lastId": "16xy1yr000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/15/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild.md",
+  "updatedAt": "2026-04-16T04:00:21.876-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/",
+  "lastId": "1pyefxn000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/16/microsoft-april-windows-server-2025-update-may-fail-to-install.md",
   "items": [
     {
-      "id": "16xy1yr000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
-      "filePath": "bleepingcomp/pages/2026/04/15/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild.md",
-      "committedAt": "2026-04-15T19:00:03.336-04:00",
-      "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild"
+      "id": "1pyefxn000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/",
+      "filePath": "bleepingcomp/pages/2026/04/16/microsoft-april-windows-server-2025-update-may-fail-to-install.md",
+      "committedAt": "2026-04-16T04:00:21.876-04:00",
+      "title": "Microsoft: April Windows Server 2025 update may fail to install"
     }
   ]
 }
