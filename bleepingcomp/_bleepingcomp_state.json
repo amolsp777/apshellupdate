@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T07:00:09.110-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
-  "lastId": "18tgmk0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/16/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts.md",
+  "updatedAt": "2026-04-16T09:00:19.701-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
+  "lastId": "zukh7i0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/16/cisco-says-critical-webex-services-flaw-requires-customer-action.md",
   "items": [
     {
-      "id": "18tgmk0000",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
-      "filePath": "bleepingcomp/pages/2026/04/16/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts.md",
-      "committedAt": "2026-04-16T07:00:09.110-04:00",
-      "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts"
+      "id": "zukh7i0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
+      "filePath": "bleepingcomp/pages/2026/04/16/cisco-says-critical-webex-services-flaw-requires-customer-action.md",
+      "committedAt": "2026-04-16T09:00:19.701-04:00",
+      "title": "Cisco says critical Webex Services flaw requires customer action"
     }
   ]
 }
