@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T10:00:40.648-05:00",
-  "lastLink": "https://cyberpress.org/operation-poweroff-takes-down-75000-ddos-attackers-and-50-service-domains/",
-  "lastId": "1hkozwz000",
-  "lastFilePath": "cyberpress/pages/2026/04/17/operation-poweroff-takes-down-75000-ddos-attackers-and-50-service-domains.md",
+  "updatedAt": "2026-04-17T11:00:46.634-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-confirms-windows-servers-enter-reboot-loops-following-april-patches/",
+  "lastId": "1gotsnt000",
+  "lastFilePath": "cyberpress/pages/2026/04/17/microsoft-confirms-windows-servers-enter-reboot-loops-following-april-patches.md",
   "items": [
     {
-      "id": "1hkozwz000",
-      "link": "https://cyberpress.org/operation-poweroff-takes-down-75000-ddos-attackers-and-50-service-domains/",
-      "filePath": "cyberpress/pages/2026/04/17/operation-poweroff-takes-down-75000-ddos-attackers-and-50-service-domains.md",
-      "committedAt": "2026-04-17T10:00:40.648-05:00",
-      "title": "Operation PowerOFF Takes Down 75,000 DDoS Attackers and 50+ Service Domains"
+      "id": "1gotsnt000",
+      "link": "https://cyberpress.org/microsoft-confirms-windows-servers-enter-reboot-loops-following-april-patches/",
+      "filePath": "cyberpress/pages/2026/04/17/microsoft-confirms-windows-servers-enter-reboot-loops-following-april-patches.md",
+      "committedAt": "2026-04-17T11:00:46.634-05:00",
+      "title": "Microsoft Confirms Windows Servers Enter Reboot Loops Following April Patches"
     }
   ]
 }
