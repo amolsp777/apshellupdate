@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T05:00:57.384-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
-  "lastId": "1y2k6ym000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/17/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts.md",
+  "updatedAt": "2026-04-17T06:00:24.761-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
+  "lastId": "1l4a5jn000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/17/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks.md",
   "items": [
     {
-      "id": "1y2k6ym000",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
-      "filePath": "bleepingcomp/pages/2026/04/17/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts.md",
-      "committedAt": "2026-04-17T05:00:57.384-04:00",
-      "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts"
+      "id": "1l4a5jn000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/17/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks.md",
+      "committedAt": "2026-04-17T06:00:24.761-04:00",
+      "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks"
     }
   ]
 }
