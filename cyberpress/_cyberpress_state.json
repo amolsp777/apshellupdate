@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T05:00:13.851-05:00",
-  "lastLink": "https://cyberpress.org/fake-zoom-update-malware-2/",
-  "lastId": "1cixdjl000",
-  "lastFilePath": "cyberpress/pages/2026/04/17/fake-zoom-sdk-update-delivers-sapphire-sleet-malware-on-macos.md",
+  "updatedAt": "2026-04-17T06:00:14.001-05:00",
+  "lastLink": "https://cyberpress.org/critical-vulnerability-in-flowise/",
+  "lastId": "1hs6ozq000",
+  "lastFilePath": "cyberpress/pages/2026/04/17/critical-vulnerability-in-flowise-allows-remote-command-execution-via-mcp-adapte.md",
   "items": [
     {
-      "id": "1cixdjl000",
-      "link": "https://cyberpress.org/fake-zoom-update-malware-2/",
-      "filePath": "cyberpress/pages/2026/04/17/fake-zoom-sdk-update-delivers-sapphire-sleet-malware-on-macos.md",
-      "committedAt": "2026-04-17T05:00:13.851-05:00",
-      "title": "Fake Zoom SDK Update Delivers Sapphire Sleet Malware On macOS"
+      "id": "1hs6ozq000",
+      "link": "https://cyberpress.org/critical-vulnerability-in-flowise/",
+      "filePath": "cyberpress/pages/2026/04/17/critical-vulnerability-in-flowise-allows-remote-command-execution-via-mcp-adapte.md",
+      "committedAt": "2026-04-17T06:00:14.001-05:00",
+      "title": "Critical Vulnerability in Flowise Allows Remote Command Execution via MCP Adapters"
     }
   ]
 }
