@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T04:00:20.013-05:00",
-  "lastLink": "https://cyberpress.org/sabotage-malware-hits-desalination-plants/",
-  "lastId": "uadv4s0000",
-  "lastFilePath": "cyberpress/pages/2026/04/17/cyberattack-targets-israeli-desalination-plants-with-sabotage-malware.md",
+  "updatedAt": "2026-04-17T05:00:13.851-05:00",
+  "lastLink": "https://cyberpress.org/fake-zoom-update-malware-2/",
+  "lastId": "1cixdjl000",
+  "lastFilePath": "cyberpress/pages/2026/04/17/fake-zoom-sdk-update-delivers-sapphire-sleet-malware-on-macos.md",
   "items": [
     {
-      "id": "uadv4s0000",
-      "link": "https://cyberpress.org/sabotage-malware-hits-desalination-plants/",
-      "filePath": "cyberpress/pages/2026/04/17/cyberattack-targets-israeli-desalination-plants-with-sabotage-malware.md",
-      "committedAt": "2026-04-17T04:00:20.013-05:00",
-      "title": "Cyberattack Targets Israeli Desalination Plants With Sabotage Malware"
+      "id": "1cixdjl000",
+      "link": "https://cyberpress.org/fake-zoom-update-malware-2/",
+      "filePath": "cyberpress/pages/2026/04/17/fake-zoom-sdk-update-delivers-sapphire-sleet-malware-on-macos.md",
+      "committedAt": "2026-04-17T05:00:13.851-05:00",
+      "title": "Fake Zoom SDK Update Delivers Sapphire Sleet Malware On macOS"
     }
   ]
 }
