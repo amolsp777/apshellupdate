@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T20:00:29.516-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
-  "lastId": "19hcjtf000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/16/zionsiphon-malware-designed-to-sabotage-water-treatment-systems.md",
+  "updatedAt": "2026-04-17T03:00:03.221-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
+  "lastId": "1s66a9f000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/17/recently-leaked-windows-zero-days-now-exploited-in-attacks.md",
   "items": [
     {
-      "id": "19hcjtf000",
-      "link": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
-      "filePath": "bleepingcomp/pages/2026/04/16/zionsiphon-malware-designed-to-sabotage-water-treatment-systems.md",
-      "committedAt": "2026-04-16T20:00:29.516-04:00",
-      "title": "ZionSiphon malware designed to sabotage water treatment systems"
+      "id": "1s66a9f000",
+      "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/17/recently-leaked-windows-zero-days-now-exploited-in-attacks.md",
+      "committedAt": "2026-04-17T03:00:03.221-04:00",
+      "title": "Recently leaked Windows zero-days now exploited in attacks"
     }
   ]
 }
