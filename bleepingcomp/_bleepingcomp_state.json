@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T06:00:24.761-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
-  "lastId": "1l4a5jn000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/17/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks.md",
+  "updatedAt": "2026-04-17T09:00:24.562-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
+  "lastId": "z6l6cw0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/17/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recover.md",
   "items": [
     {
-      "id": "1l4a5jn000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/17/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks.md",
-      "committedAt": "2026-04-17T06:00:24.761-04:00",
-      "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks"
+      "id": "z6l6cw0000",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
+      "filePath": "bleepingcomp/pages/2026/04/17/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recover.md",
+      "committedAt": "2026-04-17T09:00:24.562-04:00",
+      "title": "Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery"
     }
   ]
 }
