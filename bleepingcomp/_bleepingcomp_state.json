@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T04:00:30.474-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
-  "lastId": "1p3w8b5000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/17/microsoft-some-windows-servers-enter-reboot-loops-after-april-patches.md",
+  "updatedAt": "2026-04-17T05:00:57.384-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
+  "lastId": "1y2k6ym000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/17/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts.md",
   "items": [
     {
-      "id": "1p3w8b5000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
-      "filePath": "bleepingcomp/pages/2026/04/17/microsoft-some-windows-servers-enter-reboot-loops-after-april-patches.md",
-      "committedAt": "2026-04-17T04:00:30.474-04:00",
-      "title": "Microsoft: Some Windows servers enter reboot loops after April patches"
+      "id": "1y2k6ym000",
+      "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
+      "filePath": "bleepingcomp/pages/2026/04/17/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts.md",
+      "committedAt": "2026-04-17T05:00:57.384-04:00",
+      "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts"
     }
   ]
 }
