@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T03:00:03.221-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
-  "lastId": "1s66a9f000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/17/recently-leaked-windows-zero-days-now-exploited-in-attacks.md",
+  "updatedAt": "2026-04-17T04:00:30.474-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
+  "lastId": "1p3w8b5000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/17/microsoft-some-windows-servers-enter-reboot-loops-after-april-patches.md",
   "items": [
     {
-      "id": "1s66a9f000",
-      "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/17/recently-leaked-windows-zero-days-now-exploited-in-attacks.md",
-      "committedAt": "2026-04-17T03:00:03.221-04:00",
-      "title": "Recently leaked Windows zero-days now exploited in attacks"
+      "id": "1p3w8b5000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
+      "filePath": "bleepingcomp/pages/2026/04/17/microsoft-some-windows-servers-enter-reboot-loops-after-april-patches.md",
+      "committedAt": "2026-04-17T04:00:30.474-04:00",
+      "title": "Microsoft: Some Windows servers enter reboot loops after April patches"
     }
   ]
 }
