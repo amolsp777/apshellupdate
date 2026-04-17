@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T07:00:14.138-05:00",
-  "lastLink": "https://cyberpress.org/poc-exploit-released-for-fortisandbox-vulnerability-that-allows-attacker-to-execute-commands/",
-  "lastId": "ozgq6x0000",
-  "lastFilePath": "cyberpress/pages/2026/04/17/poc-exploit-released-for-fortisandbox-vulnerability-that-allows-attacker-to-exec.md",
+  "updatedAt": "2026-04-17T08:00:13.848-05:00",
+  "lastLink": "https://cyberpress.org/leaked-windows-defender-0-day-vulnerability/",
+  "lastId": "c85y9h0000",
+  "lastFilePath": "cyberpress/pages/2026/04/17/windows-defender-zero-day-leak-fuels-active-exploitation-campaigns.md",
   "items": [
     {
-      "id": "ozgq6x0000",
-      "link": "https://cyberpress.org/poc-exploit-released-for-fortisandbox-vulnerability-that-allows-attacker-to-execute-commands/",
-      "filePath": "cyberpress/pages/2026/04/17/poc-exploit-released-for-fortisandbox-vulnerability-that-allows-attacker-to-exec.md",
-      "committedAt": "2026-04-17T07:00:14.138-05:00",
-      "title": "PoC Exploit Released for FortiSandbox Vulnerability that Allows attacker to execute commands"
+      "id": "c85y9h0000",
+      "link": "https://cyberpress.org/leaked-windows-defender-0-day-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/17/windows-defender-zero-day-leak-fuels-active-exploitation-campaigns.md",
+      "committedAt": "2026-04-17T08:00:13.848-05:00",
+      "title": "Windows Defender Zero-Day Leak Fuels Active Exploitation Campaigns"
     }
   ]
 }
