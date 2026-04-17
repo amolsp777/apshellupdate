@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T19:00:24.349-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
-  "lastId": "pymctb0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/16/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains.md",
+  "updatedAt": "2026-04-16T20:00:29.516-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
+  "lastId": "19hcjtf000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/16/zionsiphon-malware-designed-to-sabotage-water-treatment-systems.md",
   "items": [
     {
-      "id": "pymctb0000",
-      "link": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
-      "filePath": "bleepingcomp/pages/2026/04/16/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains.md",
-      "committedAt": "2026-04-16T19:00:24.349-04:00",
-      "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains"
+      "id": "19hcjtf000",
+      "link": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
+      "filePath": "bleepingcomp/pages/2026/04/16/zionsiphon-malware-designed-to-sabotage-water-treatment-systems.md",
+      "committedAt": "2026-04-16T20:00:29.516-04:00",
+      "title": "ZionSiphon malware designed to sabotage water treatment systems"
     }
   ]
 }
