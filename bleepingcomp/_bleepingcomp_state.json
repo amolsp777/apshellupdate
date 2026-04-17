@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T12:00:52.994-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
-  "lastId": "1um6qqc000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/17/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack.md",
+  "updatedAt": "2026-04-17T16:00:19.333-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
+  "lastId": "1y4ua9f000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/17/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security.md",
   "items": [
     {
-      "id": "1um6qqc000",
-      "link": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
-      "filePath": "bleepingcomp/pages/2026/04/17/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack.md",
-      "committedAt": "2026-04-17T12:00:52.994-04:00",
-      "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack"
+      "id": "1y4ua9f000",
+      "link": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
+      "filePath": "bleepingcomp/pages/2026/04/17/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security.md",
+      "committedAt": "2026-04-17T16:00:19.333-04:00",
+      "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security"
     }
   ]
 }
