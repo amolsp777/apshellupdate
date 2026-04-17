@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T02:00:40.689-05:00",
-  "lastLink": "https://cyberpress.org/eus-new-age-verification-app/",
-  "lastId": "ck7fnb0000",
-  "lastFilePath": "cyberpress/pages/2026/04/17/eus-new-age-verification-app-can-be-hacked-within-2-minutes-researchers-claim.md",
+  "updatedAt": "2026-04-17T03:00:14.675-05:00",
+  "lastLink": "https://cyberpress.org/hugging-face-backdoor-spread/",
+  "lastId": "1yp7n60000",
+  "lastFilePath": "cyberpress/pages/2026/04/17/hugging-face-abused-to-spread-blockchain-based-backdoor-in-cve-2026-39987-attack.md",
   "items": [
     {
-      "id": "ck7fnb0000",
-      "link": "https://cyberpress.org/eus-new-age-verification-app/",
-      "filePath": "cyberpress/pages/2026/04/17/eus-new-age-verification-app-can-be-hacked-within-2-minutes-researchers-claim.md",
-      "committedAt": "2026-04-17T02:00:40.689-05:00",
-      "title": "EU’s New Age Verification App Can Be Hacked Within 2 Minutes, Researchers Claim"
+      "id": "1yp7n60000",
+      "link": "https://cyberpress.org/hugging-face-backdoor-spread/",
+      "filePath": "cyberpress/pages/2026/04/17/hugging-face-abused-to-spread-blockchain-based-backdoor-in-cve-2026-39987-attack.md",
+      "committedAt": "2026-04-17T03:00:14.675-05:00",
+      "title": "Hugging Face Abused To Spread Blockchain-Based Backdoor In CVE-2026-39987 Attacks"
     }
   ]
 }
