@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T01:00:24.528-05:00",
-  "lastLink": "https://cyberpress.org/chrome-privacy-leak-risks/",
-  "lastId": "d1hup90000",
-  "lastFilePath": "cyberpress/pages/2026/04/17/privacy-study-finds-chrome-fingerprinting-and-header-leaks-can-expose-users.md",
+  "updatedAt": "2026-04-17T02:00:40.689-05:00",
+  "lastLink": "https://cyberpress.org/eus-new-age-verification-app/",
+  "lastId": "ck7fnb0000",
+  "lastFilePath": "cyberpress/pages/2026/04/17/eus-new-age-verification-app-can-be-hacked-within-2-minutes-researchers-claim.md",
   "items": [
     {
-      "id": "d1hup90000",
-      "link": "https://cyberpress.org/chrome-privacy-leak-risks/",
-      "filePath": "cyberpress/pages/2026/04/17/privacy-study-finds-chrome-fingerprinting-and-header-leaks-can-expose-users.md",
-      "committedAt": "2026-04-17T01:00:24.528-05:00",
-      "title": "Privacy Study Finds Chrome Fingerprinting and Header Leaks Can Expose Users"
+      "id": "ck7fnb0000",
+      "link": "https://cyberpress.org/eus-new-age-verification-app/",
+      "filePath": "cyberpress/pages/2026/04/17/eus-new-age-verification-app-can-be-hacked-within-2-minutes-researchers-claim.md",
+      "committedAt": "2026-04-17T02:00:40.689-05:00",
+      "title": "EU’s New Age Verification App Can Be Hacked Within 2 Minutes, Researchers Claim"
     }
   ]
 }
