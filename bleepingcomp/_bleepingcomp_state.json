@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-18T11:00:19.346-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
-  "lastId": "iw2rz00000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/18/microsoft-teams-right-click-paste-broken-by-edge-update-bug.md",
+  "updatedAt": "2026-04-18T12:00:19.085-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
+  "lastId": "iah0fy0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/18/critical-flaw-in-protobuf-library-enables-javascript-code-execution.md",
   "items": [
     {
-      "id": "iw2rz00000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
-      "filePath": "bleepingcomp/pages/2026/04/18/microsoft-teams-right-click-paste-broken-by-edge-update-bug.md",
-      "committedAt": "2026-04-18T11:00:19.346-04:00",
-      "title": "Microsoft Teams right-click paste broken by Edge update bug"
+      "id": "iah0fy0000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
+      "filePath": "bleepingcomp/pages/2026/04/18/critical-flaw-in-protobuf-library-enables-javascript-code-execution.md",
+      "committedAt": "2026-04-18T12:00:19.085-04:00",
+      "title": "Critical flaw in Protobuf library enables JavaScript code execution"
     }
   ]
 }
