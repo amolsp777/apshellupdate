@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T16:00:19.333-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
-  "lastId": "1y4ua9f000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/17/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security.md",
+  "updatedAt": "2026-04-18T10:00:19.258-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
+  "lastId": "2psvc00000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/18/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-su.md",
   "items": [
     {
-      "id": "1y4ua9f000",
-      "link": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
-      "filePath": "bleepingcomp/pages/2026/04/17/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security.md",
-      "committedAt": "2026-04-17T16:00:19.333-04:00",
-      "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security"
+      "id": "2psvc00000",
+      "link": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
+      "filePath": "bleepingcomp/pages/2026/04/18/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-su.md",
+      "committedAt": "2026-04-18T10:00:19.258-04:00",
+      "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support"
     }
   ]
 }
