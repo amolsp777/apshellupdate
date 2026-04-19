@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-19T13:00:08.753-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
-  "lastId": "6jf2fy0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/19/apple-account-change-alerts-abused-to-send-phishing-emails.md",
+  "updatedAt": "2026-04-19T14:00:13.357-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+  "lastId": "12oobfi000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/19/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data.md",
   "items": [
     {
-      "id": "6jf2fy0000",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
-      "filePath": "bleepingcomp/pages/2026/04/19/apple-account-change-alerts-abused-to-send-phishing-emails.md",
-      "committedAt": "2026-04-19T13:00:08.753-04:00",
-      "title": "Apple account change alerts abused to send phishing emails"
+      "id": "12oobfi000",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+      "filePath": "bleepingcomp/pages/2026/04/19/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data.md",
+      "committedAt": "2026-04-19T14:00:13.357-04:00",
+      "title": "Vercel confirms breach as hackers claim to be selling stolen data"
     }
   ]
 }
