@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-19T11:01:01.308-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
-  "lastId": "1uqbxlf000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/19/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase.md",
+  "updatedAt": "2026-04-19T13:00:08.753-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
+  "lastId": "6jf2fy0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/19/apple-account-change-alerts-abused-to-send-phishing-emails.md",
   "items": [
     {
-      "id": "1uqbxlf000",
-      "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
-      "filePath": "bleepingcomp/pages/2026/04/19/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase.md",
-      "committedAt": "2026-04-19T11:01:01.308-04:00",
-      "title": "NIST to stop rating non-priority flaws due to volume increase"
+      "id": "6jf2fy0000",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
+      "filePath": "bleepingcomp/pages/2026/04/19/apple-account-change-alerts-abused-to-send-phishing-emails.md",
+      "committedAt": "2026-04-19T13:00:08.753-04:00",
+      "title": "Apple account change alerts abused to send phishing emails"
     }
   ]
 }
