@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-18T12:00:19.085-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-  "lastId": "iah0fy0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/18/critical-flaw-in-protobuf-library-enables-javascript-code-execution.md",
+  "updatedAt": "2026-04-19T11:01:01.308-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+  "lastId": "1uqbxlf000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/19/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase.md",
   "items": [
     {
-      "id": "iah0fy0000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-      "filePath": "bleepingcomp/pages/2026/04/18/critical-flaw-in-protobuf-library-enables-javascript-code-execution.md",
-      "committedAt": "2026-04-18T12:00:19.085-04:00",
-      "title": "Critical flaw in Protobuf library enables JavaScript code execution"
+      "id": "1uqbxlf000",
+      "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+      "filePath": "bleepingcomp/pages/2026/04/19/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase.md",
+      "committedAt": "2026-04-19T11:01:01.308-04:00",
+      "title": "NIST to stop rating non-priority flaws due to volume increase"
     }
   ]
 }
