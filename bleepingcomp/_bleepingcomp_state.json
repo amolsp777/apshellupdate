@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T06:00:09.262-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
-  "lastId": "1cwybad000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/20/microsoft-pulls-service-update-causing-teams-launch-failures.md",
+  "updatedAt": "2026-04-20T09:01:03.221-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
+  "lastId": "1n6j2kp000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/20/microsoft-tests-windows-explorer-speed-performance-improvements.md",
   "items": [
     {
-      "id": "1cwybad000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
-      "filePath": "bleepingcomp/pages/2026/04/20/microsoft-pulls-service-update-causing-teams-launch-failures.md",
-      "committedAt": "2026-04-20T06:00:09.262-04:00",
-      "title": "Microsoft pulls service update causing Teams launch failures"
+      "id": "1n6j2kp000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
+      "filePath": "bleepingcomp/pages/2026/04/20/microsoft-tests-windows-explorer-speed-performance-improvements.md",
+      "committedAt": "2026-04-20T09:01:03.221-04:00",
+      "title": "Microsoft tests Windows Explorer speed, performance improvements"
     }
   ]
 }
