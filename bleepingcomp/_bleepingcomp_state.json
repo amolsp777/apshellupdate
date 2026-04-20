@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T15:00:49.884-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
-  "lastId": "63eab00000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/20/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft.md",
+  "updatedAt": "2026-04-20T17:00:08.985-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
+  "lastId": "xzagbi0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/20/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks.md",
   "items": [
     {
-      "id": "63eab00000",
-      "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
-      "filePath": "bleepingcomp/pages/2026/04/20/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft.md",
-      "committedAt": "2026-04-20T15:00:49.884-04:00",
-      "title": "Seiko USA website defaced as hacker claims customer data theft"
+      "id": "xzagbi0000",
+      "link": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/20/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks.md",
+      "committedAt": "2026-04-20T17:00:08.985-04:00",
+      "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks"
     }
   ]
 }
