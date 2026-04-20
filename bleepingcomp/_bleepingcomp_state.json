@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T05:00:16.313-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
-  "lastId": "irxcm40000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/20/microsoft-releases-emergency-updates-to-fix-windows-server-issues.md",
+  "updatedAt": "2026-04-20T06:00:09.262-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
+  "lastId": "1cwybad000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/20/microsoft-pulls-service-update-causing-teams-launch-failures.md",
   "items": [
     {
-      "id": "irxcm40000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
-      "filePath": "bleepingcomp/pages/2026/04/20/microsoft-releases-emergency-updates-to-fix-windows-server-issues.md",
-      "committedAt": "2026-04-20T05:00:16.313-04:00",
-      "title": "Microsoft releases emergency updates to fix Windows Server issues"
+      "id": "1cwybad000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
+      "filePath": "bleepingcomp/pages/2026/04/20/microsoft-pulls-service-update-causing-teams-launch-failures.md",
+      "committedAt": "2026-04-20T06:00:09.262-04:00",
+      "title": "Microsoft pulls service update causing Teams launch failures"
     }
   ]
 }
