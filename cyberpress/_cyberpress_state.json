@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T04:00:13.985-05:00",
-  "lastLink": "https://cyberpress.org/nexcorium-hits-tbk-dvrs/",
-  "lastId": "1wnblca000",
-  "lastFilePath": "cyberpress/pages/2026/04/20/hackers-exploit-cve-2024-3721-to-deploy-nexcorium-malware-on-tbk-dvrs.md",
+  "updatedAt": "2026-04-20T05:00:24.833-05:00",
+  "lastLink": "https://cyberpress.org/gardyn-smart-gardens-vulnerabilities/",
+  "lastId": "zeu1su0000",
+  "lastFilePath": "cyberpress/pages/2026/04/20/critical-gardyn-smart-gardens-vulnerabilities-let-attackers-control-devices-remo.md",
   "items": [
     {
-      "id": "1wnblca000",
-      "link": "https://cyberpress.org/nexcorium-hits-tbk-dvrs/",
-      "filePath": "cyberpress/pages/2026/04/20/hackers-exploit-cve-2024-3721-to-deploy-nexcorium-malware-on-tbk-dvrs.md",
-      "committedAt": "2026-04-20T04:00:13.985-05:00",
-      "title": "Hackers Exploit CVE-2024-3721 To Deploy Nexcorium Malware On TBK DVRs"
+      "id": "zeu1su0000",
+      "link": "https://cyberpress.org/gardyn-smart-gardens-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/04/20/critical-gardyn-smart-gardens-vulnerabilities-let-attackers-control-devices-remo.md",
+      "committedAt": "2026-04-20T05:00:24.833-05:00",
+      "title": "Critical Gardyn Smart Gardens Vulnerabilities Let Attackers Control Devices Remotely"
     }
   ]
 }
