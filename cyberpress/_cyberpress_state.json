@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T07:00:24.724-05:00",
-  "lastLink": "https://cyberpress.org/appdomain-hijacks-intel-utility/",
-  "lastId": "16mklgz000",
-  "lastFilePath": "cyberpress/pages/2026/04/20/hackers-exploit-appdomain-hijacking-to-weaponize-intel-utility.md",
+  "updatedAt": "2026-04-20T08:00:30.615-05:00",
+  "lastLink": "https://cyberpress.org/janaware-targets-turkish-users/",
+  "lastId": "ndm9q40000",
+  "lastFilePath": "cyberpress/pages/2026/04/20/janaware-ransomware-targets-turkish-users-via-adwind-rat.md",
   "items": [
     {
-      "id": "16mklgz000",
-      "link": "https://cyberpress.org/appdomain-hijacks-intel-utility/",
-      "filePath": "cyberpress/pages/2026/04/20/hackers-exploit-appdomain-hijacking-to-weaponize-intel-utility.md",
-      "committedAt": "2026-04-20T07:00:24.724-05:00",
-      "title": "Hackers Exploit AppDomain Hijacking To Weaponize Intel Utility"
+      "id": "ndm9q40000",
+      "link": "https://cyberpress.org/janaware-targets-turkish-users/",
+      "filePath": "cyberpress/pages/2026/04/20/janaware-ransomware-targets-turkish-users-via-adwind-rat.md",
+      "committedAt": "2026-04-20T08:00:30.615-05:00",
+      "title": "JanaWare Ransomware Targets Turkish Users via Adwind RAT"
     }
   ]
 }
