@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-19T14:00:13.357-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-  "lastId": "12oobfi000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/19/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data.md",
+  "updatedAt": "2026-04-20T05:00:16.313-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+  "lastId": "irxcm40000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/20/microsoft-releases-emergency-updates-to-fix-windows-server-issues.md",
   "items": [
     {
-      "id": "12oobfi000",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "filePath": "bleepingcomp/pages/2026/04/19/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data.md",
-      "committedAt": "2026-04-19T14:00:13.357-04:00",
-      "title": "Vercel confirms breach as hackers claim to be selling stolen data"
+      "id": "irxcm40000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "filePath": "bleepingcomp/pages/2026/04/20/microsoft-releases-emergency-updates-to-fix-windows-server-issues.md",
+      "committedAt": "2026-04-20T05:00:16.313-04:00",
+      "title": "Microsoft releases emergency updates to fix Windows Server issues"
     }
   ]
 }
