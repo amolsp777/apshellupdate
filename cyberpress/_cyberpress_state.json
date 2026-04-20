@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T13:00:36.179-05:00",
-  "lastLink": "https://cyberpress.org/threat-intelligence-soc-teams-cut-mttr/",
-  "lastId": "1reqz7h000",
-  "lastFilePath": "cyberpress/pages/2026/04/20/how-threat-intelligence-helps-soc-teams-cut-mttr-and-outpace-modern-attacks.md",
+  "updatedAt": "2026-04-20T14:00:56.955-05:00",
+  "lastLink": "https://cyberpress.org/mois-runs-fake-personas/",
+  "lastId": "akv8uy0000",
+  "lastFilePath": "cyberpress/pages/2026/04/20/researchers-link-mois-to-coordinated-hacker-persona-operation.md",
   "items": [
     {
-      "id": "1reqz7h000",
-      "link": "https://cyberpress.org/threat-intelligence-soc-teams-cut-mttr/",
-      "filePath": "cyberpress/pages/2026/04/20/how-threat-intelligence-helps-soc-teams-cut-mttr-and-outpace-modern-attacks.md",
-      "committedAt": "2026-04-20T13:00:36.179-05:00",
-      "title": "How Threat Intelligence Helps SOC Teams Cut MTTR and Outpace Modern Attacks"
+      "id": "akv8uy0000",
+      "link": "https://cyberpress.org/mois-runs-fake-personas/",
+      "filePath": "cyberpress/pages/2026/04/20/researchers-link-mois-to-coordinated-hacker-persona-operation.md",
+      "committedAt": "2026-04-20T14:00:56.955-05:00",
+      "title": "Researchers Link MOIS To Coordinated Hacker Persona Operation"
     }
   ]
 }
