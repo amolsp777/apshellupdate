@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T18:00:45.971-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
-  "lastId": "ny5aft0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/20/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps.md",
+  "updatedAt": "2026-04-20T19:00:41.574-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
+  "lastId": "1fpoi6y000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/20/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers.md",
   "items": [
     {
-      "id": "ny5aft0000",
-      "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
-      "filePath": "bleepingcomp/pages/2026/04/20/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps.md",
-      "committedAt": "2026-04-20T18:00:45.971-04:00",
-      "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps"
+      "id": "1fpoi6y000",
+      "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
+      "filePath": "bleepingcomp/pages/2026/04/20/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers.md",
+      "committedAt": "2026-04-20T19:00:41.574-04:00",
+      "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers"
     }
   ]
 }
