@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T12:00:46.921-05:00",
-  "lastLink": "https://cyberpress.org/british-national-admits-hacking-companies/",
-  "lastId": "evg9gu0000",
-  "lastFilePath": "cyberpress/pages/2026/04/20/british-national-admits-hacking-companies-and-stealing-millions-in-virtual-curre.md",
+  "updatedAt": "2026-04-20T13:00:36.179-05:00",
+  "lastLink": "https://cyberpress.org/threat-intelligence-soc-teams-cut-mttr/",
+  "lastId": "1reqz7h000",
+  "lastFilePath": "cyberpress/pages/2026/04/20/how-threat-intelligence-helps-soc-teams-cut-mttr-and-outpace-modern-attacks.md",
   "items": [
     {
-      "id": "evg9gu0000",
-      "link": "https://cyberpress.org/british-national-admits-hacking-companies/",
-      "filePath": "cyberpress/pages/2026/04/20/british-national-admits-hacking-companies-and-stealing-millions-in-virtual-curre.md",
-      "committedAt": "2026-04-20T12:00:46.921-05:00",
-      "title": "British National Admits Hacking Companies and Stealing Millions in Virtual Currency"
+      "id": "1reqz7h000",
+      "link": "https://cyberpress.org/threat-intelligence-soc-teams-cut-mttr/",
+      "filePath": "cyberpress/pages/2026/04/20/how-threat-intelligence-helps-soc-teams-cut-mttr-and-outpace-modern-attacks.md",
+      "committedAt": "2026-04-20T13:00:36.179-05:00",
+      "title": "How Threat Intelligence Helps SOC Teams Cut MTTR and Outpace Modern Attacks"
     }
   ]
 }
