@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T17:00:08.985-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
-  "lastId": "xzagbi0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/20/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks.md",
+  "updatedAt": "2026-04-20T18:00:45.971-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
+  "lastId": "ny5aft0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/20/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps.md",
   "items": [
     {
-      "id": "xzagbi0000",
-      "link": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/20/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks.md",
-      "committedAt": "2026-04-20T17:00:08.985-04:00",
-      "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks"
+      "id": "ny5aft0000",
+      "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
+      "filePath": "bleepingcomp/pages/2026/04/20/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps.md",
+      "committedAt": "2026-04-20T18:00:45.971-04:00",
+      "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps"
     }
   ]
 }
