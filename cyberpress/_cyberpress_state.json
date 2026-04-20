@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T09:00:31.021-05:00",
-  "lastLink": "https://cyberpress.org/iterm2-flaw-abuses-ssh-integration-escape-sequences-to-turn-text-into-code-execution/",
-  "lastId": "cu2v6c0000",
-  "lastFilePath": "cyberpress/pages/2026/04/20/iterm2-flaw-abuses-ssh-integration-escape-sequences-to-turn-text-into-code-execu.md",
+  "updatedAt": "2026-04-20T10:00:14.555-05:00",
+  "lastLink": "https://cyberpress.org/critical-anthropic-mcp-vulnerability/",
+  "lastId": "u7o3fv0000",
+  "lastFilePath": "cyberpress/pages/2026/04/20/critical-anthropic-mcp-vulnerability-enables-remote-code-execution-attacks.md",
   "items": [
     {
-      "id": "cu2v6c0000",
-      "link": "https://cyberpress.org/iterm2-flaw-abuses-ssh-integration-escape-sequences-to-turn-text-into-code-execution/",
-      "filePath": "cyberpress/pages/2026/04/20/iterm2-flaw-abuses-ssh-integration-escape-sequences-to-turn-text-into-code-execu.md",
-      "committedAt": "2026-04-20T09:00:31.021-05:00",
-      "title": "iTerm2 Flaw Abuses SSH Integration Escape Sequences to Turn Text Into Code Execution"
+      "id": "u7o3fv0000",
+      "link": "https://cyberpress.org/critical-anthropic-mcp-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/20/critical-anthropic-mcp-vulnerability-enables-remote-code-execution-attacks.md",
+      "committedAt": "2026-04-20T10:00:14.555-05:00",
+      "title": "Critical Anthropic MCP Vulnerability Enables Remote Code Execution Attacks"
     }
   ]
 }
