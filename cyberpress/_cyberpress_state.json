@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21T09:00:30.506-05:00",
-  "lastLink": "https://cyberpress.org/ai-ngate-targets-payments/",
-  "lastId": "gv8e8p0000",
-  "lastFilePath": "cyberpress/pages/2026/04/21/new-ngate-malware-uses-ai-to-masquerade-as-nfc-payment-apps.md",
+  "updatedAt": "2026-04-21T10:00:47.012-05:00",
+  "lastLink": "https://cyberpress.org/claude-code-gemini-cli-and-github-copilot-vulnerable/",
+  "lastId": "1djyv4a000",
+  "lastFilePath": "cyberpress/pages/2026/04/21/claude-code-gemini-cli-and-github-copilot-vulnerable-to-prompt-injection-via-git.md",
   "items": [
     {
-      "id": "gv8e8p0000",
-      "link": "https://cyberpress.org/ai-ngate-targets-payments/",
-      "filePath": "cyberpress/pages/2026/04/21/new-ngate-malware-uses-ai-to-masquerade-as-nfc-payment-apps.md",
-      "committedAt": "2026-04-21T09:00:30.506-05:00",
-      "title": "New NGate Malware Uses AI To Masquerade As NFC Payment Apps"
+      "id": "1djyv4a000",
+      "link": "https://cyberpress.org/claude-code-gemini-cli-and-github-copilot-vulnerable/",
+      "filePath": "cyberpress/pages/2026/04/21/claude-code-gemini-cli-and-github-copilot-vulnerable-to-prompt-injection-via-git.md",
+      "committedAt": "2026-04-21T10:00:47.012-05:00",
+      "title": "Claude Code, Gemini CLI, and GitHub Copilot Vulnerable to Prompt Injection via GitHub Comments"
     }
   ]
 }
