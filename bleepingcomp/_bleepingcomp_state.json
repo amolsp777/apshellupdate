@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T19:00:41.574-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
-  "lastId": "1fpoi6y000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/20/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers.md",
+  "updatedAt": "2026-04-21T06:00:08.987-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
+  "lastId": "1s4apj2000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/21/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data.md",
   "items": [
     {
-      "id": "1fpoi6y000",
-      "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
-      "filePath": "bleepingcomp/pages/2026/04/20/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers.md",
-      "committedAt": "2026-04-20T19:00:41.574-04:00",
-      "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers"
+      "id": "1s4apj2000",
+      "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
+      "filePath": "bleepingcomp/pages/2026/04/21/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data.md",
+      "committedAt": "2026-04-21T06:00:08.987-04:00",
+      "title": "NGate Android malware uses HandyPay NFC app to steal card data"
     }
   ]
 }
