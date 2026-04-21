@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21T06:00:08.987-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
-  "lastId": "1s4apj2000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/21/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data.md",
+  "updatedAt": "2026-04-21T07:00:08.976-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
+  "lastId": "givrpv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/21/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks.md",
   "items": [
     {
-      "id": "1s4apj2000",
-      "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
-      "filePath": "bleepingcomp/pages/2026/04/21/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data.md",
-      "committedAt": "2026-04-21T06:00:08.987-04:00",
-      "title": "NGate Android malware uses HandyPay NFC app to steal card data"
+      "id": "givrpv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/21/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks.md",
+      "committedAt": "2026-04-21T07:00:08.976-04:00",
+      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks"
     }
   ]
 }
