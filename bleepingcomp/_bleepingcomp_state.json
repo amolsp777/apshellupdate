@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21T09:00:09.148-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
-  "lastId": "13xwjzn000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/21/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks.md",
+  "updatedAt": "2026-04-21T10:00:42.150-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/",
+  "lastId": "s52sf00000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/21/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns.md",
   "items": [
     {
-      "id": "13xwjzn000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/21/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks.md",
-      "committedAt": "2026-04-21T09:00:09.148-04:00",
-      "title": "CISA flags new SD-WAN flaw as actively exploited in attacks"
+      "id": "s52sf00000",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/",
+      "filePath": "bleepingcomp/pages/2026/04/21/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns.md",
+      "committedAt": "2026-04-21T10:00:42.150-04:00",
+      "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns"
     }
   ]
 }
