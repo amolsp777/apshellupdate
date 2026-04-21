@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21T12:00:58.241-05:00",
-  "lastLink": "https://cyberpress.org/fake-tiktok-downloader-extensions/",
-  "lastId": "1ozfdey000",
-  "lastFilePath": "cyberpress/pages/2026/04/21/fake-tiktok-downloader-extensions-infect-130000-browser-users.md",
+  "updatedAt": "2026-04-21T13:01:02.639-05:00",
+  "lastLink": "https://cyberpress.org/purerat-hides-fileless-payloads/",
+  "lastId": "13nxuiu000",
+  "lastFilePath": "cyberpress/pages/2026/04/21/new-purerat-campaign-uses-png-files-to-conceal-fileless-payloads.md",
   "items": [
     {
-      "id": "1ozfdey000",
-      "link": "https://cyberpress.org/fake-tiktok-downloader-extensions/",
-      "filePath": "cyberpress/pages/2026/04/21/fake-tiktok-downloader-extensions-infect-130000-browser-users.md",
-      "committedAt": "2026-04-21T12:00:58.241-05:00",
-      "title": "Fake TikTok Downloader Extensions Infect 130,000 Browser Users"
+      "id": "13nxuiu000",
+      "link": "https://cyberpress.org/purerat-hides-fileless-payloads/",
+      "filePath": "cyberpress/pages/2026/04/21/new-purerat-campaign-uses-png-files-to-conceal-fileless-payloads.md",
+      "committedAt": "2026-04-21T13:01:02.639-05:00",
+      "title": "New PureRAT Campaign Uses PNG Files To Conceal Fileless Payloads"
     }
   ]
 }
