@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21T07:00:08.976-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
-  "lastId": "givrpv0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/21/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks.md",
+  "updatedAt": "2026-04-21T08:00:09.204-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+  "lastId": "a9sp5e0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/21/actively-exploited-apache-activemq-flaw-impacts-6400-servers.md",
   "items": [
     {
-      "id": "givrpv0000",
-      "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/21/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks.md",
-      "committedAt": "2026-04-21T07:00:08.976-04:00",
-      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks"
+      "id": "a9sp5e0000",
+      "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+      "filePath": "bleepingcomp/pages/2026/04/21/actively-exploited-apache-activemq-flaw-impacts-6400-servers.md",
+      "committedAt": "2026-04-21T08:00:09.204-04:00",
+      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers"
     }
   ]
 }
