@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21T08:00:09.204-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
-  "lastId": "a9sp5e0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/21/actively-exploited-apache-activemq-flaw-impacts-6400-servers.md",
+  "updatedAt": "2026-04-21T09:00:09.148-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+  "lastId": "13xwjzn000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/21/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks.md",
   "items": [
     {
-      "id": "a9sp5e0000",
-      "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
-      "filePath": "bleepingcomp/pages/2026/04/21/actively-exploited-apache-activemq-flaw-impacts-6400-servers.md",
-      "committedAt": "2026-04-21T08:00:09.204-04:00",
-      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers"
+      "id": "13xwjzn000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/21/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks.md",
+      "committedAt": "2026-04-21T09:00:09.148-04:00",
+      "title": "CISA flags new SD-WAN flaw as actively exploited in attacks"
     }
   ]
 }
