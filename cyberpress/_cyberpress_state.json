@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21T03:00:19.939-05:00",
-  "lastLink": "https://cyberpress.org/github-alerts-fuel-phishing/",
-  "lastId": "7yen5m0000",
-  "lastFilePath": "cyberpress/pages/2026/04/21/malicious-oauth-apps-turn-github-issue-notifications-into-phishing-lures.md",
+  "updatedAt": "2026-04-21T04:00:14.248-05:00",
+  "lastLink": "https://cyberpress.org/cisa-warns-axios-npm-package-was-compromised-in-major-supply-chain-attack/",
+  "lastId": "1p344k9000",
+  "lastFilePath": "cyberpress/pages/2026/04/21/cisa-warns-axios-npm-package-was-compromised-in-major-supply-chain-attack.md",
   "items": [
     {
-      "id": "7yen5m0000",
-      "link": "https://cyberpress.org/github-alerts-fuel-phishing/",
-      "filePath": "cyberpress/pages/2026/04/21/malicious-oauth-apps-turn-github-issue-notifications-into-phishing-lures.md",
-      "committedAt": "2026-04-21T03:00:19.939-05:00",
-      "title": "Malicious OAuth Apps Turn GitHub Issue Notifications Into Phishing Lures"
+      "id": "1p344k9000",
+      "link": "https://cyberpress.org/cisa-warns-axios-npm-package-was-compromised-in-major-supply-chain-attack/",
+      "filePath": "cyberpress/pages/2026/04/21/cisa-warns-axios-npm-package-was-compromised-in-major-supply-chain-attack.md",
+      "committedAt": "2026-04-21T04:00:14.248-05:00",
+      "title": "CISA Warns Axios npm Package Was Compromised in Major Supply Chain Attack"
     }
   ]
 }
