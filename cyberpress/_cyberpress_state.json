@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21T07:00:14.044-05:00",
-  "lastLink": "https://cyberpress.org/apache-syncope-rce-vulnerability/",
-  "lastId": "udpn6o0000",
-  "lastFilePath": "cyberpress/pages/2026/04/21/apache-syncope-rce-vulnerability-public-poc-and-technical-details-released.md",
+  "updatedAt": "2026-04-21T08:00:19.268-05:00",
+  "lastLink": "https://cyberpress.org/cisco-catalyst-sd-wan-manager-vulnerabilities/",
+  "lastId": "38d1w20000",
+  "lastFilePath": "cyberpress/pages/2026/04/21/cisa-warns-of-cisco-catalyst-sd-wan-manager-vulnerabilities-exploited-in-attacks.md",
   "items": [
     {
-      "id": "udpn6o0000",
-      "link": "https://cyberpress.org/apache-syncope-rce-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/21/apache-syncope-rce-vulnerability-public-poc-and-technical-details-released.md",
-      "committedAt": "2026-04-21T07:00:14.044-05:00",
-      "title": "Apache Syncope RCE Vulnerability – Public PoC and Technical Details Released"
+      "id": "38d1w20000",
+      "link": "https://cyberpress.org/cisco-catalyst-sd-wan-manager-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/04/21/cisa-warns-of-cisco-catalyst-sd-wan-manager-vulnerabilities-exploited-in-attacks.md",
+      "committedAt": "2026-04-21T08:00:19.268-05:00",
+      "title": "CISA Warns of Cisco Catalyst SD-WAN Manager Vulnerabilities Exploited in Attacks"
     }
   ]
 }
