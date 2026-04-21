@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21T05:00:19.527-05:00",
-  "lastLink": "https://cyberpress.org/6000-apache-activemq-instances-vulnerable/",
-  "lastId": "10e8x7d000",
-  "lastFilePath": "cyberpress/pages/2026/04/21/6000-apache-activemq-instances-vulnerable-to-cve-2026-34197-exposed-online.md",
+  "updatedAt": "2026-04-21T06:00:25.512-05:00",
+  "lastLink": "https://cyberpress.org/hackers-could-weaponize-gguf-models-to-achieve-rce-on-sglang-inference-servers/",
+  "lastId": "lpbge10000",
+  "lastFilePath": "cyberpress/pages/2026/04/21/hackers-could-weaponize-gguf-models-to-achieve-rce-on-sglang-inference-servers.md",
   "items": [
     {
-      "id": "10e8x7d000",
-      "link": "https://cyberpress.org/6000-apache-activemq-instances-vulnerable/",
-      "filePath": "cyberpress/pages/2026/04/21/6000-apache-activemq-instances-vulnerable-to-cve-2026-34197-exposed-online.md",
-      "committedAt": "2026-04-21T05:00:19.527-05:00",
-      "title": "6,000+ Apache ActiveMQ Instances Vulnerable to CVE-2026-34197 Exposed Online"
+      "id": "lpbge10000",
+      "link": "https://cyberpress.org/hackers-could-weaponize-gguf-models-to-achieve-rce-on-sglang-inference-servers/",
+      "filePath": "cyberpress/pages/2026/04/21/hackers-could-weaponize-gguf-models-to-achieve-rce-on-sglang-inference-servers.md",
+      "committedAt": "2026-04-21T06:00:25.512-05:00",
+      "title": "Hackers Could Weaponize GGUF Models to Achieve RCE on SGLang Inference Servers"
     }
   ]
 }
