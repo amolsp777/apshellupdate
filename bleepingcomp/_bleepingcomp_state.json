@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21T15:00:30.496-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
-  "lastId": "19dpf5r000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/21/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms.md",
+  "updatedAt": "2026-04-21T18:00:03.730-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+  "lastId": "11h0ra6000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/21/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data.md",
   "items": [
     {
-      "id": "19dpf5r000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
-      "filePath": "bleepingcomp/pages/2026/04/21/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms.md",
-      "committedAt": "2026-04-21T15:00:30.496-04:00",
-      "title": "New Lotus data wiper used against Venezuelan energy, utility firms"
+      "id": "11h0ra6000",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+      "filePath": "bleepingcomp/pages/2026/04/21/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data.md",
+      "committedAt": "2026-04-21T18:00:03.730-04:00",
+      "title": "French govt agency confirms breach as hacker offers to sell data"
     }
   ]
 }
