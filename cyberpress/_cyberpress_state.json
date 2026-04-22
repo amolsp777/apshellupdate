@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T06:00:24.702-05:00",
-  "lastLink": "https://cyberpress.org/iran-tied-to-castlerat/",
-  "lastId": "xesgzy0000",
-  "lastFilePath": "cyberpress/pages/2026/04/22/iranian-espionage-operations-linked-to-castlerat-and-chainshell-malware-suite.md",
+  "updatedAt": "2026-04-22T07:00:30.752-05:00",
+  "lastLink": "https://cyberpress.org/crowdstrike-logscale-vulnerability/",
+  "lastId": "19c1rqc000",
+  "lastFilePath": "cyberpress/pages/2026/04/22/crowdstrike-logscale-vulnerability-lets-remote-attackers-read-arbitrary-server-f.md",
   "items": [
     {
-      "id": "xesgzy0000",
-      "link": "https://cyberpress.org/iran-tied-to-castlerat/",
-      "filePath": "cyberpress/pages/2026/04/22/iranian-espionage-operations-linked-to-castlerat-and-chainshell-malware-suite.md",
-      "committedAt": "2026-04-22T06:00:24.702-05:00",
-      "title": "Iranian Espionage Operations Linked To CastleRAT and ChainShell Malware Suite"
+      "id": "19c1rqc000",
+      "link": "https://cyberpress.org/crowdstrike-logscale-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/22/crowdstrike-logscale-vulnerability-lets-remote-attackers-read-arbitrary-server-f.md",
+      "committedAt": "2026-04-22T07:00:30.752-05:00",
+      "title": "CrowdStrike LogScale Vulnerability Lets Remote Attackers Read Arbitrary Server Files"
     }
   ]
 }
