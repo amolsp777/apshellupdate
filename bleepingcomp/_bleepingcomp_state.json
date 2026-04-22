@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T05:00:03.643-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/",
-  "lastId": "7e54ri0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/22/microsoft-releases-emergency-patches-for-critical-aspnet-flaw.md",
+  "updatedAt": "2026-04-22T07:00:09.112-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
+  "lastId": "1wprp9a000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/22/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms.md",
   "items": [
     {
-      "id": "7e54ri0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/",
-      "filePath": "bleepingcomp/pages/2026/04/22/microsoft-releases-emergency-patches-for-critical-aspnet-flaw.md",
-      "committedAt": "2026-04-22T05:00:03.643-04:00",
-      "title": "Microsoft releases emergency patches for critical ASP.NET flaw"
+      "id": "1wprp9a000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
+      "filePath": "bleepingcomp/pages/2026/04/22/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms.md",
+      "committedAt": "2026-04-22T07:00:09.112-04:00",
+      "title": "New GoGra malware for Linux uses Microsoft Graph API for comms"
     }
   ]
 }
