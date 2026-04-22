@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T07:00:09.112-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
-  "lastId": "1wprp9a000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/22/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms.md",
+  "updatedAt": "2026-04-22T08:00:47.844-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
+  "lastId": "1072fc7000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/22/microsoft-traces-universal-print-issues-to-graph-api-code-change.md",
   "items": [
     {
-      "id": "1wprp9a000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
-      "filePath": "bleepingcomp/pages/2026/04/22/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms.md",
-      "committedAt": "2026-04-22T07:00:09.112-04:00",
-      "title": "New GoGra malware for Linux uses Microsoft Graph API for comms"
+      "id": "1072fc7000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
+      "filePath": "bleepingcomp/pages/2026/04/22/microsoft-traces-universal-print-issues-to-graph-api-code-change.md",
+      "committedAt": "2026-04-22T08:00:47.844-04:00",
+      "title": "Microsoft traces Universal Print issues to Graph API code change"
     }
   ]
 }
