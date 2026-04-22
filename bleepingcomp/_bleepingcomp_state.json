@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T10:00:48.809-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
-  "lastId": "1oem6ta000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/22/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens.md",
+  "updatedAt": "2026-04-22T11:00:47.518-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
+  "lastId": "1hw3w7d000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/22/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process.md",
   "items": [
     {
-      "id": "1oem6ta000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
-      "filePath": "bleepingcomp/pages/2026/04/22/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens.md",
-      "committedAt": "2026-04-22T10:00:48.809-04:00",
-      "title": "New npm supply-chain attack self-spreads to steal auth tokens"
+      "id": "1hw3w7d000",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
+      "filePath": "bleepingcomp/pages/2026/04/22/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process.md",
+      "committedAt": "2026-04-22T11:00:47.518-04:00",
+      "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process"
     }
   ]
 }
