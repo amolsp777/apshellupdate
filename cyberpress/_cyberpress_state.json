@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T03:00:14.326-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-releases-emergency-net-10-0-7-update-to-fix/",
-  "lastId": "1peawpm000",
-  "lastFilePath": "cyberpress/pages/2026/04/22/microsoft-releases-emergency-net-1007-update-to-fix-critical-privilege-escalatio.md",
+  "updatedAt": "2026-04-22T04:00:13.971-05:00",
+  "lastLink": "https://cyberpress.org/france-confirms-data-breach/",
+  "lastId": "1l4pkxj000",
+  "lastFilePath": "cyberpress/pages/2026/04/22/france-confirms-data-breach-after-hackers-claim-massive-data-leak.md",
   "items": [
     {
-      "id": "1peawpm000",
-      "link": "https://cyberpress.org/microsoft-releases-emergency-net-10-0-7-update-to-fix/",
-      "filePath": "cyberpress/pages/2026/04/22/microsoft-releases-emergency-net-1007-update-to-fix-critical-privilege-escalatio.md",
-      "committedAt": "2026-04-22T03:00:14.326-05:00",
-      "title": "Microsoft Releases Emergency .NET 10.0.7 Update to Fix Critical Privilege Escalation Flaw"
+      "id": "1l4pkxj000",
+      "link": "https://cyberpress.org/france-confirms-data-breach/",
+      "filePath": "cyberpress/pages/2026/04/22/france-confirms-data-breach-after-hackers-claim-massive-data-leak.md",
+      "committedAt": "2026-04-22T04:00:13.971-05:00",
+      "title": "France Confirms Data Breach After Hackers Claim Massive Data Leak"
     }
   ]
 }
