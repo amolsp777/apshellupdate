@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T09:00:36.479-05:00",
-  "lastLink": "https://cyberpress.org/fake-ads-drain-wallets/",
-  "lastId": "1p36osy000",
-  "lastFilePath": "cyberpress/pages/2026/04/22/fake-google-ads-used-to-steal-seed-phrases-and-drain-crypto-wallets.md",
+  "updatedAt": "2026-04-22T10:00:14.058-05:00",
+  "lastLink": "https://cyberpress.org/spring-authorization-server-flaw/",
+  "lastId": "wfbakd0000",
+  "lastFilePath": "cyberpress/pages/2026/04/22/critical-spring-authorization-server-flaw-enables-xss-privilege-escalation-and-s.md",
   "items": [
     {
-      "id": "1p36osy000",
-      "link": "https://cyberpress.org/fake-ads-drain-wallets/",
-      "filePath": "cyberpress/pages/2026/04/22/fake-google-ads-used-to-steal-seed-phrases-and-drain-crypto-wallets.md",
-      "committedAt": "2026-04-22T09:00:36.479-05:00",
-      "title": "Fake Google Ads Used To Steal Seed Phrases and Drain Crypto Wallets"
+      "id": "wfbakd0000",
+      "link": "https://cyberpress.org/spring-authorization-server-flaw/",
+      "filePath": "cyberpress/pages/2026/04/22/critical-spring-authorization-server-flaw-enables-xss-privilege-escalation-and-s.md",
+      "committedAt": "2026-04-22T10:00:14.058-05:00",
+      "title": "Critical Spring Authorization Server Flaw Enables XSS, Privilege Escalation, and SSRF"
     }
   ]
 }
