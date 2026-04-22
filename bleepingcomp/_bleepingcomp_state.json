@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T09:00:08.919-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
-  "lastId": "1wgmz6s000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/22/microsoft-teams-to-get-efficiency-mode-on-pcs-with-limited-resources.md",
+  "updatedAt": "2026-04-22T10:00:48.809-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
+  "lastId": "1oem6ta000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/22/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens.md",
   "items": [
     {
-      "id": "1wgmz6s000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
-      "filePath": "bleepingcomp/pages/2026/04/22/microsoft-teams-to-get-efficiency-mode-on-pcs-with-limited-resources.md",
-      "committedAt": "2026-04-22T09:00:08.919-04:00",
-      "title": "Microsoft Teams to get efficiency mode on PCs with limited resources"
+      "id": "1oem6ta000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
+      "filePath": "bleepingcomp/pages/2026/04/22/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens.md",
+      "committedAt": "2026-04-22T10:00:48.809-04:00",
+      "title": "New npm supply-chain attack self-spreads to steal auth tokens"
     }
   ]
 }
