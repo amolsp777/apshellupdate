@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T08:00:47.844-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
-  "lastId": "1072fc7000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/22/microsoft-traces-universal-print-issues-to-graph-api-code-change.md",
+  "updatedAt": "2026-04-22T09:00:08.919-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
+  "lastId": "1wgmz6s000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/22/microsoft-teams-to-get-efficiency-mode-on-pcs-with-limited-resources.md",
   "items": [
     {
-      "id": "1072fc7000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
-      "filePath": "bleepingcomp/pages/2026/04/22/microsoft-traces-universal-print-issues-to-graph-api-code-change.md",
-      "committedAt": "2026-04-22T08:00:47.844-04:00",
-      "title": "Microsoft traces Universal Print issues to Graph API code change"
+      "id": "1wgmz6s000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
+      "filePath": "bleepingcomp/pages/2026/04/22/microsoft-teams-to-get-efficiency-mode-on-pcs-with-limited-resources.md",
+      "committedAt": "2026-04-22T09:00:08.919-04:00",
+      "title": "Microsoft Teams to get efficiency mode on PCs with limited resources"
     }
   ]
 }
