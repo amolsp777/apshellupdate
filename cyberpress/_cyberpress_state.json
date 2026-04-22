@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21T13:01:02.639-05:00",
-  "lastLink": "https://cyberpress.org/purerat-hides-fileless-payloads/",
-  "lastId": "13nxuiu000",
-  "lastFilePath": "cyberpress/pages/2026/04/21/new-purerat-campaign-uses-png-files-to-conceal-fileless-payloads.md",
+  "updatedAt": "2026-04-22T02:00:40.499-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-binary-drops-lotuslite/",
+  "lastId": "1b1a4f2000",
+  "lastFilePath": "cyberpress/pages/2026/04/22/attackers-use-microsoft-signed-binary-to-deploy-lotuslite-in-india-focused-cyber.md",
   "items": [
     {
-      "id": "13nxuiu000",
-      "link": "https://cyberpress.org/purerat-hides-fileless-payloads/",
-      "filePath": "cyberpress/pages/2026/04/21/new-purerat-campaign-uses-png-files-to-conceal-fileless-payloads.md",
-      "committedAt": "2026-04-21T13:01:02.639-05:00",
-      "title": "New PureRAT Campaign Uses PNG Files To Conceal Fileless Payloads"
+      "id": "1b1a4f2000",
+      "link": "https://cyberpress.org/microsoft-binary-drops-lotuslite/",
+      "filePath": "cyberpress/pages/2026/04/22/attackers-use-microsoft-signed-binary-to-deploy-lotuslite-in-india-focused-cyber.md",
+      "committedAt": "2026-04-22T02:00:40.499-05:00",
+      "title": "Attackers Use Microsoft-Signed Binary To Deploy LOTUSLITE In India-Focused Cyber Campaign"
     }
   ]
 }
