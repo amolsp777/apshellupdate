@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T07:00:30.752-05:00",
-  "lastLink": "https://cyberpress.org/crowdstrike-logscale-vulnerability/",
-  "lastId": "19c1rqc000",
-  "lastFilePath": "cyberpress/pages/2026/04/22/crowdstrike-logscale-vulnerability-lets-remote-attackers-read-arbitrary-server-f.md",
+  "updatedAt": "2026-04-22T08:00:14.135-05:00",
+  "lastLink": "https://cyberpress.org/critical-bamboo-data-center-and-server-vulnerability-enables-command-injection-attacks/",
+  "lastId": "1i7xnh0000",
+  "lastFilePath": "cyberpress/pages/2026/04/22/critical-bamboo-data-center-and-server-vulnerability-enables-command-injection-a.md",
   "items": [
     {
-      "id": "19c1rqc000",
-      "link": "https://cyberpress.org/crowdstrike-logscale-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/22/crowdstrike-logscale-vulnerability-lets-remote-attackers-read-arbitrary-server-f.md",
-      "committedAt": "2026-04-22T07:00:30.752-05:00",
-      "title": "CrowdStrike LogScale Vulnerability Lets Remote Attackers Read Arbitrary Server Files"
+      "id": "1i7xnh0000",
+      "link": "https://cyberpress.org/critical-bamboo-data-center-and-server-vulnerability-enables-command-injection-attacks/",
+      "filePath": "cyberpress/pages/2026/04/22/critical-bamboo-data-center-and-server-vulnerability-enables-command-injection-a.md",
+      "committedAt": "2026-04-22T08:00:14.135-05:00",
+      "title": "Critical Bamboo Data Center and Server Vulnerability Enables Command Injection Attacks"
     }
   ]
 }
