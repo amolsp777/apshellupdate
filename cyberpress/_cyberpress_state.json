@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T10:00:14.058-05:00",
-  "lastLink": "https://cyberpress.org/spring-authorization-server-flaw/",
-  "lastId": "wfbakd0000",
-  "lastFilePath": "cyberpress/pages/2026/04/22/critical-spring-authorization-server-flaw-enables-xss-privilege-escalation-and-s.md",
+  "updatedAt": "2026-04-22T11:00:46.393-05:00",
+  "lastLink": "https://cyberpress.org/french-fintech-funds-routed/",
+  "lastId": "3mw76j0000",
+  "lastFilePath": "cyberpress/pages/2026/04/22/stolen-money-routed-through-french-fintech-accounts-in-new-cybercriminal-scheme.md",
   "items": [
     {
-      "id": "wfbakd0000",
-      "link": "https://cyberpress.org/spring-authorization-server-flaw/",
-      "filePath": "cyberpress/pages/2026/04/22/critical-spring-authorization-server-flaw-enables-xss-privilege-escalation-and-s.md",
-      "committedAt": "2026-04-22T10:00:14.058-05:00",
-      "title": "Critical Spring Authorization Server Flaw Enables XSS, Privilege Escalation, and SSRF"
+      "id": "3mw76j0000",
+      "link": "https://cyberpress.org/french-fintech-funds-routed/",
+      "filePath": "cyberpress/pages/2026/04/22/stolen-money-routed-through-french-fintech-accounts-in-new-cybercriminal-scheme.md",
+      "committedAt": "2026-04-22T11:00:46.393-05:00",
+      "title": "Stolen Money Routed Through French Fintech Accounts In New Cybercriminal Scheme"
     }
   ]
 }
