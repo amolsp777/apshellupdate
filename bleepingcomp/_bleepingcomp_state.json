@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T15:00:09.139-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
-  "lastId": "pcd3mm0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/22/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows.md",
+  "updatedAt": "2026-04-22T17:00:03.420-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
+  "lastId": "165rb5f000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/22/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers.md",
   "items": [
     {
-      "id": "pcd3mm0000",
-      "link": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
-      "filePath": "bleepingcomp/pages/2026/04/22/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows.md",
-      "committedAt": "2026-04-22T15:00:09.139-04:00",
-      "title": "Kyber ransomware gang toys with post-quantum encryption on Windows"
+      "id": "165rb5f000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
+      "filePath": "bleepingcomp/pages/2026/04/22/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers.md",
+      "committedAt": "2026-04-22T17:00:03.420-04:00",
+      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers"
     }
   ]
 }
