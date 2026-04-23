@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T07:00:19.498-05:00",
-  "lastLink": "https://cyberpress.org/gitlab-security-update-patches-multiple-vulnerabilities/",
-  "lastId": "nje9730000",
-  "lastFilePath": "cyberpress/pages/2026/04/23/gitlab-security-update-patches-multiple-vulnerabilities-allowing-session-hijacks.md",
+  "updatedAt": "2026-04-23T08:00:30.325-05:00",
+  "lastLink": "https://cyberpress.org/hackers-hijack-youtube-spread-malware/",
+  "lastId": "1pq9i1a000",
+  "lastFilePath": "cyberpress/pages/2026/04/23/hackers-hijack-youtube-and-fake-wallpaper-app-to-unleash-notnullosx-malware-onsl.md",
   "items": [
     {
-      "id": "nje9730000",
-      "link": "https://cyberpress.org/gitlab-security-update-patches-multiple-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/04/23/gitlab-security-update-patches-multiple-vulnerabilities-allowing-session-hijacks.md",
-      "committedAt": "2026-04-23T07:00:19.498-05:00",
-      "title": "GitLab Security Update Patches Multiple Vulnerabilities Allowing Session Hijacks"
+      "id": "1pq9i1a000",
+      "link": "https://cyberpress.org/hackers-hijack-youtube-spread-malware/",
+      "filePath": "cyberpress/pages/2026/04/23/hackers-hijack-youtube-and-fake-wallpaper-app-to-unleash-notnullosx-malware-onsl.md",
+      "committedAt": "2026-04-23T08:00:30.325-05:00",
+      "title": "Hackers Hijack YouTube and Fake Wallpaper App To Unleash notnullOSX Malware Onslaught"
     }
   ]
 }
