@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T03:00:30.141-05:00",
-  "lastLink": "https://cyberpress.org/checkmarx-kics-compromised-to-inject-malicious-code/",
-  "lastId": "xezayx0000",
-  "lastFilePath": "cyberpress/pages/2026/04/23/checkmarx-kics-official-docker-repo-compromised-to-inject-malicious-code.md",
+  "updatedAt": "2026-04-23T04:00:30.199-05:00",
+  "lastLink": "https://cyberpress.org/xinference-pypi-package-compromised/",
+  "lastId": "iscjk10000",
+  "lastFilePath": "cyberpress/pages/2026/04/23/xinference-pypi-package-compromised-with-malicious-code-to-steal-cloud-credentia.md",
   "items": [
     {
-      "id": "xezayx0000",
-      "link": "https://cyberpress.org/checkmarx-kics-compromised-to-inject-malicious-code/",
-      "filePath": "cyberpress/pages/2026/04/23/checkmarx-kics-official-docker-repo-compromised-to-inject-malicious-code.md",
-      "committedAt": "2026-04-23T03:00:30.141-05:00",
-      "title": "Checkmarx KICS Official Docker Repo Compromised to Inject Malicious Code"
+      "id": "iscjk10000",
+      "link": "https://cyberpress.org/xinference-pypi-package-compromised/",
+      "filePath": "cyberpress/pages/2026/04/23/xinference-pypi-package-compromised-with-malicious-code-to-steal-cloud-credentia.md",
+      "committedAt": "2026-04-23T04:00:30.199-05:00",
+      "title": "Xinference PyPI Package Compromised With Malicious Code to Steal Cloud Credentials"
     }
   ]
 }
