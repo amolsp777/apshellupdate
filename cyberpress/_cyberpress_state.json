@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T02:00:19.425-05:00",
-  "lastLink": "https://cyberpress.org/claude-mythos-ai-model-uncovers-271-zero-day-vulnerabilities-in-firefox/",
-  "lastId": "kc71a10000",
-  "lastFilePath": "cyberpress/pages/2026/04/23/claude-mythos-ai-model-uncovers-271-zero-day-vulnerabilities-in-firefox.md",
+  "updatedAt": "2026-04-23T03:00:30.141-05:00",
+  "lastLink": "https://cyberpress.org/checkmarx-kics-compromised-to-inject-malicious-code/",
+  "lastId": "xezayx0000",
+  "lastFilePath": "cyberpress/pages/2026/04/23/checkmarx-kics-official-docker-repo-compromised-to-inject-malicious-code.md",
   "items": [
     {
-      "id": "kc71a10000",
-      "link": "https://cyberpress.org/claude-mythos-ai-model-uncovers-271-zero-day-vulnerabilities-in-firefox/",
-      "filePath": "cyberpress/pages/2026/04/23/claude-mythos-ai-model-uncovers-271-zero-day-vulnerabilities-in-firefox.md",
-      "committedAt": "2026-04-23T02:00:19.425-05:00",
-      "title": "Claude Mythos AI Model Uncovers 271 Zero-Day Vulnerabilities in Firefox"
+      "id": "xezayx0000",
+      "link": "https://cyberpress.org/checkmarx-kics-compromised-to-inject-malicious-code/",
+      "filePath": "cyberpress/pages/2026/04/23/checkmarx-kics-official-docker-repo-compromised-to-inject-malicious-code.md",
+      "committedAt": "2026-04-23T03:00:30.141-05:00",
+      "title": "Checkmarx KICS Official Docker Repo Compromised to Inject Malicious Code"
     }
   ]
 }
