@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T15:00:19.580-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
-  "lastId": "5erm6r0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/23/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data.md",
+  "updatedAt": "2026-04-23T16:00:20.975-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+  "lastId": "1raa29q000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/23/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials.md",
   "items": [
     {
-      "id": "5erm6r0000",
-      "link": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
-      "filePath": "bleepingcomp/pages/2026/04/23/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data.md",
-      "committedAt": "2026-04-23T15:00:19.580-04:00",
-      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data"
+      "id": "1raa29q000",
+      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+      "filePath": "bleepingcomp/pages/2026/04/23/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials.md",
+      "committedAt": "2026-04-23T16:00:20.975-04:00",
+      "title": "Bitwarden CLI npm package compromised to steal developer credentials"
     }
   ]
 }
