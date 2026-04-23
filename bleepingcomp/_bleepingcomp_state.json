@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T12:00:42.281-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/",
-  "lastId": "niy2pz0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/23/regular-password-resets-arent-as-safe-as-you-think.md",
+  "updatedAt": "2026-04-23T13:00:20.174-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
+  "lastId": "htnt9v0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/23/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool.md",
   "items": [
     {
-      "id": "niy2pz0000",
-      "link": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/",
-      "filePath": "bleepingcomp/pages/2026/04/23/regular-password-resets-arent-as-safe-as-you-think.md",
-      "committedAt": "2026-04-23T12:00:42.281-04:00",
-      "title": "Regular Password Resets Aren’t as Safe as You Think"
+      "id": "htnt9v0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
+      "filePath": "bleepingcomp/pages/2026/04/23/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool.md",
+      "committedAt": "2026-04-23T13:00:20.174-04:00",
+      "title": "New Checkmarx supply-chain breach affects KICS analysis tool"
     }
   ]
 }
