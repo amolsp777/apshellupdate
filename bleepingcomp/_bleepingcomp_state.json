@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T16:00:20.975-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
-  "lastId": "1raa29q000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/23/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials.md",
+  "updatedAt": "2026-04-23T18:00:19.453-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+  "lastId": "ezm6z70000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/23/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin.md",
   "items": [
     {
-      "id": "1raa29q000",
-      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
-      "filePath": "bleepingcomp/pages/2026/04/23/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials.md",
-      "committedAt": "2026-04-23T16:00:20.975-04:00",
-      "title": "Bitwarden CLI npm package compromised to steal developer credentials"
+      "id": "ezm6z70000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+      "filePath": "bleepingcomp/pages/2026/04/23/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin.md",
+      "committedAt": "2026-04-23T18:00:19.453-04:00",
+      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin"
     }
   ]
 }
