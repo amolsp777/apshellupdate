@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T04:00:30.199-05:00",
-  "lastLink": "https://cyberpress.org/xinference-pypi-package-compromised/",
-  "lastId": "iscjk10000",
-  "lastFilePath": "cyberpress/pages/2026/04/23/xinference-pypi-package-compromised-with-malicious-code-to-steal-cloud-credentia.md",
+  "updatedAt": "2026-04-23T05:00:14.078-05:00",
+  "lastLink": "https://cyberpress.org/new-lmdeploy-vulnerability/",
+  "lastId": "163v7y0000",
+  "lastFilePath": "cyberpress/pages/2026/04/23/new-lmdeploy-vulnerability-exploited-in-the-wild-just-12-hours-after-public-advi.md",
   "items": [
     {
-      "id": "iscjk10000",
-      "link": "https://cyberpress.org/xinference-pypi-package-compromised/",
-      "filePath": "cyberpress/pages/2026/04/23/xinference-pypi-package-compromised-with-malicious-code-to-steal-cloud-credentia.md",
-      "committedAt": "2026-04-23T04:00:30.199-05:00",
-      "title": "Xinference PyPI Package Compromised With Malicious Code to Steal Cloud Credentials"
+      "id": "163v7y0000",
+      "link": "https://cyberpress.org/new-lmdeploy-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/23/new-lmdeploy-vulnerability-exploited-in-the-wild-just-12-hours-after-public-advi.md",
+      "committedAt": "2026-04-23T05:00:14.078-05:00",
+      "title": "New LMDeploy Vulnerability Exploited in the Wild Just 12 Hours After Public Advisory"
     }
   ]
 }
