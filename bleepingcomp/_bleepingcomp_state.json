@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T13:00:20.174-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
-  "lastId": "htnt9v0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/23/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool.md",
+  "updatedAt": "2026-04-23T14:00:52.598-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
+  "lastId": "ihujcj0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/23/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms.md",
   "items": [
     {
-      "id": "htnt9v0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
-      "filePath": "bleepingcomp/pages/2026/04/23/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool.md",
-      "committedAt": "2026-04-23T13:00:20.174-04:00",
-      "title": "New Checkmarx supply-chain breach affects KICS analysis tool"
+      "id": "ihujcj0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
+      "filePath": "bleepingcomp/pages/2026/04/23/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms.md",
+      "committedAt": "2026-04-23T14:00:52.598-04:00",
+      "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms"
     }
   ]
 }
