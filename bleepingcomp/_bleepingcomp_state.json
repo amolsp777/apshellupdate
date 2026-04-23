@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T08:00:03.689-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
-  "lastId": "1pnls2e000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/23/cisa-orders-feds-to-patch-bluehammer-flaw-exploited-as-zero-day.md",
+  "updatedAt": "2026-04-23T09:00:41.688-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
+  "lastId": "ih83vc0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/23/uk-warns-of-chinese-hackers-using-proxy-networks-to-evade-detection.md",
   "items": [
     {
-      "id": "1pnls2e000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/23/cisa-orders-feds-to-patch-bluehammer-flaw-exploited-as-zero-day.md",
-      "committedAt": "2026-04-23T08:00:03.689-04:00",
-      "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day"
+      "id": "ih83vc0000",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
+      "filePath": "bleepingcomp/pages/2026/04/23/uk-warns-of-chinese-hackers-using-proxy-networks-to-evade-detection.md",
+      "committedAt": "2026-04-23T09:00:41.688-04:00",
+      "title": "UK warns of Chinese hackers using proxy networks to evade detection"
     }
   ]
 }
