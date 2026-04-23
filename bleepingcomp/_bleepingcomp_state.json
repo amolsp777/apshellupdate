@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T09:00:41.688-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
-  "lastId": "ih83vc0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/23/uk-warns-of-chinese-hackers-using-proxy-networks-to-evade-detection.md",
+  "updatedAt": "2026-04-23T10:00:20.465-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/",
+  "lastId": "bg9rw20000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/23/microsoft-some-teams-users-cant-join-meetings-after-edge-update.md",
   "items": [
     {
-      "id": "ih83vc0000",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
-      "filePath": "bleepingcomp/pages/2026/04/23/uk-warns-of-chinese-hackers-using-proxy-networks-to-evade-detection.md",
-      "committedAt": "2026-04-23T09:00:41.688-04:00",
-      "title": "UK warns of Chinese hackers using proxy networks to evade detection"
+      "id": "bg9rw20000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/",
+      "filePath": "bleepingcomp/pages/2026/04/23/microsoft-some-teams-users-cant-join-meetings-after-edge-update.md",
+      "committedAt": "2026-04-23T10:00:20.465-04:00",
+      "title": "Microsoft: Some Teams users can’t join meetings after Edge update"
     }
   ]
 }
