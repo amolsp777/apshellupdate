@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T06:00:13.914-05:00",
-  "lastLink": "https://cyberpress.org/vercel-confirms-security-breach-after-customer-accounts-were-compromised/",
-  "lastId": "jywmxg0000",
-  "lastFilePath": "cyberpress/pages/2026/04/23/vercel-confirms-security-breach-after-customer-accounts-were-compromised.md",
+  "updatedAt": "2026-04-23T07:00:19.498-05:00",
+  "lastLink": "https://cyberpress.org/gitlab-security-update-patches-multiple-vulnerabilities/",
+  "lastId": "nje9730000",
+  "lastFilePath": "cyberpress/pages/2026/04/23/gitlab-security-update-patches-multiple-vulnerabilities-allowing-session-hijacks.md",
   "items": [
     {
-      "id": "jywmxg0000",
-      "link": "https://cyberpress.org/vercel-confirms-security-breach-after-customer-accounts-were-compromised/",
-      "filePath": "cyberpress/pages/2026/04/23/vercel-confirms-security-breach-after-customer-accounts-were-compromised.md",
-      "committedAt": "2026-04-23T06:00:13.914-05:00",
-      "title": "Vercel Confirms Security Breach After Customer Accounts Were Compromised"
+      "id": "nje9730000",
+      "link": "https://cyberpress.org/gitlab-security-update-patches-multiple-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/04/23/gitlab-security-update-patches-multiple-vulnerabilities-allowing-session-hijacks.md",
+      "committedAt": "2026-04-23T07:00:19.498-05:00",
+      "title": "GitLab Security Update Patches Multiple Vulnerabilities Allowing Session Hijacks"
     }
   ]
 }
