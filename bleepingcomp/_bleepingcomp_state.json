@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T02:00:36.013-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
-  "lastId": "16lsasn000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/22/apple-fixes-bug-that-let-the-fbi-recover-deleted-signal-messages.md",
+  "updatedAt": "2026-04-23T08:00:03.689-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
+  "lastId": "1pnls2e000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/23/cisa-orders-feds-to-patch-bluehammer-flaw-exploited-as-zero-day.md",
   "items": [
     {
-      "id": "16lsasn000",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
-      "filePath": "bleepingcomp/pages/2026/04/22/apple-fixes-bug-that-let-the-fbi-recover-deleted-signal-messages.md",
-      "committedAt": "2026-04-23T02:00:36.013-04:00",
-      "title": "Apple fixes bug that let the FBI recover deleted Signal messages"
+      "id": "1pnls2e000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/23/cisa-orders-feds-to-patch-bluehammer-flaw-exploited-as-zero-day.md",
+      "committedAt": "2026-04-23T08:00:03.689-04:00",
+      "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day"
     }
   ]
 }
