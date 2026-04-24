@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T18:00:09.062-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
-  "lastId": "s5a9fg0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/24/windows-update-gets-new-controls-to-reduce-forced-restarts.md",
+  "updatedAt": "2026-04-24T19:00:03.533-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
+  "lastId": "13rqpkj000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/24/adt-confirms-data-breach-after-shinyhunters-leak-threat.md",
   "items": [
     {
-      "id": "s5a9fg0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
-      "filePath": "bleepingcomp/pages/2026/04/24/windows-update-gets-new-controls-to-reduce-forced-restarts.md",
-      "committedAt": "2026-04-24T18:00:09.062-04:00",
-      "title": "Windows Update gets new controls to reduce forced restarts"
+      "id": "13rqpkj000",
+      "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
+      "filePath": "bleepingcomp/pages/2026/04/24/adt-confirms-data-breach-after-shinyhunters-leak-threat.md",
+      "committedAt": "2026-04-24T19:00:03.533-04:00",
+      "title": "ADT confirms data breach after ShinyHunters leak threat"
     }
   ]
 }
