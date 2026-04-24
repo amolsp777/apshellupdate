@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T12:00:56.193-05:00",
-  "lastLink": "https://cyberpress.org/claude-desktop-reportedly-adds-browser-access-bridge-for-multiple-chromium-based-browsers/",
-  "lastId": "px1ej80000",
-  "lastFilePath": "cyberpress/pages/2026/04/24/claude-desktop-reportedly-adds-browser-access-bridge-for-multiple-chromium-based.md",
+  "updatedAt": "2026-04-24T13:01:02.053-05:00",
+  "lastLink": "https://cyberpress.org/powershell-steals-telegram-sessions/",
+  "lastId": "veinmz0000",
+  "lastFilePath": "cyberpress/pages/2026/04/24/telegram-sessions-targeted-through-malicious-powershell-script.md",
   "items": [
     {
-      "id": "px1ej80000",
-      "link": "https://cyberpress.org/claude-desktop-reportedly-adds-browser-access-bridge-for-multiple-chromium-based-browsers/",
-      "filePath": "cyberpress/pages/2026/04/24/claude-desktop-reportedly-adds-browser-access-bridge-for-multiple-chromium-based.md",
-      "committedAt": "2026-04-24T12:00:56.193-05:00",
-      "title": "Claude Desktop Reportedly Adds Browser Access Bridge for Multiple Chromium-Based Browsers"
+      "id": "veinmz0000",
+      "link": "https://cyberpress.org/powershell-steals-telegram-sessions/",
+      "filePath": "cyberpress/pages/2026/04/24/telegram-sessions-targeted-through-malicious-powershell-script.md",
+      "committedAt": "2026-04-24T13:01:02.053-05:00",
+      "title": "Telegram Sessions Targeted Through Malicious PowerShell Script"
     }
   ]
 }
