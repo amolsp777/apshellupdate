@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T17:00:03.474-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
-  "lastId": "1o8pmcf000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/24/firestarter-malware-survives-cisco-firewall-updates-security-patches.md",
+  "updatedAt": "2026-04-24T18:00:09.062-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
+  "lastId": "s5a9fg0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/24/windows-update-gets-new-controls-to-reduce-forced-restarts.md",
   "items": [
     {
-      "id": "1o8pmcf000",
-      "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
-      "filePath": "bleepingcomp/pages/2026/04/24/firestarter-malware-survives-cisco-firewall-updates-security-patches.md",
-      "committedAt": "2026-04-24T17:00:03.474-04:00",
-      "title": "Firestarter malware survives Cisco firewall updates, security patches"
+      "id": "s5a9fg0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
+      "filePath": "bleepingcomp/pages/2026/04/24/windows-update-gets-new-controls-to-reduce-forced-restarts.md",
+      "committedAt": "2026-04-24T18:00:09.062-04:00",
+      "title": "Windows Update gets new controls to reduce forced restarts"
     }
   ]
 }
