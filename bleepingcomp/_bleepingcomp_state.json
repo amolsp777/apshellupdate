@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T14:00:46.653-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
-  "lastId": "st52j60000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/24/new-pack2theroot-flaw-gives-hackers-root-linux-access.md",
+  "updatedAt": "2026-04-24T15:00:40.756-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
+  "lastId": "4zb7j70000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/24/new-blackfile-extortion-group-linked-to-surge-of-vishing-attacks.md",
   "items": [
     {
-      "id": "st52j60000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
-      "filePath": "bleepingcomp/pages/2026/04/24/new-pack2theroot-flaw-gives-hackers-root-linux-access.md",
-      "committedAt": "2026-04-24T14:00:46.653-04:00",
-      "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access"
+      "id": "4zb7j70000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
+      "filePath": "bleepingcomp/pages/2026/04/24/new-blackfile-extortion-group-linked-to-surge-of-vishing-attacks.md",
+      "committedAt": "2026-04-24T15:00:40.756-04:00",
+      "title": "New BlackFile extortion group linked to surge of vishing attacks"
     }
   ]
 }
