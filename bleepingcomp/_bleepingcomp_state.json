@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T11:00:52.291-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
-  "lastId": "1g3d9ms000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/24/dora-and-operational-resilience-credential-management-as-a-financial-risk-contro.md",
+  "updatedAt": "2026-04-24T14:00:46.653-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
+  "lastId": "st52j60000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/24/new-pack2theroot-flaw-gives-hackers-root-linux-access.md",
   "items": [
     {
-      "id": "1g3d9ms000",
-      "link": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
-      "filePath": "bleepingcomp/pages/2026/04/24/dora-and-operational-resilience-credential-management-as-a-financial-risk-contro.md",
-      "committedAt": "2026-04-24T11:00:52.291-04:00",
-      "title": "DORA and operational resilience: Credential management as a financial risk control"
+      "id": "st52j60000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
+      "filePath": "bleepingcomp/pages/2026/04/24/new-pack2theroot-flaw-gives-hackers-root-linux-access.md",
+      "committedAt": "2026-04-24T14:00:46.653-04:00",
+      "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access"
     }
   ]
 }
