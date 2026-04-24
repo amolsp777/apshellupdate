@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T10:00:46.422-05:00",
-  "lastLink": "https://cyberpress.org/hackers-can-abuse-agent-id-administrator-role-to-hijack-service-principals/",
-  "lastId": "2l1dpw0000",
-  "lastFilePath": "cyberpress/pages/2026/04/24/hackers-can-abuse-agent-id-administrator-role-to-hijack-service-principals.md",
+  "updatedAt": "2026-04-24T11:00:52.634-05:00",
+  "lastLink": "https://cyberpress.org/gpt-5-5-bio-bug-bounty-launched/",
+  "lastId": "gcgcbm0000",
+  "lastFilePath": "cyberpress/pages/2026/04/24/gpt-55-bio-bug-bounty-launched-to-strengthen-advanced-ai-capabilities.md",
   "items": [
     {
-      "id": "2l1dpw0000",
-      "link": "https://cyberpress.org/hackers-can-abuse-agent-id-administrator-role-to-hijack-service-principals/",
-      "filePath": "cyberpress/pages/2026/04/24/hackers-can-abuse-agent-id-administrator-role-to-hijack-service-principals.md",
-      "committedAt": "2026-04-24T10:00:46.422-05:00",
-      "title": "Hackers Can Abuse Agent ID Administrator Role to Hijack Service Principals"
+      "id": "gcgcbm0000",
+      "link": "https://cyberpress.org/gpt-5-5-bio-bug-bounty-launched/",
+      "filePath": "cyberpress/pages/2026/04/24/gpt-55-bio-bug-bounty-launched-to-strengthen-advanced-ai-capabilities.md",
+      "committedAt": "2026-04-24T11:00:52.634-05:00",
+      "title": "GPT-5.5 Bio Bug Bounty Launched to Strengthen Advanced AI Capabilities"
     }
   ]
 }
