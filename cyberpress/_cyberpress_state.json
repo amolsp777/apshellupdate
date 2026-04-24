@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T05:00:19.360-05:00",
-  "lastLink": "https://cyberpress.org/hackers-exploit-ss7-and-diameter-protocols-to-track-mobile-users-worldwide/",
-  "lastId": "rbpj900000",
-  "lastFilePath": "cyberpress/pages/2026/04/24/hackers-exploit-ss7-and-diameter-protocols-to-track-mobile-users-worldwide.md",
+  "updatedAt": "2026-04-24T06:00:13.836-05:00",
+  "lastLink": "https://cyberpress.org/critical-python-vulnerability/",
+  "lastId": "1i1fgj9000",
+  "lastFilePath": "cyberpress/pages/2026/04/24/critical-python-vulnerability-enables-out-of-bounds-write-on-windows-systems.md",
   "items": [
     {
-      "id": "rbpj900000",
-      "link": "https://cyberpress.org/hackers-exploit-ss7-and-diameter-protocols-to-track-mobile-users-worldwide/",
-      "filePath": "cyberpress/pages/2026/04/24/hackers-exploit-ss7-and-diameter-protocols-to-track-mobile-users-worldwide.md",
-      "committedAt": "2026-04-24T05:00:19.360-05:00",
-      "title": "Hackers Exploit SS7 and Diameter Protocols to Track Mobile Users Worldwide"
+      "id": "1i1fgj9000",
+      "link": "https://cyberpress.org/critical-python-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/24/critical-python-vulnerability-enables-out-of-bounds-write-on-windows-systems.md",
+      "committedAt": "2026-04-24T06:00:13.836-05:00",
+      "title": "Critical Python Vulnerability Enables Out-of-Bounds Write on Windows Systems"
     }
   ]
 }
