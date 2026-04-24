@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T16:00:45.991-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/",
-  "lastId": "12z2k64000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/24/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april.md",
+  "updatedAt": "2026-04-24T17:00:03.474-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
+  "lastId": "1o8pmcf000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/24/firestarter-malware-survives-cisco-firewall-updates-security-patches.md",
   "items": [
     {
-      "id": "12z2k64000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/",
-      "filePath": "bleepingcomp/pages/2026/04/24/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april.md",
-      "committedAt": "2026-04-24T16:00:45.991-04:00",
-      "title": "Microsoft to roll out Entra passkeys on Windows in late April"
+      "id": "1o8pmcf000",
+      "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
+      "filePath": "bleepingcomp/pages/2026/04/24/firestarter-malware-survives-cisco-firewall-updates-security-patches.md",
+      "committedAt": "2026-04-24T17:00:03.474-04:00",
+      "title": "Firestarter malware survives Cisco firewall updates, security patches"
     }
   ]
 }
