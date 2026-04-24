@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T15:00:40.756-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
-  "lastId": "4zb7j70000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/24/new-blackfile-extortion-group-linked-to-surge-of-vishing-attacks.md",
+  "updatedAt": "2026-04-24T16:00:45.991-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/",
+  "lastId": "12z2k64000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/24/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april.md",
   "items": [
     {
-      "id": "4zb7j70000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
-      "filePath": "bleepingcomp/pages/2026/04/24/new-blackfile-extortion-group-linked-to-surge-of-vishing-attacks.md",
-      "committedAt": "2026-04-24T15:00:40.756-04:00",
-      "title": "New BlackFile extortion group linked to surge of vishing attacks"
+      "id": "12z2k64000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/",
+      "filePath": "bleepingcomp/pages/2026/04/24/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april.md",
+      "committedAt": "2026-04-24T16:00:45.991-04:00",
+      "title": "Microsoft to roll out Entra passkeys on Windows in late April"
     }
   ]
 }
