@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T13:01:02.771-05:00",
-  "lastLink": "https://cyberpress.org/tropic-troopers-vs-code-assault/",
-  "lastId": "o7elbk0000",
-  "lastFilePath": "cyberpress/pages/2026/04/23/tropic-trooper-deploys-custom-beacon-and-vs-code-tunnels-in-fresh-apt-assault.md",
+  "updatedAt": "2026-04-24T01:00:43.743-05:00",
+  "lastLink": "https://cyberpress.org/auraboros-rat-panel-exposed/",
+  "lastId": "pr19xg0000",
+  "lastFilePath": "cyberpress/pages/2026/04/24/open-c2-panel-reveals-auraboros-rat-audio-streaming-and-keylogging-features.md",
   "items": [
     {
-      "id": "o7elbk0000",
-      "link": "https://cyberpress.org/tropic-troopers-vs-code-assault/",
-      "filePath": "cyberpress/pages/2026/04/23/tropic-trooper-deploys-custom-beacon-and-vs-code-tunnels-in-fresh-apt-assault.md",
-      "committedAt": "2026-04-23T13:01:02.771-05:00",
-      "title": "Tropic Trooper Deploys Custom Beacon and VS Code Tunnels in Fresh APT Assault"
+      "id": "pr19xg0000",
+      "link": "https://cyberpress.org/auraboros-rat-panel-exposed/",
+      "filePath": "cyberpress/pages/2026/04/24/open-c2-panel-reveals-auraboros-rat-audio-streaming-and-keylogging-features.md",
+      "committedAt": "2026-04-24T01:00:43.743-05:00",
+      "title": "Open C2 Panel Reveals Auraboros RAT Audio Streaming and Keylogging Features"
     }
   ]
 }
