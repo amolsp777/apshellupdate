@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T02:00:24.750-05:00",
-  "lastLink": "https://cyberpress.org/ransomware-hackers-steal-data/",
-  "lastId": "1ujjp5c000",
-  "lastFilePath": "cyberpress/pages/2026/04/24/hackers-deploy-new-exfiltration-tool-in-ransomware-attacks.md",
+  "updatedAt": "2026-04-24T03:00:24.692-05:00",
+  "lastLink": "https://cyberpress.org/hackers-exploit-microsoft-microsoft-teams/",
+  "lastId": "bhaiym0000",
+  "lastFilePath": "cyberpress/pages/2026/04/24/hackers-exploit-microsoft-teams-to-breach-organizations-while-posing-as-it-helpd.md",
   "items": [
     {
-      "id": "1ujjp5c000",
-      "link": "https://cyberpress.org/ransomware-hackers-steal-data/",
-      "filePath": "cyberpress/pages/2026/04/24/hackers-deploy-new-exfiltration-tool-in-ransomware-attacks.md",
-      "committedAt": "2026-04-24T02:00:24.750-05:00",
-      "title": "Hackers Deploy New Exfiltration Tool In Ransomware Attacks"
+      "id": "bhaiym0000",
+      "link": "https://cyberpress.org/hackers-exploit-microsoft-microsoft-teams/",
+      "filePath": "cyberpress/pages/2026/04/24/hackers-exploit-microsoft-teams-to-breach-organizations-while-posing-as-it-helpd.md",
+      "committedAt": "2026-04-24T03:00:24.692-05:00",
+      "title": "Hackers Exploit Microsoft Teams to Breach Organizations While Posing as IT Helpdesk Staff"
     }
   ]
 }
