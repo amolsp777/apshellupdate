@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T03:00:24.692-05:00",
-  "lastLink": "https://cyberpress.org/hackers-exploit-microsoft-microsoft-teams/",
-  "lastId": "bhaiym0000",
-  "lastFilePath": "cyberpress/pages/2026/04/24/hackers-exploit-microsoft-teams-to-breach-organizations-while-posing-as-it-helpd.md",
+  "updatedAt": "2026-04-24T04:00:30.051-05:00",
+  "lastLink": "https://cyberpress.org/bitwarden-cli-hit/",
+  "lastId": "1yprbyi000",
+  "lastFilePath": "cyberpress/pages/2026/04/24/bitwarden-cli-hit-by-supply-chain-attack-through-github-actions.md",
   "items": [
     {
-      "id": "bhaiym0000",
-      "link": "https://cyberpress.org/hackers-exploit-microsoft-microsoft-teams/",
-      "filePath": "cyberpress/pages/2026/04/24/hackers-exploit-microsoft-teams-to-breach-organizations-while-posing-as-it-helpd.md",
-      "committedAt": "2026-04-24T03:00:24.692-05:00",
-      "title": "Hackers Exploit Microsoft Teams to Breach Organizations While Posing as IT Helpdesk Staff"
+      "id": "1yprbyi000",
+      "link": "https://cyberpress.org/bitwarden-cli-hit/",
+      "filePath": "cyberpress/pages/2026/04/24/bitwarden-cli-hit-by-supply-chain-attack-through-github-actions.md",
+      "committedAt": "2026-04-24T04:00:30.051-05:00",
+      "title": "Bitwarden CLI Hit by Supply Chain Attack Through GitHub Actions"
     }
   ]
 }
