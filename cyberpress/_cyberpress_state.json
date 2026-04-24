@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T04:00:30.051-05:00",
-  "lastLink": "https://cyberpress.org/bitwarden-cli-hit/",
-  "lastId": "1yprbyi000",
-  "lastFilePath": "cyberpress/pages/2026/04/24/bitwarden-cli-hit-by-supply-chain-attack-through-github-actions.md",
+  "updatedAt": "2026-04-24T05:00:19.360-05:00",
+  "lastLink": "https://cyberpress.org/hackers-exploit-ss7-and-diameter-protocols-to-track-mobile-users-worldwide/",
+  "lastId": "rbpj900000",
+  "lastFilePath": "cyberpress/pages/2026/04/24/hackers-exploit-ss7-and-diameter-protocols-to-track-mobile-users-worldwide.md",
   "items": [
     {
-      "id": "1yprbyi000",
-      "link": "https://cyberpress.org/bitwarden-cli-hit/",
-      "filePath": "cyberpress/pages/2026/04/24/bitwarden-cli-hit-by-supply-chain-attack-through-github-actions.md",
-      "committedAt": "2026-04-24T04:00:30.051-05:00",
-      "title": "Bitwarden CLI Hit by Supply Chain Attack Through GitHub Actions"
+      "id": "rbpj900000",
+      "link": "https://cyberpress.org/hackers-exploit-ss7-and-diameter-protocols-to-track-mobile-users-worldwide/",
+      "filePath": "cyberpress/pages/2026/04/24/hackers-exploit-ss7-and-diameter-protocols-to-track-mobile-users-worldwide.md",
+      "committedAt": "2026-04-24T05:00:19.360-05:00",
+      "title": "Hackers Exploit SS7 and Diameter Protocols to Track Mobile Users Worldwide"
     }
   ]
 }
