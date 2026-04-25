@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-25T12:00:24.241-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
-  "lastId": "1fkzsqa000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/25/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware.md",
+  "updatedAt": "2026-04-25T14:00:51.047-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
+  "lastId": "prwjjw0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/25/microsoft-rolls-out-revamped-windows-insider-program.md",
   "items": [
     {
-      "id": "1fkzsqa000",
-      "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
-      "filePath": "bleepingcomp/pages/2026/04/25/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware.md",
-      "committedAt": "2026-04-25T12:00:24.241-04:00",
-      "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware"
+      "id": "prwjjw0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
+      "filePath": "bleepingcomp/pages/2026/04/25/microsoft-rolls-out-revamped-windows-insider-program.md",
+      "committedAt": "2026-04-25T14:00:51.047-04:00",
+      "title": "Microsoft rolls out revamped Windows Insider Program"
     }
   ]
 }
