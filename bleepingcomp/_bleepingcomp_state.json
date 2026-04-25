@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T19:00:03.533-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
-  "lastId": "13rqpkj000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/24/adt-confirms-data-breach-after-shinyhunters-leak-threat.md",
+  "updatedAt": "2026-04-25T12:00:24.241-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
+  "lastId": "1fkzsqa000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/25/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware.md",
   "items": [
     {
-      "id": "13rqpkj000",
-      "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
-      "filePath": "bleepingcomp/pages/2026/04/24/adt-confirms-data-breach-after-shinyhunters-leak-threat.md",
-      "committedAt": "2026-04-24T19:00:03.533-04:00",
-      "title": "ADT confirms data breach after ShinyHunters leak threat"
+      "id": "1fkzsqa000",
+      "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
+      "filePath": "bleepingcomp/pages/2026/04/25/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware.md",
+      "committedAt": "2026-04-25T12:00:24.241-04:00",
+      "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware"
     }
   ]
 }
