@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-25T14:00:51.047-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
-  "lastId": "prwjjw0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/25/microsoft-rolls-out-revamped-windows-insider-program.md",
+  "updatedAt": "2026-04-26T11:00:19.115-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
+  "lastId": "12h8qsz000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/26/american-utility-firm-itron-discloses-breach-of-internal-it-network.md",
   "items": [
     {
-      "id": "prwjjw0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
-      "filePath": "bleepingcomp/pages/2026/04/25/microsoft-rolls-out-revamped-windows-insider-program.md",
-      "committedAt": "2026-04-25T14:00:51.047-04:00",
-      "title": "Microsoft rolls out revamped Windows Insider Program"
+      "id": "12h8qsz000",
+      "link": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
+      "filePath": "bleepingcomp/pages/2026/04/26/american-utility-firm-itron-discloses-breach-of-internal-it-network.md",
+      "committedAt": "2026-04-26T11:00:19.115-04:00",
+      "title": "American utility firm Itron discloses breach of internal IT network"
     }
   ]
 }
