@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T17:00:36.271-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
-  "lastId": "1yl27n6000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/27/canada-arrests-three-for-operating-sms-blaster-device-in-toronto.md",
+  "updatedAt": "2026-04-27T18:00:14.324-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+  "lastId": "1nloe1q000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/27/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions.md",
   "items": [
     {
-      "id": "1yl27n6000",
-      "link": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
-      "filePath": "bleepingcomp/pages/2026/04/27/canada-arrests-three-for-operating-sms-blaster-device-in-toronto.md",
-      "committedAt": "2026-04-27T17:00:36.271-04:00",
-      "title": "Canada arrests three for operating “SMS blaster” device in Toronto"
+      "id": "1nloe1q000",
+      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+      "filePath": "bleepingcomp/pages/2026/04/27/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions.md",
+      "committedAt": "2026-04-27T18:00:14.324-04:00",
+      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions"
     }
   ]
 }
