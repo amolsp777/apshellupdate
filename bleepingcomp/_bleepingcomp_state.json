@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T10:00:20.780-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
-  "lastId": "1xmpcwj000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/27/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft.md",
+  "updatedAt": "2026-04-27T11:00:14.889-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
+  "lastId": "1iatz8d000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/27/home-security-giant-adt-data-breach-affects-55-million-people.md",
   "items": [
     {
-      "id": "1xmpcwj000",
-      "link": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
-      "filePath": "bleepingcomp/pages/2026/04/27/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft.md",
-      "committedAt": "2026-04-27T10:00:20.780-04:00",
-      "title": "Medtronic confirms breach after hackers claim 9 million records theft"
+      "id": "1iatz8d000",
+      "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
+      "filePath": "bleepingcomp/pages/2026/04/27/home-security-giant-adt-data-breach-affects-55-million-people.md",
+      "committedAt": "2026-04-27T11:00:14.889-04:00",
+      "title": "Home security giant ADT data breach affects 5.5 million people"
     }
   ]
 }
