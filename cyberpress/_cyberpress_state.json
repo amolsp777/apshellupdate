@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T05:00:24.892-05:00",
-  "lastLink": "https://cyberpress.org/nessus-agent-vulnerability-on-windows-allows-arbitrary-code-execution-as-system/",
-  "lastId": "v8jh6c0000",
-  "lastFilePath": "cyberpress/pages/2026/04/27/nessus-agent-vulnerability-on-windows-allows-arbitrary-code-execution-as-system.md",
+  "updatedAt": "2026-04-27T06:00:35.373-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-store-app-vibing-exe-accused/",
+  "lastId": "1h2bi9b000",
+  "lastFilePath": "cyberpress/pages/2026/04/27/microsoft-store-app-vibingexe-accused-of-harvesting-screens-audio-and-clipboard-.md",
   "items": [
     {
-      "id": "v8jh6c0000",
-      "link": "https://cyberpress.org/nessus-agent-vulnerability-on-windows-allows-arbitrary-code-execution-as-system/",
-      "filePath": "cyberpress/pages/2026/04/27/nessus-agent-vulnerability-on-windows-allows-arbitrary-code-execution-as-system.md",
-      "committedAt": "2026-04-27T05:00:24.892-05:00",
-      "title": "Nessus Agent Vulnerability on Windows Allows Arbitrary Code Execution as SYSTEM"
+      "id": "1h2bi9b000",
+      "link": "https://cyberpress.org/microsoft-store-app-vibing-exe-accused/",
+      "filePath": "cyberpress/pages/2026/04/27/microsoft-store-app-vibingexe-accused-of-harvesting-screens-audio-and-clipboard-.md",
+      "committedAt": "2026-04-27T06:00:35.373-05:00",
+      "title": "Microsoft Store App Vibing.exe Accused of Harvesting Screens, Audio, and Clipboard Data"
     }
   ]
 }
