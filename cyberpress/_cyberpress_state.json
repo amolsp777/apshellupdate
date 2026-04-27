@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T09:00:25.215-05:00",
-  "lastLink": "https://cyberpress.org/itron-inc-discloses-data-breach/",
-  "lastId": "580ksj0000",
-  "lastFilePath": "cyberpress/pages/2026/04/27/itron-inc-discloses-data-breach-after-hackers-accessed-internal-systems.md",
+  "updatedAt": "2026-04-27T10:00:30.721-05:00",
+  "lastLink": "https://cyberpress.org/linux-elf-malware-generator-evades-ml-detection-using-semantic-preserving-changes/",
+  "lastId": "14iw34p000",
+  "lastFilePath": "cyberpress/pages/2026/04/27/linux-elf-malware-generator-evades-ml-detection-using-semantic-preserving-change.md",
   "items": [
     {
-      "id": "580ksj0000",
-      "link": "https://cyberpress.org/itron-inc-discloses-data-breach/",
-      "filePath": "cyberpress/pages/2026/04/27/itron-inc-discloses-data-breach-after-hackers-accessed-internal-systems.md",
-      "committedAt": "2026-04-27T09:00:25.215-05:00",
-      "title": "Itron, Inc. Discloses Data Breach After Hackers Accessed Internal Systems"
+      "id": "14iw34p000",
+      "link": "https://cyberpress.org/linux-elf-malware-generator-evades-ml-detection-using-semantic-preserving-changes/",
+      "filePath": "cyberpress/pages/2026/04/27/linux-elf-malware-generator-evades-ml-detection-using-semantic-preserving-change.md",
+      "committedAt": "2026-04-27T10:00:30.721-05:00",
+      "title": "Linux ELF Malware Generator Evades ML Detection Using Semantic-Preserving Changes"
     }
   ]
 }
