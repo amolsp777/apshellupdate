@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T10:00:30.721-05:00",
-  "lastLink": "https://cyberpress.org/linux-elf-malware-generator-evades-ml-detection-using-semantic-preserving-changes/",
-  "lastId": "14iw34p000",
-  "lastFilePath": "cyberpress/pages/2026/04/27/linux-elf-malware-generator-evades-ml-detection-using-semantic-preserving-change.md",
+  "updatedAt": "2026-04-27T11:00:39.734-05:00",
+  "lastLink": "https://cyberpress.org/multiple-openclaw-vulnerabilities/",
+  "lastId": "e98ofv0000",
+  "lastFilePath": "cyberpress/pages/2026/04/27/multiple-openclaw-vulnerabilities-enable-policy-bypass-and-host-override-attacks.md",
   "items": [
     {
-      "id": "14iw34p000",
-      "link": "https://cyberpress.org/linux-elf-malware-generator-evades-ml-detection-using-semantic-preserving-changes/",
-      "filePath": "cyberpress/pages/2026/04/27/linux-elf-malware-generator-evades-ml-detection-using-semantic-preserving-change.md",
-      "committedAt": "2026-04-27T10:00:30.721-05:00",
-      "title": "Linux ELF Malware Generator Evades ML Detection Using Semantic-Preserving Changes"
+      "id": "e98ofv0000",
+      "link": "https://cyberpress.org/multiple-openclaw-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/04/27/multiple-openclaw-vulnerabilities-enable-policy-bypass-and-host-override-attacks.md",
+      "committedAt": "2026-04-27T11:00:39.734-05:00",
+      "title": "Multiple OpenClaw Vulnerabilities Enable Policy Bypass and Host Override Attacks"
     }
   ]
 }
