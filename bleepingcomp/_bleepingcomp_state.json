@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T11:00:14.889-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
-  "lastId": "1iatz8d000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/27/home-security-giant-adt-data-breach-affects-55-million-people.md",
+  "updatedAt": "2026-04-27T12:00:47.744-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
+  "lastId": "rjzlp90000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/27/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer.md",
   "items": [
     {
-      "id": "1iatz8d000",
-      "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
-      "filePath": "bleepingcomp/pages/2026/04/27/home-security-giant-adt-data-breach-affects-55-million-people.md",
-      "committedAt": "2026-04-27T11:00:14.889-04:00",
-      "title": "Home security giant ADT data breach affects 5.5 million people"
+      "id": "rjzlp90000",
+      "link": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
+      "filePath": "bleepingcomp/pages/2026/04/27/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer.md",
+      "committedAt": "2026-04-27T12:00:47.744-04:00",
+      "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer"
     }
   ]
 }
