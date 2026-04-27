@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T04:00:14.117-05:00",
-  "lastLink": "https://cyberpress.org/poc-exploit-released-for-critical-metabase-enterprise-rce-vulnerability/",
-  "lastId": "o1op780000",
-  "lastFilePath": "cyberpress/pages/2026/04/27/poc-exploit-released-for-critical-metabase-enterprise-rce-vulnerability.md",
+  "updatedAt": "2026-04-27T05:00:24.892-05:00",
+  "lastLink": "https://cyberpress.org/nessus-agent-vulnerability-on-windows-allows-arbitrary-code-execution-as-system/",
+  "lastId": "v8jh6c0000",
+  "lastFilePath": "cyberpress/pages/2026/04/27/nessus-agent-vulnerability-on-windows-allows-arbitrary-code-execution-as-system.md",
   "items": [
     {
-      "id": "o1op780000",
-      "link": "https://cyberpress.org/poc-exploit-released-for-critical-metabase-enterprise-rce-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/27/poc-exploit-released-for-critical-metabase-enterprise-rce-vulnerability.md",
-      "committedAt": "2026-04-27T04:00:14.117-05:00",
-      "title": "PoC Exploit Released for Critical Metabase Enterprise RCE Vulnerability"
+      "id": "v8jh6c0000",
+      "link": "https://cyberpress.org/nessus-agent-vulnerability-on-windows-allows-arbitrary-code-execution-as-system/",
+      "filePath": "cyberpress/pages/2026/04/27/nessus-agent-vulnerability-on-windows-allows-arbitrary-code-execution-as-system.md",
+      "committedAt": "2026-04-27T05:00:24.892-05:00",
+      "title": "Nessus Agent Vulnerability on Windows Allows Arbitrary Code Execution as SYSTEM"
     }
   ]
 }
