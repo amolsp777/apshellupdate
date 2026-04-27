@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-26T11:00:19.115-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
-  "lastId": "12h8qsz000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/26/american-utility-firm-itron-discloses-breach-of-internal-it-network.md",
+  "updatedAt": "2026-04-27T09:00:46.380-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
+  "lastId": "2v02ub0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/27/microsoft-says-outlookcom-outage-is-causing-signin-failures.md",
   "items": [
     {
-      "id": "12h8qsz000",
-      "link": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
-      "filePath": "bleepingcomp/pages/2026/04/26/american-utility-firm-itron-discloses-breach-of-internal-it-network.md",
-      "committedAt": "2026-04-26T11:00:19.115-04:00",
-      "title": "American utility firm Itron discloses breach of internal IT network"
+      "id": "2v02ub0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
+      "filePath": "bleepingcomp/pages/2026/04/27/microsoft-says-outlookcom-outage-is-causing-signin-failures.md",
+      "committedAt": "2026-04-27T09:00:46.380-04:00",
+      "title": "Microsoft says Outlook.com outage is causing sign‑in failures"
     }
   ]
 }
