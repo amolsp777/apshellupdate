@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T09:00:46.380-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
-  "lastId": "2v02ub0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/27/microsoft-says-outlookcom-outage-is-causing-signin-failures.md",
+  "updatedAt": "2026-04-27T10:00:20.780-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
+  "lastId": "1xmpcwj000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/27/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft.md",
   "items": [
     {
-      "id": "2v02ub0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
-      "filePath": "bleepingcomp/pages/2026/04/27/microsoft-says-outlookcom-outage-is-causing-signin-failures.md",
-      "committedAt": "2026-04-27T09:00:46.380-04:00",
-      "title": "Microsoft says Outlook.com outage is causing sign‑in failures"
+      "id": "1xmpcwj000",
+      "link": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
+      "filePath": "bleepingcomp/pages/2026/04/27/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft.md",
+      "committedAt": "2026-04-27T10:00:20.780-04:00",
+      "title": "Medtronic confirms breach after hackers claim 9 million records theft"
     }
   ]
 }
