@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T03:00:40.895-05:00",
-  "lastLink": "https://cyberpress.org/flaws-to-backdoor-codesy/",
-  "lastId": "ocb2th0000",
-  "lastFilePath": "cyberpress/pages/2026/04/27/attackers-chain-flaws-to-backdoor-codesys-applications-and-deploy-malicious-code.md",
+  "updatedAt": "2026-04-27T04:00:14.117-05:00",
+  "lastLink": "https://cyberpress.org/poc-exploit-released-for-critical-metabase-enterprise-rce-vulnerability/",
+  "lastId": "o1op780000",
+  "lastFilePath": "cyberpress/pages/2026/04/27/poc-exploit-released-for-critical-metabase-enterprise-rce-vulnerability.md",
   "items": [
     {
-      "id": "ocb2th0000",
-      "link": "https://cyberpress.org/flaws-to-backdoor-codesy/",
-      "filePath": "cyberpress/pages/2026/04/27/attackers-chain-flaws-to-backdoor-codesys-applications-and-deploy-malicious-code.md",
-      "committedAt": "2026-04-27T03:00:40.895-05:00",
-      "title": "Attackers Chain Flaws to Backdoor CODESYS Applications and Deploy Malicious Code"
+      "id": "o1op780000",
+      "link": "https://cyberpress.org/poc-exploit-released-for-critical-metabase-enterprise-rce-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/27/poc-exploit-released-for-critical-metabase-enterprise-rce-vulnerability.md",
+      "committedAt": "2026-04-27T04:00:14.117-05:00",
+      "title": "PoC Exploit Released for Critical Metabase Enterprise RCE Vulnerability"
     }
   ]
 }
