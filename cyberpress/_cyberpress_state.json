@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T08:00:26.474-05:00",
-  "lastLink": "https://cyberpress.org/gemini-cli-vulnerability-2/",
-  "lastId": "1fc388i000",
-  "lastFilePath": "cyberpress/pages/2026/04/27/critical-gemini-cli-vulnerability-enables-remote-code-execution-attacks.md",
+  "updatedAt": "2026-04-27T09:00:25.215-05:00",
+  "lastLink": "https://cyberpress.org/itron-inc-discloses-data-breach/",
+  "lastId": "580ksj0000",
+  "lastFilePath": "cyberpress/pages/2026/04/27/itron-inc-discloses-data-breach-after-hackers-accessed-internal-systems.md",
   "items": [
     {
-      "id": "1fc388i000",
-      "link": "https://cyberpress.org/gemini-cli-vulnerability-2/",
-      "filePath": "cyberpress/pages/2026/04/27/critical-gemini-cli-vulnerability-enables-remote-code-execution-attacks.md",
-      "committedAt": "2026-04-27T08:00:26.474-05:00",
-      "title": "Critical Gemini CLI Vulnerability Enables Remote Code Execution Attacks"
+      "id": "580ksj0000",
+      "link": "https://cyberpress.org/itron-inc-discloses-data-breach/",
+      "filePath": "cyberpress/pages/2026/04/27/itron-inc-discloses-data-breach-after-hackers-accessed-internal-systems.md",
+      "committedAt": "2026-04-27T09:00:25.215-05:00",
+      "title": "Itron, Inc. Discloses Data Breach After Hackers Accessed Internal Systems"
     }
   ]
 }
