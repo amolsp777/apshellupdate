@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T18:00:14.324-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
-  "lastId": "1nloe1q000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/27/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions.md",
+  "updatedAt": "2026-04-27T20:00:08.736-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
+  "lastId": "13h557i000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/27/robinhood-account-creation-flaw-abused-to-send-phishing-emails.md",
   "items": [
     {
-      "id": "1nloe1q000",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
-      "filePath": "bleepingcomp/pages/2026/04/27/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions.md",
-      "committedAt": "2026-04-27T18:00:14.324-04:00",
-      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions"
+      "id": "13h557i000",
+      "link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
+      "filePath": "bleepingcomp/pages/2026/04/27/robinhood-account-creation-flaw-abused-to-send-phishing-emails.md",
+      "committedAt": "2026-04-27T20:00:08.736-04:00",
+      "title": "Robinhood account creation flaw abused to send phishing emails"
     }
   ]
 }
