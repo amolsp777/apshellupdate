@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T05:00:14.153-05:00",
-  "lastLink": "https://cyberpress.org/litellm-sql-injection-vulnerability/",
-  "lastId": "1yfwqjs000",
-  "lastFilePath": "cyberpress/pages/2026/04/28/critical-litellm-sql-injection-vulnerability-exploited-in-the-wild.md",
+  "updatedAt": "2026-04-28T06:00:19.596-05:00",
+  "lastLink": "https://cyberpress.org/silver-fox-update-lures/",
+  "lastId": "cxyapc0000",
+  "lastFilePath": "cyberpress/pages/2026/04/28/new-silver-fox-attack-pushes-malware-through-software-update-lures.md",
   "items": [
     {
-      "id": "1yfwqjs000",
-      "link": "https://cyberpress.org/litellm-sql-injection-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/28/critical-litellm-sql-injection-vulnerability-exploited-in-the-wild.md",
-      "committedAt": "2026-04-28T05:00:14.153-05:00",
-      "title": "Critical LiteLLM SQL Injection Vulnerability Exploited in the Wild"
+      "id": "cxyapc0000",
+      "link": "https://cyberpress.org/silver-fox-update-lures/",
+      "filePath": "cyberpress/pages/2026/04/28/new-silver-fox-attack-pushes-malware-through-software-update-lures.md",
+      "committedAt": "2026-04-28T06:00:19.596-05:00",
+      "title": "New Silver Fox Attack Pushes Malware Through Software Update Lures"
     }
   ]
 }
