@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T08:00:36.125-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-launches-copilot-agent-mode-for-outlook-inbox-and-calendar-management/",
-  "lastId": "ckijxw0000",
-  "lastFilePath": "cyberpress/pages/2026/04/28/microsoft-launches-copilot-agent-mode-for-outlook-inbox-and-calendar-management.md",
+  "updatedAt": "2026-04-28T09:00:19.704-05:00",
+  "lastLink": "https://cyberpress.org/hugging-face-lerobot-vulnerability/",
+  "lastId": "1cjl6s9000",
+  "lastFilePath": "cyberpress/pages/2026/04/28/hugging-face-lerobot-vulnerability-enables-unauthenticated-remote-code-execution.md",
   "items": [
     {
-      "id": "ckijxw0000",
-      "link": "https://cyberpress.org/microsoft-launches-copilot-agent-mode-for-outlook-inbox-and-calendar-management/",
-      "filePath": "cyberpress/pages/2026/04/28/microsoft-launches-copilot-agent-mode-for-outlook-inbox-and-calendar-management.md",
-      "committedAt": "2026-04-28T08:00:36.125-05:00",
-      "title": "Microsoft Launches Copilot Agent Mode for Outlook, Inbox, and Calendar Management"
+      "id": "1cjl6s9000",
+      "link": "https://cyberpress.org/hugging-face-lerobot-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/28/hugging-face-lerobot-vulnerability-enables-unauthenticated-remote-code-execution.md",
+      "committedAt": "2026-04-28T09:00:19.704-05:00",
+      "title": "Hugging Face LeRobot Vulnerability Enables Unauthenticated Remote Code Execution Attacks"
     }
   ]
 }
