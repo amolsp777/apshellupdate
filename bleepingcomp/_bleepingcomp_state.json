@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T09:00:26.102-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
-  "lastId": "ziqjdw0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/28/inside-an-opsec-playbook-how-threat-actors-evade-detection.md",
+  "updatedAt": "2026-04-28T10:00:26.115-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
+  "lastId": "1otat5d000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/28/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july.md",
   "items": [
     {
-      "id": "ziqjdw0000",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
-      "filePath": "bleepingcomp/pages/2026/04/28/inside-an-opsec-playbook-how-threat-actors-evade-detection.md",
-      "committedAt": "2026-04-28T09:00:26.102-04:00",
-      "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection"
+      "id": "1otat5d000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
+      "filePath": "bleepingcomp/pages/2026/04/28/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july.md",
+      "committedAt": "2026-04-28T10:00:26.115-04:00",
+      "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July"
     }
   ]
 }
