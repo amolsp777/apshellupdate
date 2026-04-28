@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T03:00:14.352-05:00",
-  "lastLink": "https://cyberpress.org/notepad-vulnerability-allows-attackers-to-crash-application-and-leak-memory-data/",
-  "lastId": "mjbuvo0000",
-  "lastFilePath": "cyberpress/pages/2026/04/28/notepad-vulnerability-allows-attackers-to-crash-application-and-leak-memory-data.md",
+  "updatedAt": "2026-04-28T04:00:19.638-05:00",
+  "lastLink": "https://cyberpress.org/oilrig-hides-malware-config/",
+  "lastId": "1trnkk0000",
+  "lastFilePath": "cyberpress/pages/2026/04/28/iranian-apt-oilrig-hides-malware-config-inside-google-drive-image.md",
   "items": [
     {
-      "id": "mjbuvo0000",
-      "link": "https://cyberpress.org/notepad-vulnerability-allows-attackers-to-crash-application-and-leak-memory-data/",
-      "filePath": "cyberpress/pages/2026/04/28/notepad-vulnerability-allows-attackers-to-crash-application-and-leak-memory-data.md",
-      "committedAt": "2026-04-28T03:00:14.352-05:00",
-      "title": "Notepad++ Vulnerability Allows Attackers to Crash Application and Leak Memory Data"
+      "id": "1trnkk0000",
+      "link": "https://cyberpress.org/oilrig-hides-malware-config/",
+      "filePath": "cyberpress/pages/2026/04/28/iranian-apt-oilrig-hides-malware-config-inside-google-drive-image.md",
+      "committedAt": "2026-04-28T04:00:19.638-05:00",
+      "title": "Iranian APT OilRig Hides Malware Config Inside Google Drive Image"
     }
   ]
 }
