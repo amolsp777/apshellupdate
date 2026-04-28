@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T13:00:55.080-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-officially-shares-group-policy/",
-  "lastId": "njj6yk0000",
-  "lastFilePath": "cyberpress/pages/2026/04/27/microsoft-officially-shares-group-policy-to-remove-windows-11-copilot-from-enter.md",
+  "updatedAt": "2026-04-28T03:00:14.352-05:00",
+  "lastLink": "https://cyberpress.org/notepad-vulnerability-allows-attackers-to-crash-application-and-leak-memory-data/",
+  "lastId": "mjbuvo0000",
+  "lastFilePath": "cyberpress/pages/2026/04/28/notepad-vulnerability-allows-attackers-to-crash-application-and-leak-memory-data.md",
   "items": [
     {
-      "id": "njj6yk0000",
-      "link": "https://cyberpress.org/microsoft-officially-shares-group-policy/",
-      "filePath": "cyberpress/pages/2026/04/27/microsoft-officially-shares-group-policy-to-remove-windows-11-copilot-from-enter.md",
-      "committedAt": "2026-04-27T13:00:55.080-05:00",
-      "title": "Microsoft Officially Shares Group Policy to Remove Windows 11 Copilot from Enterprise Devices"
+      "id": "mjbuvo0000",
+      "link": "https://cyberpress.org/notepad-vulnerability-allows-attackers-to-crash-application-and-leak-memory-data/",
+      "filePath": "cyberpress/pages/2026/04/28/notepad-vulnerability-allows-attackers-to-crash-application-and-leak-memory-data.md",
+      "committedAt": "2026-04-28T03:00:14.352-05:00",
+      "title": "Notepad++ Vulnerability Allows Attackers to Crash Application and Leak Memory Data"
     }
   ]
 }
