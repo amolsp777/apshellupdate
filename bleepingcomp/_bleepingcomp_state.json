@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T06:00:31.305-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
-  "lastId": "1szmbor000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/28/microsoft-new-remote-desktop-warnings-may-display-incorrectly.md",
+  "updatedAt": "2026-04-28T09:00:26.102-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
+  "lastId": "ziqjdw0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/28/inside-an-opsec-playbook-how-threat-actors-evade-detection.md",
   "items": [
     {
-      "id": "1szmbor000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
-      "filePath": "bleepingcomp/pages/2026/04/28/microsoft-new-remote-desktop-warnings-may-display-incorrectly.md",
-      "committedAt": "2026-04-28T06:00:31.305-04:00",
-      "title": "Microsoft: New Remote Desktop warnings may display incorrectly"
+      "id": "ziqjdw0000",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
+      "filePath": "bleepingcomp/pages/2026/04/28/inside-an-opsec-playbook-how-threat-actors-evade-detection.md",
+      "committedAt": "2026-04-28T09:00:26.102-04:00",
+      "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection"
     }
   ]
 }
