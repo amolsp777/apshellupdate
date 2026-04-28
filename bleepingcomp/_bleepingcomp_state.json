@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T16:00:08.962-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
-  "lastId": "3neva60000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/28/video-service-vimeo-confirms-anodot-breach-exposed-user-data.md",
+  "updatedAt": "2026-04-28T18:00:03.533-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+  "lastId": "qabq0u0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/28/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw.md",
   "items": [
     {
-      "id": "3neva60000",
-      "link": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
-      "filePath": "bleepingcomp/pages/2026/04/28/video-service-vimeo-confirms-anodot-breach-exposed-user-data.md",
-      "committedAt": "2026-04-28T16:00:08.962-04:00",
-      "title": "Video service Vimeo confirms Anodot breach exposed user data"
+      "id": "qabq0u0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+      "filePath": "bleepingcomp/pages/2026/04/28/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw.md",
+      "committedAt": "2026-04-28T18:00:03.533-04:00",
+      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw"
     }
   ]
 }
