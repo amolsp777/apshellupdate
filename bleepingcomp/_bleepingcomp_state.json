@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T05:00:31.433-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
-  "lastId": "1egc4td000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/28/microsoft-asks-iphone-users-to-reauthenticate-after-outlook-outage.md",
+  "updatedAt": "2026-04-28T06:00:31.305-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
+  "lastId": "1szmbor000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/28/microsoft-new-remote-desktop-warnings-may-display-incorrectly.md",
   "items": [
     {
-      "id": "1egc4td000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
-      "filePath": "bleepingcomp/pages/2026/04/28/microsoft-asks-iphone-users-to-reauthenticate-after-outlook-outage.md",
-      "committedAt": "2026-04-28T05:00:31.433-04:00",
-      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage"
+      "id": "1szmbor000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
+      "filePath": "bleepingcomp/pages/2026/04/28/microsoft-new-remote-desktop-warnings-may-display-incorrectly.md",
+      "committedAt": "2026-04-28T06:00:31.305-04:00",
+      "title": "Microsoft: New Remote Desktop warnings may display incorrectly"
     }
   ]
 }
