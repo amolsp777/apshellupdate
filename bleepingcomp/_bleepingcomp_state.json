@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T18:00:03.533-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
-  "lastId": "qabq0u0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/28/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw.md",
+  "updatedAt": "2026-04-28T19:00:08.875-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
+  "lastId": "1gd66cd000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/28/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files.md",
   "items": [
     {
-      "id": "qabq0u0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
-      "filePath": "bleepingcomp/pages/2026/04/28/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw.md",
-      "committedAt": "2026-04-28T18:00:03.533-04:00",
-      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw"
+      "id": "1gd66cd000",
+      "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
+      "filePath": "bleepingcomp/pages/2026/04/28/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files.md",
+      "committedAt": "2026-04-28T19:00:08.875-04:00",
+      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files"
     }
   ]
 }
