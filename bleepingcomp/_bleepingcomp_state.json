@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T11:00:09.306-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
-  "lastId": "32ik7u0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/28/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data.md",
+  "updatedAt": "2026-04-28T12:00:31.871-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
+  "lastId": "6oo5pa0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/28/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland.md",
   "items": [
     {
-      "id": "32ik7u0000",
-      "link": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
-      "filePath": "bleepingcomp/pages/2026/04/28/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data.md",
-      "committedAt": "2026-04-28T11:00:09.306-04:00",
-      "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data"
+      "id": "6oo5pa0000",
+      "link": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
+      "filePath": "bleepingcomp/pages/2026/04/28/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland.md",
+      "committedAt": "2026-04-28T12:00:31.871-04:00",
+      "title": "US reportedly charges Scattered Spider hacker arrested in Finland"
     }
   ]
 }
