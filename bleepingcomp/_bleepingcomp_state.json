@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T12:00:31.871-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
-  "lastId": "6oo5pa0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/28/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland.md",
+  "updatedAt": "2026-04-28T16:00:08.962-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
+  "lastId": "3neva60000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/28/video-service-vimeo-confirms-anodot-breach-exposed-user-data.md",
   "items": [
     {
-      "id": "6oo5pa0000",
-      "link": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
-      "filePath": "bleepingcomp/pages/2026/04/28/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland.md",
-      "committedAt": "2026-04-28T12:00:31.871-04:00",
-      "title": "US reportedly charges Scattered Spider hacker arrested in Finland"
+      "id": "3neva60000",
+      "link": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
+      "filePath": "bleepingcomp/pages/2026/04/28/video-service-vimeo-confirms-anodot-breach-exposed-user-data.md",
+      "committedAt": "2026-04-28T16:00:08.962-04:00",
+      "title": "Video service Vimeo confirms Anodot breach exposed user data"
     }
   ]
 }
