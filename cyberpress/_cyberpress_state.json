@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T04:00:19.638-05:00",
-  "lastLink": "https://cyberpress.org/oilrig-hides-malware-config/",
-  "lastId": "1trnkk0000",
-  "lastFilePath": "cyberpress/pages/2026/04/28/iranian-apt-oilrig-hides-malware-config-inside-google-drive-image.md",
+  "updatedAt": "2026-04-28T05:00:14.153-05:00",
+  "lastLink": "https://cyberpress.org/litellm-sql-injection-vulnerability/",
+  "lastId": "1yfwqjs000",
+  "lastFilePath": "cyberpress/pages/2026/04/28/critical-litellm-sql-injection-vulnerability-exploited-in-the-wild.md",
   "items": [
     {
-      "id": "1trnkk0000",
-      "link": "https://cyberpress.org/oilrig-hides-malware-config/",
-      "filePath": "cyberpress/pages/2026/04/28/iranian-apt-oilrig-hides-malware-config-inside-google-drive-image.md",
-      "committedAt": "2026-04-28T04:00:19.638-05:00",
-      "title": "Iranian APT OilRig Hides Malware Config Inside Google Drive Image"
+      "id": "1yfwqjs000",
+      "link": "https://cyberpress.org/litellm-sql-injection-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/28/critical-litellm-sql-injection-vulnerability-exploited-in-the-wild.md",
+      "committedAt": "2026-04-28T05:00:14.153-05:00",
+      "title": "Critical LiteLLM SQL Injection Vulnerability Exploited in the Wild"
     }
   ]
 }
