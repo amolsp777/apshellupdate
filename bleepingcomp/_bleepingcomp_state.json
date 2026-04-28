@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T20:00:08.736-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
-  "lastId": "13h557i000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/27/robinhood-account-creation-flaw-abused-to-send-phishing-emails.md",
+  "updatedAt": "2026-04-28T05:00:31.433-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
+  "lastId": "1egc4td000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/28/microsoft-asks-iphone-users-to-reauthenticate-after-outlook-outage.md",
   "items": [
     {
-      "id": "13h557i000",
-      "link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
-      "filePath": "bleepingcomp/pages/2026/04/27/robinhood-account-creation-flaw-abused-to-send-phishing-emails.md",
-      "committedAt": "2026-04-27T20:00:08.736-04:00",
-      "title": "Robinhood account creation flaw abused to send phishing emails"
+      "id": "1egc4td000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
+      "filePath": "bleepingcomp/pages/2026/04/28/microsoft-asks-iphone-users-to-reauthenticate-after-outlook-outage.md",
+      "committedAt": "2026-04-28T05:00:31.433-04:00",
+      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage"
     }
   ]
 }
