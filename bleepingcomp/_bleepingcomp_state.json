@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T10:00:26.115-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
-  "lastId": "1otat5d000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/28/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july.md",
+  "updatedAt": "2026-04-28T11:00:09.306-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
+  "lastId": "32ik7u0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/28/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data.md",
   "items": [
     {
-      "id": "1otat5d000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
-      "filePath": "bleepingcomp/pages/2026/04/28/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july.md",
-      "committedAt": "2026-04-28T10:00:26.115-04:00",
-      "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July"
+      "id": "32ik7u0000",
+      "link": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
+      "filePath": "bleepingcomp/pages/2026/04/28/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data.md",
+      "committedAt": "2026-04-28T11:00:09.306-04:00",
+      "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data"
     }
   ]
 }
