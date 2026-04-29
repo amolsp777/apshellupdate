@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T15:00:46.578-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
-  "lastId": "13heogv000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/29/hackers-arrested-for-hijacking-and-selling-610000-roblox-accounts.md",
+  "updatedAt": "2026-04-29T17:00:14.521-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
+  "lastId": "1kfhkcz000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/29/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining.md",
   "items": [
     {
-      "id": "13heogv000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
-      "filePath": "bleepingcomp/pages/2026/04/29/hackers-arrested-for-hijacking-and-selling-610000-roblox-accounts.md",
-      "committedAt": "2026-04-29T15:00:46.578-04:00",
-      "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts"
+      "id": "1kfhkcz000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
+      "filePath": "bleepingcomp/pages/2026/04/29/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining.md",
+      "committedAt": "2026-04-29T17:00:14.521-04:00",
+      "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining"
     }
   ]
 }
