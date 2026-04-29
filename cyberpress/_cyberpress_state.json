@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T10:01:31.317-05:00",
-  "lastLink": "https://cyberpress.org/slotagent-challenges-malware-analysis/",
-  "lastId": "1usmqe2000",
-  "lastFilePath": "cyberpress/pages/2026/04/29/slotagent-obfuscation-tactics-challenge-security-researchers.md",
+  "updatedAt": "2026-04-29T11:00:38.799-05:00",
+  "lastLink": "https://cyberpress.org/cursor-ai-extension-token-access-flaw-could-lead-to-full-credential-compromise/",
+  "lastId": "1sjysih000",
+  "lastFilePath": "cyberpress/pages/2026/04/29/cursor-ai-extension-token-access-flaw-could-lead-to-full-credential-compromise.md",
   "items": [
     {
-      "id": "1usmqe2000",
-      "link": "https://cyberpress.org/slotagent-challenges-malware-analysis/",
-      "filePath": "cyberpress/pages/2026/04/29/slotagent-obfuscation-tactics-challenge-security-researchers.md",
-      "committedAt": "2026-04-29T10:01:31.317-05:00",
-      "title": "SLOTAGENT Obfuscation Tactics Challenge Security Researchers"
+      "id": "1sjysih000",
+      "link": "https://cyberpress.org/cursor-ai-extension-token-access-flaw-could-lead-to-full-credential-compromise/",
+      "filePath": "cyberpress/pages/2026/04/29/cursor-ai-extension-token-access-flaw-could-lead-to-full-credential-compromise.md",
+      "committedAt": "2026-04-29T11:00:38.799-05:00",
+      "title": "Cursor AI Extension Token Access Flaw Could Lead to Full Credential Compromise"
     }
   ]
 }
