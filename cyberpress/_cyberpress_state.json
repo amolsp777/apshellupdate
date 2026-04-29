@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T04:00:30.353-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-confirms-remote-desktop-warnings-may-appear-incorrectly-after-april-update/",
-  "lastId": "mpkdtg0000",
-  "lastFilePath": "cyberpress/pages/2026/04/29/microsoft-confirms-remote-desktop-warnings-may-appear-incorrectly-after-april-up.md",
+  "updatedAt": "2026-04-29T05:00:14.262-05:00",
+  "lastLink": "https://cyberpress.org/cisa-alerts-on-microsoft-windows/",
+  "lastId": "pigbbn0000",
+  "lastFilePath": "cyberpress/pages/2026/04/29/cisa-alerts-on-microsoft-windows-shell-zero-day-under-active-exploitation.md",
   "items": [
     {
-      "id": "mpkdtg0000",
-      "link": "https://cyberpress.org/microsoft-confirms-remote-desktop-warnings-may-appear-incorrectly-after-april-update/",
-      "filePath": "cyberpress/pages/2026/04/29/microsoft-confirms-remote-desktop-warnings-may-appear-incorrectly-after-april-up.md",
-      "committedAt": "2026-04-29T04:00:30.353-05:00",
-      "title": "Microsoft Confirms Remote Desktop Warnings May Appear Incorrectly After April Update"
+      "id": "pigbbn0000",
+      "link": "https://cyberpress.org/cisa-alerts-on-microsoft-windows/",
+      "filePath": "cyberpress/pages/2026/04/29/cisa-alerts-on-microsoft-windows-shell-zero-day-under-active-exploitation.md",
+      "committedAt": "2026-04-29T05:00:14.262-05:00",
+      "title": "CISA Alerts on Microsoft Windows Shell Zero-Day Under Active Exploitation"
     }
   ]
 }
