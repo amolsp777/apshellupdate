@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T11:01:07.067-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/",
-  "lastId": "rura5u0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/29/european-police-dismantles-50-million-crypto-investment-fraud-ring.md",
+  "updatedAt": "2026-04-29T12:00:04.218-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
+  "lastId": "51xmdu0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/29/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug.md",
   "items": [
     {
-      "id": "rura5u0000",
-      "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/",
-      "filePath": "bleepingcomp/pages/2026/04/29/european-police-dismantles-50-million-crypto-investment-fraud-ring.md",
-      "committedAt": "2026-04-29T11:01:07.067-04:00",
-      "title": "European police dismantles €50 million crypto investment fraud ring"
+      "id": "51xmdu0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
+      "filePath": "bleepingcomp/pages/2026/04/29/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug.md",
+      "committedAt": "2026-04-29T12:00:04.218-04:00",
+      "title": "cPanel, WHM emergency update fixes critical auth bypass bug"
     }
   ]
 }
