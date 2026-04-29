@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T12:00:04.218-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
-  "lastId": "51xmdu0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/29/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug.md",
+  "updatedAt": "2026-04-29T15:00:46.578-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
+  "lastId": "13heogv000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/29/hackers-arrested-for-hijacking-and-selling-610000-roblox-accounts.md",
   "items": [
     {
-      "id": "51xmdu0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
-      "filePath": "bleepingcomp/pages/2026/04/29/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug.md",
-      "committedAt": "2026-04-29T12:00:04.218-04:00",
-      "title": "cPanel, WHM emergency update fixes critical auth bypass bug"
+      "id": "13heogv000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
+      "filePath": "bleepingcomp/pages/2026/04/29/hackers-arrested-for-hijacking-and-selling-610000-roblox-accounts.md",
+      "committedAt": "2026-04-29T15:00:46.578-04:00",
+      "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts"
     }
   ]
 }
