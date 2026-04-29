@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T09:00:14.660-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
-  "lastId": "1cvsmhf000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/29/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos.md",
+  "updatedAt": "2026-04-29T10:00:09.140-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
+  "lastId": "1hnm4as000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/29/learning-from-the-vercel-breach-shadow-ai-oauth-sprawl.md",
   "items": [
     {
-      "id": "1cvsmhf000",
-      "link": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
-      "filePath": "bleepingcomp/pages/2026/04/29/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos.md",
-      "committedAt": "2026-04-29T09:00:14.660-04:00",
-      "title": "GitHub fixes RCE flaw that gave access to millions of private repos"
+      "id": "1hnm4as000",
+      "link": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
+      "filePath": "bleepingcomp/pages/2026/04/29/learning-from-the-vercel-breach-shadow-ai-oauth-sprawl.md",
+      "committedAt": "2026-04-29T10:00:09.140-04:00",
+      "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl"
     }
   ]
 }
