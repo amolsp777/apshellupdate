@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T05:00:14.262-05:00",
-  "lastLink": "https://cyberpress.org/cisa-alerts-on-microsoft-windows/",
-  "lastId": "pigbbn0000",
-  "lastFilePath": "cyberpress/pages/2026/04/29/cisa-alerts-on-microsoft-windows-shell-zero-day-under-active-exploitation.md",
+  "updatedAt": "2026-04-29T06:00:35.812-05:00",
+  "lastLink": "https://cyberpress.org/vect-2-0-multi-platform-threat/",
+  "lastId": "1wvld7l000",
+  "lastFilePath": "cyberpress/pages/2026/04/29/new-vect-20-ransomware-targets-multi-platform-systems.md",
   "items": [
     {
-      "id": "pigbbn0000",
-      "link": "https://cyberpress.org/cisa-alerts-on-microsoft-windows/",
-      "filePath": "cyberpress/pages/2026/04/29/cisa-alerts-on-microsoft-windows-shell-zero-day-under-active-exploitation.md",
-      "committedAt": "2026-04-29T05:00:14.262-05:00",
-      "title": "CISA Alerts on Microsoft Windows Shell Zero-Day Under Active Exploitation"
+      "id": "1wvld7l000",
+      "link": "https://cyberpress.org/vect-2-0-multi-platform-threat/",
+      "filePath": "cyberpress/pages/2026/04/29/new-vect-20-ransomware-targets-multi-platform-systems.md",
+      "committedAt": "2026-04-29T06:00:35.812-05:00",
+      "title": "New VECT 2.0 Ransomware Targets Multi-Platform Systems"
     }
   ]
 }
