@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T19:00:08.875-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
-  "lastId": "1gd66cd000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/28/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files.md",
+  "updatedAt": "2026-04-29T05:00:35.941-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
+  "lastId": "19644c3000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/29/microsoft-says-backend-change-broke-teams-free-chat-and-calls.md",
   "items": [
     {
-      "id": "1gd66cd000",
-      "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
-      "filePath": "bleepingcomp/pages/2026/04/28/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files.md",
-      "committedAt": "2026-04-28T19:00:08.875-04:00",
-      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files"
+      "id": "19644c3000",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
+      "filePath": "bleepingcomp/pages/2026/04/29/microsoft-says-backend-change-broke-teams-free-chat-and-calls.md",
+      "committedAt": "2026-04-29T05:00:35.941-04:00",
+      "title": "Microsoft says backend change broke Teams Free chat and calls"
     }
   ]
 }
