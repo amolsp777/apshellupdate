@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T05:00:35.941-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
-  "lastId": "19644c3000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/29/microsoft-says-backend-change-broke-teams-free-chat-and-calls.md",
+  "updatedAt": "2026-04-29T07:00:03.571-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
+  "lastId": "m6qqy80000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/29/cisa-orders-feds-to-patch-windows-flaw-exploited-as-zero-day.md",
   "items": [
     {
-      "id": "19644c3000",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
-      "filePath": "bleepingcomp/pages/2026/04/29/microsoft-says-backend-change-broke-teams-free-chat-and-calls.md",
-      "committedAt": "2026-04-29T05:00:35.941-04:00",
-      "title": "Microsoft says backend change broke Teams Free chat and calls"
+      "id": "m6qqy80000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/29/cisa-orders-feds-to-patch-windows-flaw-exploited-as-zero-day.md",
+      "committedAt": "2026-04-29T07:00:03.571-04:00",
+      "title": "CISA orders feds to patch Windows flaw exploited as zero-day"
     }
   ]
 }
