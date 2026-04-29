@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T07:00:03.571-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
-  "lastId": "m6qqy80000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/29/cisa-orders-feds-to-patch-windows-flaw-exploited-as-zero-day.md",
+  "updatedAt": "2026-04-29T09:00:14.660-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
+  "lastId": "1cvsmhf000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/29/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos.md",
   "items": [
     {
-      "id": "m6qqy80000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
-      "filePath": "bleepingcomp/pages/2026/04/29/cisa-orders-feds-to-patch-windows-flaw-exploited-as-zero-day.md",
-      "committedAt": "2026-04-29T07:00:03.571-04:00",
-      "title": "CISA orders feds to patch Windows flaw exploited as zero-day"
+      "id": "1cvsmhf000",
+      "link": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
+      "filePath": "bleepingcomp/pages/2026/04/29/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos.md",
+      "committedAt": "2026-04-29T09:00:14.660-04:00",
+      "title": "GitHub fixes RCE flaw that gave access to millions of private repos"
     }
   ]
 }
