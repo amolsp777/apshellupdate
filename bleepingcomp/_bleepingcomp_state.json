@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T19:00:29.983-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
-  "lastId": "16mwmfn000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/29/official-sap-npm-packages-compromised-to-steal-credentials.md",
+  "updatedAt": "2026-04-29T20:00:56.423-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
+  "lastId": "4lqnha0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/29/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years.md",
   "items": [
     {
-      "id": "16mwmfn000",
-      "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
-      "filePath": "bleepingcomp/pages/2026/04/29/official-sap-npm-packages-compromised-to-steal-credentials.md",
-      "committedAt": "2026-04-29T19:00:29.983-04:00",
-      "title": "Official SAP npm packages compromised to steal credentials"
+      "id": "4lqnha0000",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
+      "filePath": "bleepingcomp/pages/2026/04/29/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years.md",
+      "committedAt": "2026-04-29T20:00:56.423-04:00",
+      "title": "Popular WordPress redirect plugin hid dormant backdoor for years"
     }
   ]
 }
