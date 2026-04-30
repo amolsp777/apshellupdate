@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T13:01:03.076-05:00",
-  "lastLink": "https://cyberpress.org/lofystealer-targets-minecraft-gamers/",
-  "lastId": "1e73nt6000",
-  "lastFilePath": "cyberpress/pages/2026/04/29/lofystealer-uses-nodejs-loader-against-minecraft-gamers.md",
+  "updatedAt": "2026-04-30T01:00:35.396-05:00",
+  "lastLink": "https://cyberpress.org/vect-2-0-multi-platform-attacks/",
+  "lastId": "85aczv0000",
+  "lastFilePath": "cyberpress/pages/2026/04/30/new-vect-20-ransomware-operation-expands-multi-platform-attacks.md",
   "items": [
     {
-      "id": "1e73nt6000",
-      "link": "https://cyberpress.org/lofystealer-targets-minecraft-gamers/",
-      "filePath": "cyberpress/pages/2026/04/29/lofystealer-uses-nodejs-loader-against-minecraft-gamers.md",
-      "committedAt": "2026-04-29T13:01:03.076-05:00",
-      "title": "LofyStealer Uses Node.js Loader Against Minecraft Gamers"
+      "id": "85aczv0000",
+      "link": "https://cyberpress.org/vect-2-0-multi-platform-attacks/",
+      "filePath": "cyberpress/pages/2026/04/30/new-vect-20-ransomware-operation-expands-multi-platform-attacks.md",
+      "committedAt": "2026-04-30T01:00:35.396-05:00",
+      "title": "New Vect 2.0 Ransomware Operation Expands Multi-Platform Attacks"
     }
   ]
 }
