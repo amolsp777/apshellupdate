@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T10:00:52.799-05:00",
-  "lastLink": "https://cyberpress.org/google-gemini-cli-flaw-execute-commands/",
-  "lastId": "12dci1d000",
-  "lastFilePath": "cyberpress/pages/2026/04/30/google-gemini-cli-flaw-enables-command-execution-on-hosts-systems.md",
+  "updatedAt": "2026-04-30T11:00:58.310-05:00",
+  "lastLink": "https://cyberpress.org/openai-five-point-cyber-defense-strategy/",
+  "lastId": "4rk5xy0000",
+  "lastFilePath": "cyberpress/pages/2026/04/30/openai-unveils-new-five-point-cyber-defense-strategy.md",
   "items": [
     {
-      "id": "12dci1d000",
-      "link": "https://cyberpress.org/google-gemini-cli-flaw-execute-commands/",
-      "filePath": "cyberpress/pages/2026/04/30/google-gemini-cli-flaw-enables-command-execution-on-hosts-systems.md",
-      "committedAt": "2026-04-30T10:00:52.799-05:00",
-      "title": "Google Gemini CLI Flaw Enables Command Execution on Hosts systems"
+      "id": "4rk5xy0000",
+      "link": "https://cyberpress.org/openai-five-point-cyber-defense-strategy/",
+      "filePath": "cyberpress/pages/2026/04/30/openai-unveils-new-five-point-cyber-defense-strategy.md",
+      "committedAt": "2026-04-30T11:00:58.310-05:00",
+      "title": "OpenAI Unveils New Five-Point Cyber Defense Strategy"
     }
   ]
 }
