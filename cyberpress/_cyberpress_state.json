@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T01:00:35.396-05:00",
-  "lastLink": "https://cyberpress.org/vect-2-0-multi-platform-attacks/",
-  "lastId": "85aczv0000",
-  "lastFilePath": "cyberpress/pages/2026/04/30/new-vect-20-ransomware-operation-expands-multi-platform-attacks.md",
+  "updatedAt": "2026-04-30T02:00:19.621-05:00",
+  "lastLink": "https://cyberpress.org/proftpd-sql-injection-flaw/",
+  "lastId": "1h9k840000",
+  "lastFilePath": "cyberpress/pages/2026/04/30/proftpd-sql-injection-flaw-enables-remote-code-execution.md",
   "items": [
     {
-      "id": "85aczv0000",
-      "link": "https://cyberpress.org/vect-2-0-multi-platform-attacks/",
-      "filePath": "cyberpress/pages/2026/04/30/new-vect-20-ransomware-operation-expands-multi-platform-attacks.md",
-      "committedAt": "2026-04-30T01:00:35.396-05:00",
-      "title": "New Vect 2.0 Ransomware Operation Expands Multi-Platform Attacks"
+      "id": "1h9k840000",
+      "link": "https://cyberpress.org/proftpd-sql-injection-flaw/",
+      "filePath": "cyberpress/pages/2026/04/30/proftpd-sql-injection-flaw-enables-remote-code-execution.md",
+      "committedAt": "2026-04-30T02:00:19.621-05:00",
+      "title": "ProFTPD SQL Injection Flaw Enables Remote Code Execution"
     }
   ]
 }
