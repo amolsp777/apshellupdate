@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T12:00:31.707-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
-  "lastId": "iz2u3g0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/30/april-kb5083769-windows-11-update-causes-backup-software-failures.md",
+  "updatedAt": "2026-04-30T13:00:47.197-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
+  "lastId": "f2pamr0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/30/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks.md",
   "items": [
     {
-      "id": "iz2u3g0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
-      "filePath": "bleepingcomp/pages/2026/04/30/april-kb5083769-windows-11-update-causes-backup-software-failures.md",
-      "committedAt": "2026-04-30T12:00:31.707-04:00",
-      "title": "April KB5083769 Windows 11 update causes backup software failures"
+      "id": "f2pamr0000",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
+      "filePath": "bleepingcomp/pages/2026/04/30/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks.md",
+      "committedAt": "2026-04-30T13:00:47.197-04:00",
+      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks"
     }
   ]
 }
