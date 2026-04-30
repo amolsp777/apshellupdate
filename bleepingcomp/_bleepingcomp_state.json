@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T09:00:58.702-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
-  "lastId": "cbop260000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/30/police-dismantles-9-crypto-scam-centers-arrests-276-suspects.md",
+  "updatedAt": "2026-04-30T10:00:56.628-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
+  "lastId": "7x6vcv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/30/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros.md",
   "items": [
     {
-      "id": "cbop260000",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
-      "filePath": "bleepingcomp/pages/2026/04/30/police-dismantles-9-crypto-scam-centers-arrests-276-suspects.md",
-      "committedAt": "2026-04-30T09:00:58.702-04:00",
-      "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects"
+      "id": "7x6vcv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
+      "filePath": "bleepingcomp/pages/2026/04/30/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros.md",
+      "committedAt": "2026-04-30T10:00:56.628-04:00",
+      "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros"
     }
   ]
 }
