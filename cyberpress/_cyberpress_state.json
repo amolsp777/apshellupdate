@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T03:00:19.669-05:00",
-  "lastLink": "https://cyberpress.org/sap-npm-packages-compromised/",
-  "lastId": "1t5no5f000",
-  "lastFilePath": "cyberpress/pages/2026/04/30/sap-npm-packages-compromised-to-steal-developers-cicd-secrets.md",
+  "updatedAt": "2026-04-30T04:00:14.469-05:00",
+  "lastLink": "https://cyberpress.org/cpanel-0-day-auth-bypass-exploited/",
+  "lastId": "1ibkv1d000",
+  "lastFilePath": "cyberpress/pages/2026/04/30/cpanel-0-day-auth-bypass-exploited-in-the-wild-poc-released.md",
   "items": [
     {
-      "id": "1t5no5f000",
-      "link": "https://cyberpress.org/sap-npm-packages-compromised/",
-      "filePath": "cyberpress/pages/2026/04/30/sap-npm-packages-compromised-to-steal-developers-cicd-secrets.md",
-      "committedAt": "2026-04-30T03:00:19.669-05:00",
-      "title": "SAP npm Packages Compromised to Steal Developers, CI/CD Secrets"
+      "id": "1ibkv1d000",
+      "link": "https://cyberpress.org/cpanel-0-day-auth-bypass-exploited/",
+      "filePath": "cyberpress/pages/2026/04/30/cpanel-0-day-auth-bypass-exploited-in-the-wild-poc-released.md",
+      "committedAt": "2026-04-30T04:00:14.469-05:00",
+      "title": "cPanel 0-Day Auth Bypass Exploited in the Wild, PoC Released"
     }
   ]
 }
