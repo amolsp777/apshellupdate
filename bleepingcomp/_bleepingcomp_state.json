@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T11:00:48.321-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
-  "lastId": "fwkrcu0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/30/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live.md",
+  "updatedAt": "2026-04-30T12:00:31.707-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
+  "lastId": "iz2u3g0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/30/april-kb5083769-windows-11-update-causes-backup-software-failures.md",
   "items": [
     {
-      "id": "fwkrcu0000",
-      "link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
-      "filePath": "bleepingcomp/pages/2026/04/30/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live.md",
-      "committedAt": "2026-04-30T11:00:48.321-04:00",
-      "title": "What Happens in the First 24 Hours After a New Asset Goes Live"
+      "id": "iz2u3g0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
+      "filePath": "bleepingcomp/pages/2026/04/30/april-kb5083769-windows-11-update-causes-backup-software-failures.md",
+      "committedAt": "2026-04-30T12:00:31.707-04:00",
+      "title": "April KB5083769 Windows 11 update causes backup software failures"
     }
   ]
 }
