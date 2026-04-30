@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T04:00:14.469-05:00",
-  "lastLink": "https://cyberpress.org/cpanel-0-day-auth-bypass-exploited/",
-  "lastId": "1ibkv1d000",
-  "lastFilePath": "cyberpress/pages/2026/04/30/cpanel-0-day-auth-bypass-exploited-in-the-wild-poc-released.md",
+  "updatedAt": "2026-04-30T05:00:14.395-05:00",
+  "lastLink": "https://cyberpress.org/jenkins-patches-high-severity-plugin-vulnerability/",
+  "lastId": "11cskr4000",
+  "lastFilePath": "cyberpress/pages/2026/04/30/jenkins-patches-high-severity-plugin-vulnerability-including-path-traversal-and-.md",
   "items": [
     {
-      "id": "1ibkv1d000",
-      "link": "https://cyberpress.org/cpanel-0-day-auth-bypass-exploited/",
-      "filePath": "cyberpress/pages/2026/04/30/cpanel-0-day-auth-bypass-exploited-in-the-wild-poc-released.md",
-      "committedAt": "2026-04-30T04:00:14.469-05:00",
-      "title": "cPanel 0-Day Auth Bypass Exploited in the Wild, PoC Released"
+      "id": "11cskr4000",
+      "link": "https://cyberpress.org/jenkins-patches-high-severity-plugin-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/30/jenkins-patches-high-severity-plugin-vulnerability-including-path-traversal-and-.md",
+      "committedAt": "2026-04-30T05:00:14.395-05:00",
+      "title": "Jenkins Patches High-Severity Plugin Vulnerability Including Path Traversal and Stored XSS"
     }
   ]
 }
