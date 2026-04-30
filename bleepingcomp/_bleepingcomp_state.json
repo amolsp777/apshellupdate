@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T10:00:56.628-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
-  "lastId": "7x6vcv0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/30/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros.md",
+  "updatedAt": "2026-04-30T11:00:48.321-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
+  "lastId": "fwkrcu0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/30/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live.md",
   "items": [
     {
-      "id": "7x6vcv0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
-      "filePath": "bleepingcomp/pages/2026/04/30/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros.md",
-      "committedAt": "2026-04-30T10:00:56.628-04:00",
-      "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros"
+      "id": "fwkrcu0000",
+      "link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
+      "filePath": "bleepingcomp/pages/2026/04/30/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live.md",
+      "committedAt": "2026-04-30T11:00:48.321-04:00",
+      "title": "What Happens in the First 24 Hours After a New Asset Goes Live"
     }
   ]
 }
