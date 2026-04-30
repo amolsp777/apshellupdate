@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T20:00:56.423-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
-  "lastId": "4lqnha0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/29/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years.md",
+  "updatedAt": "2026-04-30T08:00:03.606-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+  "lastId": "1fpao5b000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/30/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available.md",
   "items": [
     {
-      "id": "4lqnha0000",
-      "link": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
-      "filePath": "bleepingcomp/pages/2026/04/29/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years.md",
-      "committedAt": "2026-04-29T20:00:56.423-04:00",
-      "title": "Popular WordPress redirect plugin hid dormant backdoor for years"
+      "id": "1fpao5b000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+      "filePath": "bleepingcomp/pages/2026/04/30/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available.md",
+      "committedAt": "2026-04-30T08:00:03.606-04:00",
+      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available"
     }
   ]
 }
