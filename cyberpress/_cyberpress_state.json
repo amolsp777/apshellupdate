@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T05:00:13.928-05:00",
-  "lastLink": "https://cyberpress.org/android-spyware-resale-platform/",
-  "lastId": "5vpfgn0000",
-  "lastFilePath": "cyberpress/pages/2026/05/01/spyware-as-a-service-platform-enables-rebranding-and-resale-of-android-malware.md",
+  "updatedAt": "2026-05-01T06:00:14.365-05:00",
+  "lastLink": "https://cyberpress.org/multiple-wireshark-flaws/",
+  "lastId": "lz7y9w0000",
+  "lastFilePath": "cyberpress/pages/2026/05/01/multiple-wireshark-flaws-allow-remote-code-execution-via-malformed-packets.md",
   "items": [
     {
-      "id": "5vpfgn0000",
-      "link": "https://cyberpress.org/android-spyware-resale-platform/",
-      "filePath": "cyberpress/pages/2026/05/01/spyware-as-a-service-platform-enables-rebranding-and-resale-of-android-malware.md",
-      "committedAt": "2026-05-01T05:00:13.928-05:00",
-      "title": "Spyware-as-a-Service Platform Enables Rebranding and Resale Of Android Malware"
+      "id": "lz7y9w0000",
+      "link": "https://cyberpress.org/multiple-wireshark-flaws/",
+      "filePath": "cyberpress/pages/2026/05/01/multiple-wireshark-flaws-allow-remote-code-execution-via-malformed-packets.md",
+      "committedAt": "2026-05-01T06:00:14.365-05:00",
+      "title": "Multiple Wireshark Flaws Allow Remote Code Execution via Malformed Packets"
     }
   ]
 }
