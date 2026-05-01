@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T08:00:35.584-05:00",
-  "lastLink": "https://cyberpress.org/karstorat-expands-espionage-capabilities/",
-  "lastId": "7k4sc00000",
-  "lastFilePath": "cyberpress/pages/2026/05/01/karstorat-malware-expands-remote-espionage-capabilities.md",
+  "updatedAt": "2026-05-01T09:00:40.573-05:00",
+  "lastLink": "https://cyberpress.org/multiple-exim-mail-server-flaws-allow-crashes-via-malicious-dns-data/",
+  "lastId": "1gucttg000",
+  "lastFilePath": "cyberpress/pages/2026/05/01/multiple-exim-mail-server-flaws-allow-crashes-via-malicious-dns-data.md",
   "items": [
     {
-      "id": "7k4sc00000",
-      "link": "https://cyberpress.org/karstorat-expands-espionage-capabilities/",
-      "filePath": "cyberpress/pages/2026/05/01/karstorat-malware-expands-remote-espionage-capabilities.md",
-      "committedAt": "2026-05-01T08:00:35.584-05:00",
-      "title": "KarstoRAT Malware Expands Remote Espionage Capabilities"
+      "id": "1gucttg000",
+      "link": "https://cyberpress.org/multiple-exim-mail-server-flaws-allow-crashes-via-malicious-dns-data/",
+      "filePath": "cyberpress/pages/2026/05/01/multiple-exim-mail-server-flaws-allow-crashes-via-malicious-dns-data.md",
+      "committedAt": "2026-05-01T09:00:40.573-05:00",
+      "title": "Multiple Exim Mail Server Flaws Allow Crashes via Malicious DNS Data"
     }
   ]
 }
