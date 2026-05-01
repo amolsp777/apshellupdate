@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T07:00:29.750-05:00",
-  "lastLink": "https://cyberpress.org/shadowpad-spy-campaign/",
-  "lastId": "1a0f2ls000",
-  "lastFilePath": "cyberpress/pages/2026/05/01/china-backed-hackers-deploy-shadowpad-malware-in-sophisticated-multi-stage-spy-o.md",
+  "updatedAt": "2026-05-01T08:00:35.584-05:00",
+  "lastLink": "https://cyberpress.org/karstorat-expands-espionage-capabilities/",
+  "lastId": "7k4sc00000",
+  "lastFilePath": "cyberpress/pages/2026/05/01/karstorat-malware-expands-remote-espionage-capabilities.md",
   "items": [
     {
-      "id": "1a0f2ls000",
-      "link": "https://cyberpress.org/shadowpad-spy-campaign/",
-      "filePath": "cyberpress/pages/2026/05/01/china-backed-hackers-deploy-shadowpad-malware-in-sophisticated-multi-stage-spy-o.md",
-      "committedAt": "2026-05-01T07:00:29.750-05:00",
-      "title": "China-Backed Hackers Deploy ShadowPad Malware In Sophisticated Multi-Stage Spy Ops"
+      "id": "7k4sc00000",
+      "link": "https://cyberpress.org/karstorat-expands-espionage-capabilities/",
+      "filePath": "cyberpress/pages/2026/05/01/karstorat-malware-expands-remote-espionage-capabilities.md",
+      "committedAt": "2026-05-01T08:00:35.584-05:00",
+      "title": "KarstoRAT Malware Expands Remote Espionage Capabilities"
     }
   ]
 }
