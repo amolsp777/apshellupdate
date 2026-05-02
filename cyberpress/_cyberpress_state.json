@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-02T01:00:13.959-05:00",
-  "lastLink": "https://cyberpress.org/poc-exploit-for-cpanelsniper/",
-  "lastId": "1pgbmzw000",
-  "lastFilePath": "cyberpress/pages/2026/05/02/poc-exploit-for-cpanelsniper-raises-alarm-over-mass-server-compromise.md",
+  "updatedAt": "2026-05-02T02:00:35.028-05:00",
+  "lastLink": "https://cyberpress.org/aitm-login-pages-fuel-attacks-on-sharepoint/",
+  "lastId": "1ro7j5g000",
+  "lastFilePath": "cyberpress/pages/2026/05/02/aitm-login-pages-fuel-attacks-on-sharepoint-hubspot-and-google-workspace.md",
   "items": [
     {
-      "id": "1pgbmzw000",
-      "link": "https://cyberpress.org/poc-exploit-for-cpanelsniper/",
-      "filePath": "cyberpress/pages/2026/05/02/poc-exploit-for-cpanelsniper-raises-alarm-over-mass-server-compromise.md",
-      "committedAt": "2026-05-02T01:00:13.959-05:00",
-      "title": "PoC Exploit for cPanelSniper Raises Alarm Over Mass Server Compromise"
+      "id": "1ro7j5g000",
+      "link": "https://cyberpress.org/aitm-login-pages-fuel-attacks-on-sharepoint/",
+      "filePath": "cyberpress/pages/2026/05/02/aitm-login-pages-fuel-attacks-on-sharepoint-hubspot-and-google-workspace.md",
+      "committedAt": "2026-05-02T02:00:35.028-05:00",
+      "title": "AiTM Login Pages Fuel Attacks on SharePoint, HubSpot, and Google Workspace"
     }
   ]
 }
