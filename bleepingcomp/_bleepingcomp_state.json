@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T21:00:29.890-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
-  "lastId": "twrd7b0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/02/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog.md",
+  "updatedAt": "2026-05-02T11:00:29.945-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+  "lastId": "nnurby0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/02/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse.md",
   "items": [
     {
-      "id": "twrd7b0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
-      "filePath": "bleepingcomp/pages/2026/05/02/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog.md",
-      "committedAt": "2026-05-01T21:00:29.890-04:00",
-      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog"
+      "id": "nnurby0000",
+      "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+      "filePath": "bleepingcomp/pages/2026/05/02/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse.md",
+      "committedAt": "2026-05-02T11:00:29.945-04:00",
+      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse"
     }
   ]
 }
