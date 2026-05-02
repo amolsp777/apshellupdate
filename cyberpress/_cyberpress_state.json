@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T13:01:02.519-05:00",
-  "lastLink": "https://cyberpress.org/deepdoor-stealer-campaign-spills/",
-  "lastId": "59b7vc0000",
-  "lastFilePath": "cyberpress/pages/2026/05/01/new-deepdoor-stealer-campaign-spills-browser-passwords-cloud-tokens-and-ssh-keys.md",
+  "updatedAt": "2026-05-02T01:00:13.959-05:00",
+  "lastLink": "https://cyberpress.org/poc-exploit-for-cpanelsniper/",
+  "lastId": "1pgbmzw000",
+  "lastFilePath": "cyberpress/pages/2026/05/02/poc-exploit-for-cpanelsniper-raises-alarm-over-mass-server-compromise.md",
   "items": [
     {
-      "id": "59b7vc0000",
-      "link": "https://cyberpress.org/deepdoor-stealer-campaign-spills/",
-      "filePath": "cyberpress/pages/2026/05/01/new-deepdoor-stealer-campaign-spills-browser-passwords-cloud-tokens-and-ssh-keys.md",
-      "committedAt": "2026-05-01T13:01:02.519-05:00",
-      "title": "New Deep#Door Stealer Campaign Spills Browser Passwords, Cloud Tokens, and SSH Keys"
+      "id": "1pgbmzw000",
+      "link": "https://cyberpress.org/poc-exploit-for-cpanelsniper/",
+      "filePath": "cyberpress/pages/2026/05/02/poc-exploit-for-cpanelsniper-raises-alarm-over-mass-server-compromise.md",
+      "committedAt": "2026-05-02T01:00:13.959-05:00",
+      "title": "PoC Exploit for cPanelSniper Raises Alarm Over Mass Server Compromise"
     }
   ]
 }
