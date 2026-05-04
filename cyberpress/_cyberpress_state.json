@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T10:00:49.674-05:00",
-  "lastLink": "https://cyberpress.org/cisa-alerts-on-cpanel-whm-flaw-actively-exploited-in-attacks/",
-  "lastId": "1w8rn0f000",
-  "lastFilePath": "cyberpress/pages/2026/05/04/cisa-alerts-on-cpanel-whm-flaw-actively-exploited-in-attacks.md",
+  "updatedAt": "2026-05-04T11:01:12.641-05:00",
+  "lastLink": "https://cyberpress.org/freebsd-dhcp-client-flaw-allows-remote-code-execution-as-root/",
+  "lastId": "2eve1l0000",
+  "lastFilePath": "cyberpress/pages/2026/05/04/freebsd-dhcp-client-flaw-allows-remote-code-execution-as-root.md",
   "items": [
     {
-      "id": "1w8rn0f000",
-      "link": "https://cyberpress.org/cisa-alerts-on-cpanel-whm-flaw-actively-exploited-in-attacks/",
-      "filePath": "cyberpress/pages/2026/05/04/cisa-alerts-on-cpanel-whm-flaw-actively-exploited-in-attacks.md",
-      "committedAt": "2026-05-04T10:00:49.674-05:00",
-      "title": "CISA Alerts on cPanel & WHM Flaw Actively Exploited in Attacks"
+      "id": "2eve1l0000",
+      "link": "https://cyberpress.org/freebsd-dhcp-client-flaw-allows-remote-code-execution-as-root/",
+      "filePath": "cyberpress/pages/2026/05/04/freebsd-dhcp-client-flaw-allows-remote-code-execution-as-root.md",
+      "committedAt": "2026-05-04T11:01:12.641-05:00",
+      "title": "FreeBSD DHCP Client Flaw Allows Remote Code Execution as Root"
     }
   ]
 }
