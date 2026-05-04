@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T07:00:20.141-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
-  "lastId": "r7y71v0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/04/microsoft-confirms-april-windows-updates-cause-backup-failures.md",
+  "updatedAt": "2026-05-04T08:00:20.584-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+  "lastId": "ql34sf0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/04/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems.md",
   "items": [
     {
-      "id": "r7y71v0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
-      "filePath": "bleepingcomp/pages/2026/05/04/microsoft-confirms-april-windows-updates-cause-backup-failures.md",
-      "committedAt": "2026-05-04T07:00:20.141-04:00",
-      "title": "Microsoft confirms April Windows updates cause backup failures"
+      "id": "ql34sf0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+      "filePath": "bleepingcomp/pages/2026/05/04/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems.md",
+      "committedAt": "2026-05-04T08:00:20.584-04:00",
+      "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems"
     }
   ]
 }
