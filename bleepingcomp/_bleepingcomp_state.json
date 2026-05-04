@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-03T19:00:03.360-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
-  "lastId": "1ek56cy000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/03/instructure-confirms-data-breach-shinyhunters-claims-attack.md",
+  "updatedAt": "2026-05-04T07:00:20.141-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
+  "lastId": "r7y71v0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/04/microsoft-confirms-april-windows-updates-cause-backup-failures.md",
   "items": [
     {
-      "id": "1ek56cy000",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
-      "filePath": "bleepingcomp/pages/2026/05/03/instructure-confirms-data-breach-shinyhunters-claims-attack.md",
-      "committedAt": "2026-05-03T19:00:03.360-04:00",
-      "title": "Instructure confirms data breach, ShinyHunters claims attack"
+      "id": "r7y71v0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
+      "filePath": "bleepingcomp/pages/2026/05/04/microsoft-confirms-april-windows-updates-cause-backup-failures.md",
+      "committedAt": "2026-05-04T07:00:20.141-04:00",
+      "title": "Microsoft confirms April Windows updates cause backup failures"
     }
   ]
 }
