@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T14:00:47.000-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
-  "lastId": "1teorge000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/04/backdoored-pytorch-lightning-package-drops-credential-stealer.md",
+  "updatedAt": "2026-05-04T17:00:25.015-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
+  "lastId": "vbzy660000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/04/amazon-ses-increasingly-abused-in-phishing-to-evade-detection.md",
   "items": [
     {
-      "id": "1teorge000",
-      "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
-      "filePath": "bleepingcomp/pages/2026/05/04/backdoored-pytorch-lightning-package-drops-credential-stealer.md",
-      "committedAt": "2026-05-04T14:00:47.000-04:00",
-      "title": "Backdoored PyTorch Lightning package drops credential stealer"
+      "id": "vbzy660000",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
+      "filePath": "bleepingcomp/pages/2026/05/04/amazon-ses-increasingly-abused-in-phishing-to-evade-detection.md",
+      "committedAt": "2026-05-04T17:00:25.015-04:00",
+      "title": "Amazon SES increasingly abused in phishing to evade detection"
     }
   ]
 }
