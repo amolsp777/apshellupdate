@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T11:01:12.641-05:00",
-  "lastLink": "https://cyberpress.org/freebsd-dhcp-client-flaw-allows-remote-code-execution-as-root/",
-  "lastId": "2eve1l0000",
-  "lastFilePath": "cyberpress/pages/2026/05/04/freebsd-dhcp-client-flaw-allows-remote-code-execution-as-root.md",
+  "updatedAt": "2026-05-04T12:00:58.908-05:00",
+  "lastLink": "https://cyberpress.org/cybercriminals-target-developer-environments/",
+  "lastId": "1sl1oq5000",
+  "lastFilePath": "cyberpress/pages/2026/05/04/cybercriminals-abuse-tanstack-package-to-target-developer-environments.md",
   "items": [
     {
-      "id": "2eve1l0000",
-      "link": "https://cyberpress.org/freebsd-dhcp-client-flaw-allows-remote-code-execution-as-root/",
-      "filePath": "cyberpress/pages/2026/05/04/freebsd-dhcp-client-flaw-allows-remote-code-execution-as-root.md",
-      "committedAt": "2026-05-04T11:01:12.641-05:00",
-      "title": "FreeBSD DHCP Client Flaw Allows Remote Code Execution as Root"
+      "id": "1sl1oq5000",
+      "link": "https://cyberpress.org/cybercriminals-target-developer-environments/",
+      "filePath": "cyberpress/pages/2026/05/04/cybercriminals-abuse-tanstack-package-to-target-developer-environments.md",
+      "committedAt": "2026-05-04T12:00:58.908-05:00",
+      "title": "Cybercriminals Abuse Tanstack Package To Target Developer Environments"
     }
   ]
 }
