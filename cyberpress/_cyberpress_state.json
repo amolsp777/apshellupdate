@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T06:00:21.145-05:00",
-  "lastLink": "https://cyberpress.org/critical-apache-mina-flaws/",
-  "lastId": "1wqb6l4000",
-  "lastFilePath": "cyberpress/pages/2026/05/04/critical-apache-mina-flaws-enable-remote-code-execution-attacks.md",
+  "updatedAt": "2026-05-04T07:00:30.081-05:00",
+  "lastLink": "https://cyberpress.org/bluekit-automates-session-hijacking/",
+  "lastId": "1x8owfd000",
+  "lastFilePath": "cyberpress/pages/2026/05/04/bluekit-phishing-kit-automates-domain-setup-and-session-hijacking.md",
   "items": [
     {
-      "id": "1wqb6l4000",
-      "link": "https://cyberpress.org/critical-apache-mina-flaws/",
-      "filePath": "cyberpress/pages/2026/05/04/critical-apache-mina-flaws-enable-remote-code-execution-attacks.md",
-      "committedAt": "2026-05-04T06:00:21.145-05:00",
-      "title": "Critical Apache MINA Flaws Enable Remote Code Execution Attacks"
+      "id": "1x8owfd000",
+      "link": "https://cyberpress.org/bluekit-automates-session-hijacking/",
+      "filePath": "cyberpress/pages/2026/05/04/bluekit-phishing-kit-automates-domain-setup-and-session-hijacking.md",
+      "committedAt": "2026-05-04T07:00:30.081-05:00",
+      "title": "Bluekit Phishing Kit Automates Domain Setup and Session Hijacking"
     }
   ]
 }
