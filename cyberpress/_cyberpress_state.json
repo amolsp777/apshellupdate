@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T09:00:37.753-05:00",
-  "lastLink": "https://cyberpress.org/cisco-launches-ai-provenance-tool-for-security-and-supply-chain-protection/",
-  "lastId": "11uiino000",
-  "lastFilePath": "cyberpress/pages/2026/05/04/cisco-launches-ai-provenance-tool-for-security-and-supply-chain-protection.md",
+  "updatedAt": "2026-05-04T10:00:49.674-05:00",
+  "lastLink": "https://cyberpress.org/cisa-alerts-on-cpanel-whm-flaw-actively-exploited-in-attacks/",
+  "lastId": "1w8rn0f000",
+  "lastFilePath": "cyberpress/pages/2026/05/04/cisa-alerts-on-cpanel-whm-flaw-actively-exploited-in-attacks.md",
   "items": [
     {
-      "id": "11uiino000",
-      "link": "https://cyberpress.org/cisco-launches-ai-provenance-tool-for-security-and-supply-chain-protection/",
-      "filePath": "cyberpress/pages/2026/05/04/cisco-launches-ai-provenance-tool-for-security-and-supply-chain-protection.md",
-      "committedAt": "2026-05-04T09:00:37.753-05:00",
-      "title": "Cisco Launches AI Provenance Tool for Security and Supply Chain Protection"
+      "id": "1w8rn0f000",
+      "link": "https://cyberpress.org/cisa-alerts-on-cpanel-whm-flaw-actively-exploited-in-attacks/",
+      "filePath": "cyberpress/pages/2026/05/04/cisa-alerts-on-cpanel-whm-flaw-actively-exploited-in-attacks.md",
+      "committedAt": "2026-05-04T10:00:49.674-05:00",
+      "title": "CISA Alerts on cPanel & WHM Flaw Actively Exploited in Attacks"
     }
   ]
 }
