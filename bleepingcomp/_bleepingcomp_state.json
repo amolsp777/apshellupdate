@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T09:00:03.693-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
-  "lastId": "nirdh30000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/04/progress-warns-of-critical-moveit-automation-auth-bypass-flaw.md",
+  "updatedAt": "2026-05-04T10:00:42.622-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
+  "lastId": "x9wm700000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/04/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions.md",
   "items": [
     {
-      "id": "nirdh30000",
-      "link": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
-      "filePath": "bleepingcomp/pages/2026/05/04/progress-warns-of-critical-moveit-automation-auth-bypass-flaw.md",
-      "committedAt": "2026-05-04T09:00:03.693-04:00",
-      "title": "Progress warns of critical MOVEit Automation auth bypass flaw"
+      "id": "x9wm700000",
+      "link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
+      "filePath": "bleepingcomp/pages/2026/05/04/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions.md",
+      "committedAt": "2026-05-04T10:00:42.622-04:00",
+      "title": "They don’t hack, they borrow: How fraudsters target credit unions"
     }
   ]
 }
