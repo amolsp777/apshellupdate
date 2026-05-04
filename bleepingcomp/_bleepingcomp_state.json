@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T13:00:04.140-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
-  "lastId": "15n23jy000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/04/trellix-discloses-data-breach-after-source-code-repository-hack.md",
+  "updatedAt": "2026-05-04T14:00:47.000-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
+  "lastId": "1teorge000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/04/backdoored-pytorch-lightning-package-drops-credential-stealer.md",
   "items": [
     {
-      "id": "15n23jy000",
-      "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
-      "filePath": "bleepingcomp/pages/2026/05/04/trellix-discloses-data-breach-after-source-code-repository-hack.md",
-      "committedAt": "2026-05-04T13:00:04.140-04:00",
-      "title": "Trellix discloses data breach after source code repository hack"
+      "id": "1teorge000",
+      "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
+      "filePath": "bleepingcomp/pages/2026/05/04/backdoored-pytorch-lightning-package-drops-credential-stealer.md",
+      "committedAt": "2026-05-04T14:00:47.000-04:00",
+      "title": "Backdoored PyTorch Lightning package drops credential stealer"
     }
   ]
 }
