@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T05:00:14.286-05:00",
-  "lastLink": "https://cyberpress.org/linux-kernel-zero-day-vulnerability/",
-  "lastId": "165x73n000",
-  "lastFilePath": "cyberpress/pages/2026/05/04/cisa-warns-of-linux-kernel-zero-day-vulnerability-exploited-in-active-attacks.md",
+  "updatedAt": "2026-05-04T06:00:21.145-05:00",
+  "lastLink": "https://cyberpress.org/critical-apache-mina-flaws/",
+  "lastId": "1wqb6l4000",
+  "lastFilePath": "cyberpress/pages/2026/05/04/critical-apache-mina-flaws-enable-remote-code-execution-attacks.md",
   "items": [
     {
-      "id": "165x73n000",
-      "link": "https://cyberpress.org/linux-kernel-zero-day-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/04/cisa-warns-of-linux-kernel-zero-day-vulnerability-exploited-in-active-attacks.md",
-      "committedAt": "2026-05-04T05:00:14.286-05:00",
-      "title": "CISA Warns of Linux Kernel Zero-Day Vulnerability Exploited in Active Attacks"
+      "id": "1wqb6l4000",
+      "link": "https://cyberpress.org/critical-apache-mina-flaws/",
+      "filePath": "cyberpress/pages/2026/05/04/critical-apache-mina-flaws-enable-remote-code-execution-attacks.md",
+      "committedAt": "2026-05-04T06:00:21.145-05:00",
+      "title": "Critical Apache MINA Flaws Enable Remote Code Execution Attacks"
     }
   ]
 }
