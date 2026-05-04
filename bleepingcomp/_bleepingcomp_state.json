@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T11:00:47.493-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
-  "lastId": "1fddbyc000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/04/webinar-why-msps-must-rethink-security-and-backup-strategies.md",
+  "updatedAt": "2026-05-04T13:00:04.140-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
+  "lastId": "15n23jy000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/04/trellix-discloses-data-breach-after-source-code-repository-hack.md",
   "items": [
     {
-      "id": "1fddbyc000",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
-      "filePath": "bleepingcomp/pages/2026/05/04/webinar-why-msps-must-rethink-security-and-backup-strategies.md",
-      "committedAt": "2026-05-04T11:00:47.493-04:00",
-      "title": "Webinar: Why MSPs must rethink security and backup strategies"
+      "id": "15n23jy000",
+      "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
+      "filePath": "bleepingcomp/pages/2026/05/04/trellix-discloses-data-breach-after-source-code-repository-hack.md",
+      "committedAt": "2026-05-04T13:00:04.140-04:00",
+      "title": "Trellix discloses data breach after source code repository hack"
     }
   ]
 }
