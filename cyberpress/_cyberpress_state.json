@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T04:00:19.567-05:00",
-  "lastLink": "https://cyberpress.org/android-zero-click-vulnerability/",
-  "lastId": "1n4ul8w000",
-  "lastFilePath": "cyberpress/pages/2026/05/05/critical-android-zero-click-vulnerability-grants-attackers-remote-shell-access.md",
+  "updatedAt": "2026-05-05T05:00:19.512-05:00",
+  "lastLink": "https://cyberpress.org/critical-qualcomm-chip-flaws-could-allow-remote-code-execution-attacks/",
+  "lastId": "1b919a1000",
+  "lastFilePath": "cyberpress/pages/2026/05/05/critical-qualcomm-chip-flaws-could-allow-remote-code-execution-attacks.md",
   "items": [
     {
-      "id": "1n4ul8w000",
-      "link": "https://cyberpress.org/android-zero-click-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/05/critical-android-zero-click-vulnerability-grants-attackers-remote-shell-access.md",
-      "committedAt": "2026-05-05T04:00:19.567-05:00",
-      "title": "Critical Android Zero-Click Vulnerability Grants Attackers Remote Shell Access"
+      "id": "1b919a1000",
+      "link": "https://cyberpress.org/critical-qualcomm-chip-flaws-could-allow-remote-code-execution-attacks/",
+      "filePath": "cyberpress/pages/2026/05/05/critical-qualcomm-chip-flaws-could-allow-remote-code-execution-attacks.md",
+      "committedAt": "2026-05-05T05:00:19.512-05:00",
+      "title": "Critical Qualcomm Chip Flaws Could Allow Remote Code Execution Attacks"
     }
   ]
 }
