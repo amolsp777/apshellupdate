@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T18:00:40.641-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
-  "lastId": "13v4rkj000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/04/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection.md",
+  "updatedAt": "2026-05-05T19:00:19.369-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
+  "lastId": "1cjhokz000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/05/new-stealthy-quasar-linux-malware-targets-software-developers.md",
   "items": [
     {
-      "id": "13v4rkj000",
-      "link": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
-      "filePath": "bleepingcomp/pages/2026/05/04/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection.md",
-      "committedAt": "2026-05-05T18:00:40.641-04:00",
-      "title": "Researchers report Amazon SES abused in phishing to evade detection"
+      "id": "1cjhokz000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
+      "filePath": "bleepingcomp/pages/2026/05/05/new-stealthy-quasar-linux-malware-targets-software-developers.md",
+      "committedAt": "2026-05-05T19:00:19.369-04:00",
+      "title": "New stealthy Quasar Linux malware targets software developers"
     }
   ]
 }
