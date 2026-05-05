@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T14:01:02.941-05:00",
-  "lastLink": "https://cyberpress.org/adb-devices-attack-minecraft/",
-  "lastId": "1l0ucvp000",
-  "lastFilePath": "cyberpress/pages/2026/05/04/adb-exposed-android-devices-used-to-attack-minecraft-servers.md",
+  "updatedAt": "2026-05-05T01:00:29.864-05:00",
+  "lastLink": "https://cyberpress.org/doj-sentences-blackcat-attackers/",
+  "lastId": "17inyxm000",
+  "lastFilePath": "cyberpress/pages/2026/05/05/doj-sentences-two-americans-for-alphv-blackcat-ransomware-attacks.md",
   "items": [
     {
-      "id": "1l0ucvp000",
-      "link": "https://cyberpress.org/adb-devices-attack-minecraft/",
-      "filePath": "cyberpress/pages/2026/05/04/adb-exposed-android-devices-used-to-attack-minecraft-servers.md",
-      "committedAt": "2026-05-04T14:01:02.941-05:00",
-      "title": "ADB-Exposed Android Devices Used to Attack Minecraft Servers"
+      "id": "17inyxm000",
+      "link": "https://cyberpress.org/doj-sentences-blackcat-attackers/",
+      "filePath": "cyberpress/pages/2026/05/05/doj-sentences-two-americans-for-alphv-blackcat-ransomware-attacks.md",
+      "committedAt": "2026-05-05T01:00:29.864-05:00",
+      "title": "DOJ Sentences Two Americans For ALPHV BlackCat Ransomware Attacks"
     }
   ]
 }
