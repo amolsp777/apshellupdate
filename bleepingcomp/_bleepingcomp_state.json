@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T16:00:52.304-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
-  "lastId": "snbbku0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/05/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor.md",
+  "updatedAt": "2026-05-05T18:00:40.641-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
+  "lastId": "13v4rkj000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/04/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection.md",
   "items": [
     {
-      "id": "snbbku0000",
-      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
-      "filePath": "bleepingcomp/pages/2026/05/05/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor.md",
-      "committedAt": "2026-05-05T16:00:52.304-04:00",
-      "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor"
+      "id": "13v4rkj000",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
+      "filePath": "bleepingcomp/pages/2026/05/04/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection.md",
+      "committedAt": "2026-05-05T18:00:40.641-04:00",
+      "title": "Researchers report Amazon SES abused in phishing to evade detection"
     }
   ]
 }
