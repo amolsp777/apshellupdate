@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T07:00:35.579-05:00",
-  "lastLink": "https://cyberpress.org/attackers-abuse-amazon-ses/",
-  "lastId": "16qy1oi000",
-  "lastFilePath": "cyberpress/pages/2026/05/05/attackers-abuse-amazon-ses-to-send-authenticated-phishing-emails.md",
+  "updatedAt": "2026-05-05T08:00:25.398-05:00",
+  "lastLink": "https://cyberpress.org/scarcruft-targets-gaming-users/",
+  "lastId": "ru2wpc0000",
+  "lastFilePath": "cyberpress/pages/2026/05/05/scarcruft-supply-chain-attack-targets-gaming-platform-users.md",
   "items": [
     {
-      "id": "16qy1oi000",
-      "link": "https://cyberpress.org/attackers-abuse-amazon-ses/",
-      "filePath": "cyberpress/pages/2026/05/05/attackers-abuse-amazon-ses-to-send-authenticated-phishing-emails.md",
-      "committedAt": "2026-05-05T07:00:35.579-05:00",
-      "title": "Attackers Abuse Amazon SES To Send Authenticated Phishing Emails"
+      "id": "ru2wpc0000",
+      "link": "https://cyberpress.org/scarcruft-targets-gaming-users/",
+      "filePath": "cyberpress/pages/2026/05/05/scarcruft-supply-chain-attack-targets-gaming-platform-users.md",
+      "committedAt": "2026-05-05T08:00:25.398-05:00",
+      "title": "ScarCruft Supply Chain Attack Targets Gaming Platform Users"
     }
   ]
 }
