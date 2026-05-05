@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T11:00:26.556-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/",
-  "lastId": "19rf1nx000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/05/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check.md",
+  "updatedAt": "2026-05-05T12:01:04.007-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
+  "lastId": "yo13rb0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/05/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data.md",
   "items": [
     {
-      "id": "19rf1nx000",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/",
-      "filePath": "bleepingcomp/pages/2026/05/05/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check.md",
-      "committedAt": "2026-05-05T11:00:26.556-04:00",
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check."
+      "id": "yo13rb0000",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
+      "filePath": "bleepingcomp/pages/2026/05/05/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data.md",
+      "committedAt": "2026-05-05T12:01:04.007-04:00",
+      "title": "FTC to ban data broker Kochava from selling Americans’ location data"
     }
   ]
 }
