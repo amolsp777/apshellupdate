@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T06:00:29.941-05:00",
-  "lastLink": "https://cyberpress.org/shadowpad-hits-exchange-servers/",
-  "lastId": "15edmlx000",
-  "lastFilePath": "cyberpress/pages/2026/05/05/shadow-earth-053-deploys-shadowpad-through-exchange-server-exploits.md",
+  "updatedAt": "2026-05-05T07:00:35.579-05:00",
+  "lastLink": "https://cyberpress.org/attackers-abuse-amazon-ses/",
+  "lastId": "16qy1oi000",
+  "lastFilePath": "cyberpress/pages/2026/05/05/attackers-abuse-amazon-ses-to-send-authenticated-phishing-emails.md",
   "items": [
     {
-      "id": "15edmlx000",
-      "link": "https://cyberpress.org/shadowpad-hits-exchange-servers/",
-      "filePath": "cyberpress/pages/2026/05/05/shadow-earth-053-deploys-shadowpad-through-exchange-server-exploits.md",
-      "committedAt": "2026-05-05T06:00:29.941-05:00",
-      "title": "SHADOW-EARTH-053 Deploys ShadowPad Through Exchange Server Exploits"
+      "id": "16qy1oi000",
+      "link": "https://cyberpress.org/attackers-abuse-amazon-ses/",
+      "filePath": "cyberpress/pages/2026/05/05/attackers-abuse-amazon-ses-to-send-authenticated-phishing-emails.md",
+      "committedAt": "2026-05-05T07:00:35.579-05:00",
+      "title": "Attackers Abuse Amazon SES To Send Authenticated Phishing Emails"
     }
   ]
 }
