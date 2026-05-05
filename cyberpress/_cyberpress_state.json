@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T02:00:29.890-05:00",
-  "lastLink": "https://cyberpress.org/hackers-use-malicious-screensaver-file/",
-  "lastId": "14vht0c000",
-  "lastFilePath": "cyberpress/pages/2026/05/05/hackers-use-malicious-screensaver-file-to-breach-digicert-and-steal-ev-code-sign.md",
+  "updatedAt": "2026-05-05T03:00:14.152-05:00",
+  "lastLink": "https://cyberpress.org/critical-apache-http-server-vulnerability-2/",
+  "lastId": "kpe05e0000",
+  "lastFilePath": "cyberpress/pages/2026/05/05/critical-apache-http-server-vulnerability-puts-millions-of-servers-at-risk-of-rc.md",
   "items": [
     {
-      "id": "14vht0c000",
-      "link": "https://cyberpress.org/hackers-use-malicious-screensaver-file/",
-      "filePath": "cyberpress/pages/2026/05/05/hackers-use-malicious-screensaver-file-to-breach-digicert-and-steal-ev-code-sign.md",
-      "committedAt": "2026-05-05T02:00:29.890-05:00",
-      "title": "Hackers Use Malicious Screensaver File to Breach DigiCert and Steal EV Code Signing Certificates"
+      "id": "kpe05e0000",
+      "link": "https://cyberpress.org/critical-apache-http-server-vulnerability-2/",
+      "filePath": "cyberpress/pages/2026/05/05/critical-apache-http-server-vulnerability-puts-millions-of-servers-at-risk-of-rc.md",
+      "committedAt": "2026-05-05T03:00:14.152-05:00",
+      "title": "Critical Apache HTTP Server Vulnerability Puts Millions of Servers at Risk of RCE"
     }
   ]
 }
