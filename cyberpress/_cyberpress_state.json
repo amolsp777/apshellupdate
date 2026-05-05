@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T09:00:14.187-05:00",
-  "lastLink": "https://cyberpress.org/weaver-e-cology-rce-flaw/",
-  "lastId": "iob5ri0000",
-  "lastFilePath": "cyberpress/pages/2026/05/05/critical-weaver-e-cology-rce-flaw-actively-exploited-by-attackers.md",
+  "updatedAt": "2026-05-05T10:00:14.323-05:00",
+  "lastLink": "https://cyberpress.org/daemon-tools-breach-used/",
+  "lastId": "1q1ztj7000",
+  "lastFilePath": "cyberpress/pages/2026/05/05/daemon-tools-breach-used-to-spread-malware-in-supply-chain-attack.md",
   "items": [
     {
-      "id": "iob5ri0000",
-      "link": "https://cyberpress.org/weaver-e-cology-rce-flaw/",
-      "filePath": "cyberpress/pages/2026/05/05/critical-weaver-e-cology-rce-flaw-actively-exploited-by-attackers.md",
-      "committedAt": "2026-05-05T09:00:14.187-05:00",
-      "title": "Critical Weaver E-cology RCE Flaw Actively Exploited by Attackers"
+      "id": "1q1ztj7000",
+      "link": "https://cyberpress.org/daemon-tools-breach-used/",
+      "filePath": "cyberpress/pages/2026/05/05/daemon-tools-breach-used-to-spread-malware-in-supply-chain-attack.md",
+      "committedAt": "2026-05-05T10:00:14.323-05:00",
+      "title": "DAEMON Tools Breach Used to Spread Malware in Supply Chain Attack"
     }
   ]
 }
