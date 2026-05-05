@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T15:00:25.449-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
-  "lastId": "qpn8o90000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/05/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss.md",
+  "updatedAt": "2026-05-05T16:00:52.304-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
+  "lastId": "snbbku0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/05/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor.md",
   "items": [
     {
-      "id": "qpn8o90000",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
-      "filePath": "bleepingcomp/pages/2026/05/05/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss.md",
-      "committedAt": "2026-05-05T15:00:25.449-04:00",
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss"
+      "id": "snbbku0000",
+      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
+      "filePath": "bleepingcomp/pages/2026/05/05/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor.md",
+      "committedAt": "2026-05-05T16:00:52.304-04:00",
+      "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor"
     }
   ]
 }
