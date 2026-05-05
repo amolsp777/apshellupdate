@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T19:00:08.826-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
-  "lastId": "1upkk66000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/04/weaver-e-cology-critical-bug-exploited-in-attacks-since-march.md",
+  "updatedAt": "2026-05-05T06:00:30.961-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
+  "lastId": "y834ce0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/05/scarcruft-hackers-push-birdcall-android-malware-via-game-platform.md",
   "items": [
     {
-      "id": "1upkk66000",
-      "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
-      "filePath": "bleepingcomp/pages/2026/05/04/weaver-e-cology-critical-bug-exploited-in-attacks-since-march.md",
-      "committedAt": "2026-05-04T19:00:08.826-04:00",
-      "title": "Weaver E-cology critical bug exploited in attacks since March"
+      "id": "y834ce0000",
+      "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
+      "filePath": "bleepingcomp/pages/2026/05/05/scarcruft-hackers-push-birdcall-android-malware-via-game-platform.md",
+      "committedAt": "2026-05-05T06:00:30.961-04:00",
+      "title": "ScarCruft hackers push BirdCall Android malware via game platform"
     }
   ]
 }
