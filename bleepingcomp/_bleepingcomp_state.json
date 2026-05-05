@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T06:00:30.961-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
-  "lastId": "y834ce0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/05/scarcruft-hackers-push-birdcall-android-malware-via-game-platform.md",
+  "updatedAt": "2026-05-05T07:00:24.755-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
+  "lastId": "1na96xq000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/05/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps.md",
   "items": [
     {
-      "id": "y834ce0000",
-      "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
-      "filePath": "bleepingcomp/pages/2026/05/05/scarcruft-hackers-push-birdcall-android-malware-via-game-platform.md",
-      "committedAt": "2026-05-05T06:00:30.961-04:00",
-      "title": "ScarCruft hackers push BirdCall Android malware via game platform"
+      "id": "1na96xq000",
+      "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
+      "filePath": "bleepingcomp/pages/2026/05/05/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps.md",
+      "committedAt": "2026-05-05T07:00:24.755-04:00",
+      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs"
     }
   ]
 }
