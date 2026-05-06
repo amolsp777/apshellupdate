@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T19:00:19.369-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
-  "lastId": "1cjhokz000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/05/new-stealthy-quasar-linux-malware-targets-software-developers.md",
+  "updatedAt": "2026-05-05T20:00:51.043-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
+  "lastId": "lcu1hv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/05/instructure-hacker-claims-data-theft-from-8800-schools-universities.md",
   "items": [
     {
-      "id": "1cjhokz000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
-      "filePath": "bleepingcomp/pages/2026/05/05/new-stealthy-quasar-linux-malware-targets-software-developers.md",
-      "committedAt": "2026-05-05T19:00:19.369-04:00",
-      "title": "New stealthy Quasar Linux malware targets software developers"
+      "id": "lcu1hv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
+      "filePath": "bleepingcomp/pages/2026/05/05/instructure-hacker-claims-data-theft-from-8800-schools-universities.md",
+      "committedAt": "2026-05-05T20:00:51.043-04:00",
+      "title": "Instructure hacker claims data theft from 8,800 schools, universities"
     }
   ]
 }
