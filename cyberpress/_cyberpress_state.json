@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T15:00:54.908-05:00",
-  "lastLink": "https://cyberpress.org/iranian-hackers-target-oman/",
-  "lastId": "1a2vj2i000",
-  "lastFilePath": "cyberpress/pages/2026/05/06/iranian-nexus-hackers-target-oman-ministries-in-data-theft-campaign.md",
+  "updatedAt": "2026-05-06T16:00:56.608-05:00",
+  "lastLink": "https://cyberpress.org/cloudz-exploits-phone-link/",
+  "lastId": "1vdcvi6000",
+  "lastFilePath": "cyberpress/pages/2026/05/06/new-cloudz-rat-campaign-targets-mobile-notifications-via-phone-link-abuse.md",
   "items": [
     {
-      "id": "1a2vj2i000",
-      "link": "https://cyberpress.org/iranian-hackers-target-oman/",
-      "filePath": "cyberpress/pages/2026/05/06/iranian-nexus-hackers-target-oman-ministries-in-data-theft-campaign.md",
-      "committedAt": "2026-05-06T15:00:54.908-05:00",
-      "title": "Iranian-Nexus Hackers Target Oman Ministries In Data Theft Campaign"
+      "id": "1vdcvi6000",
+      "link": "https://cyberpress.org/cloudz-exploits-phone-link/",
+      "filePath": "cyberpress/pages/2026/05/06/new-cloudz-rat-campaign-targets-mobile-notifications-via-phone-link-abuse.md",
+      "committedAt": "2026-05-06T16:00:56.608-05:00",
+      "title": "New CloudZ RAT Campaign Targets Mobile Notifications via Phone Link Abuse"
     }
   ]
 }
