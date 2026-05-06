@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T10:00:20.591-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
-  "lastId": "18a5npv000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/06/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks.md",
+  "updatedAt": "2026-05-06T11:00:14.842-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+  "lastId": "bpf56b0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/06/why-ransomware-attacks-succeed-even-when-backups-exist.md",
   "items": [
     {
-      "id": "18a5npv000",
-      "link": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/06/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks.md",
-      "committedAt": "2026-05-06T10:00:20.591-04:00",
-      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks"
+      "id": "bpf56b0000",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+      "filePath": "bleepingcomp/pages/2026/05/06/why-ransomware-attacks-succeed-even-when-backups-exist.md",
+      "committedAt": "2026-05-06T11:00:14.842-04:00",
+      "title": "Why ransomware attacks succeed even when backups exist"
     }
   ]
 }
