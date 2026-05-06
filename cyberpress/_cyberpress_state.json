@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T16:00:56.608-05:00",
-  "lastLink": "https://cyberpress.org/cloudz-exploits-phone-link/",
-  "lastId": "1vdcvi6000",
-  "lastFilePath": "cyberpress/pages/2026/05/06/new-cloudz-rat-campaign-targets-mobile-notifications-via-phone-link-abuse.md",
+  "updatedAt": "2026-05-06T17:01:01.697-05:00",
+  "lastLink": "https://cyberpress.org/openclaw-targets-deepseek-workflows/",
+  "lastId": "1yxn9q1000",
+  "lastFilePath": "cyberpress/pages/2026/05/06/malicious-openclaw-skill-targets-deepseek-agentic-ai-workflows.md",
   "items": [
     {
-      "id": "1vdcvi6000",
-      "link": "https://cyberpress.org/cloudz-exploits-phone-link/",
-      "filePath": "cyberpress/pages/2026/05/06/new-cloudz-rat-campaign-targets-mobile-notifications-via-phone-link-abuse.md",
-      "committedAt": "2026-05-06T16:00:56.608-05:00",
-      "title": "New CloudZ RAT Campaign Targets Mobile Notifications via Phone Link Abuse"
+      "id": "1yxn9q1000",
+      "link": "https://cyberpress.org/openclaw-targets-deepseek-workflows/",
+      "filePath": "cyberpress/pages/2026/05/06/malicious-openclaw-skill-targets-deepseek-agentic-ai-workflows.md",
+      "committedAt": "2026-05-06T17:01:01.697-05:00",
+      "title": "Malicious OpenClaw Skill Targets DeepSeek Agentic AI Workflows"
     }
   ]
 }
