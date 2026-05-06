@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T16:00:53.578-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
-  "lastId": "9iz5zn0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/06/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices.md",
+  "updatedAt": "2026-05-06T18:00:19.537-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
+  "lastId": "zqq3su0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/06/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing.md",
   "items": [
     {
-      "id": "9iz5zn0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
-      "filePath": "bleepingcomp/pages/2026/05/06/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices.md",
-      "committedAt": "2026-05-06T16:00:53.578-04:00",
-      "title": "New Cisco DoS flaw requires manual reboot to revive devices"
+      "id": "zqq3su0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
+      "filePath": "bleepingcomp/pages/2026/05/06/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing.md",
+      "committedAt": "2026-05-06T18:00:19.537-04:00",
+      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing"
     }
   ]
 }
