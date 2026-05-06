@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T05:00:29.994-05:00",
-  "lastLink": "https://cyberpress.org/vimeo-data-breach-exposes-email-addresses-of-119000-users/",
-  "lastId": "1i1wm00000",
-  "lastFilePath": "cyberpress/pages/2026/05/06/vimeo-data-breach-exposes-email-addresses-of-119000-users.md",
+  "updatedAt": "2026-05-06T06:00:40.649-05:00",
+  "lastLink": "https://cyberpress.org/azure-ad-security-bypass-exploits-phantom-device-registration-and-prt-abuse/",
+  "lastId": "ltff100000",
+  "lastFilePath": "cyberpress/pages/2026/05/06/azure-ad-security-bypass-exploits-phantom-device-registration-and-prt-abuse.md",
   "items": [
     {
-      "id": "1i1wm00000",
-      "link": "https://cyberpress.org/vimeo-data-breach-exposes-email-addresses-of-119000-users/",
-      "filePath": "cyberpress/pages/2026/05/06/vimeo-data-breach-exposes-email-addresses-of-119000-users.md",
-      "committedAt": "2026-05-06T05:00:29.994-05:00",
-      "title": "Vimeo Data Breach Exposes Email Addresses of 119,000 Users"
+      "id": "ltff100000",
+      "link": "https://cyberpress.org/azure-ad-security-bypass-exploits-phantom-device-registration-and-prt-abuse/",
+      "filePath": "cyberpress/pages/2026/05/06/azure-ad-security-bypass-exploits-phantom-device-registration-and-prt-abuse.md",
+      "committedAt": "2026-05-06T06:00:40.649-05:00",
+      "title": "Azure AD Security Bypass Exploits Phantom Device Registration and PRT Abuse"
     }
   ]
 }
