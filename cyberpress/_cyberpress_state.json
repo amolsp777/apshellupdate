@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T09:00:21.793-05:00",
-  "lastLink": "https://cyberpress.org/salat-abuses-websocket-channels/",
-  "lastId": "1ejwjkv000",
-  "lastFilePath": "cyberpress/pages/2026/05/06/salat-malware-abuses-websocket-channels-to-evade-detection.md",
+  "updatedAt": "2026-05-06T10:00:19.899-05:00",
+  "lastLink": "https://cyberpress.org/massive-ddos-attack-used-1-2-million-ips-to-bypass-rate-limits/",
+  "lastId": "5p47070000",
+  "lastFilePath": "cyberpress/pages/2026/05/06/massive-ddos-attack-used-12-million-ips-to-bypass-rate-limits.md",
   "items": [
     {
-      "id": "1ejwjkv000",
-      "link": "https://cyberpress.org/salat-abuses-websocket-channels/",
-      "filePath": "cyberpress/pages/2026/05/06/salat-malware-abuses-websocket-channels-to-evade-detection.md",
-      "committedAt": "2026-05-06T09:00:21.793-05:00",
-      "title": "Salat Malware Abuses WebSocket Channels To Evade Detection"
+      "id": "5p47070000",
+      "link": "https://cyberpress.org/massive-ddos-attack-used-1-2-million-ips-to-bypass-rate-limits/",
+      "filePath": "cyberpress/pages/2026/05/06/massive-ddos-attack-used-12-million-ips-to-bypass-rate-limits.md",
+      "committedAt": "2026-05-06T10:00:19.899-05:00",
+      "title": "Massive DDoS Attack Used 1.2 Million IPs to Bypass Rate Limits"
     }
   ]
 }
