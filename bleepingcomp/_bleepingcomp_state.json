@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T09:00:52.831-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
-  "lastId": "1a92yo4000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/06/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps.md",
+  "updatedAt": "2026-05-06T10:00:20.591-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+  "lastId": "18a5npv000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/06/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks.md",
   "items": [
     {
-      "id": "1a92yo4000",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
-      "filePath": "bleepingcomp/pages/2026/05/06/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps.md",
-      "committedAt": "2026-05-06T09:00:52.831-04:00",
-      "title": "Webinar: Why network incidents escalate and how to fix response gaps"
+      "id": "18a5npv000",
+      "link": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/06/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks.md",
+      "committedAt": "2026-05-06T10:00:20.591-04:00",
+      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks"
     }
   ]
 }
