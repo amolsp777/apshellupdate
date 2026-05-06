@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T06:00:40.649-05:00",
-  "lastLink": "https://cyberpress.org/azure-ad-security-bypass-exploits-phantom-device-registration-and-prt-abuse/",
-  "lastId": "ltff100000",
-  "lastFilePath": "cyberpress/pages/2026/05/06/azure-ad-security-bypass-exploits-phantom-device-registration-and-prt-abuse.md",
+  "updatedAt": "2026-05-06T07:00:30.324-05:00",
+  "lastLink": "https://cyberpress.org/qlnx-steals-developer-credentials/",
+  "lastId": "vvrihe0000",
+  "lastFilePath": "cyberpress/pages/2026/05/06/qlnx-threat-actors-steal-developer-credentials-for-supply-chain-attacks.md",
   "items": [
     {
-      "id": "ltff100000",
-      "link": "https://cyberpress.org/azure-ad-security-bypass-exploits-phantom-device-registration-and-prt-abuse/",
-      "filePath": "cyberpress/pages/2026/05/06/azure-ad-security-bypass-exploits-phantom-device-registration-and-prt-abuse.md",
-      "committedAt": "2026-05-06T06:00:40.649-05:00",
-      "title": "Azure AD Security Bypass Exploits Phantom Device Registration and PRT Abuse"
+      "id": "vvrihe0000",
+      "link": "https://cyberpress.org/qlnx-steals-developer-credentials/",
+      "filePath": "cyberpress/pages/2026/05/06/qlnx-threat-actors-steal-developer-credentials-for-supply-chain-attacks.md",
+      "committedAt": "2026-05-06T07:00:30.324-05:00",
+      "title": "QLNX Threat Actors Steal Developer Credentials For Supply Chain Attacks"
     }
   ]
 }
