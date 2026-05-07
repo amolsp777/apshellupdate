@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T11:00:54.488-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
-  "lastId": "1p0isyx000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/07/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls.md",
+  "updatedAt": "2026-05-07T12:00:09.901-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
+  "lastId": "1j6oyxf000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/07/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks.md",
   "items": [
     {
-      "id": "1p0isyx000",
-      "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
-      "filePath": "bleepingcomp/pages/2026/05/07/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls.md",
-      "committedAt": "2026-05-07T11:00:54.488-04:00",
-      "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls"
+      "id": "1j6oyxf000",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/07/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks.md",
+      "committedAt": "2026-05-07T12:00:09.901-04:00",
+      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks"
     }
   ]
 }
