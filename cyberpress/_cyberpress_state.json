@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T07:00:21.496-05:00",
-  "lastLink": "https://cyberpress.org/palo-alto-networks-pan-os-vulnerability-2/",
-  "lastId": "hsxgru0000",
-  "lastFilePath": "cyberpress/pages/2026/05/07/critical-palo-alto-networks-pan-os-vulnerability-exploited-to-gain-root-access.md",
+  "updatedAt": "2026-05-07T08:00:24.840-05:00",
+  "lastLink": "https://cyberpress.org/critical-watchguard-agent-flaws/",
+  "lastId": "1itsrxo000",
+  "lastFilePath": "cyberpress/pages/2026/05/07/critical-watchguard-agent-flaws-allow-attackers-to-gain-full-system-privileges.md",
   "items": [
     {
-      "id": "hsxgru0000",
-      "link": "https://cyberpress.org/palo-alto-networks-pan-os-vulnerability-2/",
-      "filePath": "cyberpress/pages/2026/05/07/critical-palo-alto-networks-pan-os-vulnerability-exploited-to-gain-root-access.md",
-      "committedAt": "2026-05-07T07:00:21.496-05:00",
-      "title": "Critical Palo Alto Networks PAN-OS Vulnerability Exploited to Gain Root Access"
+      "id": "1itsrxo000",
+      "link": "https://cyberpress.org/critical-watchguard-agent-flaws/",
+      "filePath": "cyberpress/pages/2026/05/07/critical-watchguard-agent-flaws-allow-attackers-to-gain-full-system-privileges.md",
+      "committedAt": "2026-05-07T08:00:24.840-05:00",
+      "title": "Critical WatchGuard Agent Flaws Allow Attackers to Gain Full SYSTEM Privileges"
     }
   ]
 }
