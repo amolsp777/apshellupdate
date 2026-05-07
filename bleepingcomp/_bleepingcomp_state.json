@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T15:00:20.501-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
-  "lastId": "ey86ym0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/07/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware.md",
+  "updatedAt": "2026-05-07T16:00:53.431-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
+  "lastId": "191abhb000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/07/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections.md",
   "items": [
     {
-      "id": "ey86ym0000",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
-      "filePath": "bleepingcomp/pages/2026/05/07/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware.md",
-      "committedAt": "2026-05-07T15:00:20.501-04:00",
-      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware"
+      "id": "191abhb000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
+      "filePath": "bleepingcomp/pages/2026/05/07/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections.md",
+      "committedAt": "2026-05-07T16:00:53.431-04:00",
+      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections"
     }
   ]
 }
