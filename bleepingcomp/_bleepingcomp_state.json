@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T10:00:53.585-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/",
-  "lastId": "1aps1q0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/07/americans-sentenced-for-running-laptop-farms-for-north-korea.md",
+  "updatedAt": "2026-05-07T11:00:54.488-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
+  "lastId": "1p0isyx000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/07/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls.md",
   "items": [
     {
-      "id": "1aps1q0000",
-      "link": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/",
-      "filePath": "bleepingcomp/pages/2026/05/07/americans-sentenced-for-running-laptop-farms-for-north-korea.md",
-      "committedAt": "2026-05-07T10:00:53.585-04:00",
-      "title": "Americans sentenced for running 'laptop farms' for North Korea"
+      "id": "1p0isyx000",
+      "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
+      "filePath": "bleepingcomp/pages/2026/05/07/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls.md",
+      "committedAt": "2026-05-07T11:00:54.488-04:00",
+      "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls"
     }
   ]
 }
