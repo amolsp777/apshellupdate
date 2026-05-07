@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T18:00:19.537-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
-  "lastId": "zqq3su0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/06/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing.md",
+  "updatedAt": "2026-05-07T07:00:09.517-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
+  "lastId": "1iohoeu000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/07/palo-alto-networks-firewall-zero-day-exploited-for-nearly-a-month.md",
   "items": [
     {
-      "id": "zqq3su0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
-      "filePath": "bleepingcomp/pages/2026/05/06/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing.md",
-      "committedAt": "2026-05-06T18:00:19.537-04:00",
-      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing"
+      "id": "1iohoeu000",
+      "link": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
+      "filePath": "bleepingcomp/pages/2026/05/07/palo-alto-networks-firewall-zero-day-exploited-for-nearly-a-month.md",
+      "committedAt": "2026-05-07T07:00:09.517-04:00",
+      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month"
     }
   ]
 }
