@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T17:01:01.697-05:00",
-  "lastLink": "https://cyberpress.org/openclaw-targets-deepseek-workflows/",
-  "lastId": "1yxn9q1000",
-  "lastFilePath": "cyberpress/pages/2026/05/06/malicious-openclaw-skill-targets-deepseek-agentic-ai-workflows.md",
+  "updatedAt": "2026-05-07T02:00:35.775-05:00",
+  "lastLink": "https://cyberpress.org/nuget-malware-steals-secrets/",
+  "lastId": "lahtyn0000",
+  "lastFilePath": "cyberpress/pages/2026/05/07/cybercriminals-use-nuget-packages-to-harvest-developer-secrets.md",
   "items": [
     {
-      "id": "1yxn9q1000",
-      "link": "https://cyberpress.org/openclaw-targets-deepseek-workflows/",
-      "filePath": "cyberpress/pages/2026/05/06/malicious-openclaw-skill-targets-deepseek-agentic-ai-workflows.md",
-      "committedAt": "2026-05-06T17:01:01.697-05:00",
-      "title": "Malicious OpenClaw Skill Targets DeepSeek Agentic AI Workflows"
+      "id": "lahtyn0000",
+      "link": "https://cyberpress.org/nuget-malware-steals-secrets/",
+      "filePath": "cyberpress/pages/2026/05/07/cybercriminals-use-nuget-packages-to-harvest-developer-secrets.md",
+      "committedAt": "2026-05-07T02:00:35.775-05:00",
+      "title": "Cybercriminals Use NuGet Packages To Harvest Developer Secrets"
     }
   ]
 }
