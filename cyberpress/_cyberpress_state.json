@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T12:00:52.194-05:00",
-  "lastLink": "https://cyberpress.org/steal-200k-from-grok-and-bankrbot/",
-  "lastId": "bot5ff0000",
-  "lastFilePath": "cyberpress/pages/2026/05/08/hackers-use-morse-code-prompt-tricks-to-steal-200k-from-grok-and-bankrbot.md",
+  "updatedAt": "2026-05-08T13:00:58.228-05:00",
+  "lastLink": "https://cyberpress.org/nwhstealer-adds-stealthy-delivery/",
+  "lastId": "1mgd25a000",
+  "lastFilePath": "cyberpress/pages/2026/05/08/nwhstealer-delivery-chain-adds-anti-vm-checks-and-encrypted-c2-traffic.md",
   "items": [
     {
-      "id": "bot5ff0000",
-      "link": "https://cyberpress.org/steal-200k-from-grok-and-bankrbot/",
-      "filePath": "cyberpress/pages/2026/05/08/hackers-use-morse-code-prompt-tricks-to-steal-200k-from-grok-and-bankrbot.md",
-      "committedAt": "2026-05-08T12:00:52.194-05:00",
-      "title": "Hackers Use Morse Code Prompt Tricks to Steal $200K From Grok and Bankrbot"
+      "id": "1mgd25a000",
+      "link": "https://cyberpress.org/nwhstealer-adds-stealthy-delivery/",
+      "filePath": "cyberpress/pages/2026/05/08/nwhstealer-delivery-chain-adds-anti-vm-checks-and-encrypted-c2-traffic.md",
+      "committedAt": "2026-05-08T13:00:58.228-05:00",
+      "title": "NWHStealer Delivery Chain Adds Anti-VM Checks and Encrypted C2 Traffic"
     }
   ]
 }
