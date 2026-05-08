@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T11:00:46.928-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
-  "lastId": "1r7tq5a000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/08/why-more-analysts-wont-solve-your-socs-alert-problem.md",
+  "updatedAt": "2026-05-08T13:00:03.533-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+  "lastId": "6nvn7i0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/08/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users.md",
   "items": [
     {
-      "id": "1r7tq5a000",
-      "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
-      "filePath": "bleepingcomp/pages/2026/05/08/why-more-analysts-wont-solve-your-socs-alert-problem.md",
-      "committedAt": "2026-05-08T11:00:46.928-04:00",
-      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem"
+      "id": "6nvn7i0000",
+      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+      "filePath": "bleepingcomp/pages/2026/05/08/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users.md",
+      "committedAt": "2026-05-08T13:00:03.533-04:00",
+      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users"
     }
   ]
 }
