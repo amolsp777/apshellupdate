@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T04:00:14.650-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-  "lastId": "1l0jfa8000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/08/new-linux-dirty-frag-zero-day-gives-root-on-all-major-distros.md",
+  "updatedAt": "2026-05-08T05:00:46.826-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
+  "lastId": "mmt0fn0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/08/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases.md",
   "items": [
     {
-      "id": "1l0jfa8000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-      "filePath": "bleepingcomp/pages/2026/05/08/new-linux-dirty-frag-zero-day-gives-root-on-all-major-distros.md",
-      "committedAt": "2026-05-08T04:00:14.650-04:00",
-      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros"
+      "id": "mmt0fn0000",
+      "link": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
+      "filePath": "bleepingcomp/pages/2026/05/08/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases.md",
+      "committedAt": "2026-05-08T05:00:46.826-04:00",
+      "title": "Former govt contractor convicted for wiping dozens of federal databases"
     }
   ]
 }
