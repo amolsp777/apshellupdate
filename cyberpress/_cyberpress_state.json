@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T04:00:24.827-05:00",
-  "lastLink": "https://cyberpress.org/dirty-frag-linux-vulnerability/",
-  "lastId": "1uu726l000",
-  "lastFilePath": "cyberpress/pages/2026/05/08/dirty-frag-linux-vulnerability-lets-attackers-gain-root-privileges-poc-released.md",
+  "updatedAt": "2026-05-08T05:00:30.762-05:00",
+  "lastLink": "https://cyberpress.org/uat-8302-targets-government-networks/",
+  "lastId": "1s3vtjq000",
+  "lastFilePath": "cyberpress/pages/2026/05/08/uat-8302-deploys-custom-malware-against-government-networks.md",
   "items": [
     {
-      "id": "1uu726l000",
-      "link": "https://cyberpress.org/dirty-frag-linux-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/08/dirty-frag-linux-vulnerability-lets-attackers-gain-root-privileges-poc-released.md",
-      "committedAt": "2026-05-08T04:00:24.827-05:00",
-      "title": "Dirty Frag Linux Vulnerability Lets Attackers Gain Root Privileges, PoC Released"
+      "id": "1s3vtjq000",
+      "link": "https://cyberpress.org/uat-8302-targets-government-networks/",
+      "filePath": "cyberpress/pages/2026/05/08/uat-8302-deploys-custom-malware-against-government-networks.md",
+      "committedAt": "2026-05-08T05:00:30.762-05:00",
+      "title": "UAT-8302 Deploys Custom Malware Against Government Networks"
     }
   ]
 }
