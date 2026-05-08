@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T13:00:58.228-05:00",
-  "lastLink": "https://cyberpress.org/nwhstealer-adds-stealthy-delivery/",
-  "lastId": "1mgd25a000",
-  "lastFilePath": "cyberpress/pages/2026/05/08/nwhstealer-delivery-chain-adds-anti-vm-checks-and-encrypted-c2-traffic.md",
+  "updatedAt": "2026-05-08T14:01:03.027-05:00",
+  "lastLink": "https://cyberpress.org/pcpjack-targets-cloud-infrastructure/",
+  "lastId": "c9ubij0000",
+  "lastFilePath": "cyberpress/pages/2026/05/08/pcpjack-worm-attacks-docker-kubernetes-redis-and-mongodb.md",
   "items": [
     {
-      "id": "1mgd25a000",
-      "link": "https://cyberpress.org/nwhstealer-adds-stealthy-delivery/",
-      "filePath": "cyberpress/pages/2026/05/08/nwhstealer-delivery-chain-adds-anti-vm-checks-and-encrypted-c2-traffic.md",
-      "committedAt": "2026-05-08T13:00:58.228-05:00",
-      "title": "NWHStealer Delivery Chain Adds Anti-VM Checks and Encrypted C2 Traffic"
+      "id": "c9ubij0000",
+      "link": "https://cyberpress.org/pcpjack-targets-cloud-infrastructure/",
+      "filePath": "cyberpress/pages/2026/05/08/pcpjack-worm-attacks-docker-kubernetes-redis-and-mongodb.md",
+      "committedAt": "2026-05-08T14:01:03.027-05:00",
+      "title": "PCPJack Worm Attacks Docker, Kubernetes, Redis, and MongoDB"
     }
   ]
 }
