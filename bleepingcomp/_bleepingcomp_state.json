@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T10:00:09.648-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
-  "lastId": "1l3h82b000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/08/trellix-source-code-breach-claimed-by-ransomhouse-hackers.md",
+  "updatedAt": "2026-05-08T11:00:46.928-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
+  "lastId": "1r7tq5a000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/08/why-more-analysts-wont-solve-your-socs-alert-problem.md",
   "items": [
     {
-      "id": "1l3h82b000",
-      "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
-      "filePath": "bleepingcomp/pages/2026/05/08/trellix-source-code-breach-claimed-by-ransomhouse-hackers.md",
-      "committedAt": "2026-05-08T10:00:09.648-04:00",
-      "title": "Trellix source code breach claimed by RansomHouse hackers"
+      "id": "1r7tq5a000",
+      "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
+      "filePath": "bleepingcomp/pages/2026/05/08/why-more-analysts-wont-solve-your-socs-alert-problem.md",
+      "committedAt": "2026-05-08T11:00:46.928-04:00",
+      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem"
     }
   ]
 }
