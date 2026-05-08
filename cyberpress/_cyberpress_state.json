@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T07:00:25.133-05:00",
-  "lastLink": "https://cyberpress.org/pamdoora-targets-linux-systems/",
-  "lastId": "f2iwj40000",
-  "lastFilePath": "cyberpress/pages/2026/05/08/researchers-warn-of-pamdoora-backdoor-attacking-linux-systems.md",
+  "updatedAt": "2026-05-08T08:00:30.669-05:00",
+  "lastLink": "https://cyberpress.org/modular-rat-steals-credentials/",
+  "lastId": "33m8860000",
+  "lastFilePath": "cyberpress/pages/2026/05/08/new-modular-rat-steals-credentials-and-captures-screenshots.md",
   "items": [
     {
-      "id": "f2iwj40000",
-      "link": "https://cyberpress.org/pamdoora-targets-linux-systems/",
-      "filePath": "cyberpress/pages/2026/05/08/researchers-warn-of-pamdoora-backdoor-attacking-linux-systems.md",
-      "committedAt": "2026-05-08T07:00:25.133-05:00",
-      "title": "Researchers Warn Of PamDOORa Backdoor Attacking Linux Systems"
+      "id": "33m8860000",
+      "link": "https://cyberpress.org/modular-rat-steals-credentials/",
+      "filePath": "cyberpress/pages/2026/05/08/new-modular-rat-steals-credentials-and-captures-screenshots.md",
+      "committedAt": "2026-05-08T08:00:30.669-05:00",
+      "title": "New Modular RAT Steals Credentials and Captures Screenshots"
     }
   ]
 }
