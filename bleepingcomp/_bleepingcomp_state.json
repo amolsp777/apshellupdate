@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T20:00:45.401-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-  "lastId": "15q2qou000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/07/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign.md",
+  "updatedAt": "2026-05-08T04:00:14.650-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
+  "lastId": "1l0jfa8000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/08/new-linux-dirty-frag-zero-day-gives-root-on-all-major-distros.md",
   "items": [
     {
-      "id": "15q2qou000",
-      "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-      "filePath": "bleepingcomp/pages/2026/05/07/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign.md",
-      "committedAt": "2026-05-07T20:00:45.401-04:00",
-      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign"
+      "id": "1l0jfa8000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
+      "filePath": "bleepingcomp/pages/2026/05/08/new-linux-dirty-frag-zero-day-gives-root-on-all-major-distros.md",
+      "committedAt": "2026-05-08T04:00:14.650-04:00",
+      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros"
     }
   ]
 }
