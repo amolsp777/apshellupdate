@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T06:00:30.182-05:00",
-  "lastLink": "https://cyberpress.org/rancher-fleet-flaw/",
-  "lastId": "u1f3eb0000",
-  "lastFilePath": "cyberpress/pages/2026/05/08/critical-rancher-fleet-flaw-grants-attackers-full-kubernetes-cluster-admin-acces.md",
+  "updatedAt": "2026-05-08T07:00:25.133-05:00",
+  "lastLink": "https://cyberpress.org/pamdoora-targets-linux-systems/",
+  "lastId": "f2iwj40000",
+  "lastFilePath": "cyberpress/pages/2026/05/08/researchers-warn-of-pamdoora-backdoor-attacking-linux-systems.md",
   "items": [
     {
-      "id": "u1f3eb0000",
-      "link": "https://cyberpress.org/rancher-fleet-flaw/",
-      "filePath": "cyberpress/pages/2026/05/08/critical-rancher-fleet-flaw-grants-attackers-full-kubernetes-cluster-admin-acces.md",
-      "committedAt": "2026-05-08T06:00:30.182-05:00",
-      "title": "Critical Rancher Fleet Flaw Grants Attackers Full Kubernetes Cluster-Admin Access"
+      "id": "f2iwj40000",
+      "link": "https://cyberpress.org/pamdoora-targets-linux-systems/",
+      "filePath": "cyberpress/pages/2026/05/08/researchers-warn-of-pamdoora-backdoor-attacking-linux-systems.md",
+      "committedAt": "2026-05-08T07:00:25.133-05:00",
+      "title": "Researchers Warn Of PamDOORa Backdoor Attacking Linux Systems"
     }
   ]
 }
