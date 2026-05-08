@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T05:00:30.762-05:00",
-  "lastLink": "https://cyberpress.org/uat-8302-targets-government-networks/",
-  "lastId": "1s3vtjq000",
-  "lastFilePath": "cyberpress/pages/2026/05/08/uat-8302-deploys-custom-malware-against-government-networks.md",
+  "updatedAt": "2026-05-08T06:00:30.182-05:00",
+  "lastLink": "https://cyberpress.org/rancher-fleet-flaw/",
+  "lastId": "u1f3eb0000",
+  "lastFilePath": "cyberpress/pages/2026/05/08/critical-rancher-fleet-flaw-grants-attackers-full-kubernetes-cluster-admin-acces.md",
   "items": [
     {
-      "id": "1s3vtjq000",
-      "link": "https://cyberpress.org/uat-8302-targets-government-networks/",
-      "filePath": "cyberpress/pages/2026/05/08/uat-8302-deploys-custom-malware-against-government-networks.md",
-      "committedAt": "2026-05-08T05:00:30.762-05:00",
-      "title": "UAT-8302 Deploys Custom Malware Against Government Networks"
+      "id": "u1f3eb0000",
+      "link": "https://cyberpress.org/rancher-fleet-flaw/",
+      "filePath": "cyberpress/pages/2026/05/08/critical-rancher-fleet-flaw-grants-attackers-full-kubernetes-cluster-admin-acces.md",
+      "committedAt": "2026-05-08T06:00:30.182-05:00",
+      "title": "Critical Rancher Fleet Flaw Grants Attackers Full Kubernetes Cluster-Admin Access"
     }
   ]
 }
