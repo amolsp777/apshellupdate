@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T14:01:03.027-05:00",
-  "lastLink": "https://cyberpress.org/pcpjack-targets-cloud-infrastructure/",
-  "lastId": "c9ubij0000",
-  "lastFilePath": "cyberpress/pages/2026/05/08/pcpjack-worm-attacks-docker-kubernetes-redis-and-mongodb.md",
+  "updatedAt": "2026-05-09T01:00:19.319-05:00",
+  "lastLink": "https://cyberpress.org/vidar-malware-campaign-targets-login-credentials/",
+  "lastId": "15irpmx000",
+  "lastFilePath": "cyberpress/pages/2026/05/09/vidar-malware-campaign-targets-login-credentials-session-cookies-and-wallet-file.md",
   "items": [
     {
-      "id": "c9ubij0000",
-      "link": "https://cyberpress.org/pcpjack-targets-cloud-infrastructure/",
-      "filePath": "cyberpress/pages/2026/05/08/pcpjack-worm-attacks-docker-kubernetes-redis-and-mongodb.md",
-      "committedAt": "2026-05-08T14:01:03.027-05:00",
-      "title": "PCPJack Worm Attacks Docker, Kubernetes, Redis, and MongoDB"
+      "id": "15irpmx000",
+      "link": "https://cyberpress.org/vidar-malware-campaign-targets-login-credentials/",
+      "filePath": "cyberpress/pages/2026/05/09/vidar-malware-campaign-targets-login-credentials-session-cookies-and-wallet-file.md",
+      "committedAt": "2026-05-09T01:00:19.319-05:00",
+      "title": "Vidar Malware Campaign Targets Login Credentials, Session Cookies, and Wallet Files"
     }
   ]
 }
