@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T13:00:03.533-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-  "lastId": "6nvn7i0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/08/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users.md",
+  "updatedAt": "2026-05-09T11:00:29.840-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+  "lastId": "1umc2xq000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/09/fake-openai-repository-on-hugging-face-pushes-infostealer-malware.md",
   "items": [
     {
-      "id": "6nvn7i0000",
-      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-      "filePath": "bleepingcomp/pages/2026/05/08/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users.md",
-      "committedAt": "2026-05-08T13:00:03.533-04:00",
-      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users"
+      "id": "1umc2xq000",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+      "filePath": "bleepingcomp/pages/2026/05/09/fake-openai-repository-on-hugging-face-pushes-infostealer-malware.md",
+      "committedAt": "2026-05-09T11:00:29.840-04:00",
+      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware"
     }
   ]
 }
