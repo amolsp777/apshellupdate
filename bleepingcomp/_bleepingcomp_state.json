@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T16:00:29.719-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-  "lastId": "sc9h1v0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/09/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware.md",
+  "updatedAt": "2026-05-10T11:00:56.368-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+  "lastId": "1vumyk2000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/10/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin.md",
   "items": [
     {
-      "id": "sc9h1v0000",
-      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-      "filePath": "bleepingcomp/pages/2026/05/09/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware.md",
-      "committedAt": "2026-05-09T16:00:29.719-04:00",
-      "title": "JDownloader site hacked to replace installers with Python RAT malware"
+      "id": "1vumyk2000",
+      "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+      "filePath": "bleepingcomp/pages/2026/05/10/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin.md",
+      "committedAt": "2026-05-10T11:00:56.368-04:00",
+      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin"
     }
   ]
 }
