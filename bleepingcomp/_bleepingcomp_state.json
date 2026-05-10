@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T11:00:56.368-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
-  "lastId": "1vumyk2000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/10/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin.md",
+  "updatedAt": "2026-05-10T14:00:24.967-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+  "lastId": "1j0s350000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/10/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware.md",
   "items": [
     {
-      "id": "1vumyk2000",
-      "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
-      "filePath": "bleepingcomp/pages/2026/05/10/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin.md",
-      "committedAt": "2026-05-10T11:00:56.368-04:00",
-      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin"
+      "id": "1j0s350000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+      "filePath": "bleepingcomp/pages/2026/05/10/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware.md",
+      "committedAt": "2026-05-10T14:00:24.967-04:00",
+      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware"
     }
   ]
 }
