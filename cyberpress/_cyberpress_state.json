@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T10:00:14.253-05:00",
-  "lastLink": "https://cyberpress.org/hackers-exploit-cve-2026-41940/",
-  "lastId": "y1oteo0000",
-  "lastFilePath": "cyberpress/pages/2026/05/11/hackers-exploit-cve-2026-41940-to-take-over-cpanel-and-whm-servers.md",
+  "updatedAt": "2026-05-11T11:00:38.032-05:00",
+  "lastLink": "https://cyberpress.org/fake-claude-malware-sideloading/",
+  "lastId": "1cwe0zx000",
+  "lastFilePath": "cyberpress/pages/2026/05/11/fake-claude-campaign-deploys-malware-through-dll-sideloading-chain.md",
   "items": [
     {
-      "id": "y1oteo0000",
-      "link": "https://cyberpress.org/hackers-exploit-cve-2026-41940/",
-      "filePath": "cyberpress/pages/2026/05/11/hackers-exploit-cve-2026-41940-to-take-over-cpanel-and-whm-servers.md",
-      "committedAt": "2026-05-11T10:00:14.253-05:00",
-      "title": "Hackers Exploit CVE-2026-41940 to Take Over cPanel and WHM Servers"
+      "id": "1cwe0zx000",
+      "link": "https://cyberpress.org/fake-claude-malware-sideloading/",
+      "filePath": "cyberpress/pages/2026/05/11/fake-claude-campaign-deploys-malware-through-dll-sideloading-chain.md",
+      "committedAt": "2026-05-11T11:00:38.032-05:00",
+      "title": "Fake Claude Campaign Deploys Malware Through DLL Sideloading Chain"
     }
   ]
 }
