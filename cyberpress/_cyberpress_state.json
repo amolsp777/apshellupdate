@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T11:00:38.032-05:00",
-  "lastLink": "https://cyberpress.org/fake-claude-malware-sideloading/",
-  "lastId": "1cwe0zx000",
-  "lastFilePath": "cyberpress/pages/2026/05/11/fake-claude-campaign-deploys-malware-through-dll-sideloading-chain.md",
+  "updatedAt": "2026-05-11T12:00:42.000-05:00",
+  "lastLink": "https://cyberpress.org/hugging-face-repo-spreads-malware/",
+  "lastId": "xdmdto0000",
+  "lastFilePath": "cyberpress/pages/2026/05/11/popular-hugging-face-repo-with-200k-downloads-executes-windows-malware.md",
   "items": [
     {
-      "id": "1cwe0zx000",
-      "link": "https://cyberpress.org/fake-claude-malware-sideloading/",
-      "filePath": "cyberpress/pages/2026/05/11/fake-claude-campaign-deploys-malware-through-dll-sideloading-chain.md",
-      "committedAt": "2026-05-11T11:00:38.032-05:00",
-      "title": "Fake Claude Campaign Deploys Malware Through DLL Sideloading Chain"
+      "id": "xdmdto0000",
+      "link": "https://cyberpress.org/hugging-face-repo-spreads-malware/",
+      "filePath": "cyberpress/pages/2026/05/11/popular-hugging-face-repo-with-200k-downloads-executes-windows-malware.md",
+      "committedAt": "2026-05-11T12:00:42.000-05:00",
+      "title": "Popular Hugging Face Repo With 200K Downloads Executes Windows Malware"
     }
   ]
 }
