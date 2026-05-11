@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T01:00:19.319-05:00",
-  "lastLink": "https://cyberpress.org/vidar-malware-campaign-targets-login-credentials/",
-  "lastId": "15irpmx000",
-  "lastFilePath": "cyberpress/pages/2026/05/09/vidar-malware-campaign-targets-login-credentials-session-cookies-and-wallet-file.md",
+  "updatedAt": "2026-05-11T02:00:36.766-05:00",
+  "lastLink": "https://cyberpress.org/logitech-installer-spreads-tclbanker/",
+  "lastId": "7tunrs0000",
+  "lastFilePath": "cyberpress/pages/2026/05/11/signed-logitech-installer-used-in-tclbanker-banking-trojan-attacks.md",
   "items": [
     {
-      "id": "15irpmx000",
-      "link": "https://cyberpress.org/vidar-malware-campaign-targets-login-credentials/",
-      "filePath": "cyberpress/pages/2026/05/09/vidar-malware-campaign-targets-login-credentials-session-cookies-and-wallet-file.md",
-      "committedAt": "2026-05-09T01:00:19.319-05:00",
-      "title": "Vidar Malware Campaign Targets Login Credentials, Session Cookies, and Wallet Files"
+      "id": "7tunrs0000",
+      "link": "https://cyberpress.org/logitech-installer-spreads-tclbanker/",
+      "filePath": "cyberpress/pages/2026/05/11/signed-logitech-installer-used-in-tclbanker-banking-trojan-attacks.md",
+      "committedAt": "2026-05-11T02:00:36.766-05:00",
+      "title": "Signed Logitech Installer Used In TCLBANKER Banking Trojan Attacks"
     }
   ]
 }
