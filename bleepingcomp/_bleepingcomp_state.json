@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T11:00:31.103-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
-  "lastId": "sr7xuv0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/11/why-changing-passwords-doesnt-end-an-active-directory-breach.md",
+  "updatedAt": "2026-05-11T12:00:56.715-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
+  "lastId": "1pi12v2000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/11/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals.md",
   "items": [
     {
-      "id": "sr7xuv0000",
-      "link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
-      "filePath": "bleepingcomp/pages/2026/05/11/why-changing-passwords-doesnt-end-an-active-directory-breach.md",
-      "committedAt": "2026-05-11T11:00:31.103-04:00",
-      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach"
+      "id": "1pi12v2000",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
+      "filePath": "bleepingcomp/pages/2026/05/11/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals.md",
+      "committedAt": "2026-05-11T12:00:56.715-04:00",
+      "title": "Instructure confirms hackers used Canvas flaw to deface portals"
     }
   ]
 }
