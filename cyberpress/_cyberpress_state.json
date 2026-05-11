@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T09:00:14.129-05:00",
-  "lastLink": "https://cyberpress.org/critical-php-soap-extension-flaw/",
-  "lastId": "rkmgpy0000",
-  "lastFilePath": "cyberpress/pages/2026/05/11/critical-php-soap-extension-flaw-enables-remote-code-execution-attacks.md",
+  "updatedAt": "2026-05-11T10:00:14.253-05:00",
+  "lastLink": "https://cyberpress.org/hackers-exploit-cve-2026-41940/",
+  "lastId": "y1oteo0000",
+  "lastFilePath": "cyberpress/pages/2026/05/11/hackers-exploit-cve-2026-41940-to-take-over-cpanel-and-whm-servers.md",
   "items": [
     {
-      "id": "rkmgpy0000",
-      "link": "https://cyberpress.org/critical-php-soap-extension-flaw/",
-      "filePath": "cyberpress/pages/2026/05/11/critical-php-soap-extension-flaw-enables-remote-code-execution-attacks.md",
-      "committedAt": "2026-05-11T09:00:14.129-05:00",
-      "title": "Critical PHP SOAP Extension Flaw Enables Remote Code Execution Attacks"
+      "id": "y1oteo0000",
+      "link": "https://cyberpress.org/hackers-exploit-cve-2026-41940/",
+      "filePath": "cyberpress/pages/2026/05/11/hackers-exploit-cve-2026-41940-to-take-over-cpanel-and-whm-servers.md",
+      "committedAt": "2026-05-11T10:00:14.253-05:00",
+      "title": "Hackers Exploit CVE-2026-41940 to Take Over cPanel and WHM Servers"
     }
   ]
 }
