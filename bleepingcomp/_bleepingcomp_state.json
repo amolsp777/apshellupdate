@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T09:00:53.858-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
-  "lastId": "195l9ac000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/11/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks.md",
+  "updatedAt": "2026-05-11T10:00:17.386-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
+  "lastId": "15wwnyh000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/11/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool.md",
   "items": [
     {
-      "id": "195l9ac000",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/11/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks.md",
-      "committedAt": "2026-05-11T09:00:53.858-04:00",
-      "title": "Webinar this week: Prevention alone is not enough against modern attacks"
+      "id": "15wwnyh000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
+      "filePath": "bleepingcomp/pages/2026/05/11/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool.md",
+      "committedAt": "2026-05-11T10:00:17.386-04:00",
+      "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool"
     }
   ]
 }
