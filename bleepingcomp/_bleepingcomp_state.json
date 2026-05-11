@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T12:00:56.715-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
-  "lastId": "1pi12v2000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/11/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals.md",
+  "updatedAt": "2026-05-11T19:00:19.456-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+  "lastId": "1if47dq000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/11/official-checkmarx-jenkins-package-compromised-with-infostealer.md",
   "items": [
     {
-      "id": "1pi12v2000",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
-      "filePath": "bleepingcomp/pages/2026/05/11/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals.md",
-      "committedAt": "2026-05-11T12:00:56.715-04:00",
-      "title": "Instructure confirms hackers used Canvas flaw to deface portals"
+      "id": "1if47dq000",
+      "link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+      "filePath": "bleepingcomp/pages/2026/05/11/official-checkmarx-jenkins-package-compromised-with-infostealer.md",
+      "committedAt": "2026-05-11T19:00:19.456-04:00",
+      "title": "Official CheckMarx Jenkins package compromised with infostealer"
     }
   ]
 }
