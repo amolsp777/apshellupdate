@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T04:00:25.319-05:00",
-  "lastLink": "https://cyberpress.org/new-cpanel-and-whm-flaws-enable-remote-code-execution-and-dos-attacks/",
-  "lastId": "1633315000",
-  "lastFilePath": "cyberpress/pages/2026/05/11/new-cpanel-and-whm-flaws-enable-remote-code-execution-and-dos-attacks.md",
+  "updatedAt": "2026-05-11T05:00:19.791-05:00",
+  "lastLink": "https://cyberpress.org/odini-malware-uses-cpu/",
+  "lastId": "1sh31zz000",
+  "lastFilePath": "cyberpress/pages/2026/05/11/odini-malware-uses-cpu-magnetic-emissions-to-breach-air-gapped-systems.md",
   "items": [
     {
-      "id": "1633315000",
-      "link": "https://cyberpress.org/new-cpanel-and-whm-flaws-enable-remote-code-execution-and-dos-attacks/",
-      "filePath": "cyberpress/pages/2026/05/11/new-cpanel-and-whm-flaws-enable-remote-code-execution-and-dos-attacks.md",
-      "committedAt": "2026-05-11T04:00:25.319-05:00",
-      "title": "New cPanel and WHM Flaws Enable Remote Code Execution and DoS Attacks"
+      "id": "1sh31zz000",
+      "link": "https://cyberpress.org/odini-malware-uses-cpu/",
+      "filePath": "cyberpress/pages/2026/05/11/odini-malware-uses-cpu-magnetic-emissions-to-breach-air-gapped-systems.md",
+      "committedAt": "2026-05-11T05:00:19.791-05:00",
+      "title": "ODINI Malware Uses CPU Magnetic Emissions to Breach Air-Gapped Systems"
     }
   ]
 }
