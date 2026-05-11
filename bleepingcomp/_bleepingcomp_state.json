@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T06:00:53.389-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-  "lastId": "klah6m0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/11/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms.md",
+  "updatedAt": "2026-05-11T09:00:53.858-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
+  "lastId": "195l9ac000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/11/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks.md",
   "items": [
     {
-      "id": "klah6m0000",
-      "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-      "filePath": "bleepingcomp/pages/2026/05/11/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms.md",
-      "committedAt": "2026-05-11T06:00:53.389-04:00",
-      "title": "TrickMo Android banker adopts TON blockchain for covert comms"
+      "id": "195l9ac000",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/11/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks.md",
+      "committedAt": "2026-05-11T09:00:53.858-04:00",
+      "title": "Webinar this week: Prevention alone is not enough against modern attacks"
     }
   ]
 }
