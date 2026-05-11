@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T08:00:15.151-05:00",
-  "lastLink": "https://cyberpress.org/critical-microsoft-365-copilot-vulnerabilities-expose-sensitive-information/",
-  "lastId": "nql4610000",
-  "lastFilePath": "cyberpress/pages/2026/05/11/critical-microsoft-365-copilot-vulnerabilities-expose-sensitive-information.md",
+  "updatedAt": "2026-05-11T09:00:14.129-05:00",
+  "lastLink": "https://cyberpress.org/critical-php-soap-extension-flaw/",
+  "lastId": "rkmgpy0000",
+  "lastFilePath": "cyberpress/pages/2026/05/11/critical-php-soap-extension-flaw-enables-remote-code-execution-attacks.md",
   "items": [
     {
-      "id": "nql4610000",
-      "link": "https://cyberpress.org/critical-microsoft-365-copilot-vulnerabilities-expose-sensitive-information/",
-      "filePath": "cyberpress/pages/2026/05/11/critical-microsoft-365-copilot-vulnerabilities-expose-sensitive-information.md",
-      "committedAt": "2026-05-11T08:00:15.151-05:00",
-      "title": "Critical Microsoft 365 Copilot Vulnerabilities Expose Sensitive Information"
+      "id": "rkmgpy0000",
+      "link": "https://cyberpress.org/critical-php-soap-extension-flaw/",
+      "filePath": "cyberpress/pages/2026/05/11/critical-php-soap-extension-flaw-enables-remote-code-execution-attacks.md",
+      "committedAt": "2026-05-11T09:00:14.129-05:00",
+      "title": "Critical PHP SOAP Extension Flaw Enables Remote Code Execution Attacks"
     }
   ]
 }
