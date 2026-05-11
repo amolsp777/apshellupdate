@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T05:00:19.791-05:00",
-  "lastLink": "https://cyberpress.org/odini-malware-uses-cpu/",
-  "lastId": "1sh31zz000",
-  "lastFilePath": "cyberpress/pages/2026/05/11/odini-malware-uses-cpu-magnetic-emissions-to-breach-air-gapped-systems.md",
+  "updatedAt": "2026-05-11T06:00:25.074-05:00",
+  "lastLink": "https://cyberpress.org/shinyhunters-breaches-canvas-lms/",
+  "lastId": "19cd8in000",
+  "lastFilePath": "cyberpress/pages/2026/05/11/shinyhunters-breaches-instructure-canvas-lms-via-free-teacher-accounts.md",
   "items": [
     {
-      "id": "1sh31zz000",
-      "link": "https://cyberpress.org/odini-malware-uses-cpu/",
-      "filePath": "cyberpress/pages/2026/05/11/odini-malware-uses-cpu-magnetic-emissions-to-breach-air-gapped-systems.md",
-      "committedAt": "2026-05-11T05:00:19.791-05:00",
-      "title": "ODINI Malware Uses CPU Magnetic Emissions to Breach Air-Gapped Systems"
+      "id": "19cd8in000",
+      "link": "https://cyberpress.org/shinyhunters-breaches-canvas-lms/",
+      "filePath": "cyberpress/pages/2026/05/11/shinyhunters-breaches-instructure-canvas-lms-via-free-teacher-accounts.md",
+      "committedAt": "2026-05-11T06:00:25.074-05:00",
+      "title": "ShinyHunters Breaches Instructure Canvas LMS via Free Teacher Accounts"
     }
   ]
 }
