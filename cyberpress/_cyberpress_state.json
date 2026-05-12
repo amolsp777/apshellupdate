@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T08:00:19.867-05:00",
-  "lastLink": "https://cyberpress.org/open-webui-file-upload-vulnerability/",
-  "lastId": "9sgt720000",
-  "lastFilePath": "cyberpress/pages/2026/05/12/open-webui-file-upload-vulnerability-enables-one-click-rce-attacks.md",
+  "updatedAt": "2026-05-12T09:00:19.735-05:00",
+  "lastLink": "https://cyberpress.org/cushman-wakefield-data-breach/",
+  "lastId": "150w1wz000",
+  "lastFilePath": "cyberpress/pages/2026/05/12/cushman-wakefield-data-breach-exposes-310431-user-accounts.md",
   "items": [
     {
-      "id": "9sgt720000",
-      "link": "https://cyberpress.org/open-webui-file-upload-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/12/open-webui-file-upload-vulnerability-enables-one-click-rce-attacks.md",
-      "committedAt": "2026-05-12T08:00:19.867-05:00",
-      "title": "Open WebUI File Upload Vulnerability Enables One-Click RCE Attacks"
+      "id": "150w1wz000",
+      "link": "https://cyberpress.org/cushman-wakefield-data-breach/",
+      "filePath": "cyberpress/pages/2026/05/12/cushman-wakefield-data-breach-exposes-310431-user-accounts.md",
+      "committedAt": "2026-05-12T09:00:19.735-05:00",
+      "title": "Cushman & Wakefield Data Breach Exposes 310,431 User Accounts"
     }
   ]
 }
