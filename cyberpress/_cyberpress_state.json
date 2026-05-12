@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T02:00:46.806-05:00",
-  "lastLink": "https://cyberpress.org/jpeg-delivers-screenconnect-malware/",
-  "lastId": "44wp3j0000",
-  "lastFilePath": "cyberpress/pages/2026/05/12/malicious-jpeg-campaign-delivers-trojanized-screenconnect-payloads.md",
+  "updatedAt": "2026-05-12T03:00:14.157-05:00",
+  "lastLink": "https://cyberpress.org/google-warns-zero-day-exploits/",
+  "lastId": "1cvrere000",
+  "lastFilePath": "cyberpress/pages/2026/05/12/google-warns-hackers-are-using-ai-to-create-working-zero-day-exploits.md",
   "items": [
     {
-      "id": "44wp3j0000",
-      "link": "https://cyberpress.org/jpeg-delivers-screenconnect-malware/",
-      "filePath": "cyberpress/pages/2026/05/12/malicious-jpeg-campaign-delivers-trojanized-screenconnect-payloads.md",
-      "committedAt": "2026-05-12T02:00:46.806-05:00",
-      "title": "Malicious JPEG Campaign Delivers Trojanized ScreenConnect Payloads"
+      "id": "1cvrere000",
+      "link": "https://cyberpress.org/google-warns-zero-day-exploits/",
+      "filePath": "cyberpress/pages/2026/05/12/google-warns-hackers-are-using-ai-to-create-working-zero-day-exploits.md",
+      "committedAt": "2026-05-12T03:00:14.157-05:00",
+      "title": "Google Warns Hackers Are Using AI to Create Working Zero-Day Exploits"
     }
   ]
 }
