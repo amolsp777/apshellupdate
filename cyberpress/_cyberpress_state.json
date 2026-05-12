@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T07:00:14.316-05:00",
-  "lastLink": "https://cyberpress.org/critical-cline-ai-agent-vulnerability/",
-  "lastId": "6qsw1y0000",
-  "lastFilePath": "cyberpress/pages/2026/05/12/critical-cline-ai-agent-vulnerability-enables-remote-code-execution-attacks.md",
+  "updatedAt": "2026-05-12T08:00:19.867-05:00",
+  "lastLink": "https://cyberpress.org/open-webui-file-upload-vulnerability/",
+  "lastId": "9sgt720000",
+  "lastFilePath": "cyberpress/pages/2026/05/12/open-webui-file-upload-vulnerability-enables-one-click-rce-attacks.md",
   "items": [
     {
-      "id": "6qsw1y0000",
-      "link": "https://cyberpress.org/critical-cline-ai-agent-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/12/critical-cline-ai-agent-vulnerability-enables-remote-code-execution-attacks.md",
-      "committedAt": "2026-05-12T07:00:14.316-05:00",
-      "title": "Critical Cline AI Agent Vulnerability Enables Remote Code Execution Attacks"
+      "id": "9sgt720000",
+      "link": "https://cyberpress.org/open-webui-file-upload-vulnerability/",
+      "filePath": "cyberpress/pages/2026/05/12/open-webui-file-upload-vulnerability-enables-one-click-rce-attacks.md",
+      "committedAt": "2026-05-12T08:00:19.867-05:00",
+      "title": "Open WebUI File Upload Vulnerability Enables One-Click RCE Attacks"
     }
   ]
 }
