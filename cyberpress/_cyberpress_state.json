@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T06:00:36.075-05:00",
-  "lastLink": "https://cyberpress.org/teampcp-targets-jenkins-plugin/",
-  "lastId": "659nio0000",
-  "lastFilePath": "cyberpress/pages/2026/05/12/teampcp-targets-checkmarx-jenkins-plugin-after-kics-breach.md",
+  "updatedAt": "2026-05-12T07:00:14.316-05:00",
+  "lastLink": "https://cyberpress.org/critical-cline-ai-agent-vulnerability/",
+  "lastId": "6qsw1y0000",
+  "lastFilePath": "cyberpress/pages/2026/05/12/critical-cline-ai-agent-vulnerability-enables-remote-code-execution-attacks.md",
   "items": [
     {
-      "id": "659nio0000",
-      "link": "https://cyberpress.org/teampcp-targets-jenkins-plugin/",
-      "filePath": "cyberpress/pages/2026/05/12/teampcp-targets-checkmarx-jenkins-plugin-after-kics-breach.md",
-      "committedAt": "2026-05-12T06:00:36.075-05:00",
-      "title": "TeamPCP Targets Checkmarx Jenkins Plugin After KICS Breach"
+      "id": "6qsw1y0000",
+      "link": "https://cyberpress.org/critical-cline-ai-agent-vulnerability/",
+      "filePath": "cyberpress/pages/2026/05/12/critical-cline-ai-agent-vulnerability-enables-remote-code-execution-attacks.md",
+      "committedAt": "2026-05-12T07:00:14.316-05:00",
+      "title": "Critical Cline AI Agent Vulnerability Enables Remote Code Execution Attacks"
     }
   ]
 }
