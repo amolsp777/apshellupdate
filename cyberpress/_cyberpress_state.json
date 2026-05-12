@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T03:00:14.157-05:00",
-  "lastLink": "https://cyberpress.org/google-warns-zero-day-exploits/",
-  "lastId": "1cvrere000",
-  "lastFilePath": "cyberpress/pages/2026/05/12/google-warns-hackers-are-using-ai-to-create-working-zero-day-exploits.md",
+  "updatedAt": "2026-05-12T04:00:37.589-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-flags-pypi-compromise/",
+  "lastId": "1dldtdo000",
+  "lastFilePath": "cyberpress/pages/2026/05/12/microsoft-warns-of-compromised-mistralai-pypi-package.md",
   "items": [
     {
-      "id": "1cvrere000",
-      "link": "https://cyberpress.org/google-warns-zero-day-exploits/",
-      "filePath": "cyberpress/pages/2026/05/12/google-warns-hackers-are-using-ai-to-create-working-zero-day-exploits.md",
-      "committedAt": "2026-05-12T03:00:14.157-05:00",
-      "title": "Google Warns Hackers Are Using AI to Create Working Zero-Day Exploits"
+      "id": "1dldtdo000",
+      "link": "https://cyberpress.org/microsoft-flags-pypi-compromise/",
+      "filePath": "cyberpress/pages/2026/05/12/microsoft-warns-of-compromised-mistralai-pypi-package.md",
+      "committedAt": "2026-05-12T04:00:37.589-05:00",
+      "title": "Microsoft Warns Of Compromised mistralai PyPI Package"
     }
   ]
 }
