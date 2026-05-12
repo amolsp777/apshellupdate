@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T05:00:30.410-05:00",
-  "lastLink": "https://cyberpress.org/84-tanstack-npm-packages-compromised-in-ongoing-supply-chain-attack-targeting-ci-credentials/",
-  "lastId": "1q7mtix000",
-  "lastFilePath": "cyberpress/pages/2026/05/12/84-tanstack-npm-packages-compromised-in-ongoing-supply-chain-attack-targeting-ci.md",
+  "updatedAt": "2026-05-12T06:00:36.075-05:00",
+  "lastLink": "https://cyberpress.org/teampcp-targets-jenkins-plugin/",
+  "lastId": "659nio0000",
+  "lastFilePath": "cyberpress/pages/2026/05/12/teampcp-targets-checkmarx-jenkins-plugin-after-kics-breach.md",
   "items": [
     {
-      "id": "1q7mtix000",
-      "link": "https://cyberpress.org/84-tanstack-npm-packages-compromised-in-ongoing-supply-chain-attack-targeting-ci-credentials/",
-      "filePath": "cyberpress/pages/2026/05/12/84-tanstack-npm-packages-compromised-in-ongoing-supply-chain-attack-targeting-ci.md",
-      "committedAt": "2026-05-12T05:00:30.410-05:00",
-      "title": "84 TanStack npm Packages Compromised in Ongoing Supply-Chain Attack Targeting CI Credentials"
+      "id": "659nio0000",
+      "link": "https://cyberpress.org/teampcp-targets-jenkins-plugin/",
+      "filePath": "cyberpress/pages/2026/05/12/teampcp-targets-checkmarx-jenkins-plugin-after-kics-breach.md",
+      "committedAt": "2026-05-12T06:00:36.075-05:00",
+      "title": "TeamPCP Targets Checkmarx Jenkins Plugin After KICS Breach"
     }
   ]
 }
