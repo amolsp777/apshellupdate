@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T10:00:14.436-05:00",
-  "lastLink": "https://cyberpress.org/sap-patches-in-sap-s-4hana/",
-  "lastId": "nfur200000",
-  "lastFilePath": "cyberpress/pages/2026/05/12/sap-patches-critical-sql-injection-flaw-in-sap-s4hana.md",
+  "updatedAt": "2026-05-12T11:00:38.141-05:00",
+  "lastLink": "https://cyberpress.org/vercel-ai-fuels-phishing/",
+  "lastId": "jrobdg0000",
+  "lastFilePath": "cyberpress/pages/2026/05/12/cybercriminals-weaponize-vercels-ai-capabilities-for-rapid-phishing-page-creatio.md",
   "items": [
     {
-      "id": "nfur200000",
-      "link": "https://cyberpress.org/sap-patches-in-sap-s-4hana/",
-      "filePath": "cyberpress/pages/2026/05/12/sap-patches-critical-sql-injection-flaw-in-sap-s4hana.md",
-      "committedAt": "2026-05-12T10:00:14.436-05:00",
-      "title": "SAP Patches Critical SQL Injection Flaw in SAP S/4HANA"
+      "id": "jrobdg0000",
+      "link": "https://cyberpress.org/vercel-ai-fuels-phishing/",
+      "filePath": "cyberpress/pages/2026/05/12/cybercriminals-weaponize-vercels-ai-capabilities-for-rapid-phishing-page-creatio.md",
+      "committedAt": "2026-05-12T11:00:38.141-05:00",
+      "title": "Cybercriminals Weaponize Vercel’s AI Capabilities For Rapid Phishing Page Creation"
     }
   ]
 }
