@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T08:00:03.794-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
-  "lastId": "474ofw0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/12/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s4hana.md",
+  "updatedAt": "2026-05-12T09:00:48.168-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+  "lastId": "1gambun000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/12/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages.md",
   "items": [
     {
-      "id": "474ofw0000",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
-      "filePath": "bleepingcomp/pages/2026/05/12/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s4hana.md",
-      "committedAt": "2026-05-12T08:00:03.794-04:00",
-      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA"
+      "id": "1gambun000",
+      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+      "filePath": "bleepingcomp/pages/2026/05/12/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages.md",
+      "committedAt": "2026-05-12T09:00:48.168-04:00",
+      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages"
     }
   ]
 }
