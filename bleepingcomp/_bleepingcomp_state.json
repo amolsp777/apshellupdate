@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T14:00:09.635-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-  "lastId": "fglev40000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/12/koda-warns-of-customer-data-breach-after-online-shop-hack.md",
+  "updatedAt": "2026-05-12T15:00:09.376-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+  "lastId": "4gcc430000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/12/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator.md",
   "items": [
     {
-      "id": "fglev40000",
-      "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-      "filePath": "bleepingcomp/pages/2026/05/12/koda-warns-of-customer-data-breach-after-online-shop-hack.md",
-      "committedAt": "2026-05-12T14:00:09.635-04:00",
-      "title": "Škoda warns of customer data breach after online shop hack"
+      "id": "4gcc430000",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+      "filePath": "bleepingcomp/pages/2026/05/12/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator.md",
+      "committedAt": "2026-05-12T15:00:09.376-04:00",
+      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator"
     }
   ]
 }
