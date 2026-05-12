@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T09:00:48.168-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-  "lastId": "1gambun000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/12/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages.md",
+  "updatedAt": "2026-05-12T14:00:09.635-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+  "lastId": "fglev40000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/12/koda-warns-of-customer-data-breach-after-online-shop-hack.md",
   "items": [
     {
-      "id": "1gambun000",
-      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-      "filePath": "bleepingcomp/pages/2026/05/12/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages.md",
-      "committedAt": "2026-05-12T09:00:48.168-04:00",
-      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages"
+      "id": "fglev40000",
+      "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+      "filePath": "bleepingcomp/pages/2026/05/12/koda-warns-of-customer-data-breach-after-online-shop-hack.md",
+      "committedAt": "2026-05-12T14:00:09.635-04:00",
+      "title": "Škoda warns of customer data breach after online shop hack"
     }
   ]
 }
