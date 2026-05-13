@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T19:00:36.030-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
-  "lastId": "1t7j16k000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/12/windows-11-kb5089549-kb5087420-cumulative-updates-released.md",
+  "updatedAt": "2026-05-12T20:00:52.182-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
+  "lastId": "93jee60000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/12/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack.md",
   "items": [
     {
-      "id": "1t7j16k000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
-      "filePath": "bleepingcomp/pages/2026/05/12/windows-11-kb5089549-kb5087420-cumulative-updates-released.md",
-      "committedAt": "2026-05-12T19:00:36.030-04:00",
-      "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released"
+      "id": "93jee60000",
+      "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
+      "filePath": "bleepingcomp/pages/2026/05/12/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack.md",
+      "committedAt": "2026-05-12T20:00:52.182-04:00",
+      "title": "US govt seeks Instructure testimony on massive Canvas cyberattack"
     }
   ]
 }
