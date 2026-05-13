@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T18:00:47.329-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
-  "lastId": "1mppzkj000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/13/iranian-hackers-targeted-major-south-korean-electronics-maker.md",
+  "updatedAt": "2026-05-13T19:00:41.222-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
+  "lastId": "1dnqu1r000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/13/west-pharmaceutical-says-hackers-stole-data-encrypted-systems.md",
   "items": [
     {
-      "id": "1mppzkj000",
-      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
-      "filePath": "bleepingcomp/pages/2026/05/13/iranian-hackers-targeted-major-south-korean-electronics-maker.md",
-      "committedAt": "2026-05-13T18:00:47.329-04:00",
-      "title": "Iranian hackers targeted major South Korean electronics maker"
+      "id": "1dnqu1r000",
+      "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
+      "filePath": "bleepingcomp/pages/2026/05/13/west-pharmaceutical-says-hackers-stole-data-encrypted-systems.md",
+      "committedAt": "2026-05-13T19:00:41.222-04:00",
+      "title": "West Pharmaceutical says hackers stole data, encrypted systems"
     }
   ]
 }
