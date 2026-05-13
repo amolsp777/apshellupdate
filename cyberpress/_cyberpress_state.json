@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T16:01:06.048-05:00",
-  "lastLink": "https://cyberpress.org/claude-chrome-extension-flaw-lets-malicious-extensions-steal-gmail-and-google-drive-data/",
-  "lastId": "1g5r7xw000",
-  "lastFilePath": "cyberpress/pages/2026/05/12/claude-chrome-extension-flaw-lets-malicious-extensions-steal-gmail-and-google-dr.md",
+  "updatedAt": "2026-05-13T01:00:52.168-05:00",
+  "lastLink": "https://cyberpress.org/hijacked-teams-deliver-modelorat/",
+  "lastId": "4dzc2f0000",
+  "lastFilePath": "cyberpress/pages/2026/05/13/threat-actors-use-hijacked-teams-accounts-in-modelorat-attacks.md",
   "items": [
     {
-      "id": "1g5r7xw000",
-      "link": "https://cyberpress.org/claude-chrome-extension-flaw-lets-malicious-extensions-steal-gmail-and-google-drive-data/",
-      "filePath": "cyberpress/pages/2026/05/12/claude-chrome-extension-flaw-lets-malicious-extensions-steal-gmail-and-google-dr.md",
-      "committedAt": "2026-05-12T16:01:06.048-05:00",
-      "title": "Claude Chrome Extension Flaw Lets Malicious Extensions Steal Gmail and Google Drive Data"
+      "id": "4dzc2f0000",
+      "link": "https://cyberpress.org/hijacked-teams-deliver-modelorat/",
+      "filePath": "cyberpress/pages/2026/05/13/threat-actors-use-hijacked-teams-accounts-in-modelorat-attacks.md",
+      "committedAt": "2026-05-13T01:00:52.168-05:00",
+      "title": "Threat Actors Use Hijacked Teams Accounts In ModeloRAT Attacks"
     }
   ]
 }
