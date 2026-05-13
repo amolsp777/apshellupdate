@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T12:00:57.641-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
-  "lastId": "1bcrb1f000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/13/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks.md",
+  "updatedAt": "2026-05-13T13:00:04.027-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+  "lastId": "y3ag730000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/13/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released.md",
   "items": [
     {
-      "id": "1bcrb1f000",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/13/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks.md",
-      "committedAt": "2026-05-13T12:00:57.641-04:00",
-      "title": "Webinar tomorrow: Why security alone won't stop modern attacks"
+      "id": "y3ag730000",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+      "filePath": "bleepingcomp/pages/2026/05/13/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released.md",
+      "committedAt": "2026-05-13T13:00:04.027-04:00",
+      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released"
     }
   ]
 }
