@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T10:00:31.716-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
-  "lastId": "1ohmtpk000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/13/foxconn-confirms-cyberattack-claimed-by-nitrogen-ransomware-gang.md",
+  "updatedAt": "2026-05-13T11:00:26.705-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
+  "lastId": "g12ek10000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/13/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers.md",
   "items": [
     {
-      "id": "1ohmtpk000",
-      "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
-      "filePath": "bleepingcomp/pages/2026/05/13/foxconn-confirms-cyberattack-claimed-by-nitrogen-ransomware-gang.md",
-      "committedAt": "2026-05-13T10:00:31.716-04:00",
-      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang"
+      "id": "g12ek10000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
+      "filePath": "bleepingcomp/pages/2026/05/13/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers.md",
+      "committedAt": "2026-05-13T11:00:26.705-04:00",
+      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers"
     }
   ]
 }
