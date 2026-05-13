@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T01:00:52.168-05:00",
-  "lastLink": "https://cyberpress.org/hijacked-teams-deliver-modelorat/",
-  "lastId": "4dzc2f0000",
-  "lastFilePath": "cyberpress/pages/2026/05/13/threat-actors-use-hijacked-teams-accounts-in-modelorat-attacks.md",
+  "updatedAt": "2026-05-13T02:00:19.636-05:00",
+  "lastLink": "https://cyberpress.org/infostealers-drive-corporate-breaches/",
+  "lastId": "1bea0iu000",
+  "lastFilePath": "cyberpress/pages/2026/05/13/infostealer-malware-fuels-corporate-breaches-through-personal-devices.md",
   "items": [
     {
-      "id": "4dzc2f0000",
-      "link": "https://cyberpress.org/hijacked-teams-deliver-modelorat/",
-      "filePath": "cyberpress/pages/2026/05/13/threat-actors-use-hijacked-teams-accounts-in-modelorat-attacks.md",
-      "committedAt": "2026-05-13T01:00:52.168-05:00",
-      "title": "Threat Actors Use Hijacked Teams Accounts In ModeloRAT Attacks"
+      "id": "1bea0iu000",
+      "link": "https://cyberpress.org/infostealers-drive-corporate-breaches/",
+      "filePath": "cyberpress/pages/2026/05/13/infostealer-malware-fuels-corporate-breaches-through-personal-devices.md",
+      "committedAt": "2026-05-13T02:00:19.636-05:00",
+      "title": "Infostealer Malware Fuels Corporate Breaches Through Personal Devices"
     }
   ]
 }
