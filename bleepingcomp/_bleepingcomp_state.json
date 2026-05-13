@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T21:00:57.856-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
-  "lastId": "1g6sr78000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/12/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers.md",
+  "updatedAt": "2026-05-12T22:01:02.619-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
+  "lastId": "1wmtka1000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/12/webinar-fixing-the-gaps-in-network-incident-response.md",
   "items": [
     {
-      "id": "1g6sr78000",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
-      "filePath": "bleepingcomp/pages/2026/05/12/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers.md",
-      "committedAt": "2026-05-12T21:00:57.856-04:00",
-      "title": "UK fines water supplier $1.3M for exposing data of 664k customers"
+      "id": "1wmtka1000",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
+      "filePath": "bleepingcomp/pages/2026/05/12/webinar-fixing-the-gaps-in-network-incident-response.md",
+      "committedAt": "2026-05-12T22:01:02.619-04:00",
+      "title": "Webinar: Fixing the gaps in network incident response"
     }
   ]
 }
