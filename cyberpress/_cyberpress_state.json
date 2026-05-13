@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T09:00:41.731-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-teams-flaw/",
-  "lastId": "k042o30000",
-  "lastFilePath": "cyberpress/pages/2026/05/13/microsoft-teams-flaw-allows-hackers-to-launch-spoofing-attacks.md",
+  "updatedAt": "2026-05-13T10:00:59.743-05:00",
+  "lastLink": "https://cyberpress.org/apple-encrypted-rcs-iphone-android/",
+  "lastId": "4s7nwp0000",
+  "lastFilePath": "cyberpress/pages/2026/05/13/apple-enables-encrypted-rcs-messaging-between-iphone-and-android.md",
   "items": [
     {
-      "id": "k042o30000",
-      "link": "https://cyberpress.org/microsoft-teams-flaw/",
-      "filePath": "cyberpress/pages/2026/05/13/microsoft-teams-flaw-allows-hackers-to-launch-spoofing-attacks.md",
-      "committedAt": "2026-05-13T09:00:41.731-05:00",
-      "title": "Microsoft Teams Flaw Allows Hackers to Launch Spoofing Attacks"
+      "id": "4s7nwp0000",
+      "link": "https://cyberpress.org/apple-encrypted-rcs-iphone-android/",
+      "filePath": "cyberpress/pages/2026/05/13/apple-enables-encrypted-rcs-messaging-between-iphone-and-android.md",
+      "committedAt": "2026-05-13T10:00:59.743-05:00",
+      "title": "Apple Enables Encrypted RCS Messaging Between iPhone and Android"
     }
   ]
 }
