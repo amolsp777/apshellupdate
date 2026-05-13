@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T09:00:09.540-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
-  "lastId": "1izhyeg000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/13/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation.md",
+  "updatedAt": "2026-05-13T10:00:31.716-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+  "lastId": "1ohmtpk000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/13/foxconn-confirms-cyberattack-claimed-by-nitrogen-ransomware-gang.md",
   "items": [
     {
-      "id": "1izhyeg000",
-      "link": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
-      "filePath": "bleepingcomp/pages/2026/05/13/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation.md",
-      "committedAt": "2026-05-13T09:00:09.540-04:00",
-      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation"
+      "id": "1ohmtpk000",
+      "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+      "filePath": "bleepingcomp/pages/2026/05/13/foxconn-confirms-cyberattack-claimed-by-nitrogen-ransomware-gang.md",
+      "committedAt": "2026-05-13T10:00:31.716-04:00",
+      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang"
     }
   ]
 }
