@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T11:00:26.705-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-  "lastId": "g12ek10000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/13/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers.md",
+  "updatedAt": "2026-05-13T12:00:57.641-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
+  "lastId": "1bcrb1f000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/13/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks.md",
   "items": [
     {
-      "id": "g12ek10000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-      "filePath": "bleepingcomp/pages/2026/05/13/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers.md",
-      "committedAt": "2026-05-13T11:00:26.705-04:00",
-      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers"
+      "id": "1bcrb1f000",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/13/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks.md",
+      "committedAt": "2026-05-13T12:00:57.641-04:00",
+      "title": "Webinar tomorrow: Why security alone won't stop modern attacks"
     }
   ]
 }
