@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T17:00:03.589-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-  "lastId": "mme55q0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/13/new-critical-exim-mailer-flaw-allows-remote-code-execution.md",
+  "updatedAt": "2026-05-13T18:00:47.329-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
+  "lastId": "1mppzkj000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/13/iranian-hackers-targeted-major-south-korean-electronics-maker.md",
   "items": [
     {
-      "id": "mme55q0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-      "filePath": "bleepingcomp/pages/2026/05/13/new-critical-exim-mailer-flaw-allows-remote-code-execution.md",
-      "committedAt": "2026-05-13T17:00:03.589-04:00",
-      "title": "New critical Exim mailer flaw allows remote code execution"
+      "id": "1mppzkj000",
+      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
+      "filePath": "bleepingcomp/pages/2026/05/13/iranian-hackers-targeted-major-south-korean-electronics-maker.md",
+      "committedAt": "2026-05-13T18:00:47.329-04:00",
+      "title": "Iranian hackers targeted major South Korean electronics maker"
     }
   ]
 }
