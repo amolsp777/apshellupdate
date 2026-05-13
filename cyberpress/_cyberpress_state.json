@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T03:00:20.144-05:00",
-  "lastLink": "https://cyberpress.org/update-25h2-and-24h2/",
-  "lastId": "567tt00000",
-  "lastFilePath": "cyberpress/pages/2026/05/13/microsoft-rolls-out-cumulative-update-for-windows-11-25h2-and-24h2.md",
+  "updatedAt": "2026-05-13T04:00:14.336-05:00",
+  "lastLink": "https://cyberpress.org/exim-gnutls-flaw/",
+  "lastId": "1mfm246000",
+  "lastFilePath": "cyberpress/pages/2026/05/13/critical-exim-gnutls-flaw-enables-remote-code-execution.md",
   "items": [
     {
-      "id": "567tt00000",
-      "link": "https://cyberpress.org/update-25h2-and-24h2/",
-      "filePath": "cyberpress/pages/2026/05/13/microsoft-rolls-out-cumulative-update-for-windows-11-25h2-and-24h2.md",
-      "committedAt": "2026-05-13T03:00:20.144-05:00",
-      "title": "Microsoft Rolls Out Cumulative Update for Windows 11 25H2 and 24H2"
+      "id": "1mfm246000",
+      "link": "https://cyberpress.org/exim-gnutls-flaw/",
+      "filePath": "cyberpress/pages/2026/05/13/critical-exim-gnutls-flaw-enables-remote-code-execution.md",
+      "committedAt": "2026-05-13T04:00:14.336-05:00",
+      "title": "Critical Exim GnuTLS Flaw Enables Remote Code Execution"
     }
   ]
 }
