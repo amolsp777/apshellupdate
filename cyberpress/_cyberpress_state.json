@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T05:00:14.060-05:00",
-  "lastLink": "https://cyberpress.org/exchange-flaw-breaches-energy/",
-  "lastId": "1dxykc6000",
-  "lastFilePath": "cyberpress/pages/2026/05/14/microsoft-exchange-flaw-exploited-to-breach-energy-industry-network.md",
+  "updatedAt": "2026-05-14T06:00:13.921-05:00",
+  "lastLink": "https://cyberpress.org/gitlab-flaw-xss-dos/",
+  "lastId": "1xuz6o2000",
+  "lastFilePath": "cyberpress/pages/2026/05/14/critical-gitlab-flaw-enables-xss-and-unauthenticated-dos-attacks.md",
   "items": [
     {
-      "id": "1dxykc6000",
-      "link": "https://cyberpress.org/exchange-flaw-breaches-energy/",
-      "filePath": "cyberpress/pages/2026/05/14/microsoft-exchange-flaw-exploited-to-breach-energy-industry-network.md",
-      "committedAt": "2026-05-14T05:00:14.060-05:00",
-      "title": "Microsoft Exchange Flaw Exploited To Breach Energy Industry Network"
+      "id": "1xuz6o2000",
+      "link": "https://cyberpress.org/gitlab-flaw-xss-dos/",
+      "filePath": "cyberpress/pages/2026/05/14/critical-gitlab-flaw-enables-xss-and-unauthenticated-dos-attacks.md",
+      "committedAt": "2026-05-14T06:00:13.921-05:00",
+      "title": "Critical GitLab Flaw Enables XSS and Unauthenticated DoS Attacks"
     }
   ]
 }
