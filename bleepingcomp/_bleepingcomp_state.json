@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T05:00:30.771-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
-  "lastId": "1ee3gse000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/14/us-charges-suspected-dream-market-admin-arrested-in-germany.md",
+  "updatedAt": "2026-05-14T07:00:31.256-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
+  "lastId": "1jyffdz000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/14/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes.md",
   "items": [
     {
-      "id": "1ee3gse000",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
-      "filePath": "bleepingcomp/pages/2026/05/14/us-charges-suspected-dream-market-admin-arrested-in-germany.md",
-      "committedAt": "2026-05-14T05:00:30.771-04:00",
-      "title": "US charges suspected Dream Market admin arrested in Germany"
+      "id": "1jyffdz000",
+      "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
+      "filePath": "bleepingcomp/pages/2026/05/14/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes.md",
+      "committedAt": "2026-05-14T07:00:31.256-04:00",
+      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes"
     }
   ]
 }
