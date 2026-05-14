@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T13:00:44.600-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
-  "lastId": "1j821es000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/14/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight.md",
+  "updatedAt": "2026-05-14T15:00:36.492-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
+  "lastId": "ivhecl0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/14/windows-11-and-microsoft-edge-hacked-at-pwn2own-berlin-2026.md",
   "items": [
     {
-      "id": "1j821es000",
-      "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
-      "filePath": "bleepingcomp/pages/2026/05/14/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight.md",
-      "committedAt": "2026-05-14T13:00:44.600-04:00",
-      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight"
+      "id": "ivhecl0000",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
+      "filePath": "bleepingcomp/pages/2026/05/14/windows-11-and-microsoft-edge-hacked-at-pwn2own-berlin-2026.md",
+      "committedAt": "2026-05-14T15:00:36.492-04:00",
+      "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026"
     }
   ]
 }
