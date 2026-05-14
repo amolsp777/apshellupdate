@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T12:00:04.576-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
-  "lastId": "1hpzuhe000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/14/18-year-old-nginx-vulnerability-allows-dos-potential-rce.md",
+  "updatedAt": "2026-05-14T13:00:44.600-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
+  "lastId": "1j821es000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/14/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight.md",
   "items": [
     {
-      "id": "1hpzuhe000",
-      "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
-      "filePath": "bleepingcomp/pages/2026/05/14/18-year-old-nginx-vulnerability-allows-dos-potential-rce.md",
-      "committedAt": "2026-05-14T12:00:04.576-04:00",
-      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE"
+      "id": "1j821es000",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
+      "filePath": "bleepingcomp/pages/2026/05/14/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight.md",
+      "committedAt": "2026-05-14T13:00:44.600-04:00",
+      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight"
     }
   ]
 }
