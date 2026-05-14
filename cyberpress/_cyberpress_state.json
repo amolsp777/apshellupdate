@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T11:00:44.125-05:00",
-  "lastLink": "https://cyberpress.org/critical-wordpress-plugin-flaw-3/",
-  "lastId": "152gys0000",
-  "lastFilePath": "cyberpress/pages/2026/05/14/critical-wordpress-plugin-flaw-enables-authentication-bypass-attacks.md",
+  "updatedAt": "2026-05-14T12:00:47.731-05:00",
+  "lastLink": "https://cyberpress.org/new-exim-vulnerability/",
+  "lastId": "1l0qumu000",
+  "lastFilePath": "cyberpress/pages/2026/05/14/new-exim-vulnerability-enables-arbitrary-code-execution-attacks.md",
   "items": [
     {
-      "id": "152gys0000",
-      "link": "https://cyberpress.org/critical-wordpress-plugin-flaw-3/",
-      "filePath": "cyberpress/pages/2026/05/14/critical-wordpress-plugin-flaw-enables-authentication-bypass-attacks.md",
-      "committedAt": "2026-05-14T11:00:44.125-05:00",
-      "title": "Critical WordPress Plugin Flaw Enables Authentication Bypass Attacks"
+      "id": "1l0qumu000",
+      "link": "https://cyberpress.org/new-exim-vulnerability/",
+      "filePath": "cyberpress/pages/2026/05/14/new-exim-vulnerability-enables-arbitrary-code-execution-attacks.md",
+      "committedAt": "2026-05-14T12:00:47.731-05:00",
+      "title": "New Exim Vulnerability Enables Arbitrary Code Execution Attacks"
     }
   ]
 }
