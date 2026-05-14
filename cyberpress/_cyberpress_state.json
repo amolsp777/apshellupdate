@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T14:00:57.946-05:00",
-  "lastLink": "https://cyberpress.org/sandworm-targets-ot-networks/",
-  "lastId": "1x3r2kr000",
-  "lastFilePath": "cyberpress/pages/2026/05/14/sandworm-apt-shifts-focus-from-compromised-it-to-ot-networks.md",
+  "updatedAt": "2026-05-14T15:01:03.738-05:00",
+  "lastLink": "https://cyberpress.org/amazon-quick-flaw/",
+  "lastId": "1o9h1i8000",
+  "lastFilePath": "cyberpress/pages/2026/05/14/amazon-quick-flaw-exposed-restricted-ai-chat-agents-to-unauthorized-users.md",
   "items": [
     {
-      "id": "1x3r2kr000",
-      "link": "https://cyberpress.org/sandworm-targets-ot-networks/",
-      "filePath": "cyberpress/pages/2026/05/14/sandworm-apt-shifts-focus-from-compromised-it-to-ot-networks.md",
-      "committedAt": "2026-05-14T14:00:57.946-05:00",
-      "title": "Sandworm APT Shifts Focus From Compromised IT To OT Networks"
+      "id": "1o9h1i8000",
+      "link": "https://cyberpress.org/amazon-quick-flaw/",
+      "filePath": "cyberpress/pages/2026/05/14/amazon-quick-flaw-exposed-restricted-ai-chat-agents-to-unauthorized-users.md",
+      "committedAt": "2026-05-14T15:01:03.738-05:00",
+      "title": "Amazon Quick Flaw Exposed Restricted AI Chat Agents to Unauthorized Users"
     }
   ]
 }
