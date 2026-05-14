@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T10:00:14.005-05:00",
-  "lastLink": "https://cyberpress.org/teampcp-breachforums-supply-chain-attacks/",
-  "lastId": "o3ltqc0000",
-  "lastFilePath": "cyberpress/pages/2026/05/14/teampcp-and-breachforums-launch-1000-contest-for-supply-chain-attacks.md",
+  "updatedAt": "2026-05-14T11:00:44.125-05:00",
+  "lastLink": "https://cyberpress.org/critical-wordpress-plugin-flaw-3/",
+  "lastId": "152gys0000",
+  "lastFilePath": "cyberpress/pages/2026/05/14/critical-wordpress-plugin-flaw-enables-authentication-bypass-attacks.md",
   "items": [
     {
-      "id": "o3ltqc0000",
-      "link": "https://cyberpress.org/teampcp-breachforums-supply-chain-attacks/",
-      "filePath": "cyberpress/pages/2026/05/14/teampcp-and-breachforums-launch-1000-contest-for-supply-chain-attacks.md",
-      "committedAt": "2026-05-14T10:00:14.005-05:00",
-      "title": "TeamPCP and BreachForums Launch $1,000 Contest for Supply Chain Attacks"
+      "id": "152gys0000",
+      "link": "https://cyberpress.org/critical-wordpress-plugin-flaw-3/",
+      "filePath": "cyberpress/pages/2026/05/14/critical-wordpress-plugin-flaw-enables-authentication-bypass-attacks.md",
+      "committedAt": "2026-05-14T11:00:44.125-05:00",
+      "title": "Critical WordPress Plugin Flaw Enables Authentication Bypass Attacks"
     }
   ]
 }
