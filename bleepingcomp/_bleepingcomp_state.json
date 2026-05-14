@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T18:00:08.869-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-  "lastId": "1pgdpf7000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/14/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin.md",
+  "updatedAt": "2026-05-14T19:00:40.932-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
+  "lastId": "p6qrby0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/14/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale.md",
   "items": [
     {
-      "id": "1pgdpf7000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-      "filePath": "bleepingcomp/pages/2026/05/14/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin.md",
-      "committedAt": "2026-05-14T18:00:08.869-04:00",
-      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin"
+      "id": "p6qrby0000",
+      "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
+      "filePath": "bleepingcomp/pages/2026/05/14/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale.md",
+      "committedAt": "2026-05-14T19:00:40.932-04:00",
+      "title": "TeamPCP hackers advertise Mistral AI code repos for sale"
     }
   ]
 }
