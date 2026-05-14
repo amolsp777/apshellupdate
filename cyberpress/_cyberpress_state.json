@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T07:00:14.378-05:00",
-  "lastLink": "https://cyberpress.org/canon-mailsuite-flaw/",
-  "lastId": "9dnklx0000",
-  "lastFilePath": "cyberpress/pages/2026/05/14/critical-canon-mailsuite-flaw-allows-remote-code-execution-attacks.md",
+  "updatedAt": "2026-05-14T08:00:14.521-05:00",
+  "lastLink": "https://cyberpress.org/windows-dns-client-flaw/",
+  "lastId": "1q2gkor000",
+  "lastFilePath": "cyberpress/pages/2026/05/14/critical-windows-dns-client-flaw-enables-remote-code-execution.md",
   "items": [
     {
-      "id": "9dnklx0000",
-      "link": "https://cyberpress.org/canon-mailsuite-flaw/",
-      "filePath": "cyberpress/pages/2026/05/14/critical-canon-mailsuite-flaw-allows-remote-code-execution-attacks.md",
-      "committedAt": "2026-05-14T07:00:14.378-05:00",
-      "title": "Critical Canon MailSuite Flaw Allows Remote Code Execution Attacks"
+      "id": "1q2gkor000",
+      "link": "https://cyberpress.org/windows-dns-client-flaw/",
+      "filePath": "cyberpress/pages/2026/05/14/critical-windows-dns-client-flaw-enables-remote-code-execution.md",
+      "committedAt": "2026-05-14T08:00:14.521-05:00",
+      "title": "Critical Windows DNS Client Flaw Enables Remote Code Execution"
     }
   ]
 }
