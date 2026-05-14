@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T12:01:12.195-05:00",
-  "lastLink": "https://cyberpress.org/clickfix-abuses-python-proxy/",
-  "lastId": "1bv4xeo000",
-  "lastFilePath": "cyberpress/pages/2026/05/13/hackers-upgrade-clickfix-attacks-using-decade-old-python-socks5-proxy-tool.md",
+  "updatedAt": "2026-05-14T01:00:25.127-05:00",
+  "lastLink": "https://cyberpress.org/ransomware-hits-2122-organizations/",
+  "lastId": "lpho9y0000",
+  "lastFilePath": "cyberpress/pages/2026/05/14/q1-2026-ransomware-attacks-hit-2122-organizations-worldwide.md",
   "items": [
     {
-      "id": "1bv4xeo000",
-      "link": "https://cyberpress.org/clickfix-abuses-python-proxy/",
-      "filePath": "cyberpress/pages/2026/05/13/hackers-upgrade-clickfix-attacks-using-decade-old-python-socks5-proxy-tool.md",
-      "committedAt": "2026-05-13T12:01:12.195-05:00",
-      "title": "Hackers Upgrade ClickFix Attacks Using Decade-Old Python SOCKS5 Proxy Tool"
+      "id": "lpho9y0000",
+      "link": "https://cyberpress.org/ransomware-hits-2122-organizations/",
+      "filePath": "cyberpress/pages/2026/05/14/q1-2026-ransomware-attacks-hit-2122-organizations-worldwide.md",
+      "committedAt": "2026-05-14T01:00:25.127-05:00",
+      "title": "Q1 2026 Ransomware Attacks Hit 2,122 Organizations Worldwide"
     }
   ]
 }
