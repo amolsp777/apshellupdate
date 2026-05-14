@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T12:00:47.731-05:00",
-  "lastLink": "https://cyberpress.org/new-exim-vulnerability/",
-  "lastId": "1l0qumu000",
-  "lastFilePath": "cyberpress/pages/2026/05/14/new-exim-vulnerability-enables-arbitrary-code-execution-attacks.md",
+  "updatedAt": "2026-05-14T13:00:52.870-05:00",
+  "lastLink": "https://cyberpress.org/langflow-attacks-target-aws/",
+  "lastId": "4xv17y0000",
+  "lastFilePath": "cyberpress/pages/2026/05/14/langflow-vulnerability-abused-in-attacks-targeting-aws-access-keys.md",
   "items": [
     {
-      "id": "1l0qumu000",
-      "link": "https://cyberpress.org/new-exim-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/14/new-exim-vulnerability-enables-arbitrary-code-execution-attacks.md",
-      "committedAt": "2026-05-14T12:00:47.731-05:00",
-      "title": "New Exim Vulnerability Enables Arbitrary Code Execution Attacks"
+      "id": "4xv17y0000",
+      "link": "https://cyberpress.org/langflow-attacks-target-aws/",
+      "filePath": "cyberpress/pages/2026/05/14/langflow-vulnerability-abused-in-attacks-targeting-aws-access-keys.md",
+      "committedAt": "2026-05-14T13:00:52.870-05:00",
+      "title": "Langflow Vulnerability Abused In Attacks Targeting AWS Access Keys"
     }
   ]
 }
