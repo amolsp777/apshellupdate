@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T06:00:13.921-05:00",
-  "lastLink": "https://cyberpress.org/gitlab-flaw-xss-dos/",
-  "lastId": "1xuz6o2000",
-  "lastFilePath": "cyberpress/pages/2026/05/14/critical-gitlab-flaw-enables-xss-and-unauthenticated-dos-attacks.md",
+  "updatedAt": "2026-05-14T07:00:14.378-05:00",
+  "lastLink": "https://cyberpress.org/canon-mailsuite-flaw/",
+  "lastId": "9dnklx0000",
+  "lastFilePath": "cyberpress/pages/2026/05/14/critical-canon-mailsuite-flaw-allows-remote-code-execution-attacks.md",
   "items": [
     {
-      "id": "1xuz6o2000",
-      "link": "https://cyberpress.org/gitlab-flaw-xss-dos/",
-      "filePath": "cyberpress/pages/2026/05/14/critical-gitlab-flaw-enables-xss-and-unauthenticated-dos-attacks.md",
-      "committedAt": "2026-05-14T06:00:13.921-05:00",
-      "title": "Critical GitLab Flaw Enables XSS and Unauthenticated DoS Attacks"
+      "id": "9dnklx0000",
+      "link": "https://cyberpress.org/canon-mailsuite-flaw/",
+      "filePath": "cyberpress/pages/2026/05/14/critical-canon-mailsuite-flaw-allows-remote-code-execution-attacks.md",
+      "committedAt": "2026-05-14T07:00:14.378-05:00",
+      "title": "Critical Canon MailSuite Flaw Allows Remote Code Execution Attacks"
     }
   ]
 }
