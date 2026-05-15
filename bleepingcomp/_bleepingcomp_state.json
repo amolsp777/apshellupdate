@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T12:01:05.945-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
-  "lastId": "q78o660000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/15/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft.md",
+  "updatedAt": "2026-05-15T13:01:09.499-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
+  "lastId": "ahkt150000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/15/microsoft-backpedals-edge-to-stop-loading-passwords-into-memory.md",
   "items": [
     {
-      "id": "q78o660000",
-      "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
-      "filePath": "bleepingcomp/pages/2026/05/15/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft.md",
-      "committedAt": "2026-05-15T12:01:05.945-04:00",
-      "title": "Avada Builder WordPress plugin flaws allow site credential theft"
+      "id": "ahkt150000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
+      "filePath": "bleepingcomp/pages/2026/05/15/microsoft-backpedals-edge-to-stop-loading-passwords-into-memory.md",
+      "committedAt": "2026-05-15T13:01:09.499-04:00",
+      "title": "Microsoft backpedals: Edge to stop loading passwords into memory"
     }
   ]
 }
