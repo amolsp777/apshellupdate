@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T09:00:36.853-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
-  "lastId": "tcsgnl0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/15/microsoft-to-automatically-roll-back-faulty-windows-drivers.md",
+  "updatedAt": "2026-05-15T11:00:39.028-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
+  "lastId": "sfojcs0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/15/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup.md",
   "items": [
     {
-      "id": "tcsgnl0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
-      "filePath": "bleepingcomp/pages/2026/05/15/microsoft-to-automatically-roll-back-faulty-windows-drivers.md",
-      "committedAt": "2026-05-15T09:00:36.853-04:00",
-      "title": "Microsoft to automatically roll back faulty Windows drivers"
+      "id": "sfojcs0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
+      "filePath": "bleepingcomp/pages/2026/05/15/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup.md",
+      "committedAt": "2026-05-15T11:00:39.028-04:00",
+      "title": "Microsoft Edge to stop loading cleartext passwords in memory on startup"
     }
   ]
 }
