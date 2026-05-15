@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T10:00:36.784-05:00",
-  "lastLink": "https://cyberpress.org/vmware-fusion-vulnerability/",
-  "lastId": "1m29c4v000",
-  "lastFilePath": "cyberpress/pages/2026/05/15/vmware-fusion-vulnerability-lets-attackers-escalate-privileges-to-root.md",
+  "updatedAt": "2026-05-15T11:01:03.404-05:00",
+  "lastLink": "https://cyberpress.org/zero-click-exploit-chain-for-pixel-10/",
+  "lastId": "pdjxz10000",
+  "lastFilePath": "cyberpress/pages/2026/05/15/google-project-zero-reveals-zero-click-exploit-chain-for-pixel-10.md",
   "items": [
     {
-      "id": "1m29c4v000",
-      "link": "https://cyberpress.org/vmware-fusion-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/15/vmware-fusion-vulnerability-lets-attackers-escalate-privileges-to-root.md",
-      "committedAt": "2026-05-15T10:00:36.784-05:00",
-      "title": "VMware Fusion Vulnerability Lets Attackers Escalate Privileges to Root"
+      "id": "pdjxz10000",
+      "link": "https://cyberpress.org/zero-click-exploit-chain-for-pixel-10/",
+      "filePath": "cyberpress/pages/2026/05/15/google-project-zero-reveals-zero-click-exploit-chain-for-pixel-10.md",
+      "committedAt": "2026-05-15T11:01:03.404-05:00",
+      "title": "Google Project Zero Reveals Zero-Click Exploit Chain for Pixel 10"
     }
   ]
 }
