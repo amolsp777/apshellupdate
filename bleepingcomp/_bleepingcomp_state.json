@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T13:01:09.499-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
-  "lastId": "ahkt150000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/15/microsoft-backpedals-edge-to-stop-loading-passwords-into-memory.md",
+  "updatedAt": "2026-05-15T14:00:58.755-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+  "lastId": "jyaoj00000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/15/popular-node-ipc-npm-package-compromised-to-steal-credentials.md",
   "items": [
     {
-      "id": "ahkt150000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
-      "filePath": "bleepingcomp/pages/2026/05/15/microsoft-backpedals-edge-to-stop-loading-passwords-into-memory.md",
-      "committedAt": "2026-05-15T13:01:09.499-04:00",
-      "title": "Microsoft backpedals: Edge to stop loading passwords into memory"
+      "id": "jyaoj00000",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+      "filePath": "bleepingcomp/pages/2026/05/15/popular-node-ipc-npm-package-compromised-to-steal-credentials.md",
+      "committedAt": "2026-05-15T14:00:58.755-04:00",
+      "title": "Popular node-ipc npm package compromised to steal credentials"
     }
   ]
 }
