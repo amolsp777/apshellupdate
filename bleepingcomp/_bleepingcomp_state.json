@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T16:00:59.180-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
-  "lastId": "726psj0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/15/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards.md",
+  "updatedAt": "2026-05-15T17:01:24.569-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
+  "lastId": "td9nm10000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/15/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution.md",
   "items": [
     {
-      "id": "726psj0000",
-      "link": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
-      "filePath": "bleepingcomp/pages/2026/05/15/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards.md",
-      "committedAt": "2026-05-15T16:00:59.180-04:00",
-      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards"
+      "id": "td9nm10000",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
+      "filePath": "bleepingcomp/pages/2026/05/15/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution.md",
+      "committedAt": "2026-05-15T17:01:24.569-04:00",
+      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution"
     }
   ]
 }
