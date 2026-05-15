@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T09:00:31.113-05:00",
-  "lastLink": "https://cyberpress.org/cisco-sd-wan-0-day-exploited/",
-  "lastId": "dz927k0000",
-  "lastFilePath": "cyberpress/pages/2026/05/15/cisco-catalyst-sd-wan-controller-0-day-exploited-for-admin-access.md",
+  "updatedAt": "2026-05-15T10:00:36.784-05:00",
+  "lastLink": "https://cyberpress.org/vmware-fusion-vulnerability/",
+  "lastId": "1m29c4v000",
+  "lastFilePath": "cyberpress/pages/2026/05/15/vmware-fusion-vulnerability-lets-attackers-escalate-privileges-to-root.md",
   "items": [
     {
-      "id": "dz927k0000",
-      "link": "https://cyberpress.org/cisco-sd-wan-0-day-exploited/",
-      "filePath": "cyberpress/pages/2026/05/15/cisco-catalyst-sd-wan-controller-0-day-exploited-for-admin-access.md",
-      "committedAt": "2026-05-15T09:00:31.113-05:00",
-      "title": "Cisco Catalyst SD-WAN Controller 0-Day Exploited for Admin Access"
+      "id": "1m29c4v000",
+      "link": "https://cyberpress.org/vmware-fusion-vulnerability/",
+      "filePath": "cyberpress/pages/2026/05/15/vmware-fusion-vulnerability-lets-attackers-escalate-privileges-to-root.md",
+      "committedAt": "2026-05-15T10:00:36.784-05:00",
+      "title": "VMware Fusion Vulnerability Lets Attackers Escalate Privileges to Root"
     }
   ]
 }
