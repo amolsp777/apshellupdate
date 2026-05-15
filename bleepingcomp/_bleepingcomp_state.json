@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T06:00:09.294-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-  "lastId": "1rl9me4000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/15/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks.md",
+  "updatedAt": "2026-05-15T09:00:36.853-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
+  "lastId": "tcsgnl0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/15/microsoft-to-automatically-roll-back-faulty-windows-drivers.md",
   "items": [
     {
-      "id": "1rl9me4000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/15/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks.md",
-      "committedAt": "2026-05-15T06:00:09.294-04:00",
-      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks"
+      "id": "tcsgnl0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
+      "filePath": "bleepingcomp/pages/2026/05/15/microsoft-to-automatically-roll-back-faulty-windows-drivers.md",
+      "committedAt": "2026-05-15T09:00:36.853-04:00",
+      "title": "Microsoft to automatically roll back faulty Windows drivers"
     }
   ]
 }
