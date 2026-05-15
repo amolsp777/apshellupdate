@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T15:01:03.738-05:00",
-  "lastLink": "https://cyberpress.org/amazon-quick-flaw/",
-  "lastId": "1o9h1i8000",
-  "lastFilePath": "cyberpress/pages/2026/05/14/amazon-quick-flaw-exposed-restricted-ai-chat-agents-to-unauthorized-users.md",
+  "updatedAt": "2026-05-15T02:00:35.496-05:00",
+  "lastLink": "https://cyberpress.org/malware-gains-browser-access/",
+  "lastId": "xilv3v0000",
+  "lastFilePath": "cyberpress/pages/2026/05/15/malware-framework-gains-browser-artifact-access-and-screen-control.md",
   "items": [
     {
-      "id": "1o9h1i8000",
-      "link": "https://cyberpress.org/amazon-quick-flaw/",
-      "filePath": "cyberpress/pages/2026/05/14/amazon-quick-flaw-exposed-restricted-ai-chat-agents-to-unauthorized-users.md",
-      "committedAt": "2026-05-14T15:01:03.738-05:00",
-      "title": "Amazon Quick Flaw Exposed Restricted AI Chat Agents to Unauthorized Users"
+      "id": "xilv3v0000",
+      "link": "https://cyberpress.org/malware-gains-browser-access/",
+      "filePath": "cyberpress/pages/2026/05/15/malware-framework-gains-browser-artifact-access-and-screen-control.md",
+      "committedAt": "2026-05-15T02:00:35.496-05:00",
+      "title": "Malware Framework Gains Browser Artifact Access and Screen Control"
     }
   ]
 }
