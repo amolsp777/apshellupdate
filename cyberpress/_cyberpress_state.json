@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T11:01:03.404-05:00",
-  "lastLink": "https://cyberpress.org/zero-click-exploit-chain-for-pixel-10/",
-  "lastId": "pdjxz10000",
-  "lastFilePath": "cyberpress/pages/2026/05/15/google-project-zero-reveals-zero-click-exploit-chain-for-pixel-10.md",
+  "updatedAt": "2026-05-15T12:01:07.514-05:00",
+  "lastLink": "https://cyberpress.org/amazon-redshift-jdbc-driver-flaws-enable-remote-code-execution/",
+  "lastId": "f0w20k0000",
+  "lastFilePath": "cyberpress/pages/2026/05/15/amazon-redshift-jdbc-driver-flaws-enable-remote-code-execution.md",
   "items": [
     {
-      "id": "pdjxz10000",
-      "link": "https://cyberpress.org/zero-click-exploit-chain-for-pixel-10/",
-      "filePath": "cyberpress/pages/2026/05/15/google-project-zero-reveals-zero-click-exploit-chain-for-pixel-10.md",
-      "committedAt": "2026-05-15T11:01:03.404-05:00",
-      "title": "Google Project Zero Reveals Zero-Click Exploit Chain for Pixel 10"
+      "id": "f0w20k0000",
+      "link": "https://cyberpress.org/amazon-redshift-jdbc-driver-flaws-enable-remote-code-execution/",
+      "filePath": "cyberpress/pages/2026/05/15/amazon-redshift-jdbc-driver-flaws-enable-remote-code-execution.md",
+      "committedAt": "2026-05-15T12:01:07.514-05:00",
+      "title": "Amazon Redshift JDBC Driver Flaws Enable Remote Code Execution"
     }
   ]
 }
