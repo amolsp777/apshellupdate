@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T08:00:20.019-05:00",
-  "lastLink": "https://cyberpress.org/praisonai-vulnerability/",
-  "lastId": "7v74gi0000",
-  "lastFilePath": "cyberpress/pages/2026/05/15/praisonai-vulnerability-exploited-hours-after-public-disclosure.md",
+  "updatedAt": "2026-05-15T09:00:31.113-05:00",
+  "lastLink": "https://cyberpress.org/cisco-sd-wan-0-day-exploited/",
+  "lastId": "dz927k0000",
+  "lastFilePath": "cyberpress/pages/2026/05/15/cisco-catalyst-sd-wan-controller-0-day-exploited-for-admin-access.md",
   "items": [
     {
-      "id": "7v74gi0000",
-      "link": "https://cyberpress.org/praisonai-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/15/praisonai-vulnerability-exploited-hours-after-public-disclosure.md",
-      "committedAt": "2026-05-15T08:00:20.019-05:00",
-      "title": "PraisonAI Vulnerability Exploited Hours After Public Disclosure"
+      "id": "dz927k0000",
+      "link": "https://cyberpress.org/cisco-sd-wan-0-day-exploited/",
+      "filePath": "cyberpress/pages/2026/05/15/cisco-catalyst-sd-wan-controller-0-day-exploited-for-admin-access.md",
+      "committedAt": "2026-05-15T09:00:31.113-05:00",
+      "title": "Cisco Catalyst SD-WAN Controller 0-Day Exploited for Admin Access"
     }
   ]
 }
