@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T14:00:58.755-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
-  "lastId": "jyaoj00000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/15/popular-node-ipc-npm-package-compromised-to-steal-credentials.md",
+  "updatedAt": "2026-05-15T15:01:08.786-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
+  "lastId": "1y1mork000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/15/microsoft-exchange-windows-11-hacked-on-second-day-of-pwn2own.md",
   "items": [
     {
-      "id": "jyaoj00000",
-      "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
-      "filePath": "bleepingcomp/pages/2026/05/15/popular-node-ipc-npm-package-compromised-to-steal-credentials.md",
-      "committedAt": "2026-05-15T14:00:58.755-04:00",
-      "title": "Popular node-ipc npm package compromised to steal credentials"
+      "id": "1y1mork000",
+      "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
+      "filePath": "bleepingcomp/pages/2026/05/15/microsoft-exchange-windows-11-hacked-on-second-day-of-pwn2own.md",
+      "committedAt": "2026-05-15T15:01:08.786-04:00",
+      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own"
     }
   ]
 }
