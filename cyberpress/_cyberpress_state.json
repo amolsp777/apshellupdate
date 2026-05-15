@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T02:00:35.496-05:00",
-  "lastLink": "https://cyberpress.org/malware-gains-browser-access/",
-  "lastId": "xilv3v0000",
-  "lastFilePath": "cyberpress/pages/2026/05/15/malware-framework-gains-browser-artifact-access-and-screen-control.md",
+  "updatedAt": "2026-05-15T03:00:15.624-05:00",
+  "lastLink": "https://cyberpress.org/822k-download-node-ipc-breach/",
+  "lastId": "1gr0ju5000",
+  "lastFilePath": "cyberpress/pages/2026/05/15/822k-download-node-ipc-package-compromised-in-supply-chain-breach.md",
   "items": [
     {
-      "id": "xilv3v0000",
-      "link": "https://cyberpress.org/malware-gains-browser-access/",
-      "filePath": "cyberpress/pages/2026/05/15/malware-framework-gains-browser-artifact-access-and-screen-control.md",
-      "committedAt": "2026-05-15T02:00:35.496-05:00",
-      "title": "Malware Framework Gains Browser Artifact Access and Screen Control"
+      "id": "1gr0ju5000",
+      "link": "https://cyberpress.org/822k-download-node-ipc-breach/",
+      "filePath": "cyberpress/pages/2026/05/15/822k-download-node-ipc-package-compromised-in-supply-chain-breach.md",
+      "committedAt": "2026-05-15T03:00:15.624-05:00",
+      "title": "822K-Download node-ipc Package Compromised in Supply Chain Breach"
     }
   ]
 }
