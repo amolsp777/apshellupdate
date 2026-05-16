@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T11:00:56.424-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
-  "lastId": "nbx5em0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/16/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet.md",
+  "updatedAt": "2026-05-16T17:00:30.614-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
+  "lastId": "jpyitu0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/16/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued.md",
   "items": [
     {
-      "id": "nbx5em0000",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
-      "filePath": "bleepingcomp/pages/2026/05/16/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet.md",
-      "committedAt": "2026-05-16T11:00:56.424-04:00",
-      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet"
+      "id": "jpyitu0000",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
+      "filePath": "bleepingcomp/pages/2026/05/16/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued.md",
+      "committedAt": "2026-05-16T17:00:30.614-04:00",
+      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued"
     }
   ]
 }
