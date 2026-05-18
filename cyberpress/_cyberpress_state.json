@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T04:00:35.000-05:00",
-  "lastLink": "https://cyberpress.org/funnelkit-bug-exposes-stores/",
-  "lastId": "mid8v70000",
-  "lastFilePath": "cyberpress/pages/2026/05/18/critical-funnelkit-bug-leaves-woocommerce-stores-open-to-attacks.md",
+  "updatedAt": "2026-05-18T05:00:34.459-05:00",
+  "lastLink": "https://cyberpress.org/exploit-nginx-rce-vulnerability/",
+  "lastId": "1x4edxb000",
+  "lastFilePath": "cyberpress/pages/2026/05/18/hackers-exploit-critical-nginx-rce-vulnerability-in-the-wild.md",
   "items": [
     {
-      "id": "mid8v70000",
-      "link": "https://cyberpress.org/funnelkit-bug-exposes-stores/",
-      "filePath": "cyberpress/pages/2026/05/18/critical-funnelkit-bug-leaves-woocommerce-stores-open-to-attacks.md",
-      "committedAt": "2026-05-18T04:00:35.000-05:00",
-      "title": "Critical FunnelKit Bug Leaves WooCommerce Stores Open To Attacks"
+      "id": "1x4edxb000",
+      "link": "https://cyberpress.org/exploit-nginx-rce-vulnerability/",
+      "filePath": "cyberpress/pages/2026/05/18/hackers-exploit-critical-nginx-rce-vulnerability-in-the-wild.md",
+      "committedAt": "2026-05-18T05:00:34.459-05:00",
+      "title": "Hackers Exploit Critical NGINX RCE Vulnerability in the Wild"
     }
   ]
 }
