@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T08:00:50.912-05:00",
-  "lastLink": "https://cyberpress.org/gamaredon-deploys-malware-downloaders/",
-  "lastId": "1drexcc000",
-  "lastFilePath": "cyberpress/pages/2026/05/18/gamaredon-deploys-gammadrop-and-gammaload-in-phishing-campaigns.md",
+  "updatedAt": "2026-05-18T09:00:56.261-05:00",
+  "lastLink": "https://cyberpress.org/marimo-security-vulnerability/",
+  "lastId": "lc6wge0000",
+  "lastFilePath": "cyberpress/pages/2026/05/18/marimo-security-flaw-enables-remote-code-execution-attacks.md",
   "items": [
     {
-      "id": "1drexcc000",
-      "link": "https://cyberpress.org/gamaredon-deploys-malware-downloaders/",
-      "filePath": "cyberpress/pages/2026/05/18/gamaredon-deploys-gammadrop-and-gammaload-in-phishing-campaigns.md",
-      "committedAt": "2026-05-18T08:00:50.912-05:00",
-      "title": "Gamaredon Deploys GammaDrop and GammaLoad In Phishing Campaigns"
+      "id": "lc6wge0000",
+      "link": "https://cyberpress.org/marimo-security-vulnerability/",
+      "filePath": "cyberpress/pages/2026/05/18/marimo-security-flaw-enables-remote-code-execution-attacks.md",
+      "committedAt": "2026-05-18T09:00:56.261-05:00",
+      "title": "Marimo Security Flaw Enables remote code execution Attacks"
     }
   ]
 }
