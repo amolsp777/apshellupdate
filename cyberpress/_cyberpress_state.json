@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T05:00:34.459-05:00",
-  "lastLink": "https://cyberpress.org/exploit-nginx-rce-vulnerability/",
-  "lastId": "1x4edxb000",
-  "lastFilePath": "cyberpress/pages/2026/05/18/hackers-exploit-critical-nginx-rce-vulnerability-in-the-wild.md",
+  "updatedAt": "2026-05-18T06:00:39.376-05:00",
+  "lastLink": "https://cyberpress.org/gremlin-conceals-malware-payloads/",
+  "lastId": "mw5wic0000",
+  "lastFilePath": "cyberpress/pages/2026/05/18/gremlin-stealer-abuses-net-resource-files-to-conceal-malware-payloads.md",
   "items": [
     {
-      "id": "1x4edxb000",
-      "link": "https://cyberpress.org/exploit-nginx-rce-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/18/hackers-exploit-critical-nginx-rce-vulnerability-in-the-wild.md",
-      "committedAt": "2026-05-18T05:00:34.459-05:00",
-      "title": "Hackers Exploit Critical NGINX RCE Vulnerability in the Wild"
+      "id": "mw5wic0000",
+      "link": "https://cyberpress.org/gremlin-conceals-malware-payloads/",
+      "filePath": "cyberpress/pages/2026/05/18/gremlin-stealer-abuses-net-resource-files-to-conceal-malware-payloads.md",
+      "committedAt": "2026-05-18T06:00:39.376-05:00",
+      "title": "Gremlin Stealer Abuses .NET Resource Files To Conceal Malware Payloads"
     }
   ]
 }
