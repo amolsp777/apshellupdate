@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T15:01:24.182-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
-  "lastId": "zc7kce0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/18/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees.md",
+  "updatedAt": "2026-05-18T18:00:46.719-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
+  "lastId": "apalv00000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/18/shub-macos-infostealer-variant-spoofs-apple-security-updates.md",
   "items": [
     {
-      "id": "zc7kce0000",
-      "link": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
-      "filePath": "bleepingcomp/pages/2026/05/18/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees.md",
-      "committedAt": "2026-05-18T15:01:24.182-04:00",
-      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees"
+      "id": "apalv00000",
+      "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
+      "filePath": "bleepingcomp/pages/2026/05/18/shub-macos-infostealer-variant-spoofs-apple-security-updates.md",
+      "committedAt": "2026-05-18T18:00:46.719-04:00",
+      "title": "SHub macOS infostealer variant spoofs Apple security updates"
     }
   ]
 }
