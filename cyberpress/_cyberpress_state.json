@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T06:00:39.376-05:00",
-  "lastLink": "https://cyberpress.org/gremlin-conceals-malware-payloads/",
-  "lastId": "mw5wic0000",
-  "lastFilePath": "cyberpress/pages/2026/05/18/gremlin-stealer-abuses-net-resource-files-to-conceal-malware-payloads.md",
+  "updatedAt": "2026-05-18T07:00:39.612-05:00",
+  "lastLink": "https://cyberpress.org/n8n-flaw-expose-automation-nodes/",
+  "lastId": "njk43n0000",
+  "lastFilePath": "cyberpress/pages/2026/05/18/critical-n8n-flaw-expose-automation-nodes-to-full-rce.md",
   "items": [
     {
-      "id": "mw5wic0000",
-      "link": "https://cyberpress.org/gremlin-conceals-malware-payloads/",
-      "filePath": "cyberpress/pages/2026/05/18/gremlin-stealer-abuses-net-resource-files-to-conceal-malware-payloads.md",
-      "committedAt": "2026-05-18T06:00:39.376-05:00",
-      "title": "Gremlin Stealer Abuses .NET Resource Files To Conceal Malware Payloads"
+      "id": "njk43n0000",
+      "link": "https://cyberpress.org/n8n-flaw-expose-automation-nodes/",
+      "filePath": "cyberpress/pages/2026/05/18/critical-n8n-flaw-expose-automation-nodes-to-full-rce.md",
+      "committedAt": "2026-05-18T07:00:39.612-05:00",
+      "title": "Critical n8n Flaw Expose Automation Nodes to Full RCE"
     }
   ]
 }
