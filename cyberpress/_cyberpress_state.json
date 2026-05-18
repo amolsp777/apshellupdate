@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T01:00:34.068-05:00",
-  "lastLink": "https://cyberpress.org/claude-code-rce-vulnerability/",
-  "lastId": "3b9ugk0000",
-  "lastFilePath": "cyberpress/pages/2026/05/18/claude-code-rce-vulnerability-allow-attackers-execute-commands-via-malicious-dee.md",
+  "updatedAt": "2026-05-18T02:00:50.118-05:00",
+  "lastLink": "https://cyberpress.org/apple-m5-macos-kernel-exploit-built/",
+  "lastId": "36bvtd0000",
+  "lastFilePath": "cyberpress/pages/2026/05/18/apple-m5-macos-kernel-exploit-built-in-five-days-with-mythos-preview.md",
   "items": [
     {
-      "id": "3b9ugk0000",
-      "link": "https://cyberpress.org/claude-code-rce-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/18/claude-code-rce-vulnerability-allow-attackers-execute-commands-via-malicious-dee.md",
-      "committedAt": "2026-05-18T01:00:34.068-05:00",
-      "title": "Claude Code RCE Vulnerability Allow Attackers Execute Commands via Malicious Deeplinks"
+      "id": "36bvtd0000",
+      "link": "https://cyberpress.org/apple-m5-macos-kernel-exploit-built/",
+      "filePath": "cyberpress/pages/2026/05/18/apple-m5-macos-kernel-exploit-built-in-five-days-with-mythos-preview.md",
+      "committedAt": "2026-05-18T02:00:50.118-05:00",
+      "title": "Apple M5 macOS Kernel Exploit Built in Five Days with Mythos Preview"
     }
   ]
 }
