@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T10:01:02.202-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-windows-11-update/",
-  "lastId": "250dkr0000",
-  "lastFilePath": "cyberpress/pages/2026/05/18/microsoft-confirms-windows-11-update-failure-causing-error-0x800f0922.md",
+  "updatedAt": "2026-05-18T11:01:07.180-05:00",
+  "lastLink": "https://cyberpress.org/linus-torvalds-ai-bug-reports/",
+  "lastId": "1ey21x4000",
+  "lastFilePath": "cyberpress/pages/2026/05/18/linus-torvalds-says-ai-bug-reports-overwhelm-linux-security-lists.md",
   "items": [
     {
-      "id": "250dkr0000",
-      "link": "https://cyberpress.org/microsoft-windows-11-update/",
-      "filePath": "cyberpress/pages/2026/05/18/microsoft-confirms-windows-11-update-failure-causing-error-0x800f0922.md",
-      "committedAt": "2026-05-18T10:01:02.202-05:00",
-      "title": "Microsoft Confirms Windows 11 Update Failure Causing Error 0x800f0922"
+      "id": "1ey21x4000",
+      "link": "https://cyberpress.org/linus-torvalds-ai-bug-reports/",
+      "filePath": "cyberpress/pages/2026/05/18/linus-torvalds-says-ai-bug-reports-overwhelm-linux-security-lists.md",
+      "committedAt": "2026-05-18T11:01:07.180-05:00",
+      "title": "Linus Torvalds Says AI Bug Reports Overwhelm Linux Security Lists"
     }
   ]
 }
