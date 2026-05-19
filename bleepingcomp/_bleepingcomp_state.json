@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T09:01:34.264-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
-  "lastId": "gqp2fd0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/19/webinar-the-hidden-bottlenecks-in-network-incident-response.md",
+  "updatedAt": "2026-05-19T11:00:36.311-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
+  "lastId": "1qamjgz000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/19/new-shai-hulud-malware-wave-compromises-600-npm-packages.md",
   "items": [
     {
-      "id": "gqp2fd0000",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
-      "filePath": "bleepingcomp/pages/2026/05/19/webinar-the-hidden-bottlenecks-in-network-incident-response.md",
-      "committedAt": "2026-05-19T09:01:34.264-04:00",
-      "title": "Webinar: The hidden bottlenecks in network incident response"
+      "id": "1qamjgz000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
+      "filePath": "bleepingcomp/pages/2026/05/19/new-shai-hulud-malware-wave-compromises-600-npm-packages.md",
+      "committedAt": "2026-05-19T11:00:36.311-04:00",
+      "title": "New Shai-Hulud malware wave compromises 600 npm packages"
     }
   ]
 }
