@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T19:00:40.915-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-  "lastId": "15sltfi000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/18/interpol-operation-ramz-seizes-53-malware-phishing-servers.md",
+  "updatedAt": "2026-05-19T08:00:52.647-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
+  "lastId": "jtwhf50000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/19/microsoft-confirms-patching-issues-in-restricted-windows-networks.md",
   "items": [
     {
-      "id": "15sltfi000",
-      "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-      "filePath": "bleepingcomp/pages/2026/05/18/interpol-operation-ramz-seizes-53-malware-phishing-servers.md",
-      "committedAt": "2026-05-18T19:00:40.915-04:00",
-      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers"
+      "id": "jtwhf50000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
+      "filePath": "bleepingcomp/pages/2026/05/19/microsoft-confirms-patching-issues-in-restricted-windows-networks.md",
+      "committedAt": "2026-05-19T08:00:52.647-04:00",
+      "title": "Microsoft confirms patching issues in restricted Windows networks"
     }
   ]
 }
