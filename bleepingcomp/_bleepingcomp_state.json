@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T08:00:52.647-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
-  "lastId": "jtwhf50000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/19/microsoft-confirms-patching-issues-in-restricted-windows-networks.md",
+  "updatedAt": "2026-05-19T09:01:34.264-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
+  "lastId": "gqp2fd0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/19/webinar-the-hidden-bottlenecks-in-network-incident-response.md",
   "items": [
     {
-      "id": "jtwhf50000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
-      "filePath": "bleepingcomp/pages/2026/05/19/microsoft-confirms-patching-issues-in-restricted-windows-networks.md",
-      "committedAt": "2026-05-19T08:00:52.647-04:00",
-      "title": "Microsoft confirms patching issues in restricted Windows networks"
+      "id": "gqp2fd0000",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
+      "filePath": "bleepingcomp/pages/2026/05/19/webinar-the-hidden-bottlenecks-in-network-incident-response.md",
+      "committedAt": "2026-05-19T09:01:34.264-04:00",
+      "title": "Webinar: The hidden bottlenecks in network incident response"
     }
   ]
 }
