@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T17:01:13.957-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
-  "lastId": "130reoi000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/19/discord-rolls-out-end-to-end-encryption-on-voice-video-calls.md",
+  "updatedAt": "2026-05-19T18:00:57.248-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
+  "lastId": "zgxn1v0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/19/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware.md",
   "items": [
     {
-      "id": "130reoi000",
-      "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
-      "filePath": "bleepingcomp/pages/2026/05/19/discord-rolls-out-end-to-end-encryption-on-voice-video-calls.md",
-      "committedAt": "2026-05-19T17:01:13.957-04:00",
-      "title": "Discord rolls out end-to-end encryption on voice, video calls"
+      "id": "zgxn1v0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
+      "filePath": "bleepingcomp/pages/2026/05/19/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware.md",
+      "committedAt": "2026-05-19T18:00:57.248-04:00",
+      "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware"
     }
   ]
 }
