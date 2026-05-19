@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T14:01:22.424-05:00",
-  "lastLink": "https://cyberpress.org/pawsrunner-deploys-purelogs-infostealer/",
-  "lastId": "3rzr5s0000",
-  "lastFilePath": "cyberpress/pages/2026/05/18/pawsrunner-loader-uses-steganography-to-deploy-purelogs-infostealer.md",
+  "updatedAt": "2026-05-19T01:00:39.671-05:00",
+  "lastLink": "https://cyberpress.org/mythos-preview-automates-poc-exploit/",
+  "lastId": "ua6th00000",
+  "lastFilePath": "cyberpress/pages/2026/05/19/mythos-preview-automates-poc-exploit-development-for-research.md",
   "items": [
     {
-      "id": "3rzr5s0000",
-      "link": "https://cyberpress.org/pawsrunner-deploys-purelogs-infostealer/",
-      "filePath": "cyberpress/pages/2026/05/18/pawsrunner-loader-uses-steganography-to-deploy-purelogs-infostealer.md",
-      "committedAt": "2026-05-18T14:01:22.424-05:00",
-      "title": "PawsRunner Loader Uses Steganography To Deploy PureLogs Infostealer"
+      "id": "ua6th00000",
+      "link": "https://cyberpress.org/mythos-preview-automates-poc-exploit/",
+      "filePath": "cyberpress/pages/2026/05/19/mythos-preview-automates-poc-exploit-development-for-research.md",
+      "committedAt": "2026-05-19T01:00:39.671-05:00",
+      "title": "Mythos Preview Automates PoC Exploit Development for Research"
     }
   ]
 }
