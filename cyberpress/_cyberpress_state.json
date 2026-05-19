@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T11:01:06.850-05:00",
-  "lastLink": "https://cyberpress.org/gentlemen-ransomware-targets-esxi/",
-  "lastId": "1o55t1q000",
-  "lastFilePath": "cyberpress/pages/2026/05/19/new-gentlemen-ransomware-attacks-multiple-platforms-including-esxi-and-nas.md",
+  "updatedAt": "2026-05-19T12:01:12.137-05:00",
+  "lastLink": "https://cyberpress.org/voidstealer-bypasses-chrome-protection/",
+  "lastId": "eyakks0000",
+  "lastFilePath": "cyberpress/pages/2026/05/19/voidstealer-bypasses-chrome-protection-to-steal-user-data.md",
   "items": [
     {
-      "id": "1o55t1q000",
-      "link": "https://cyberpress.org/gentlemen-ransomware-targets-esxi/",
-      "filePath": "cyberpress/pages/2026/05/19/new-gentlemen-ransomware-attacks-multiple-platforms-including-esxi-and-nas.md",
-      "committedAt": "2026-05-19T11:01:06.850-05:00",
-      "title": "New Gentlemen Ransomware Attacks Multiple Platforms Including ESXi and NAS"
+      "id": "eyakks0000",
+      "link": "https://cyberpress.org/voidstealer-bypasses-chrome-protection/",
+      "filePath": "cyberpress/pages/2026/05/19/voidstealer-bypasses-chrome-protection-to-steal-user-data.md",
+      "committedAt": "2026-05-19T12:01:12.137-05:00",
+      "title": "VoidStealer Bypasses Chrome Protection to Steal User Data"
     }
   ]
 }
