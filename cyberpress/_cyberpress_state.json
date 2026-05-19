@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T04:00:35.048-05:00",
-  "lastLink": "https://cyberpress.org/fake-google-update-malware/",
-  "lastId": "19fe49h000",
-  "lastFilePath": "cyberpress/pages/2026/05/19/fake-google-software-update-used-by-macos-malware-for-persistence.md",
+  "updatedAt": "2026-05-19T05:00:39.347-05:00",
+  "lastLink": "https://cyberpress.org/postgresql-code-execution-sql-injection/",
+  "lastId": "4art3u0000",
+  "lastFilePath": "cyberpress/pages/2026/05/19/critical-postgresql-flaws-enable-code-execution-and-sql-injection.md",
   "items": [
     {
-      "id": "19fe49h000",
-      "link": "https://cyberpress.org/fake-google-update-malware/",
-      "filePath": "cyberpress/pages/2026/05/19/fake-google-software-update-used-by-macos-malware-for-persistence.md",
-      "committedAt": "2026-05-19T04:00:35.048-05:00",
-      "title": "Fake Google Software Update Used by macOS Malware For Persistence"
+      "id": "4art3u0000",
+      "link": "https://cyberpress.org/postgresql-code-execution-sql-injection/",
+      "filePath": "cyberpress/pages/2026/05/19/critical-postgresql-flaws-enable-code-execution-and-sql-injection.md",
+      "committedAt": "2026-05-19T05:00:39.347-05:00",
+      "title": "Critical PostgreSQL Flaws Enable Code Execution and SQL Injection"
     }
   ]
 }
