@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T06:00:34.193-05:00",
-  "lastLink": "https://cyberpress.org/poc-20-year-old-postgresql/",
-  "lastId": "1yhptrb000",
-  "lastFilePath": "cyberpress/pages/2026/05/19/poc-released-for-20-year-old-postgresql-rce-flaw.md",
+  "updatedAt": "2026-05-19T07:00:50.234-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-edge-update-prevents-saved-passwords/",
+  "lastId": "33mg550000",
+  "lastFilePath": "cyberpress/pages/2026/05/19/microsoft-edge-update-prevents-saved-passwords-from-loading-at-startup.md",
   "items": [
     {
-      "id": "1yhptrb000",
-      "link": "https://cyberpress.org/poc-20-year-old-postgresql/",
-      "filePath": "cyberpress/pages/2026/05/19/poc-released-for-20-year-old-postgresql-rce-flaw.md",
-      "committedAt": "2026-05-19T06:00:34.193-05:00",
-      "title": "PoC Released for 20-Year Old PostgreSQL RCE Flaw"
+      "id": "33mg550000",
+      "link": "https://cyberpress.org/microsoft-edge-update-prevents-saved-passwords/",
+      "filePath": "cyberpress/pages/2026/05/19/microsoft-edge-update-prevents-saved-passwords-from-loading-at-startup.md",
+      "committedAt": "2026-05-19T07:00:50.234-05:00",
+      "title": "Microsoft Edge Update Prevents Saved Passwords from Loading at Startup"
     }
   ]
 }
