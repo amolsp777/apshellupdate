@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T10:01:03.059-05:00",
-  "lastLink": "https://cyberpress.org/uac-0184-abuses-bitsadmin-hta/",
-  "lastId": "upvhft0000",
-  "lastFilePath": "cyberpress/pages/2026/05/19/uac-0184-hackers-abuse-bitsadmin-and-hta-files-in-malware-campaign.md",
+  "updatedAt": "2026-05-19T11:01:06.850-05:00",
+  "lastLink": "https://cyberpress.org/gentlemen-ransomware-targets-esxi/",
+  "lastId": "1o55t1q000",
+  "lastFilePath": "cyberpress/pages/2026/05/19/new-gentlemen-ransomware-attacks-multiple-platforms-including-esxi-and-nas.md",
   "items": [
     {
-      "id": "upvhft0000",
-      "link": "https://cyberpress.org/uac-0184-abuses-bitsadmin-hta/",
-      "filePath": "cyberpress/pages/2026/05/19/uac-0184-hackers-abuse-bitsadmin-and-hta-files-in-malware-campaign.md",
-      "committedAt": "2026-05-19T10:01:03.059-05:00",
-      "title": "UAC-0184 Hackers Abuse bitsadmin and HTA Files In Malware Campaign"
+      "id": "1o55t1q000",
+      "link": "https://cyberpress.org/gentlemen-ransomware-targets-esxi/",
+      "filePath": "cyberpress/pages/2026/05/19/new-gentlemen-ransomware-attacks-multiple-platforms-including-esxi-and-nas.md",
+      "committedAt": "2026-05-19T11:01:06.850-05:00",
+      "title": "New Gentlemen Ransomware Attacks Multiple Platforms Including ESXi and NAS"
     }
   ]
 }
