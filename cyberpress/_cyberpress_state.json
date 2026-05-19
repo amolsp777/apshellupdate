@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T01:00:39.671-05:00",
-  "lastLink": "https://cyberpress.org/mythos-preview-automates-poc-exploit/",
-  "lastId": "ua6th00000",
-  "lastFilePath": "cyberpress/pages/2026/05/19/mythos-preview-automates-poc-exploit-development-for-research.md",
+  "updatedAt": "2026-05-19T02:00:40.036-05:00",
+  "lastLink": "https://cyberpress.org/seppmail-gateway-flaws-mail-traffic/",
+  "lastId": "mlh2jx0000",
+  "lastFilePath": "cyberpress/pages/2026/05/19/critical-seppmail-gateway-flaws-enable-rce-mail-traffic-theft.md",
   "items": [
     {
-      "id": "ua6th00000",
-      "link": "https://cyberpress.org/mythos-preview-automates-poc-exploit/",
-      "filePath": "cyberpress/pages/2026/05/19/mythos-preview-automates-poc-exploit-development-for-research.md",
-      "committedAt": "2026-05-19T01:00:39.671-05:00",
-      "title": "Mythos Preview Automates PoC Exploit Development for Research"
+      "id": "mlh2jx0000",
+      "link": "https://cyberpress.org/seppmail-gateway-flaws-mail-traffic/",
+      "filePath": "cyberpress/pages/2026/05/19/critical-seppmail-gateway-flaws-enable-rce-mail-traffic-theft.md",
+      "committedAt": "2026-05-19T02:00:40.036-05:00",
+      "title": "Critical SEPPmail Gateway Flaws Enable RCE, Mail Traffic Theft"
     }
   ]
 }
