@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T09:00:56.696-05:00",
-  "lastLink": "https://cyberpress.org/hijack-four-faith-routers/",
-  "lastId": "lt9dze0000",
-  "lastFilePath": "cyberpress/pages/2026/05/19/hackers-hijack-four-faith-routers-for-botnet-operations.md",
+  "updatedAt": "2026-05-19T10:01:03.059-05:00",
+  "lastLink": "https://cyberpress.org/uac-0184-abuses-bitsadmin-hta/",
+  "lastId": "upvhft0000",
+  "lastFilePath": "cyberpress/pages/2026/05/19/uac-0184-hackers-abuse-bitsadmin-and-hta-files-in-malware-campaign.md",
   "items": [
     {
-      "id": "lt9dze0000",
-      "link": "https://cyberpress.org/hijack-four-faith-routers/",
-      "filePath": "cyberpress/pages/2026/05/19/hackers-hijack-four-faith-routers-for-botnet-operations.md",
-      "committedAt": "2026-05-19T09:00:56.696-05:00",
-      "title": "Hackers Hijack Four-Faith Routers for Botnet Operations"
+      "id": "upvhft0000",
+      "link": "https://cyberpress.org/uac-0184-abuses-bitsadmin-hta/",
+      "filePath": "cyberpress/pages/2026/05/19/uac-0184-hackers-abuse-bitsadmin-and-hta-files-in-malware-campaign.md",
+      "committedAt": "2026-05-19T10:01:03.059-05:00",
+      "title": "UAC-0184 Hackers Abuse bitsadmin and HTA Files In Malware Campaign"
     }
   ]
 }
