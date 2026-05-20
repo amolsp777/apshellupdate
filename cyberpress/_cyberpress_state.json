@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T02:00:34.146-05:00",
-  "lastLink": "https://cyberpress.org/nginx-allows-remote-code-execution/",
-  "lastId": "2rwr7r0000",
-  "lastFilePath": "cyberpress/pages/2026/05/20/new-nginx-vulnerability-allows-remote-code-execution-attacks.md",
+  "updatedAt": "2026-05-20T03:00:55.729-05:00",
+  "lastLink": "https://cyberpress.org/go-typosquat-spreads-backdoor/",
+  "lastId": "10bawr3000",
+  "lastFilePath": "cyberpress/pages/2026/05/20/single-letter-go-module-typosquat-spreads-dns-based-backdoor.md",
   "items": [
     {
-      "id": "2rwr7r0000",
-      "link": "https://cyberpress.org/nginx-allows-remote-code-execution/",
-      "filePath": "cyberpress/pages/2026/05/20/new-nginx-vulnerability-allows-remote-code-execution-attacks.md",
-      "committedAt": "2026-05-20T02:00:34.146-05:00",
-      "title": "New NGINX Vulnerability Allows Remote Code Execution Attacks"
+      "id": "10bawr3000",
+      "link": "https://cyberpress.org/go-typosquat-spreads-backdoor/",
+      "filePath": "cyberpress/pages/2026/05/20/single-letter-go-module-typosquat-spreads-dns-based-backdoor.md",
+      "committedAt": "2026-05-20T03:00:55.729-05:00",
+      "title": "Single-Letter Go Module Typosquat Spreads DNS-Based Backdoor"
     }
   ]
 }
