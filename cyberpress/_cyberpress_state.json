@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T05:00:39.293-05:00",
-  "lastLink": "https://cyberpress.org/poc-code-dirtydecrypt-linux-kernel/",
-  "lastId": "1vbfxv9000",
-  "lastFilePath": "cyberpress/pages/2026/05/20/poc-exploit-published-for-dirtydecrypt-linux-kernel-flaw.md",
+  "updatedAt": "2026-05-20T06:00:34.456-05:00",
+  "lastLink": "https://cyberpress.org/pardus-linux-vulnerability/",
+  "lastId": "5y1gm00000",
+  "lastFilePath": "cyberpress/pages/2026/05/20/pardus-linux-vulnerability-allows-silent-local-root-privilege-escalation.md",
   "items": [
     {
-      "id": "1vbfxv9000",
-      "link": "https://cyberpress.org/poc-code-dirtydecrypt-linux-kernel/",
-      "filePath": "cyberpress/pages/2026/05/20/poc-exploit-published-for-dirtydecrypt-linux-kernel-flaw.md",
-      "committedAt": "2026-05-20T05:00:39.293-05:00",
-      "title": "PoC Exploit Published for DirtyDecrypt Linux Kernel Flaw"
+      "id": "5y1gm00000",
+      "link": "https://cyberpress.org/pardus-linux-vulnerability/",
+      "filePath": "cyberpress/pages/2026/05/20/pardus-linux-vulnerability-allows-silent-local-root-privilege-escalation.md",
+      "committedAt": "2026-05-20T06:00:34.456-05:00",
+      "title": "Pardus Linux Vulnerability Allows Silent Local Root Privilege Escalation"
     }
   ]
 }
