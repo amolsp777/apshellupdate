@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T08:00:34.135-05:00",
-  "lastLink": "https://cyberpress.org/exiftool-flaw-compromise-mac/",
-  "lastId": "5ljf3y0000",
-  "lastFilePath": "cyberpress/pages/2026/05/20/critical-exiftool-flaw-allow-attackers-to-compromise-your-mac-via-malicious-imag.md",
+  "updatedAt": "2026-05-20T09:00:53.634-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-durabletask-python-client-compromised/",
+  "lastId": "1n1j9f5000",
+  "lastFilePath": "cyberpress/pages/2026/05/20/microsoft-durabletask-python-client-compromised-by-teampcp.md",
   "items": [
     {
-      "id": "5ljf3y0000",
-      "link": "https://cyberpress.org/exiftool-flaw-compromise-mac/",
-      "filePath": "cyberpress/pages/2026/05/20/critical-exiftool-flaw-allow-attackers-to-compromise-your-mac-via-malicious-imag.md",
-      "committedAt": "2026-05-20T08:00:34.135-05:00",
-      "title": "Critical ExifTool Flaw Allow Attackers to Compromise Your Mac Via Malicious Image"
+      "id": "1n1j9f5000",
+      "link": "https://cyberpress.org/microsoft-durabletask-python-client-compromised/",
+      "filePath": "cyberpress/pages/2026/05/20/microsoft-durabletask-python-client-compromised-by-teampcp.md",
+      "committedAt": "2026-05-20T09:00:53.634-05:00",
+      "title": "Microsoft DurableTask Python Client Compromised by TeamPCP"
     }
   ]
 }
