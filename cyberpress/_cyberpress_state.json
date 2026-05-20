@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T10:01:03.543-05:00",
-  "lastLink": "https://cyberpress.org/gremlin-hides-exfiltration-paths/",
-  "lastId": "1k09eh0000",
-  "lastFilePath": "cyberpress/pages/2026/05/20/gremlin-stealer-uses-encrypted-resources-to-store-exfiltration-paths.md",
+  "updatedAt": "2026-05-20T11:01:08.355-05:00",
+  "lastLink": "https://cyberpress.org/graphworm-abuses-onedrive-c2/",
+  "lastId": "1et9rl0000",
+  "lastFilePath": "cyberpress/pages/2026/05/20/graphworm-malware-abuses-microsoft-onedrive-for-c2-operations.md",
   "items": [
     {
-      "id": "1k09eh0000",
-      "link": "https://cyberpress.org/gremlin-hides-exfiltration-paths/",
-      "filePath": "cyberpress/pages/2026/05/20/gremlin-stealer-uses-encrypted-resources-to-store-exfiltration-paths.md",
-      "committedAt": "2026-05-20T10:01:03.543-05:00",
-      "title": "Gremlin Stealer Uses Encrypted Resources to Store Exfiltration Paths"
+      "id": "1et9rl0000",
+      "link": "https://cyberpress.org/graphworm-abuses-onedrive-c2/",
+      "filePath": "cyberpress/pages/2026/05/20/graphworm-malware-abuses-microsoft-onedrive-for-c2-operations.md",
+      "committedAt": "2026-05-20T11:01:08.355-05:00",
+      "title": "GraphWorm Malware Abuses Microsoft OneDrive For C2 Operations"
     }
   ]
 }
