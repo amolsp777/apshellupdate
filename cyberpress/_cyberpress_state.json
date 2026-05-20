@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T07:00:50.890-05:00",
-  "lastLink": "https://cyberpress.org/fox-tempest-abused-microsoft-artifact-signing/",
-  "lastId": "1rckx91000",
-  "lastFilePath": "cyberpress/pages/2026/05/20/fox-tempest-abused-microsoft-artifact-signing-to-certify-malware.md",
+  "updatedAt": "2026-05-20T08:00:34.135-05:00",
+  "lastLink": "https://cyberpress.org/exiftool-flaw-compromise-mac/",
+  "lastId": "5ljf3y0000",
+  "lastFilePath": "cyberpress/pages/2026/05/20/critical-exiftool-flaw-allow-attackers-to-compromise-your-mac-via-malicious-imag.md",
   "items": [
     {
-      "id": "1rckx91000",
-      "link": "https://cyberpress.org/fox-tempest-abused-microsoft-artifact-signing/",
-      "filePath": "cyberpress/pages/2026/05/20/fox-tempest-abused-microsoft-artifact-signing-to-certify-malware.md",
-      "committedAt": "2026-05-20T07:00:50.890-05:00",
-      "title": "Fox Tempest Abused Microsoft Artifact Signing to Certify Malware"
+      "id": "5ljf3y0000",
+      "link": "https://cyberpress.org/exiftool-flaw-compromise-mac/",
+      "filePath": "cyberpress/pages/2026/05/20/critical-exiftool-flaw-allow-attackers-to-compromise-your-mac-via-malicious-imag.md",
+      "committedAt": "2026-05-20T08:00:34.135-05:00",
+      "title": "Critical ExifTool Flaw Allow Attackers to Compromise Your Mac Via Malicious Image"
     }
   ]
 }
