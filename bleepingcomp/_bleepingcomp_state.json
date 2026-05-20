@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T02:00:52.138-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-  "lastId": "1l10nxv000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/20/github-investigates-internal-repositories-breach-claimed-by-teampcp.md",
+  "updatedAt": "2026-05-20T04:00:52.246-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+  "lastId": "1cwp88s000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/20/microsoft-shares-mitigation-for-yellowkey-windows-zero-day.md",
   "items": [
     {
-      "id": "1l10nxv000",
-      "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-      "filePath": "bleepingcomp/pages/2026/05/20/github-investigates-internal-repositories-breach-claimed-by-teampcp.md",
-      "committedAt": "2026-05-20T02:00:52.138-04:00",
-      "title": "GitHub investigates internal repositories breach claimed by TeamPCP"
+      "id": "1cwp88s000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+      "filePath": "bleepingcomp/pages/2026/05/20/microsoft-shares-mitigation-for-yellowkey-windows-zero-day.md",
+      "committedAt": "2026-05-20T04:00:52.246-04:00",
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day"
     }
   ]
 }
