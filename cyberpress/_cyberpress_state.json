@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T13:01:18.293-05:00",
-  "lastLink": "https://cyberpress.org/void-botnet-ethereum-c2/",
-  "lastId": "uw8y900000",
-  "lastFilePath": "cyberpress/pages/2026/05/20/ethereum-smart-contracts-power-void-botnets-seizure-resistant-c2-network.md",
+  "updatedAt": "2026-05-20T14:01:22.754-05:00",
+  "lastLink": "https://cyberpress.org/nvidia-triton-server-flaw/",
+  "lastId": "k1ei000000",
+  "lastFilePath": "cyberpress/pages/2026/05/20/nvidia-triton-server-flaw-enables-authentication-bypass-attacks.md",
   "items": [
     {
-      "id": "uw8y900000",
-      "link": "https://cyberpress.org/void-botnet-ethereum-c2/",
-      "filePath": "cyberpress/pages/2026/05/20/ethereum-smart-contracts-power-void-botnets-seizure-resistant-c2-network.md",
-      "committedAt": "2026-05-20T13:01:18.293-05:00",
-      "title": "Ethereum Smart Contracts Power Void Botnet’s Seizure-Resistant C2 Network"
+      "id": "k1ei000000",
+      "link": "https://cyberpress.org/nvidia-triton-server-flaw/",
+      "filePath": "cyberpress/pages/2026/05/20/nvidia-triton-server-flaw-enables-authentication-bypass-attacks.md",
+      "committedAt": "2026-05-20T14:01:22.754-05:00",
+      "title": "NVIDIA Triton Server Flaw Enables Authentication Bypass Attacks"
     }
   ]
 }
