@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T19:01:12.891-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
-  "lastId": "1rulzoz000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/19/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking.md",
+  "updatedAt": "2026-05-19T20:01:28.570-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
+  "lastId": "7xuywj0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/19/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks.md",
   "items": [
     {
-      "id": "1rulzoz000",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
-      "filePath": "bleepingcomp/pages/2026/05/19/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking.md",
-      "committedAt": "2026-05-19T19:01:12.891-04:00",
-      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking"
+      "id": "7xuywj0000",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/19/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks.md",
+      "committedAt": "2026-05-19T20:01:28.570-04:00",
+      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks"
     }
   ]
 }
