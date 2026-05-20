@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T05:00:47.026-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-  "lastId": "1eftg9e000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/20/github-confirms-breach-of-3800-repos-via-malicious-vscode-extension.md",
+  "updatedAt": "2026-05-20T07:00:46.779-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+  "lastId": "1vtntj7000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/20/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw.md",
   "items": [
     {
-      "id": "1eftg9e000",
-      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "filePath": "bleepingcomp/pages/2026/05/20/github-confirms-breach-of-3800-repos-via-malicious-vscode-extension.md",
-      "committedAt": "2026-05-20T05:00:47.026-04:00",
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension"
+      "id": "1vtntj7000",
+      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+      "filePath": "bleepingcomp/pages/2026/05/20/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw.md",
+      "committedAt": "2026-05-20T07:00:46.779-04:00",
+      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw"
     }
   ]
 }
