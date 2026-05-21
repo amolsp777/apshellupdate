@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T14:01:30.864-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
-  "lastId": "nab3iz0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/21/max-severity-cisco-secure-workload-flaw-gives-site-admin-privileges.md",
+  "updatedAt": "2026-05-21T15:01:14.298-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+  "lastId": "gcrb4j0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/21/google-accidentally-exposed-details-of-unfixed-chromium-flaw.md",
   "items": [
     {
-      "id": "nab3iz0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
-      "filePath": "bleepingcomp/pages/2026/05/21/max-severity-cisco-secure-workload-flaw-gives-site-admin-privileges.md",
-      "committedAt": "2026-05-21T14:01:30.864-04:00",
-      "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges"
+      "id": "gcrb4j0000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+      "filePath": "bleepingcomp/pages/2026/05/21/google-accidentally-exposed-details-of-unfixed-chromium-flaw.md",
+      "committedAt": "2026-05-21T15:01:14.298-04:00",
+      "title": "Google accidentally exposed details of unfixed Chromium flaw"
     }
   ]
 }
