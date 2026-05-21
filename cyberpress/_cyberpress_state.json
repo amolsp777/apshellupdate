@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T13:01:17.504-05:00",
-  "lastLink": "https://cyberpress.org/fake-invitations-steal-credentials/",
-  "lastId": "1uljey7000",
-  "lastFilePath": "cyberpress/pages/2026/05/21/credential-theft-campaign-uses-fake-invitations-to-target-us-firms.md",
+  "updatedAt": "2026-05-21T14:01:23.180-05:00",
+  "lastLink": "https://cyberpress.org/ghosttree-attack-edr-tools/",
+  "lastId": "1jyoqd3000",
+  "lastFilePath": "cyberpress/pages/2026/05/21/ghosttree-attack-causes-edr-tools-to-hang-skip-file-scans.md",
   "items": [
     {
-      "id": "1uljey7000",
-      "link": "https://cyberpress.org/fake-invitations-steal-credentials/",
-      "filePath": "cyberpress/pages/2026/05/21/credential-theft-campaign-uses-fake-invitations-to-target-us-firms.md",
-      "committedAt": "2026-05-21T13:01:17.504-05:00",
-      "title": "Credential Theft Campaign Uses Fake Invitations To Target U.S. Firms"
+      "id": "1jyoqd3000",
+      "link": "https://cyberpress.org/ghosttree-attack-edr-tools/",
+      "filePath": "cyberpress/pages/2026/05/21/ghosttree-attack-causes-edr-tools-to-hang-skip-file-scans.md",
+      "committedAt": "2026-05-21T14:01:23.180-05:00",
+      "title": "GhostTree Attack Causes EDR Tools to Hang, Skip File Scans"
     }
   ]
 }
