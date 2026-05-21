@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T04:00:36.663-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
-  "lastId": "xgbb3y0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/21/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks.md",
+  "updatedAt": "2026-05-21T07:01:25.549-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
+  "lastId": "1kfedva000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/21/flipper-one-project-needs-community-help-to-build-open-linux-platform.md",
   "items": [
     {
-      "id": "xgbb3y0000",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/21/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks.md",
-      "committedAt": "2026-05-21T04:00:36.663-04:00",
-      "title": "Microsoft warns of new Defender zero-days exploited in attacks"
+      "id": "1kfedva000",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
+      "filePath": "bleepingcomp/pages/2026/05/21/flipper-one-project-needs-community-help-to-build-open-linux-platform.md",
+      "committedAt": "2026-05-21T07:01:25.549-04:00",
+      "title": "Flipper One project needs community help to build open Linux platform"
     }
   ]
 }
