@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T05:00:35.073-05:00",
-  "lastLink": "https://cyberpress.org/nginx-0-day-nginx-poolslip-exposes/",
-  "lastId": "1fyzyfo000",
-  "lastFilePath": "cyberpress/pages/2026/05/21/new-nginx-0-day-nginx-poolslip-exposes-millions-to-rce.md",
+  "updatedAt": "2026-05-21T06:00:33.894-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-defender-zero-day-exploited/",
+  "lastId": "17jq7td000",
+  "lastFilePath": "cyberpress/pages/2026/05/21/hackers-exploit-microsoft-defender-0-day-flaws-to-launch-active-attacks.md",
   "items": [
     {
-      "id": "1fyzyfo000",
-      "link": "https://cyberpress.org/nginx-0-day-nginx-poolslip-exposes/",
-      "filePath": "cyberpress/pages/2026/05/21/new-nginx-0-day-nginx-poolslip-exposes-millions-to-rce.md",
-      "committedAt": "2026-05-21T05:00:35.073-05:00",
-      "title": "New NGINX 0-Day “nginx-poolslip” Exposes Millions to RCE"
+      "id": "17jq7td000",
+      "link": "https://cyberpress.org/microsoft-defender-zero-day-exploited/",
+      "filePath": "cyberpress/pages/2026/05/21/hackers-exploit-microsoft-defender-0-day-flaws-to-launch-active-attacks.md",
+      "committedAt": "2026-05-21T06:00:33.894-05:00",
+      "title": "Hackers Exploit Microsoft Defender 0-Day Flaws To Launch Active Attacks"
     }
   ]
 }
