@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T03:00:34.123-05:00",
-  "lastLink": "https://cyberpress.org/grafana-breach-exposes-npm/",
-  "lastId": "vgxs5o0000",
-  "lastFilePath": "cyberpress/pages/2026/05/21/grafana-github-breach-raises-alarm-over-tanstack-npm-supply-chain-threat.md",
+  "updatedAt": "2026-05-21T04:00:33.901-05:00",
+  "lastLink": "https://cyberpress.org/chrome-remote-code-execution/",
+  "lastId": "l1t4tr0000",
+  "lastFilePath": "cyberpress/pages/2026/05/21/chrome-flaw-enable-remote-code-execution-patch-now.md",
   "items": [
     {
-      "id": "vgxs5o0000",
-      "link": "https://cyberpress.org/grafana-breach-exposes-npm/",
-      "filePath": "cyberpress/pages/2026/05/21/grafana-github-breach-raises-alarm-over-tanstack-npm-supply-chain-threat.md",
-      "committedAt": "2026-05-21T03:00:34.123-05:00",
-      "title": "Grafana GitHub Breach Raises Alarm Over TanStack npm Supply Chain Threat"
+      "id": "l1t4tr0000",
+      "link": "https://cyberpress.org/chrome-remote-code-execution/",
+      "filePath": "cyberpress/pages/2026/05/21/chrome-flaw-enable-remote-code-execution-patch-now.md",
+      "committedAt": "2026-05-21T04:00:33.901-05:00",
+      "title": "Chrome Flaw Enable Remote Code Execution – Patch Now"
     }
   ]
 }
