@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T07:00:34.620-05:00",
-  "lastLink": "https://cyberpress.org/drupal-core-vulnerability/",
-  "lastId": "l8vunk0000",
-  "lastFilePath": "cyberpress/pages/2026/05/21/critical-drupal-core-vulnerability-exposes-websites-to-attacks.md",
+  "updatedAt": "2026-05-21T08:00:51.682-05:00",
+  "lastLink": "https://cyberpress.org/tamperedchef-abuses-signed-apps/",
+  "lastId": "bmkb4t0000",
+  "lastFilePath": "cyberpress/pages/2026/05/21/tamperedchef-malware-abuses-signed-productivity-apps-to-deliver-stealers.md",
   "items": [
     {
-      "id": "l8vunk0000",
-      "link": "https://cyberpress.org/drupal-core-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/21/critical-drupal-core-vulnerability-exposes-websites-to-attacks.md",
-      "committedAt": "2026-05-21T07:00:34.620-05:00",
-      "title": "Critical Drupal Core Vulnerability Exposes Websites to Attacks"
+      "id": "bmkb4t0000",
+      "link": "https://cyberpress.org/tamperedchef-abuses-signed-apps/",
+      "filePath": "cyberpress/pages/2026/05/21/tamperedchef-malware-abuses-signed-productivity-apps-to-deliver-stealers.md",
+      "committedAt": "2026-05-21T08:00:51.682-05:00",
+      "title": "TamperedChef Malware Abuses Signed Productivity Apps To Deliver Stealers"
     }
   ]
 }
