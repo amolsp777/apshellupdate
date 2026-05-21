@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T19:01:12.897-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-  "lastId": "19oxcan000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/20/ukraine-identifies-infostealer-operator-tied-to-28000-stolen-accounts.md",
+  "updatedAt": "2026-05-21T03:00:35.910-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+  "lastId": "1j4yev2000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/21/github-links-repo-breach-to-tanstack-npm-supply-chain-attack.md",
   "items": [
     {
-      "id": "19oxcan000",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-      "filePath": "bleepingcomp/pages/2026/05/20/ukraine-identifies-infostealer-operator-tied-to-28000-stolen-accounts.md",
-      "committedAt": "2026-05-20T19:01:12.897-04:00",
-      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts"
+      "id": "1j4yev2000",
+      "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+      "filePath": "bleepingcomp/pages/2026/05/21/github-links-repo-breach-to-tanstack-npm-supply-chain-attack.md",
+      "committedAt": "2026-05-21T03:00:35.910-04:00",
+      "title": "GitHub links repo breach to TanStack npm supply-chain attack"
     }
   ]
 }
