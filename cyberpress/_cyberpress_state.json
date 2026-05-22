@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T06:00:34.409-05:00",
-  "lastLink": "https://cyberpress.org/cisa-exploited-microsoft-defender-0-day/",
-  "lastId": "y8g7pn0000",
-  "lastFilePath": "cyberpress/pages/2026/05/22/cisa-warns-of-exploited-microsoft-defender-0-day-flaws.md",
+  "updatedAt": "2026-05-22T07:00:34.063-05:00",
+  "lastLink": "https://cyberpress.org/langflow-known-exploited-vulnerabilities/",
+  "lastId": "1oo8spb000",
+  "lastFilePath": "cyberpress/pages/2026/05/22/cisa-adds-langflow-vulnerability-to-known-exploited-vulnerabilities-catalog.md",
   "items": [
     {
-      "id": "y8g7pn0000",
-      "link": "https://cyberpress.org/cisa-exploited-microsoft-defender-0-day/",
-      "filePath": "cyberpress/pages/2026/05/22/cisa-warns-of-exploited-microsoft-defender-0-day-flaws.md",
-      "committedAt": "2026-05-22T06:00:34.409-05:00",
-      "title": "CISA Warns of Exploited Microsoft Defender 0-Day Flaws"
+      "id": "1oo8spb000",
+      "link": "https://cyberpress.org/langflow-known-exploited-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/05/22/cisa-adds-langflow-vulnerability-to-known-exploited-vulnerabilities-catalog.md",
+      "committedAt": "2026-05-22T07:00:34.063-05:00",
+      "title": "CISA adds Langflow Vulnerability to Known Exploited Vulnerabilities Catalog"
     }
   ]
 }
