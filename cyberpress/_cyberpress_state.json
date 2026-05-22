@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T07:00:34.063-05:00",
-  "lastLink": "https://cyberpress.org/langflow-known-exploited-vulnerabilities/",
-  "lastId": "1oo8spb000",
-  "lastFilePath": "cyberpress/pages/2026/05/22/cisa-adds-langflow-vulnerability-to-known-exploited-vulnerabilities-catalog.md",
+  "updatedAt": "2026-05-22T08:00:40.281-05:00",
+  "lastLink": "https://cyberpress.org/google-exploit-code-unfixed-chromium/",
+  "lastId": "1huw7v8000",
+  "lastFilePath": "cyberpress/pages/2026/05/22/google-publishes-exploit-code-for-unfixed-chromium-vulnerability.md",
   "items": [
     {
-      "id": "1oo8spb000",
-      "link": "https://cyberpress.org/langflow-known-exploited-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/05/22/cisa-adds-langflow-vulnerability-to-known-exploited-vulnerabilities-catalog.md",
-      "committedAt": "2026-05-22T07:00:34.063-05:00",
-      "title": "CISA adds Langflow Vulnerability to Known Exploited Vulnerabilities Catalog"
+      "id": "1huw7v8000",
+      "link": "https://cyberpress.org/google-exploit-code-unfixed-chromium/",
+      "filePath": "cyberpress/pages/2026/05/22/google-publishes-exploit-code-for-unfixed-chromium-vulnerability.md",
+      "committedAt": "2026-05-22T08:00:40.281-05:00",
+      "title": "Google Publishes Exploit Code for Unfixed Chromium Vulnerability"
     }
   ]
 }
