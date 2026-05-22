@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T04:00:34.459-05:00",
-  "lastLink": "https://cyberpress.org/russian-hackers-exploit-access/",
-  "lastId": "3yj8j70000",
-  "lastFilePath": "cyberpress/pages/2026/05/22/russian-hackers-exploit-rdp-and-vpns-to-breach-target-networks.md",
+  "updatedAt": "2026-05-22T05:00:45.441-05:00",
+  "lastLink": "https://cyberpress.org/megalodon-malware-compromised/",
+  "lastId": "pb9i4c0000",
+  "lastFilePath": "cyberpress/pages/2026/05/22/megalodon-malware-compromised-5500-github-repositories.md",
   "items": [
     {
-      "id": "3yj8j70000",
-      "link": "https://cyberpress.org/russian-hackers-exploit-access/",
-      "filePath": "cyberpress/pages/2026/05/22/russian-hackers-exploit-rdp-and-vpns-to-breach-target-networks.md",
-      "committedAt": "2026-05-22T04:00:34.459-05:00",
-      "title": "Russian Hackers Exploit RDP and VPNs to Breach Target Networks"
+      "id": "pb9i4c0000",
+      "link": "https://cyberpress.org/megalodon-malware-compromised/",
+      "filePath": "cyberpress/pages/2026/05/22/megalodon-malware-compromised-5500-github-repositories.md",
+      "committedAt": "2026-05-22T05:00:45.441-05:00",
+      "title": "Megalodon Malware Compromised 5,500+ GitHub Repositories."
     }
   ]
 }
