@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T03:00:40.241-05:00",
-  "lastLink": "https://cyberpress.org/hugging-face-hosts-malware/",
-  "lastId": "1cifel9000",
-  "lastFilePath": "cyberpress/pages/2026/05/22/npm-supply-chain-attack-uses-hugging-face-for-second-stage-malware.md",
+  "updatedAt": "2026-05-22T04:00:34.459-05:00",
+  "lastLink": "https://cyberpress.org/russian-hackers-exploit-access/",
+  "lastId": "3yj8j70000",
+  "lastFilePath": "cyberpress/pages/2026/05/22/russian-hackers-exploit-rdp-and-vpns-to-breach-target-networks.md",
   "items": [
     {
-      "id": "1cifel9000",
-      "link": "https://cyberpress.org/hugging-face-hosts-malware/",
-      "filePath": "cyberpress/pages/2026/05/22/npm-supply-chain-attack-uses-hugging-face-for-second-stage-malware.md",
-      "committedAt": "2026-05-22T03:00:40.241-05:00",
-      "title": "npm Supply Chain Attack Uses Hugging Face For Second-Stage Malware"
+      "id": "3yj8j70000",
+      "link": "https://cyberpress.org/russian-hackers-exploit-access/",
+      "filePath": "cyberpress/pages/2026/05/22/russian-hackers-exploit-rdp-and-vpns-to-breach-target-networks.md",
+      "committedAt": "2026-05-22T04:00:34.459-05:00",
+      "title": "Russian Hackers Exploit RDP and VPNs to Breach Target Networks"
     }
   ]
 }
