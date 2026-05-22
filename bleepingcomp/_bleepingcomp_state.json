@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T15:01:14.298-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
-  "lastId": "gcrb4j0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/21/google-accidentally-exposed-details-of-unfixed-chromium-flaw.md",
+  "updatedAt": "2026-05-22T06:00:41.639-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+  "lastId": "33ldg30000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/22/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin.md",
   "items": [
     {
-      "id": "gcrb4j0000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
-      "filePath": "bleepingcomp/pages/2026/05/21/google-accidentally-exposed-details-of-unfixed-chromium-flaw.md",
-      "committedAt": "2026-05-21T15:01:14.298-04:00",
-      "title": "Google accidentally exposed details of unfixed Chromium flaw"
+      "id": "33ldg30000",
+      "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+      "filePath": "bleepingcomp/pages/2026/05/22/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin.md",
+      "committedAt": "2026-05-22T06:00:41.639-04:00",
+      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin"
     }
   ]
 }
