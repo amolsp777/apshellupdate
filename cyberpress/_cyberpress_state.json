@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T05:00:45.441-05:00",
-  "lastLink": "https://cyberpress.org/megalodon-malware-compromised/",
-  "lastId": "pb9i4c0000",
-  "lastFilePath": "cyberpress/pages/2026/05/22/megalodon-malware-compromised-5500-github-repositories.md",
+  "updatedAt": "2026-05-22T06:00:34.409-05:00",
+  "lastLink": "https://cyberpress.org/cisa-exploited-microsoft-defender-0-day/",
+  "lastId": "y8g7pn0000",
+  "lastFilePath": "cyberpress/pages/2026/05/22/cisa-warns-of-exploited-microsoft-defender-0-day-flaws.md",
   "items": [
     {
-      "id": "pb9i4c0000",
-      "link": "https://cyberpress.org/megalodon-malware-compromised/",
-      "filePath": "cyberpress/pages/2026/05/22/megalodon-malware-compromised-5500-github-repositories.md",
-      "committedAt": "2026-05-22T05:00:45.441-05:00",
-      "title": "Megalodon Malware Compromised 5,500+ GitHub Repositories."
+      "id": "y8g7pn0000",
+      "link": "https://cyberpress.org/cisa-exploited-microsoft-defender-0-day/",
+      "filePath": "cyberpress/pages/2026/05/22/cisa-warns-of-exploited-microsoft-defender-0-day-flaws.md",
+      "committedAt": "2026-05-22T06:00:34.409-05:00",
+      "title": "CISA Warns of Exploited Microsoft Defender 0-Day Flaws"
     }
   ]
 }
