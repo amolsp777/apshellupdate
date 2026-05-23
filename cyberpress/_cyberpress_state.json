@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T06:00:39.785-05:00",
-  "lastLink": "https://cyberpress.org/exploit-f5-big-ip-ssh-access/",
-  "lastId": "13u5eep000",
-  "lastFilePath": "cyberpress/pages/2026/05/23/hackers-exploit-f5-big-ip-ssh-access-to-compromise-active-directory.md",
+  "updatedAt": "2026-05-23T07:00:33.783-05:00",
+  "lastLink": "https://cyberpress.org/ubiquiti-unifi-os-privilege-escalation/",
+  "lastId": "tsntqc0000",
+  "lastFilePath": "cyberpress/pages/2026/05/23/ubiquiti-issues-patches-for-critical-unifi-os-privilege-escalation-vulnerabiliti.md",
   "items": [
     {
-      "id": "13u5eep000",
-      "link": "https://cyberpress.org/exploit-f5-big-ip-ssh-access/",
-      "filePath": "cyberpress/pages/2026/05/23/hackers-exploit-f5-big-ip-ssh-access-to-compromise-active-directory.md",
-      "committedAt": "2026-05-23T06:00:39.785-05:00",
-      "title": "Hackers Exploit F5 BIG-IP SSH Access to Compromise Active Directory"
+      "id": "tsntqc0000",
+      "link": "https://cyberpress.org/ubiquiti-unifi-os-privilege-escalation/",
+      "filePath": "cyberpress/pages/2026/05/23/ubiquiti-issues-patches-for-critical-unifi-os-privilege-escalation-vulnerabiliti.md",
+      "committedAt": "2026-05-23T07:00:33.783-05:00",
+      "title": "Ubiquiti Issues Patches for Critical UniFi OS Privilege Escalation Vulnerabilities"
     }
   ]
 }
