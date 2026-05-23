@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T14:01:23.136-05:00",
-  "lastLink": "https://cyberpress.org/fbi-kali365-attacks-microsoft-365-users/",
-  "lastId": "12jiz5o000",
-  "lastFilePath": "cyberpress/pages/2026/05/22/fbi-warns-of-kali365-attacks-targeting-microsoft-365-users-to-steal-logins.md",
+  "updatedAt": "2026-05-23T02:00:39.422-05:00",
+  "lastLink": "https://cyberpress.org/claude-mythos-preview-0-day/",
+  "lastId": "4wzyp90000",
+  "lastFilePath": "cyberpress/pages/2026/05/23/claude-mythos-preview-identifies-thousands-of-0-day-vulnerabilities.md",
   "items": [
     {
-      "id": "12jiz5o000",
-      "link": "https://cyberpress.org/fbi-kali365-attacks-microsoft-365-users/",
-      "filePath": "cyberpress/pages/2026/05/22/fbi-warns-of-kali365-attacks-targeting-microsoft-365-users-to-steal-logins.md",
-      "committedAt": "2026-05-22T14:01:23.136-05:00",
-      "title": "FBI Warns of Kali365 Attacks Targeting Microsoft 365 Users to Steal Logins"
+      "id": "4wzyp90000",
+      "link": "https://cyberpress.org/claude-mythos-preview-0-day/",
+      "filePath": "cyberpress/pages/2026/05/23/claude-mythos-preview-identifies-thousands-of-0-day-vulnerabilities.md",
+      "committedAt": "2026-05-23T02:00:39.422-05:00",
+      "title": "Claude Mythos Preview Identifies Thousands of 0-Day Vulnerabilities"
     }
   ]
 }
