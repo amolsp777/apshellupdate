@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T14:01:08.860-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
-  "lastId": "z4yita0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/22/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks.md",
+  "updatedAt": "2026-05-23T11:01:01.802-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
+  "lastId": "1kjuc86000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/23/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes.md",
   "items": [
     {
-      "id": "z4yita0000",
-      "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
-      "filePath": "bleepingcomp/pages/2026/05/22/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks.md",
-      "committedAt": "2026-05-22T14:01:08.860-04:00",
-      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks"
+      "id": "1kjuc86000",
+      "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
+      "filePath": "bleepingcomp/pages/2026/05/23/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes.md",
+      "committedAt": "2026-05-23T11:01:01.802-04:00",
+      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes"
     }
   ]
 }
