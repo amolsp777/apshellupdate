@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T09:01:06.021-05:00",
-  "lastLink": "https://cyberpress.org/laravel-lang-packages-compromised/",
-  "lastId": "d5gs5c0000",
-  "lastFilePath": "cyberpress/pages/2026/05/23/threat-actor-compromised-233-versions-of-laravel-lang-packages-by-hacking-700-gi.md",
+  "updatedAt": "2026-05-23T10:01:21.355-05:00",
+  "lastLink": "https://cyberpress.org/seo-poisoning-gemini-claude-installers/",
+  "lastId": "12p8emo000",
+  "lastFilePath": "cyberpress/pages/2026/05/23/attackers-abuse-seo-poisoning-to-spread-fake-gemini-and-claude-installers.md",
   "items": [
     {
-      "id": "d5gs5c0000",
-      "link": "https://cyberpress.org/laravel-lang-packages-compromised/",
-      "filePath": "cyberpress/pages/2026/05/23/threat-actor-compromised-233-versions-of-laravel-lang-packages-by-hacking-700-gi.md",
-      "committedAt": "2026-05-23T09:01:06.021-05:00",
-      "title": "Threat Actor Compromised 233 Versions of Laravel-Lang Packages by Hacking 700 GitHub Repos"
+      "id": "12p8emo000",
+      "link": "https://cyberpress.org/seo-poisoning-gemini-claude-installers/",
+      "filePath": "cyberpress/pages/2026/05/23/attackers-abuse-seo-poisoning-to-spread-fake-gemini-and-claude-installers.md",
+      "committedAt": "2026-05-23T10:01:21.355-05:00",
+      "title": "Attackers Abuse SEO Poisoning to Spread Fake Gemini and Claude Installers"
     }
   ]
 }
