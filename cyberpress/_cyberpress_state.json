@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T08:00:44.477-05:00",
-  "lastLink": "https://cyberpress.org/litespeed-cpanel-plugin-zero-day-exploited/",
-  "lastId": "rbecph0000",
-  "lastFilePath": "cyberpress/pages/2026/05/23/litespeed-cpanel-plugin-zero-day-exploited-for-full-server-root-access.md",
+  "updatedAt": "2026-05-23T09:01:06.021-05:00",
+  "lastLink": "https://cyberpress.org/laravel-lang-packages-compromised/",
+  "lastId": "d5gs5c0000",
+  "lastFilePath": "cyberpress/pages/2026/05/23/threat-actor-compromised-233-versions-of-laravel-lang-packages-by-hacking-700-gi.md",
   "items": [
     {
-      "id": "rbecph0000",
-      "link": "https://cyberpress.org/litespeed-cpanel-plugin-zero-day-exploited/",
-      "filePath": "cyberpress/pages/2026/05/23/litespeed-cpanel-plugin-zero-day-exploited-for-full-server-root-access.md",
-      "committedAt": "2026-05-23T08:00:44.477-05:00",
-      "title": "LiteSpeed cPanel Plugin Zero-Day Exploited for Full Server Root Access."
+      "id": "d5gs5c0000",
+      "link": "https://cyberpress.org/laravel-lang-packages-compromised/",
+      "filePath": "cyberpress/pages/2026/05/23/threat-actor-compromised-233-versions-of-laravel-lang-packages-by-hacking-700-gi.md",
+      "committedAt": "2026-05-23T09:01:06.021-05:00",
+      "title": "Threat Actor Compromised 233 Versions of Laravel-Lang Packages by Hacking 700 GitHub Repos"
     }
   ]
 }
