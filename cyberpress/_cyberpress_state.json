@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T06:00:44.999-05:00",
-  "lastLink": "https://cyberpress.org/hackers-patch-rdp-sessions/",
-  "lastId": "r1g93a0000",
-  "lastFilePath": "cyberpress/pages/2026/05/25/hackers-patch-termsrvdll-to-maintain-multiple-rdp-sessions-on-victim-hosts.md",
+  "updatedAt": "2026-05-25T07:00:51.384-05:00",
+  "lastLink": "https://cyberpress.org/hackers-abuse-seo-poisoning/",
+  "lastId": "1bnwamb000",
+  "lastFilePath": "cyberpress/pages/2026/05/25/hackers-abuse-seo-poisoning-to-spread-fake-sql-developer-malware.md",
   "items": [
     {
-      "id": "r1g93a0000",
-      "link": "https://cyberpress.org/hackers-patch-rdp-sessions/",
-      "filePath": "cyberpress/pages/2026/05/25/hackers-patch-termsrvdll-to-maintain-multiple-rdp-sessions-on-victim-hosts.md",
-      "committedAt": "2026-05-25T06:00:44.999-05:00",
-      "title": "Hackers Patch termsrv.dll to Maintain Multiple RDP Sessions On Victim Hosts"
+      "id": "1bnwamb000",
+      "link": "https://cyberpress.org/hackers-abuse-seo-poisoning/",
+      "filePath": "cyberpress/pages/2026/05/25/hackers-abuse-seo-poisoning-to-spread-fake-sql-developer-malware.md",
+      "committedAt": "2026-05-25T07:00:51.384-05:00",
+      "title": "Hackers Abuse SEO Poisoning To Spread Fake SQL Developer Malware"
     }
   ]
 }
