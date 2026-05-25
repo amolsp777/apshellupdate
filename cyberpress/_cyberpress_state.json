@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T12:01:16.913-05:00",
-  "lastLink": "https://cyberpress.org/actively-scan-sonicwall-firewalls/",
-  "lastId": "1in76hc000",
-  "lastFilePath": "cyberpress/pages/2026/05/25/hackers-actively-scan-sonicwall-firewalls-597k-sessions-seen.md",
+  "updatedAt": "2026-05-25T13:01:23.510-05:00",
+  "lastLink": "https://cyberpress.org/github-adds-staged-publishing/",
+  "lastId": "1bc1qsn000",
+  "lastFilePath": "cyberpress/pages/2026/05/25/github-adds-staged-publishing-to-strengthen-npm-security.md",
   "items": [
     {
-      "id": "1in76hc000",
-      "link": "https://cyberpress.org/actively-scan-sonicwall-firewalls/",
-      "filePath": "cyberpress/pages/2026/05/25/hackers-actively-scan-sonicwall-firewalls-597k-sessions-seen.md",
-      "committedAt": "2026-05-25T12:01:16.913-05:00",
-      "title": "Hackers Actively Scan SonicWall Firewalls, 597K Sessions Seen"
+      "id": "1bc1qsn000",
+      "link": "https://cyberpress.org/github-adds-staged-publishing/",
+      "filePath": "cyberpress/pages/2026/05/25/github-adds-staged-publishing-to-strengthen-npm-security.md",
+      "committedAt": "2026-05-25T13:01:23.510-05:00",
+      "title": "GitHub Adds Staged Publishing to Strengthen npm Security."
     }
   ]
 }
