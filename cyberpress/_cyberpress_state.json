@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T03:00:34.086-05:00",
-  "lastLink": "https://cyberpress.org/exploited-drupal-sql-injection/",
-  "lastId": "6i017x0000",
-  "lastFilePath": "cyberpress/pages/2026/05/25/cisa-warns-of-exploited-drupal-sql-injection-flaw.md",
+  "updatedAt": "2026-05-25T04:00:51.219-05:00",
+  "lastLink": "https://cyberpress.org/hackers-hide-nested-malware/",
+  "lastId": "dj1atl0000",
+  "lastFilePath": "cyberpress/pages/2026/05/25/hackers-hide-malware-in-nested-macos-like-folders-to-evade-detection.md",
   "items": [
     {
-      "id": "6i017x0000",
-      "link": "https://cyberpress.org/exploited-drupal-sql-injection/",
-      "filePath": "cyberpress/pages/2026/05/25/cisa-warns-of-exploited-drupal-sql-injection-flaw.md",
-      "committedAt": "2026-05-25T03:00:34.086-05:00",
-      "title": "CISA Warns of Exploited Drupal SQL Injection Flaw"
+      "id": "dj1atl0000",
+      "link": "https://cyberpress.org/hackers-hide-nested-malware/",
+      "filePath": "cyberpress/pages/2026/05/25/hackers-hide-malware-in-nested-macos-like-folders-to-evade-detection.md",
+      "committedAt": "2026-05-25T04:00:51.219-05:00",
+      "title": "Hackers Hide Malware In Nested macOS-Like Folders To Evade Detection"
     }
   ]
 }
