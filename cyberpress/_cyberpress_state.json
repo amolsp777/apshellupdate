@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T01:00:41.436-05:00",
-  "lastLink": "https://cyberpress.org/new-7-zip-vulnerabilities/",
-  "lastId": "yh45b20000",
-  "lastFilePath": "cyberpress/pages/2026/05/26/new-7-zip-vulnerabilities-enable-arbitrary-code-execution.md",
+  "updatedAt": "2026-05-26T02:00:34.681-05:00",
+  "lastLink": "https://cyberpress.org/knowledgedeliver-lms-0-day/",
+  "lastId": "hew7960000",
+  "lastFilePath": "cyberpress/pages/2026/05/26/attackers-use-knowledgedeliver-lms-0-day-to-install-bluebeam-web-shell.md",
   "items": [
     {
-      "id": "yh45b20000",
-      "link": "https://cyberpress.org/new-7-zip-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/05/26/new-7-zip-vulnerabilities-enable-arbitrary-code-execution.md",
-      "committedAt": "2026-05-26T01:00:41.436-05:00",
-      "title": "New 7-Zip Vulnerabilities Enable Arbitrary Code Execution"
+      "id": "hew7960000",
+      "link": "https://cyberpress.org/knowledgedeliver-lms-0-day/",
+      "filePath": "cyberpress/pages/2026/05/26/attackers-use-knowledgedeliver-lms-0-day-to-install-bluebeam-web-shell.md",
+      "committedAt": "2026-05-26T02:00:34.681-05:00",
+      "title": "Attackers Use KnowledgeDeliver LMS 0-Day to Install BLUEBEAM Web Shell"
     }
   ]
 }
