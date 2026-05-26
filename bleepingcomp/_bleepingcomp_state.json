@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T16:00:36.088-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-  "lastId": "1vn8ovn000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/26/charter-confirms-data-breach-after-shinyhunters-extortion-threat.md",
+  "updatedAt": "2026-05-26T17:00:36.172-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
+  "lastId": "1cmt47n000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/26/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells.md",
   "items": [
     {
-      "id": "1vn8ovn000",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "filePath": "bleepingcomp/pages/2026/05/26/charter-confirms-data-breach-after-shinyhunters-extortion-threat.md",
-      "committedAt": "2026-05-26T16:00:36.088-04:00",
-      "title": "Charter confirms data breach after ShinyHunters extortion threat"
+      "id": "1cmt47n000",
+      "link": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
+      "filePath": "bleepingcomp/pages/2026/05/26/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells.md",
+      "committedAt": "2026-05-26T17:00:36.172-04:00",
+      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells"
     }
   ]
 }
