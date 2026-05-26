@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T08:00:34.092-05:00",
-  "lastLink": "https://cyberpress.org/cert-in-urges-rapid-patching/",
-  "lastId": "1bfrd06000",
-  "lastFilePath": "cyberpress/pages/2026/05/26/indias-cert-in-urges-rapid-patching-of-exposed-system-vulnerabilities.md",
+  "updatedAt": "2026-05-26T09:00:40.664-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-sharepoint-flaw/",
+  "lastId": "15w7pba000",
+  "lastFilePath": "cyberpress/pages/2026/05/26/microsoft-sharepoint-flaw-enables-remote-code-execution-attacks.md",
   "items": [
     {
-      "id": "1bfrd06000",
-      "link": "https://cyberpress.org/cert-in-urges-rapid-patching/",
-      "filePath": "cyberpress/pages/2026/05/26/indias-cert-in-urges-rapid-patching-of-exposed-system-vulnerabilities.md",
-      "committedAt": "2026-05-26T08:00:34.092-05:00",
-      "title": "India’s CERT-In Urges Rapid Patching of Exposed System Vulnerabilities"
+      "id": "15w7pba000",
+      "link": "https://cyberpress.org/microsoft-sharepoint-flaw/",
+      "filePath": "cyberpress/pages/2026/05/26/microsoft-sharepoint-flaw-enables-remote-code-execution-attacks.md",
+      "committedAt": "2026-05-26T09:00:40.664-05:00",
+      "title": "Microsoft SharePoint Flaw Enables Remote Code Execution Attacks"
     }
   ]
 }
