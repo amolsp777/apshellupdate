@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T05:00:39.728-05:00",
-  "lastLink": "https://cyberpress.org/ghost-cms-flaw-abused/",
-  "lastId": "18x6rz7000",
-  "lastFilePath": "cyberpress/pages/2026/05/26/ghost-cms-flaw-abused-to-poison-700-websites-with-clickfix-malware.md",
+  "updatedAt": "2026-05-26T06:00:34.269-05:00",
+  "lastLink": "https://cyberpress.org/memcached-sasl-flaw/",
+  "lastId": "lhj3pq0000",
+  "lastFilePath": "cyberpress/pages/2026/05/26/critical-memcached-sasl-flaw-lets-attackers-infer-usernames.md",
   "items": [
     {
-      "id": "18x6rz7000",
-      "link": "https://cyberpress.org/ghost-cms-flaw-abused/",
-      "filePath": "cyberpress/pages/2026/05/26/ghost-cms-flaw-abused-to-poison-700-websites-with-clickfix-malware.md",
-      "committedAt": "2026-05-26T05:00:39.728-05:00",
-      "title": "Ghost CMS Flaw Abused to Poison 700 Websites With ClickFix Malware"
+      "id": "lhj3pq0000",
+      "link": "https://cyberpress.org/memcached-sasl-flaw/",
+      "filePath": "cyberpress/pages/2026/05/26/critical-memcached-sasl-flaw-lets-attackers-infer-usernames.md",
+      "committedAt": "2026-05-26T06:00:34.269-05:00",
+      "title": "Critical Memcached SASL Flaw Lets Attackers Infer Usernames"
     }
   ]
 }
