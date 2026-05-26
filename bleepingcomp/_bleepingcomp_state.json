@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T09:01:10.628-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
-  "lastId": "1plmd75000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/26/microsoft-defender-can-now-automatically-isolate-hacked-endpoints.md",
+  "updatedAt": "2026-05-26T10:01:17.252-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
+  "lastId": "6v39d00000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/26/webinar-too-many-tools-are-slowing-network-incident-response.md",
   "items": [
     {
-      "id": "1plmd75000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
-      "filePath": "bleepingcomp/pages/2026/05/26/microsoft-defender-can-now-automatically-isolate-hacked-endpoints.md",
-      "committedAt": "2026-05-26T09:01:10.628-04:00",
-      "title": "Microsoft Defender can now automatically isolate hacked endpoints"
+      "id": "6v39d00000",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
+      "filePath": "bleepingcomp/pages/2026/05/26/webinar-too-many-tools-are-slowing-network-incident-response.md",
+      "committedAt": "2026-05-26T10:01:17.252-04:00",
+      "title": "Webinar: Too many tools are slowing network incident response"
     }
   ]
 }
