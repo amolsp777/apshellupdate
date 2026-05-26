@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T05:00:31.128-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-  "lastId": "wm1wim0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/26/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability.md",
+  "updatedAt": "2026-05-26T06:01:21.310-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+  "lastId": "1bnp76z000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/26/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016.md",
   "items": [
     {
-      "id": "wm1wim0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-      "filePath": "bleepingcomp/pages/2026/05/26/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability.md",
-      "committedAt": "2026-05-26T05:00:31.128-04:00",
-      "title": "CISA orders feds to patch actively exploited Drupal vulnerability"
+      "id": "1bnp76z000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+      "filePath": "bleepingcomp/pages/2026/05/26/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016.md",
+      "committedAt": "2026-05-26T06:01:21.310-04:00",
+      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016"
     }
   ]
 }
