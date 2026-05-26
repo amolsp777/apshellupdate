@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T14:01:18.207-05:00",
-  "lastLink": "https://cyberpress.org/china-linked-hackers-target-routers/",
-  "lastId": "15dl714000",
-  "lastFilePath": "cyberpress/pages/2026/05/26/china-linked-hackers-target-southeast-asian-edge-routers.md",
+  "updatedAt": "2026-05-26T15:01:24.135-05:00",
+  "lastLink": "https://cyberpress.org/apache-cxf-ldap-injection-flaw/",
+  "lastId": "12eciw1000",
+  "lastFilePath": "cyberpress/pages/2026/05/26/apache-cxf-ldap-injection-flaw-exposes-arbitrary-certificates.md",
   "items": [
     {
-      "id": "15dl714000",
-      "link": "https://cyberpress.org/china-linked-hackers-target-routers/",
-      "filePath": "cyberpress/pages/2026/05/26/china-linked-hackers-target-southeast-asian-edge-routers.md",
-      "committedAt": "2026-05-26T14:01:18.207-05:00",
-      "title": "China-Linked Hackers Target Southeast Asian Edge Routers"
+      "id": "12eciw1000",
+      "link": "https://cyberpress.org/apache-cxf-ldap-injection-flaw/",
+      "filePath": "cyberpress/pages/2026/05/26/apache-cxf-ldap-injection-flaw-exposes-arbitrary-certificates.md",
+      "committedAt": "2026-05-26T15:01:24.135-05:00",
+      "title": "Apache CXF LDAP Injection Flaw Exposes Arbitrary Certificates"
     }
   ]
 }
