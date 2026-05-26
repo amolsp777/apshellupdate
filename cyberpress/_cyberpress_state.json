@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T12:01:08.080-05:00",
-  "lastLink": "https://cyberpress.org/fileless-quasar-rat-spreads/",
-  "lastId": "zuvd9f0000",
-  "lastFilePath": "cyberpress/pages/2026/05/26/threat-actors-abuse-fileless-execution-to-spread-quasar-linux-rat.md",
+  "updatedAt": "2026-05-26T13:00:51.308-05:00",
+  "lastLink": "https://cyberpress.org/how-socs-mssps-prevent-incidents-with-better-reporting/",
+  "lastId": "1qlnwan000",
+  "lastFilePath": "cyberpress/pages/2026/05/26/how-socs-mssps-prevent-incidents-with-better-reporting.md",
   "items": [
     {
-      "id": "zuvd9f0000",
-      "link": "https://cyberpress.org/fileless-quasar-rat-spreads/",
-      "filePath": "cyberpress/pages/2026/05/26/threat-actors-abuse-fileless-execution-to-spread-quasar-linux-rat.md",
-      "committedAt": "2026-05-26T12:01:08.080-05:00",
-      "title": "Threat Actors Abuse Fileless Execution to Spread Quasar Linux RAT"
+      "id": "1qlnwan000",
+      "link": "https://cyberpress.org/how-socs-mssps-prevent-incidents-with-better-reporting/",
+      "filePath": "cyberpress/pages/2026/05/26/how-socs-mssps-prevent-incidents-with-better-reporting.md",
+      "committedAt": "2026-05-26T13:00:51.308-05:00",
+      "title": "How SOCs & MSSPs Prevent Incidents with Better Reporting"
     }
   ]
 }
