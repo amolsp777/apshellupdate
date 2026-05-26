@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T06:00:34.269-05:00",
-  "lastLink": "https://cyberpress.org/memcached-sasl-flaw/",
-  "lastId": "lhj3pq0000",
-  "lastFilePath": "cyberpress/pages/2026/05/26/critical-memcached-sasl-flaw-lets-attackers-infer-usernames.md",
+  "updatedAt": "2026-05-26T07:00:49.803-05:00",
+  "lastLink": "https://cyberpress.org/connectwise-automate-flaw/",
+  "lastId": "1ug9n6o000",
+  "lastFilePath": "cyberpress/pages/2026/05/26/connectwise-automate-flaw-allows-attackers-to-bypass-security-checks.md",
   "items": [
     {
-      "id": "lhj3pq0000",
-      "link": "https://cyberpress.org/memcached-sasl-flaw/",
-      "filePath": "cyberpress/pages/2026/05/26/critical-memcached-sasl-flaw-lets-attackers-infer-usernames.md",
-      "committedAt": "2026-05-26T06:00:34.269-05:00",
-      "title": "Critical Memcached SASL Flaw Lets Attackers Infer Usernames"
+      "id": "1ug9n6o000",
+      "link": "https://cyberpress.org/connectwise-automate-flaw/",
+      "filePath": "cyberpress/pages/2026/05/26/connectwise-automate-flaw-allows-attackers-to-bypass-security-checks.md",
+      "committedAt": "2026-05-26T07:00:49.803-05:00",
+      "title": "ConnectWise Automate Flaw Allows Attackers To Bypass Security Checks"
     }
   ]
 }
