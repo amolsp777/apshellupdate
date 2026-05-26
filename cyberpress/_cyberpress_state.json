@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T02:00:34.681-05:00",
-  "lastLink": "https://cyberpress.org/knowledgedeliver-lms-0-day/",
-  "lastId": "hew7960000",
-  "lastFilePath": "cyberpress/pages/2026/05/26/attackers-use-knowledgedeliver-lms-0-day-to-install-bluebeam-web-shell.md",
+  "updatedAt": "2026-05-26T03:00:34.435-05:00",
+  "lastLink": "https://cyberpress.org/angular-language-service-flaws/",
+  "lastId": "1so12f7000",
+  "lastFilePath": "cyberpress/pages/2026/05/26/angular-language-service-flaws-enable-remote-code-execution.md",
   "items": [
     {
-      "id": "hew7960000",
-      "link": "https://cyberpress.org/knowledgedeliver-lms-0-day/",
-      "filePath": "cyberpress/pages/2026/05/26/attackers-use-knowledgedeliver-lms-0-day-to-install-bluebeam-web-shell.md",
-      "committedAt": "2026-05-26T02:00:34.681-05:00",
-      "title": "Attackers Use KnowledgeDeliver LMS 0-Day to Install BLUEBEAM Web Shell"
+      "id": "1so12f7000",
+      "link": "https://cyberpress.org/angular-language-service-flaws/",
+      "filePath": "cyberpress/pages/2026/05/26/angular-language-service-flaws-enable-remote-code-execution.md",
+      "committedAt": "2026-05-26T03:00:34.435-05:00",
+      "title": "Angular Language Service Flaws Enable Remote Code Execution"
     }
   ]
 }
