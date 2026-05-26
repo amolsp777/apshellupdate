@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T06:01:21.310-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
-  "lastId": "1bnp76z000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/26/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016.md",
+  "updatedAt": "2026-05-26T09:01:10.628-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+  "lastId": "1plmd75000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/26/microsoft-defender-can-now-automatically-isolate-hacked-endpoints.md",
   "items": [
     {
-      "id": "1bnp76z000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
-      "filePath": "bleepingcomp/pages/2026/05/26/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016.md",
-      "committedAt": "2026-05-26T06:01:21.310-04:00",
-      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016"
+      "id": "1plmd75000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+      "filePath": "bleepingcomp/pages/2026/05/26/microsoft-defender-can-now-automatically-isolate-hacked-endpoints.md",
+      "committedAt": "2026-05-26T09:01:10.628-04:00",
+      "title": "Microsoft Defender can now automatically isolate hacked endpoints"
     }
   ]
 }
