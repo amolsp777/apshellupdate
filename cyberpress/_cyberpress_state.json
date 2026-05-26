@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T11:00:57.826-05:00",
-  "lastLink": "https://cyberpress.org/eu-record-dma-fine-against-google/",
-  "lastId": "can2t40000",
-  "lastFilePath": "cyberpress/pages/2026/05/26/eu-finalizes-record-dma-fine-against-google-over-search-practices.md",
+  "updatedAt": "2026-05-26T12:01:08.080-05:00",
+  "lastLink": "https://cyberpress.org/fileless-quasar-rat-spreads/",
+  "lastId": "zuvd9f0000",
+  "lastFilePath": "cyberpress/pages/2026/05/26/threat-actors-abuse-fileless-execution-to-spread-quasar-linux-rat.md",
   "items": [
     {
-      "id": "can2t40000",
-      "link": "https://cyberpress.org/eu-record-dma-fine-against-google/",
-      "filePath": "cyberpress/pages/2026/05/26/eu-finalizes-record-dma-fine-against-google-over-search-practices.md",
-      "committedAt": "2026-05-26T11:00:57.826-05:00",
-      "title": "EU Finalizes Record DMA Fine Against Google Over Search Practices"
+      "id": "zuvd9f0000",
+      "link": "https://cyberpress.org/fileless-quasar-rat-spreads/",
+      "filePath": "cyberpress/pages/2026/05/26/threat-actors-abuse-fileless-execution-to-spread-quasar-linux-rat.md",
+      "committedAt": "2026-05-26T12:01:08.080-05:00",
+      "title": "Threat Actors Abuse Fileless Execution to Spread Quasar Linux RAT"
     }
   ]
 }
