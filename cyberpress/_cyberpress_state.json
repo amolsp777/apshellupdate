@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T13:01:23.510-05:00",
-  "lastLink": "https://cyberpress.org/github-adds-staged-publishing/",
-  "lastId": "1bc1qsn000",
-  "lastFilePath": "cyberpress/pages/2026/05/25/github-adds-staged-publishing-to-strengthen-npm-security.md",
+  "updatedAt": "2026-05-26T01:00:41.436-05:00",
+  "lastLink": "https://cyberpress.org/new-7-zip-vulnerabilities/",
+  "lastId": "yh45b20000",
+  "lastFilePath": "cyberpress/pages/2026/05/26/new-7-zip-vulnerabilities-enable-arbitrary-code-execution.md",
   "items": [
     {
-      "id": "1bc1qsn000",
-      "link": "https://cyberpress.org/github-adds-staged-publishing/",
-      "filePath": "cyberpress/pages/2026/05/25/github-adds-staged-publishing-to-strengthen-npm-security.md",
-      "committedAt": "2026-05-25T13:01:23.510-05:00",
-      "title": "GitHub Adds Staged Publishing to Strengthen npm Security."
+      "id": "yh45b20000",
+      "link": "https://cyberpress.org/new-7-zip-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/05/26/new-7-zip-vulnerabilities-enable-arbitrary-code-execution.md",
+      "committedAt": "2026-05-26T01:00:41.436-05:00",
+      "title": "New 7-Zip Vulnerabilities Enable Arbitrary Code Execution"
     }
   ]
 }
