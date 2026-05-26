@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T11:01:12.699-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
-  "lastId": "pl1fcj0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/26/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance.md",
+  "updatedAt": "2026-05-26T16:00:36.088-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+  "lastId": "1vn8ovn000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/26/charter-confirms-data-breach-after-shinyhunters-extortion-threat.md",
   "items": [
     {
-      "id": "pl1fcj0000",
-      "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
-      "filePath": "bleepingcomp/pages/2026/05/26/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance.md",
-      "committedAt": "2026-05-26T11:01:12.699-04:00",
-      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance"
+      "id": "1vn8ovn000",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+      "filePath": "bleepingcomp/pages/2026/05/26/charter-confirms-data-breach-after-shinyhunters-extortion-threat.md",
+      "committedAt": "2026-05-26T16:00:36.088-04:00",
+      "title": "Charter confirms data breach after ShinyHunters extortion threat"
     }
   ]
 }
