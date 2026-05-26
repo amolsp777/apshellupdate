@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T04:00:35.414-05:00",
-  "lastLink": "https://cyberpress.org/nightspire-abuses-admin-tools/",
-  "lastId": "rqo4tv0000",
-  "lastFilePath": "cyberpress/pages/2026/05/26/nightspire-ransomware-abuses-remote-admin-tools-in-windows-attacks.md",
+  "updatedAt": "2026-05-26T05:00:39.728-05:00",
+  "lastLink": "https://cyberpress.org/ghost-cms-flaw-abused/",
+  "lastId": "18x6rz7000",
+  "lastFilePath": "cyberpress/pages/2026/05/26/ghost-cms-flaw-abused-to-poison-700-websites-with-clickfix-malware.md",
   "items": [
     {
-      "id": "rqo4tv0000",
-      "link": "https://cyberpress.org/nightspire-abuses-admin-tools/",
-      "filePath": "cyberpress/pages/2026/05/26/nightspire-ransomware-abuses-remote-admin-tools-in-windows-attacks.md",
-      "committedAt": "2026-05-26T04:00:35.414-05:00",
-      "title": "NightSpire Ransomware Abuses Remote Admin Tools in Windows Attacks"
+      "id": "18x6rz7000",
+      "link": "https://cyberpress.org/ghost-cms-flaw-abused/",
+      "filePath": "cyberpress/pages/2026/05/26/ghost-cms-flaw-abused-to-poison-700-websites-with-clickfix-malware.md",
+      "committedAt": "2026-05-26T05:00:39.728-05:00",
+      "title": "Ghost CMS Flaw Abused to Poison 700 Websites With ClickFix Malware"
     }
   ]
 }
