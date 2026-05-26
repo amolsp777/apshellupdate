@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T10:01:17.252-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
-  "lastId": "6v39d00000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/26/webinar-too-many-tools-are-slowing-network-incident-response.md",
+  "updatedAt": "2026-05-26T11:01:12.699-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
+  "lastId": "pl1fcj0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/26/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance.md",
   "items": [
     {
-      "id": "6v39d00000",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
-      "filePath": "bleepingcomp/pages/2026/05/26/webinar-too-many-tools-are-slowing-network-incident-response.md",
-      "committedAt": "2026-05-26T10:01:17.252-04:00",
-      "title": "Webinar: Too many tools are slowing network incident response"
+      "id": "pl1fcj0000",
+      "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
+      "filePath": "bleepingcomp/pages/2026/05/26/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance.md",
+      "committedAt": "2026-05-26T11:01:12.699-04:00",
+      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance"
     }
   ]
 }
