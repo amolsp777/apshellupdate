@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T09:00:40.664-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-sharepoint-flaw/",
-  "lastId": "15w7pba000",
-  "lastFilePath": "cyberpress/pages/2026/05/26/microsoft-sharepoint-flaw-enables-remote-code-execution-attacks.md",
+  "updatedAt": "2026-05-26T10:00:52.136-05:00",
+  "lastLink": "https://cyberpress.org/github-down-global-outage-disrupting/",
+  "lastId": "qn0ksp0000",
+  "lastFilePath": "cyberpress/pages/2026/05/26/github-down-global-outage-disrupting-cicd-pipelines-worldwide.md",
   "items": [
     {
-      "id": "15w7pba000",
-      "link": "https://cyberpress.org/microsoft-sharepoint-flaw/",
-      "filePath": "cyberpress/pages/2026/05/26/microsoft-sharepoint-flaw-enables-remote-code-execution-attacks.md",
-      "committedAt": "2026-05-26T09:00:40.664-05:00",
-      "title": "Microsoft SharePoint Flaw Enables Remote Code Execution Attacks"
+      "id": "qn0ksp0000",
+      "link": "https://cyberpress.org/github-down-global-outage-disrupting/",
+      "filePath": "cyberpress/pages/2026/05/26/github-down-global-outage-disrupting-cicd-pipelines-worldwide.md",
+      "committedAt": "2026-05-26T10:00:52.136-05:00",
+      "title": "GitHub Down – Global Outage Disrupting CI/CD Pipelines Worldwide"
     }
   ]
 }
