@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T06:01:16.184-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
-  "lastId": "mwnqvn0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/27/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack.md",
+  "updatedAt": "2026-05-27T07:00:36.188-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+  "lastId": "1t83fbn000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/27/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw.md",
   "items": [
     {
-      "id": "mwnqvn0000",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
-      "filePath": "bleepingcomp/pages/2026/05/27/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack.md",
-      "committedAt": "2026-05-27T06:01:16.184-04:00",
-      "title": "Dutch police arrests suspect linked to Ajax football club hack"
+      "id": "1t83fbn000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+      "filePath": "bleepingcomp/pages/2026/05/27/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw.md",
+      "committedAt": "2026-05-27T07:00:36.188-04:00",
+      "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw"
     }
   ]
 }
