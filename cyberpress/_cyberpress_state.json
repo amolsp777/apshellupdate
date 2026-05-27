@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T15:01:24.135-05:00",
-  "lastLink": "https://cyberpress.org/apache-cxf-ldap-injection-flaw/",
-  "lastId": "12eciw1000",
-  "lastFilePath": "cyberpress/pages/2026/05/26/apache-cxf-ldap-injection-flaw-exposes-arbitrary-certificates.md",
+  "updatedAt": "2026-05-27T01:00:40.332-05:00",
+  "lastLink": "https://cyberpress.org/rcs-imessage-evade-defenses/",
+  "lastId": "nc6cpb0000",
+  "lastFilePath": "cyberpress/pages/2026/05/27/cybercriminals-exploit-rcs-and-imessage-to-evade-traditional-sms-defenses.md",
   "items": [
     {
-      "id": "12eciw1000",
-      "link": "https://cyberpress.org/apache-cxf-ldap-injection-flaw/",
-      "filePath": "cyberpress/pages/2026/05/26/apache-cxf-ldap-injection-flaw-exposes-arbitrary-certificates.md",
-      "committedAt": "2026-05-26T15:01:24.135-05:00",
-      "title": "Apache CXF LDAP Injection Flaw Exposes Arbitrary Certificates"
+      "id": "nc6cpb0000",
+      "link": "https://cyberpress.org/rcs-imessage-evade-defenses/",
+      "filePath": "cyberpress/pages/2026/05/27/cybercriminals-exploit-rcs-and-imessage-to-evade-traditional-sms-defenses.md",
+      "committedAt": "2026-05-27T01:00:40.332-05:00",
+      "title": "Cybercriminals Exploit RCS and iMessage To Evade Traditional SMS Defenses"
     }
   ]
 }
