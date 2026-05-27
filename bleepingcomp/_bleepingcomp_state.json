@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T10:00:59.658-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
-  "lastId": "16xxwcz000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/27/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown.md",
+  "updatedAt": "2026-05-27T11:00:59.883-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
+  "lastId": "1ewk5r5000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/27/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users.md",
   "items": [
     {
-      "id": "16xxwcz000",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
-      "filePath": "bleepingcomp/pages/2026/05/27/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown.md",
-      "committedAt": "2026-05-27T10:00:59.658-04:00",
-      "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown"
+      "id": "1ewk5r5000",
+      "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
+      "filePath": "bleepingcomp/pages/2026/05/27/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users.md",
+      "committedAt": "2026-05-27T11:00:59.883-04:00",
+      "title": "Can you enforce strong Active Directory password rules without frustrating users?"
     }
   ]
 }
