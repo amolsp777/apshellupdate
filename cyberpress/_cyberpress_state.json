@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T12:01:19.375-05:00",
-  "lastLink": "https://cyberpress.org/windows-kernel-flaw/",
-  "lastId": "1pnlbeo000",
-  "lastFilePath": "cyberpress/pages/2026/05/27/windows-kernel-flaw-lets-attackers-modify-memory-counters.md",
+  "updatedAt": "2026-05-27T13:01:24.646-05:00",
+  "lastLink": "https://cyberpress.org/cybercriminals-weaponize-ai-installers/",
+  "lastId": "dbd98u0000",
+  "lastFilePath": "cyberpress/pages/2026/05/27/cybercriminals-weaponize-ai-app-installers-to-deliver-dindoor-backdoor.md",
   "items": [
     {
-      "id": "1pnlbeo000",
-      "link": "https://cyberpress.org/windows-kernel-flaw/",
-      "filePath": "cyberpress/pages/2026/05/27/windows-kernel-flaw-lets-attackers-modify-memory-counters.md",
-      "committedAt": "2026-05-27T12:01:19.375-05:00",
-      "title": "Windows Kernel Flaw Lets Attackers Modify Memory Counters"
+      "id": "dbd98u0000",
+      "link": "https://cyberpress.org/cybercriminals-weaponize-ai-installers/",
+      "filePath": "cyberpress/pages/2026/05/27/cybercriminals-weaponize-ai-app-installers-to-deliver-dindoor-backdoor.md",
+      "committedAt": "2026-05-27T13:01:24.646-05:00",
+      "title": "Cybercriminals Weaponize AI App Installers to Deliver DinDoor Backdoor"
     }
   ]
 }
