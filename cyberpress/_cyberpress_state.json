@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T05:00:39.976-05:00",
-  "lastLink": "https://cyberpress.org/btmob-malware-remote-control-android/",
-  "lastId": "1ek41dk000",
-  "lastFilePath": "cyberpress/pages/2026/05/27/new-btmob-malware-enables-remote-control-of-android-devices.md",
+  "updatedAt": "2026-05-27T06:00:40.179-05:00",
+  "lastLink": "https://cyberpress.org/exploited-litespeed-cpanel-plugin/",
+  "lastId": "qr4zzh0000",
+  "lastFilePath": "cyberpress/pages/2026/05/27/cisa-warns-of-exploited-litespeed-cpanel-plugin-flaw.md",
   "items": [
     {
-      "id": "1ek41dk000",
-      "link": "https://cyberpress.org/btmob-malware-remote-control-android/",
-      "filePath": "cyberpress/pages/2026/05/27/new-btmob-malware-enables-remote-control-of-android-devices.md",
-      "committedAt": "2026-05-27T05:00:39.976-05:00",
-      "title": "New BTMOB Malware Enables Remote Control of Android Devices"
+      "id": "qr4zzh0000",
+      "link": "https://cyberpress.org/exploited-litespeed-cpanel-plugin/",
+      "filePath": "cyberpress/pages/2026/05/27/cisa-warns-of-exploited-litespeed-cpanel-plugin-flaw.md",
+      "committedAt": "2026-05-27T06:00:40.179-05:00",
+      "title": "CISA Warns of Exploited LiteSpeed cPanel Plugin Flaw"
     }
   ]
 }
