@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T07:00:41.094-05:00",
-  "lastLink": "https://cyberpress.org/badhost-exploit-exposes-sensitive-ai/",
-  "lastId": "1rc5ttk000",
-  "lastFilePath": "cyberpress/pages/2026/05/27/badhost-exploit-exposes-sensitive-ai-agent-server-endpoints.md",
+  "updatedAt": "2026-05-27T08:00:56.700-05:00",
+  "lastLink": "https://cyberpress.org/grandoreiro-targets-banks-companies/",
+  "lastId": "1bv1iyx000",
+  "lastFilePath": "cyberpress/pages/2026/05/27/grandoreiro-malware-campaign-hits-banks-and-latin-american-companies.md",
   "items": [
     {
-      "id": "1rc5ttk000",
-      "link": "https://cyberpress.org/badhost-exploit-exposes-sensitive-ai/",
-      "filePath": "cyberpress/pages/2026/05/27/badhost-exploit-exposes-sensitive-ai-agent-server-endpoints.md",
-      "committedAt": "2026-05-27T07:00:41.094-05:00",
-      "title": "BadHost Exploit Exposes Sensitive AI Agent Server Endpoints"
+      "id": "1bv1iyx000",
+      "link": "https://cyberpress.org/grandoreiro-targets-banks-companies/",
+      "filePath": "cyberpress/pages/2026/05/27/grandoreiro-malware-campaign-hits-banks-and-latin-american-companies.md",
+      "committedAt": "2026-05-27T08:00:56.700-05:00",
+      "title": "Grandoreiro Malware Campaign Hits Banks and Latin American Companies"
     }
   ]
 }
