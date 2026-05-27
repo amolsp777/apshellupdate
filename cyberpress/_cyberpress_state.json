@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T03:00:50.737-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-defender-auto-isolates-devices/",
-  "lastId": "10takl3000",
-  "lastFilePath": "cyberpress/pages/2026/05/27/microsoft-defender-auto-isolates-devices-to-stop-ransomware.md",
+  "updatedAt": "2026-05-27T04:00:34.485-05:00",
+  "lastLink": "https://cyberpress.org/github-enterprise-server-3-20-3-fixes/",
+  "lastId": "wpnab10000",
+  "lastFilePath": "cyberpress/pages/2026/05/27/github-enterprise-server-3203-fixes-critical-vulnerabilities.md",
   "items": [
     {
-      "id": "10takl3000",
-      "link": "https://cyberpress.org/microsoft-defender-auto-isolates-devices/",
-      "filePath": "cyberpress/pages/2026/05/27/microsoft-defender-auto-isolates-devices-to-stop-ransomware.md",
-      "committedAt": "2026-05-27T03:00:50.737-05:00",
-      "title": "Microsoft Defender Auto-Isolates Devices to Stop Ransomware"
+      "id": "wpnab10000",
+      "link": "https://cyberpress.org/github-enterprise-server-3-20-3-fixes/",
+      "filePath": "cyberpress/pages/2026/05/27/github-enterprise-server-3203-fixes-critical-vulnerabilities.md",
+      "committedAt": "2026-05-27T04:00:34.485-05:00",
+      "title": "GitHub Enterprise Server 3.20.3 Fixes Critical Vulnerabilities"
     }
   ]
 }
