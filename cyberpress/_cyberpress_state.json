@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T06:00:40.179-05:00",
-  "lastLink": "https://cyberpress.org/exploited-litespeed-cpanel-plugin/",
-  "lastId": "qr4zzh0000",
-  "lastFilePath": "cyberpress/pages/2026/05/27/cisa-warns-of-exploited-litespeed-cpanel-plugin-flaw.md",
+  "updatedAt": "2026-05-27T07:00:41.094-05:00",
+  "lastLink": "https://cyberpress.org/badhost-exploit-exposes-sensitive-ai/",
+  "lastId": "1rc5ttk000",
+  "lastFilePath": "cyberpress/pages/2026/05/27/badhost-exploit-exposes-sensitive-ai-agent-server-endpoints.md",
   "items": [
     {
-      "id": "qr4zzh0000",
-      "link": "https://cyberpress.org/exploited-litespeed-cpanel-plugin/",
-      "filePath": "cyberpress/pages/2026/05/27/cisa-warns-of-exploited-litespeed-cpanel-plugin-flaw.md",
-      "committedAt": "2026-05-27T06:00:40.179-05:00",
-      "title": "CISA Warns of Exploited LiteSpeed cPanel Plugin Flaw"
+      "id": "1rc5ttk000",
+      "link": "https://cyberpress.org/badhost-exploit-exposes-sensitive-ai/",
+      "filePath": "cyberpress/pages/2026/05/27/badhost-exploit-exposes-sensitive-ai-agent-server-endpoints.md",
+      "committedAt": "2026-05-27T07:00:41.094-05:00",
+      "title": "BadHost Exploit Exposes Sensitive AI Agent Server Endpoints"
     }
   ]
 }
