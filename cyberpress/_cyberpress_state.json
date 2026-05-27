@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T02:00:45.041-05:00",
-  "lastLink": "https://cyberpress.org/claude-code-gets-free-security-plugin/",
-  "lastId": "9qxynr0000",
-  "lastFilePath": "cyberpress/pages/2026/05/27/claude-code-gets-free-security-plugin-to-detect-vulnerabilities.md",
+  "updatedAt": "2026-05-27T03:00:50.737-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-defender-auto-isolates-devices/",
+  "lastId": "10takl3000",
+  "lastFilePath": "cyberpress/pages/2026/05/27/microsoft-defender-auto-isolates-devices-to-stop-ransomware.md",
   "items": [
     {
-      "id": "9qxynr0000",
-      "link": "https://cyberpress.org/claude-code-gets-free-security-plugin/",
-      "filePath": "cyberpress/pages/2026/05/27/claude-code-gets-free-security-plugin-to-detect-vulnerabilities.md",
-      "committedAt": "2026-05-27T02:00:45.041-05:00",
-      "title": "Claude Code Gets Free Security Plugin to Detect Vulnerabilities"
+      "id": "10takl3000",
+      "link": "https://cyberpress.org/microsoft-defender-auto-isolates-devices/",
+      "filePath": "cyberpress/pages/2026/05/27/microsoft-defender-auto-isolates-devices-to-stop-ransomware.md",
+      "committedAt": "2026-05-27T03:00:50.737-05:00",
+      "title": "Microsoft Defender Auto-Isolates Devices to Stop Ransomware"
     }
   ]
 }
