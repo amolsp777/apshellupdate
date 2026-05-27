@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T11:00:59.883-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
-  "lastId": "1ewk5r5000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/27/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users.md",
+  "updatedAt": "2026-05-27T18:00:57.539-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
+  "lastId": "1kekrrm000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/27/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots.md",
   "items": [
     {
-      "id": "1ewk5r5000",
-      "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
-      "filePath": "bleepingcomp/pages/2026/05/27/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users.md",
-      "committedAt": "2026-05-27T11:00:59.883-04:00",
-      "title": "Can you enforce strong Active Directory password rules without frustrating users?"
+      "id": "1kekrrm000",
+      "link": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
+      "filePath": "bleepingcomp/pages/2026/05/27/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots.md",
+      "committedAt": "2026-05-27T18:00:57.539-04:00",
+      "title": "GPU mining malware spreads via SEO poisoning, AI chatbots"
     }
   ]
 }
