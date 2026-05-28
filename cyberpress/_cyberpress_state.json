@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T04:00:34.911-05:00",
-  "lastLink": "https://cyberpress.org/ai-npm-malware-backfires/",
-  "lastId": "x9kf5v0000",
-  "lastFilePath": "cyberpress/pages/2026/05/28/threat-actors-github-token-leaked-by-ai-generated-npm-malware.md",
+  "updatedAt": "2026-05-28T05:00:34.434-05:00",
+  "lastLink": "https://cyberpress.org/notepad-vulnerability/",
+  "lastId": "1u82xt7000",
+  "lastFilePath": "cyberpress/pages/2026/05/28/critical-notepad-vulnerability-enables-arbitrary-code-execution.md",
   "items": [
     {
-      "id": "x9kf5v0000",
-      "link": "https://cyberpress.org/ai-npm-malware-backfires/",
-      "filePath": "cyberpress/pages/2026/05/28/threat-actors-github-token-leaked-by-ai-generated-npm-malware.md",
-      "committedAt": "2026-05-28T04:00:34.911-05:00",
-      "title": "Threat Actor’s GitHub Token Leaked by AI-Generated npm Malware"
+      "id": "1u82xt7000",
+      "link": "https://cyberpress.org/notepad-vulnerability/",
+      "filePath": "cyberpress/pages/2026/05/28/critical-notepad-vulnerability-enables-arbitrary-code-execution.md",
+      "committedAt": "2026-05-28T05:00:34.434-05:00",
+      "title": "Critical Notepad++ Vulnerability Enables Arbitrary Code Execution"
     }
   ]
 }
