@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T06:00:45.347-05:00",
-  "lastLink": "https://cyberpress.org/llm-agent-pivots-database/",
-  "lastId": "oh3knw0000",
-  "lastFilePath": "cyberpress/pages/2026/05/28/hackers-use-llm-agent-to-pivot-from-marimo-rce-to-internal-database.md",
+  "updatedAt": "2026-05-28T07:00:50.910-05:00",
+  "lastLink": "https://cyberpress.org/roundcube-flaw-inject-sql-queries/",
+  "lastId": "1r596jm000",
+  "lastFilePath": "cyberpress/pages/2026/05/28/critical-roundcube-flaw-allows-attackers-to-inject-sql-queries.md",
   "items": [
     {
-      "id": "oh3knw0000",
-      "link": "https://cyberpress.org/llm-agent-pivots-database/",
-      "filePath": "cyberpress/pages/2026/05/28/hackers-use-llm-agent-to-pivot-from-marimo-rce-to-internal-database.md",
-      "committedAt": "2026-05-28T06:00:45.347-05:00",
-      "title": "Hackers Use LLM Agent to Pivot From marimo RCE to Internal Database"
+      "id": "1r596jm000",
+      "link": "https://cyberpress.org/roundcube-flaw-inject-sql-queries/",
+      "filePath": "cyberpress/pages/2026/05/28/critical-roundcube-flaw-allows-attackers-to-inject-sql-queries.md",
+      "committedAt": "2026-05-28T07:00:50.910-05:00",
+      "title": "Critical Roundcube Flaw Allows Attackers to Inject SQL Queries"
     }
   ]
 }
