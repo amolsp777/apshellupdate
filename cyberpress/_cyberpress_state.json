@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T12:01:19.262-05:00",
-  "lastLink": "https://cyberpress.org/preinstalled-motorola-app-hijacks-amazon/",
-  "lastId": "jgg66r0000",
-  "lastFilePath": "cyberpress/pages/2026/05/28/preinstalled-motorola-app-hijacks-amazon-to-inject-affiliate-codes.md",
+  "updatedAt": "2026-05-28T13:01:24.391-05:00",
+  "lastLink": "https://cyberpress.org/clearfake-abuses-blockchain-c2/",
+  "lastId": "jcp9uf0000",
+  "lastFilePath": "cyberpress/pages/2026/05/28/clearfake-uses-bsc-testnet-smart-contracts-for-resilient-c2-operations.md",
   "items": [
     {
-      "id": "jgg66r0000",
-      "link": "https://cyberpress.org/preinstalled-motorola-app-hijacks-amazon/",
-      "filePath": "cyberpress/pages/2026/05/28/preinstalled-motorola-app-hijacks-amazon-to-inject-affiliate-codes.md",
-      "committedAt": "2026-05-28T12:01:19.262-05:00",
-      "title": "Preinstalled Motorola App Hijacks Amazon to Inject Affiliate Codes"
+      "id": "jcp9uf0000",
+      "link": "https://cyberpress.org/clearfake-abuses-blockchain-c2/",
+      "filePath": "cyberpress/pages/2026/05/28/clearfake-uses-bsc-testnet-smart-contracts-for-resilient-c2-operations.md",
+      "committedAt": "2026-05-28T13:01:24.391-05:00",
+      "title": "ClearFake Uses BSC Testnet Smart Contracts for Resilient C2 Operations"
     }
   ]
 }
