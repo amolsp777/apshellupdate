@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T00:00:34.556-05:00",
-  "lastLink": "https://cyberpress.org/forticlient-flaw-exploited/",
-  "lastId": "1p8kdre000",
-  "lastFilePath": "cyberpress/pages/2026/05/28/forticlient-flaw-exploited-to-deploy-ekz-malware-attacks.md",
+  "updatedAt": "2026-05-28T02:00:39.500-05:00",
+  "lastLink": "https://cyberpress.org/invisibleferret-steals-crypto-credentials/",
+  "lastId": "qv3qdn0000",
+  "lastFilePath": "cyberpress/pages/2026/05/28/invisibleferret-malware-steals-browser-credentials-and-crypto-wallets.md",
   "items": [
     {
-      "id": "1p8kdre000",
-      "link": "https://cyberpress.org/forticlient-flaw-exploited/",
-      "filePath": "cyberpress/pages/2026/05/28/forticlient-flaw-exploited-to-deploy-ekz-malware-attacks.md",
-      "committedAt": "2026-05-28T00:00:34.556-05:00",
-      "title": "FortiClient Flaw Exploited to Deploy EKZ Malware Attacks"
+      "id": "qv3qdn0000",
+      "link": "https://cyberpress.org/invisibleferret-steals-crypto-credentials/",
+      "filePath": "cyberpress/pages/2026/05/28/invisibleferret-malware-steals-browser-credentials-and-crypto-wallets.md",
+      "committedAt": "2026-05-28T02:00:39.500-05:00",
+      "title": "InvisibleFerret Malware Steals Browser Credentials and Crypto Wallets"
     }
   ]
 }
