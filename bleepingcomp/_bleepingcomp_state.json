@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T10:01:22.626-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
-  "lastId": "nsiulg0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/28/webinar-why-network-incidents-take-too-long-to-resolve.md",
+  "updatedAt": "2026-05-28T11:00:30.877-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+  "lastId": "jkd7pv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/28/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution.md",
   "items": [
     {
-      "id": "nsiulg0000",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
-      "filePath": "bleepingcomp/pages/2026/05/28/webinar-why-network-incidents-take-too-long-to-resolve.md",
-      "committedAt": "2026-05-28T10:01:22.626-04:00",
-      "title": "Webinar: Why network incidents take too long to resolve"
+      "id": "jkd7pv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+      "filePath": "bleepingcomp/pages/2026/05/28/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution.md",
+      "committedAt": "2026-05-28T11:00:30.877-04:00",
+      "title": "New Gogs zero-day flaw lets hackers get remote code execution"
     }
   ]
 }
