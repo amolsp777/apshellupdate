@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T12:01:35.367-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
-  "lastId": "z06yj70000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/28/how-siem-helps-msps-reduce-noise-and-stop-threats-faster.md",
+  "updatedAt": "2026-05-28T14:00:30.813-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+  "lastId": "d48e2m0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/28/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware.md",
   "items": [
     {
-      "id": "z06yj70000",
-      "link": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
-      "filePath": "bleepingcomp/pages/2026/05/28/how-siem-helps-msps-reduce-noise-and-stop-threats-faster.md",
-      "committedAt": "2026-05-28T12:01:35.367-04:00",
-      "title": "How SIEM helps MSPs reduce noise and stop threats faster"
+      "id": "d48e2m0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+      "filePath": "bleepingcomp/pages/2026/05/28/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware.md",
+      "committedAt": "2026-05-28T14:00:30.813-04:00",
+      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware"
     }
   ]
 }
