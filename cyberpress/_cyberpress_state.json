@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T05:00:34.434-05:00",
-  "lastLink": "https://cyberpress.org/notepad-vulnerability/",
-  "lastId": "1u82xt7000",
-  "lastFilePath": "cyberpress/pages/2026/05/28/critical-notepad-vulnerability-enables-arbitrary-code-execution.md",
+  "updatedAt": "2026-05-28T06:00:45.347-05:00",
+  "lastLink": "https://cyberpress.org/llm-agent-pivots-database/",
+  "lastId": "oh3knw0000",
+  "lastFilePath": "cyberpress/pages/2026/05/28/hackers-use-llm-agent-to-pivot-from-marimo-rce-to-internal-database.md",
   "items": [
     {
-      "id": "1u82xt7000",
-      "link": "https://cyberpress.org/notepad-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/28/critical-notepad-vulnerability-enables-arbitrary-code-execution.md",
-      "committedAt": "2026-05-28T05:00:34.434-05:00",
-      "title": "Critical Notepad++ Vulnerability Enables Arbitrary Code Execution"
+      "id": "oh3knw0000",
+      "link": "https://cyberpress.org/llm-agent-pivots-database/",
+      "filePath": "cyberpress/pages/2026/05/28/hackers-use-llm-agent-to-pivot-from-marimo-rce-to-internal-database.md",
+      "committedAt": "2026-05-28T06:00:45.347-05:00",
+      "title": "Hackers Use LLM Agent to Pivot From marimo RCE to Internal Database"
     }
   ]
 }
