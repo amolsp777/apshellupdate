@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T02:00:39.500-05:00",
-  "lastLink": "https://cyberpress.org/invisibleferret-steals-crypto-credentials/",
-  "lastId": "qv3qdn0000",
-  "lastFilePath": "cyberpress/pages/2026/05/28/invisibleferret-malware-steals-browser-credentials-and-crypto-wallets.md",
+  "updatedAt": "2026-05-28T03:00:34.652-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-zero-day-vulnerabilities/",
+  "lastId": "1ni12sv000",
+  "lastFilePath": "cyberpress/pages/2026/05/28/microsoft-warns-against-early-disclosure-of-zero-day-vulnerabilities.md",
   "items": [
     {
-      "id": "qv3qdn0000",
-      "link": "https://cyberpress.org/invisibleferret-steals-crypto-credentials/",
-      "filePath": "cyberpress/pages/2026/05/28/invisibleferret-malware-steals-browser-credentials-and-crypto-wallets.md",
-      "committedAt": "2026-05-28T02:00:39.500-05:00",
-      "title": "InvisibleFerret Malware Steals Browser Credentials and Crypto Wallets"
+      "id": "1ni12sv000",
+      "link": "https://cyberpress.org/microsoft-zero-day-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/05/28/microsoft-warns-against-early-disclosure-of-zero-day-vulnerabilities.md",
+      "committedAt": "2026-05-28T03:00:34.652-05:00",
+      "title": "Microsoft Warns Against Early Disclosure of Zero-Day Vulnerabilities"
     }
   ]
 }
