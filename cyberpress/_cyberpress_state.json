@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T07:00:50.910-05:00",
-  "lastLink": "https://cyberpress.org/roundcube-flaw-inject-sql-queries/",
-  "lastId": "1r596jm000",
-  "lastFilePath": "cyberpress/pages/2026/05/28/critical-roundcube-flaw-allows-attackers-to-inject-sql-queries.md",
+  "updatedAt": "2026-05-28T08:00:56.894-05:00",
+  "lastLink": "https://cyberpress.org/purelogs-abuses-msbuild-process/",
+  "lastId": "1c7yxd2000",
+  "lastFilePath": "cyberpress/pages/2026/05/28/purelogs-malware-variant-abuses-msbuildexe-for-process-hollowing-attacks.md",
   "items": [
     {
-      "id": "1r596jm000",
-      "link": "https://cyberpress.org/roundcube-flaw-inject-sql-queries/",
-      "filePath": "cyberpress/pages/2026/05/28/critical-roundcube-flaw-allows-attackers-to-inject-sql-queries.md",
-      "committedAt": "2026-05-28T07:00:50.910-05:00",
-      "title": "Critical Roundcube Flaw Allows Attackers to Inject SQL Queries"
+      "id": "1c7yxd2000",
+      "link": "https://cyberpress.org/purelogs-abuses-msbuild-process/",
+      "filePath": "cyberpress/pages/2026/05/28/purelogs-malware-variant-abuses-msbuildexe-for-process-hollowing-attacks.md",
+      "committedAt": "2026-05-28T08:00:56.894-05:00",
+      "title": "PureLogs Malware Variant Abuses MSBuild.exe for Process Hollowing Attacks"
     }
   ]
 }
