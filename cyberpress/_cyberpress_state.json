@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T03:00:34.652-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-zero-day-vulnerabilities/",
-  "lastId": "1ni12sv000",
-  "lastFilePath": "cyberpress/pages/2026/05/28/microsoft-warns-against-early-disclosure-of-zero-day-vulnerabilities.md",
+  "updatedAt": "2026-05-28T04:00:34.911-05:00",
+  "lastLink": "https://cyberpress.org/ai-npm-malware-backfires/",
+  "lastId": "x9kf5v0000",
+  "lastFilePath": "cyberpress/pages/2026/05/28/threat-actors-github-token-leaked-by-ai-generated-npm-malware.md",
   "items": [
     {
-      "id": "1ni12sv000",
-      "link": "https://cyberpress.org/microsoft-zero-day-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/05/28/microsoft-warns-against-early-disclosure-of-zero-day-vulnerabilities.md",
-      "committedAt": "2026-05-28T03:00:34.652-05:00",
-      "title": "Microsoft Warns Against Early Disclosure of Zero-Day Vulnerabilities"
+      "id": "x9kf5v0000",
+      "link": "https://cyberpress.org/ai-npm-malware-backfires/",
+      "filePath": "cyberpress/pages/2026/05/28/threat-actors-github-token-leaked-by-ai-generated-npm-malware.md",
+      "committedAt": "2026-05-28T04:00:34.911-05:00",
+      "title": "Threat Actor’s GitHub Token Leaked by AI-Generated npm Malware"
     }
   ]
 }
