@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T09:01:03.517-05:00",
-  "lastLink": "https://cyberpress.org/sites-ssd-timing-side-channel-attacks/",
-  "lastId": "1u61v7s000",
-  "lastFilePath": "cyberpress/pages/2026/05/28/malicious-sites-track-users-through-ssd-timing-side-channel-attacks.md",
+  "updatedAt": "2026-05-28T10:01:10.298-05:00",
+  "lastLink": "https://cyberpress.org/vaultjacking-exposes-google-vault/",
+  "lastId": "4rzswf0000",
+  "lastFilePath": "cyberpress/pages/2026/05/28/researchers-warn-vaultjacking-can-expose-entire-google-password-vault.md",
   "items": [
     {
-      "id": "1u61v7s000",
-      "link": "https://cyberpress.org/sites-ssd-timing-side-channel-attacks/",
-      "filePath": "cyberpress/pages/2026/05/28/malicious-sites-track-users-through-ssd-timing-side-channel-attacks.md",
-      "committedAt": "2026-05-28T09:01:03.517-05:00",
-      "title": "Malicious Sites Track Users Through SSD Timing Side-Channel Attacks"
+      "id": "4rzswf0000",
+      "link": "https://cyberpress.org/vaultjacking-exposes-google-vault/",
+      "filePath": "cyberpress/pages/2026/05/28/researchers-warn-vaultjacking-can-expose-entire-google-password-vault.md",
+      "committedAt": "2026-05-28T10:01:10.298-05:00",
+      "title": "Researchers Warn VaultJacking Can Expose Entire Google Password Vault"
     }
   ]
 }
