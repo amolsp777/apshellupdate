@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T20:01:01.265-05:00",
-  "lastLink": "https://cyberpress.org/apple-developing-auto-lock-feature/",
-  "lastId": "decf630000",
-  "lastFilePath": "cyberpress/pages/2026/05/27/apple-developing-auto-lock-feature-for-stolen-iphones.md",
+  "updatedAt": "2026-05-28T00:00:34.556-05:00",
+  "lastLink": "https://cyberpress.org/forticlient-flaw-exploited/",
+  "lastId": "1p8kdre000",
+  "lastFilePath": "cyberpress/pages/2026/05/28/forticlient-flaw-exploited-to-deploy-ekz-malware-attacks.md",
   "items": [
     {
-      "id": "decf630000",
-      "link": "https://cyberpress.org/apple-developing-auto-lock-feature/",
-      "filePath": "cyberpress/pages/2026/05/27/apple-developing-auto-lock-feature-for-stolen-iphones.md",
-      "committedAt": "2026-05-27T20:01:01.265-05:00",
-      "title": "Apple Developing Auto-Lock Feature for Stolen iPhones"
+      "id": "1p8kdre000",
+      "link": "https://cyberpress.org/forticlient-flaw-exploited/",
+      "filePath": "cyberpress/pages/2026/05/28/forticlient-flaw-exploited-to-deploy-ekz-malware-attacks.md",
+      "committedAt": "2026-05-28T00:00:34.556-05:00",
+      "title": "FortiClient Flaw Exploited to Deploy EKZ Malware Attacks"
     }
   ]
 }
