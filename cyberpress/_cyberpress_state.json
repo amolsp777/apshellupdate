@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T07:01:07.082-05:00",
-  "lastLink": "https://cyberpress.org/greyvibe-chatgpt-gemini/",
-  "lastId": "ayyc5l0000",
-  "lastFilePath": "cyberpress/pages/2026/05/29/greyvibe-hackers-use-chatgpt-and-gemini-to-power-cyberattacks.md",
+  "updatedAt": "2026-05-29T08:01:13.565-05:00",
+  "lastLink": "https://cyberpress.org/malicious-nuget-package-sicoob-sdk/",
+  "lastId": "1r4hvj8000",
+  "lastFilePath": "cyberpress/pages/2026/05/29/malicious-nuget-package-poses-as-sicoob-sdk-to-steal-passwords.md",
   "items": [
     {
-      "id": "ayyc5l0000",
-      "link": "https://cyberpress.org/greyvibe-chatgpt-gemini/",
-      "filePath": "cyberpress/pages/2026/05/29/greyvibe-hackers-use-chatgpt-and-gemini-to-power-cyberattacks.md",
-      "committedAt": "2026-05-29T07:01:07.082-05:00",
-      "title": "GREYVIBE Hackers Use ChatGPT and Gemini to Power Cyberattacks"
+      "id": "1r4hvj8000",
+      "link": "https://cyberpress.org/malicious-nuget-package-sicoob-sdk/",
+      "filePath": "cyberpress/pages/2026/05/29/malicious-nuget-package-poses-as-sicoob-sdk-to-steal-passwords.md",
+      "committedAt": "2026-05-29T08:01:13.565-05:00",
+      "title": "Malicious NuGet Package Poses as Sicoob SDK to Steal Passwords"
     }
   ]
 }
