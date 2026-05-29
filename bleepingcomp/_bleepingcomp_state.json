@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T09:00:58.482-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
-  "lastId": "1mjwiur000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/29/google-chrome-adds-session-cookie-theft-protection-for-all-users.md",
+  "updatedAt": "2026-05-29T11:00:30.536-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
+  "lastId": "1mwqy8d000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/29/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market.md",
   "items": [
     {
-      "id": "1mjwiur000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
-      "filePath": "bleepingcomp/pages/2026/05/29/google-chrome-adds-session-cookie-theft-protection-for-all-users.md",
-      "committedAt": "2026-05-29T09:00:58.482-04:00",
-      "title": "Google Chrome adds session cookie theft protection for all users"
+      "id": "1mwqy8d000",
+      "link": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
+      "filePath": "bleepingcomp/pages/2026/05/29/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market.md",
+      "committedAt": "2026-05-29T11:00:30.536-04:00",
+      "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market"
     }
   ]
 }
