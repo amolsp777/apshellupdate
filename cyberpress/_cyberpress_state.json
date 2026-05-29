@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T01:00:44.655-05:00",
-  "lastLink": "https://cyberpress.org/openvpn-connect-macos-flaw/",
-  "lastId": "oh4w5x0000",
-  "lastFilePath": "cyberpress/pages/2026/05/29/critical-openvpn-connect-macos-flaw-enables-command-execution.md",
+  "updatedAt": "2026-05-29T02:01:01.114-05:00",
+  "lastLink": "https://cyberpress.org/anthropic-releases-claude-opus-4-8/",
+  "lastId": "iowua80000",
+  "lastFilePath": "cyberpress/pages/2026/05/29/anthropic-releases-claude-opus-48-with-advanced-engineering-skills.md",
   "items": [
     {
-      "id": "oh4w5x0000",
-      "link": "https://cyberpress.org/openvpn-connect-macos-flaw/",
-      "filePath": "cyberpress/pages/2026/05/29/critical-openvpn-connect-macos-flaw-enables-command-execution.md",
-      "committedAt": "2026-05-29T01:00:44.655-05:00",
-      "title": "Critical OpenVPN Connect macOS Flaw Enables Command Execution"
+      "id": "iowua80000",
+      "link": "https://cyberpress.org/anthropic-releases-claude-opus-4-8/",
+      "filePath": "cyberpress/pages/2026/05/29/anthropic-releases-claude-opus-48-with-advanced-engineering-skills.md",
+      "committedAt": "2026-05-29T02:01:01.114-05:00",
+      "title": "Anthropic Releases Claude Opus 4.8 with Advanced Engineering Skills"
     }
   ]
 }
