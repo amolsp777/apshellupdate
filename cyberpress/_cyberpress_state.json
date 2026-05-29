@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T05:00:39.136-05:00",
-  "lastLink": "https://cyberpress.org/gitlab-patches-duo-ai-dos/",
-  "lastId": "jl41h20000",
-  "lastFilePath": "cyberpress/pages/2026/05/29/gitlab-patches-duo-ai-dos-and-authorization-vulnerabilities.md",
+  "updatedAt": "2026-05-29T06:00:50.311-05:00",
+  "lastLink": "https://cyberpress.org/zapocalypse-attack-chain-zapier/",
+  "lastId": "1bw9a18000",
+  "lastFilePath": "cyberpress/pages/2026/05/29/zapocalypse-attack-chain-enables-full-zapier-account-takeover.md",
   "items": [
     {
-      "id": "jl41h20000",
-      "link": "https://cyberpress.org/gitlab-patches-duo-ai-dos/",
-      "filePath": "cyberpress/pages/2026/05/29/gitlab-patches-duo-ai-dos-and-authorization-vulnerabilities.md",
-      "committedAt": "2026-05-29T05:00:39.136-05:00",
-      "title": "GitLab Patches Duo AI, DoS, and Authorization Vulnerabilities"
+      "id": "1bw9a18000",
+      "link": "https://cyberpress.org/zapocalypse-attack-chain-zapier/",
+      "filePath": "cyberpress/pages/2026/05/29/zapocalypse-attack-chain-enables-full-zapier-account-takeover.md",
+      "committedAt": "2026-05-29T06:00:50.311-05:00",
+      "title": "Zapocalypse Attack Chain Enables Full Zapier Account Takeover"
     }
   ]
 }
