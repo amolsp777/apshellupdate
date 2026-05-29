@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T12:00:37.219-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
-  "lastId": "18n62ib000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/29/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices.md",
+  "updatedAt": "2026-05-29T15:01:04.388-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+  "lastId": "1bbzdtf000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/29/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware.md",
   "items": [
     {
-      "id": "18n62ib000",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
-      "filePath": "bleepingcomp/pages/2026/05/29/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices.md",
-      "committedAt": "2026-05-29T12:00:37.219-04:00",
-      "title": "Dutch govt disrupts malware botnet with 17 million infected devices"
+      "id": "1bbzdtf000",
+      "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+      "filePath": "bleepingcomp/pages/2026/05/29/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware.md",
+      "committedAt": "2026-05-29T15:01:04.388-04:00",
+      "title": "ChatGPT share links abused to host fake outage pages to deliver malware"
     }
   ]
 }
