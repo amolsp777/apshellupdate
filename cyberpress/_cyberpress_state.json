@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T13:01:24.391-05:00",
-  "lastLink": "https://cyberpress.org/clearfake-abuses-blockchain-c2/",
-  "lastId": "jcp9uf0000",
-  "lastFilePath": "cyberpress/pages/2026/05/28/clearfake-uses-bsc-testnet-smart-contracts-for-resilient-c2-operations.md",
+  "updatedAt": "2026-05-29T00:00:44.477-05:00",
+  "lastLink": "https://cyberpress.org/gogs-0-day-execute-code-servers/",
+  "lastId": "1w8829m000",
+  "lastFilePath": "cyberpress/pages/2026/05/29/new-gogs-0-day-lets-attackers-execute-code-remotely-on-servers.md",
   "items": [
     {
-      "id": "jcp9uf0000",
-      "link": "https://cyberpress.org/clearfake-abuses-blockchain-c2/",
-      "filePath": "cyberpress/pages/2026/05/28/clearfake-uses-bsc-testnet-smart-contracts-for-resilient-c2-operations.md",
-      "committedAt": "2026-05-28T13:01:24.391-05:00",
-      "title": "ClearFake Uses BSC Testnet Smart Contracts for Resilient C2 Operations"
+      "id": "1w8829m000",
+      "link": "https://cyberpress.org/gogs-0-day-execute-code-servers/",
+      "filePath": "cyberpress/pages/2026/05/29/new-gogs-0-day-lets-attackers-execute-code-remotely-on-servers.md",
+      "committedAt": "2026-05-29T00:00:44.477-05:00",
+      "title": "New Gogs 0-Day Lets Attackers Execute Code Remotely on Servers"
     }
   ]
 }
