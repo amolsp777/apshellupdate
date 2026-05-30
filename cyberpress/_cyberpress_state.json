@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T03:00:38.875-05:00",
-  "lastLink": "https://cyberpress.org/pan-os-globalprotect-authentication-bypass/",
-  "lastId": "e3bqr30000",
-  "lastFilePath": "cyberpress/pages/2026/05/30/pan-os-globalprotect-authentication-bypass-flaw-under-active-exploitation.md",
+  "updatedAt": "2026-05-30T04:00:59.964-05:00",
+  "lastLink": "https://cyberpress.org/google-rolls-out-dbsc/",
+  "lastId": "1yg7ths000",
+  "lastFilePath": "cyberpress/pages/2026/05/30/google-rolls-out-dbsc-in-chrome-to-prevent-session-based-account-takeovers.md",
   "items": [
     {
-      "id": "e3bqr30000",
-      "link": "https://cyberpress.org/pan-os-globalprotect-authentication-bypass/",
-      "filePath": "cyberpress/pages/2026/05/30/pan-os-globalprotect-authentication-bypass-flaw-under-active-exploitation.md",
-      "committedAt": "2026-05-30T03:00:38.875-05:00",
-      "title": "PAN-OS GlobalProtect Authentication Bypass Flaw Under Active Exploitation"
+      "id": "1yg7ths000",
+      "link": "https://cyberpress.org/google-rolls-out-dbsc/",
+      "filePath": "cyberpress/pages/2026/05/30/google-rolls-out-dbsc-in-chrome-to-prevent-session-based-account-takeovers.md",
+      "committedAt": "2026-05-30T04:00:59.964-05:00",
+      "title": "Google Rolls Out DBSC in Chrome to Prevent Session-Based Account Takeovers"
     }
   ]
 }
