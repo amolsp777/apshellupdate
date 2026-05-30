@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T08:01:13.565-05:00",
-  "lastLink": "https://cyberpress.org/malicious-nuget-package-sicoob-sdk/",
-  "lastId": "1r4hvj8000",
-  "lastFilePath": "cyberpress/pages/2026/05/29/malicious-nuget-package-poses-as-sicoob-sdk-to-steal-passwords.md",
+  "updatedAt": "2026-05-30T01:01:05.434-05:00",
+  "lastLink": "https://cyberpress.org/sidecopy-apt-deploys-xenorat-to-target-afghanistan-finance-ministry/",
+  "lastId": "1j6pss4000",
+  "lastFilePath": "cyberpress/pages/2026/05/30/sidecopy-apt-deploys-xenorat-to-target-afghanistan-finance-ministry.md",
   "items": [
     {
-      "id": "1r4hvj8000",
-      "link": "https://cyberpress.org/malicious-nuget-package-sicoob-sdk/",
-      "filePath": "cyberpress/pages/2026/05/29/malicious-nuget-package-poses-as-sicoob-sdk-to-steal-passwords.md",
-      "committedAt": "2026-05-29T08:01:13.565-05:00",
-      "title": "Malicious NuGet Package Poses as Sicoob SDK to Steal Passwords"
+      "id": "1j6pss4000",
+      "link": "https://cyberpress.org/sidecopy-apt-deploys-xenorat-to-target-afghanistan-finance-ministry/",
+      "filePath": "cyberpress/pages/2026/05/30/sidecopy-apt-deploys-xenorat-to-target-afghanistan-finance-ministry.md",
+      "committedAt": "2026-05-30T01:01:05.434-05:00",
+      "title": "SideCopy APT Deploys XenoRAT to Target Afghanistan Finance Ministry"
     }
   ]
 }
