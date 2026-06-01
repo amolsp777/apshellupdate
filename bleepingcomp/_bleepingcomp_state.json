@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T13:01:30.893-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
-  "lastId": "1hbw9st000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service.md",
+  "updatedAt": "2026-06-01T14:00:52.703-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+  "lastId": "1618tzn000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/wordpress-malware-campaign-hides-payloads-in-steam-profiles.md",
   "items": [
     {
-      "id": "1hbw9st000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
-      "filePath": "bleepingcomp/pages/2026/06/01/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service.md",
-      "committedAt": "2026-06-01T13:01:30.893-04:00",
-      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service"
+      "id": "1618tzn000",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+      "filePath": "bleepingcomp/pages/2026/06/01/wordpress-malware-campaign-hides-payloads-in-steam-profiles.md",
+      "committedAt": "2026-06-01T14:00:52.703-04:00",
+      "title": "WordPress malware campaign hides payloads in Steam profiles"
     }
   ]
 }
