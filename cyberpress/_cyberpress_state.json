@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T05:00:56.139-05:00",
-  "lastLink": "https://cyberpress.org/hackers-target-signal-backups/",
-  "lastId": "3rpy7w0000",
-  "lastFilePath": "cyberpress/pages/2026/06/01/hackers-target-signal-backups-in-new-credential-theft-campaign.md",
+  "updatedAt": "2026-06-01T06:00:34.039-05:00",
+  "lastLink": "https://cyberpress.org/plesk-vulnerability-arbitrary-command-execution/",
+  "lastId": "18yihd9000",
+  "lastFilePath": "cyberpress/pages/2026/06/01/critical-plesk-vulnerability-enables-arbitrary-command-execution.md",
   "items": [
     {
-      "id": "3rpy7w0000",
-      "link": "https://cyberpress.org/hackers-target-signal-backups/",
-      "filePath": "cyberpress/pages/2026/06/01/hackers-target-signal-backups-in-new-credential-theft-campaign.md",
-      "committedAt": "2026-06-01T05:00:56.139-05:00",
-      "title": "Hackers Target Signal Backups In New Credential Theft Campaign"
+      "id": "18yihd9000",
+      "link": "https://cyberpress.org/plesk-vulnerability-arbitrary-command-execution/",
+      "filePath": "cyberpress/pages/2026/06/01/critical-plesk-vulnerability-enables-arbitrary-command-execution.md",
+      "committedAt": "2026-06-01T06:00:34.039-05:00",
+      "title": "Critical Plesk Vulnerability Enables Arbitrary Command Execution"
     }
   ]
 }
