@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T10:00:51.231-05:00",
-  "lastLink": "https://cyberpress.org/stealer-malware-asyncrat-dcrat/",
-  "lastId": "6matg70000",
-  "lastFilePath": "cyberpress/pages/2026/06/01/stealer-malware-surges-as-asyncrat-dcrat-lead-weekly-uploads.md",
+  "updatedAt": "2026-06-01T11:01:02.223-05:00",
+  "lastLink": "https://cyberpress.org/hackers-abuse-malware-hosting/",
+  "lastId": "g4ak8l0000",
+  "lastFilePath": "cyberpress/pages/2026/06/01/cybercriminals-leverage-ghostynetworks-and-omegatech-for-js-malware-hosting.md",
   "items": [
     {
-      "id": "6matg70000",
-      "link": "https://cyberpress.org/stealer-malware-asyncrat-dcrat/",
-      "filePath": "cyberpress/pages/2026/06/01/stealer-malware-surges-as-asyncrat-dcrat-lead-weekly-uploads.md",
-      "committedAt": "2026-06-01T10:00:51.231-05:00",
-      "title": "Stealer Malware Surges as AsyncRAT, DCRat Lead Weekly Uploads"
+      "id": "g4ak8l0000",
+      "link": "https://cyberpress.org/hackers-abuse-malware-hosting/",
+      "filePath": "cyberpress/pages/2026/06/01/cybercriminals-leverage-ghostynetworks-and-omegatech-for-js-malware-hosting.md",
+      "committedAt": "2026-06-01T11:01:02.223-05:00",
+      "title": "Cybercriminals Leverage GHOSTYNETWORKS and OMEGATECH for JS Malware Hosting"
     }
   ]
 }
