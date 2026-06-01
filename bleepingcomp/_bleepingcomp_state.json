@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T11:00:56.932-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
-  "lastId": "sifndf0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/31/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites.md",
+  "updatedAt": "2026-06-01T07:00:58.223-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+  "lastId": "1x3049d000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/microsoft-fixes-kb5089549-windows-security-update-install-issues.md",
   "items": [
     {
-      "id": "sifndf0000",
-      "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
-      "filePath": "bleepingcomp/pages/2026/05/31/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites.md",
-      "committedAt": "2026-05-31T11:00:56.932-04:00",
-      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites"
+      "id": "1x3049d000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+      "filePath": "bleepingcomp/pages/2026/06/01/microsoft-fixes-kb5089549-windows-security-update-install-issues.md",
+      "committedAt": "2026-06-01T07:00:58.223-04:00",
+      "title": "Microsoft fixes KB5089549 Windows security update install issues"
     }
   ]
 }
