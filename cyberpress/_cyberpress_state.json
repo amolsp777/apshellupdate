@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T04:00:57.221-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-strengthens-entra-id-password-resets/",
-  "lastId": "s5fkdv0000",
-  "lastFilePath": "cyberpress/pages/2026/06/01/microsoft-strengthens-entra-id-password-resets-with-new-controls.md",
+  "updatedAt": "2026-06-01T05:00:56.139-05:00",
+  "lastLink": "https://cyberpress.org/hackers-target-signal-backups/",
+  "lastId": "3rpy7w0000",
+  "lastFilePath": "cyberpress/pages/2026/06/01/hackers-target-signal-backups-in-new-credential-theft-campaign.md",
   "items": [
     {
-      "id": "s5fkdv0000",
-      "link": "https://cyberpress.org/microsoft-strengthens-entra-id-password-resets/",
-      "filePath": "cyberpress/pages/2026/06/01/microsoft-strengthens-entra-id-password-resets-with-new-controls.md",
-      "committedAt": "2026-06-01T04:00:57.221-05:00",
-      "title": "Microsoft Strengthens Entra ID Password Resets with New Controls"
+      "id": "3rpy7w0000",
+      "link": "https://cyberpress.org/hackers-target-signal-backups/",
+      "filePath": "cyberpress/pages/2026/06/01/hackers-target-signal-backups-in-new-credential-theft-campaign.md",
+      "committedAt": "2026-06-01T05:00:56.139-05:00",
+      "title": "Hackers Target Signal Backups In New Credential Theft Campaign"
     }
   ]
 }
