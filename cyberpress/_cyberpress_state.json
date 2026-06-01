@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T12:01:06.739-05:00",
-  "lastLink": "https://cyberpress.org/critical-wp-maps-pro-flaw/",
-  "lastId": "14l7a8f000",
-  "lastFilePath": "cyberpress/pages/2026/06/01/critical-wp-maps-pro-flaw-lets-attackers-create-admin-accounts.md",
+  "updatedAt": "2026-06-01T13:01:13.516-05:00",
+  "lastLink": "https://cyberpress.org/iranian-appdomainmanager-evasion/",
+  "lastId": "12z28ej000",
+  "lastFilePath": "cyberpress/pages/2026/06/01/threat-actors-linked-to-iran-leverage-appdomainmanager-to-evade-detection.md",
   "items": [
     {
-      "id": "14l7a8f000",
-      "link": "https://cyberpress.org/critical-wp-maps-pro-flaw/",
-      "filePath": "cyberpress/pages/2026/06/01/critical-wp-maps-pro-flaw-lets-attackers-create-admin-accounts.md",
-      "committedAt": "2026-06-01T12:01:06.739-05:00",
-      "title": "Critical WP Maps Pro Flaw Lets Attackers Create Admin Accounts"
+      "id": "12z28ej000",
+      "link": "https://cyberpress.org/iranian-appdomainmanager-evasion/",
+      "filePath": "cyberpress/pages/2026/06/01/threat-actors-linked-to-iran-leverage-appdomainmanager-to-evade-detection.md",
+      "committedAt": "2026-06-01T13:01:13.516-05:00",
+      "title": "Threat Actors Linked to Iran Leverage AppDomainManager to Evade Detection"
     }
   ]
 }
