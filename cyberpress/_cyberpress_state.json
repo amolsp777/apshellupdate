@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T09:00:45.483-05:00",
-  "lastLink": "https://cyberpress.org/gamaredon-apt-hides-malware/",
-  "lastId": "1nsinkq000",
-  "lastFilePath": "cyberpress/pages/2026/06/01/gamaredon-apt-hides-malware-in-windows-features-uses-cloud-c2.md",
+  "updatedAt": "2026-06-01T10:00:51.231-05:00",
+  "lastLink": "https://cyberpress.org/stealer-malware-asyncrat-dcrat/",
+  "lastId": "6matg70000",
+  "lastFilePath": "cyberpress/pages/2026/06/01/stealer-malware-surges-as-asyncrat-dcrat-lead-weekly-uploads.md",
   "items": [
     {
-      "id": "1nsinkq000",
-      "link": "https://cyberpress.org/gamaredon-apt-hides-malware/",
-      "filePath": "cyberpress/pages/2026/06/01/gamaredon-apt-hides-malware-in-windows-features-uses-cloud-c2.md",
-      "committedAt": "2026-06-01T09:00:45.483-05:00",
-      "title": "Gamaredon APT Hides Malware in Windows Features, Uses Cloud C2"
+      "id": "6matg70000",
+      "link": "https://cyberpress.org/stealer-malware-asyncrat-dcrat/",
+      "filePath": "cyberpress/pages/2026/06/01/stealer-malware-surges-as-asyncrat-dcrat-lead-weekly-uploads.md",
+      "committedAt": "2026-06-01T10:00:51.231-05:00",
+      "title": "Stealer Malware Surges as AsyncRAT, DCRat Lead Weekly Uploads"
     }
   ]
 }
