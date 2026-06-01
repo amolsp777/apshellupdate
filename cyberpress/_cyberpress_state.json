@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T03:00:44.890-05:00",
-  "lastLink": "https://cyberpress.org/mcp-toolbox-vulnerability-exposed/",
-  "lastId": "1q7balk000",
-  "lastFilePath": "cyberpress/pages/2026/06/01/mcp-toolbox-vulnerability-exposes-enterprise-database-systems.md",
+  "updatedAt": "2026-06-01T04:00:57.221-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-strengthens-entra-id-password-resets/",
+  "lastId": "s5fkdv0000",
+  "lastFilePath": "cyberpress/pages/2026/06/01/microsoft-strengthens-entra-id-password-resets-with-new-controls.md",
   "items": [
     {
-      "id": "1q7balk000",
-      "link": "https://cyberpress.org/mcp-toolbox-vulnerability-exposed/",
-      "filePath": "cyberpress/pages/2026/06/01/mcp-toolbox-vulnerability-exposes-enterprise-database-systems.md",
-      "committedAt": "2026-06-01T03:00:44.890-05:00",
-      "title": "MCP Toolbox Vulnerability Exposes Enterprise Database Systems"
+      "id": "s5fkdv0000",
+      "link": "https://cyberpress.org/microsoft-strengthens-entra-id-password-resets/",
+      "filePath": "cyberpress/pages/2026/06/01/microsoft-strengthens-entra-id-password-resets-with-new-controls.md",
+      "committedAt": "2026-06-01T04:00:57.221-05:00",
+      "title": "Microsoft Strengthens Entra ID Password Resets with New Controls"
     }
   ]
 }
