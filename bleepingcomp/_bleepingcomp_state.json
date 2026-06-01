@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T09:00:30.739-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-  "lastId": "1a7p31v000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/critical-windows-netlogon-rce-flaw-now-exploited-in-attacks.md",
+  "updatedAt": "2026-06-01T10:01:20.757-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
+  "lastId": "16hs809000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response.md",
   "items": [
     {
-      "id": "1a7p31v000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/01/critical-windows-netlogon-rce-flaw-now-exploited-in-attacks.md",
-      "committedAt": "2026-06-01T09:00:30.739-04:00",
-      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks"
+      "id": "16hs809000",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
+      "filePath": "bleepingcomp/pages/2026/06/01/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response.md",
+      "committedAt": "2026-06-01T10:01:20.757-04:00",
+      "title": "Webinar tomorrow: From alert to resolution in network incident response"
     }
   ]
 }
