@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T12:01:21.075-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
-  "lastId": "mhppx90000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/microsoft-investigates-office-apps-teams-file-access-issues.md",
+  "updatedAt": "2026-06-01T13:01:30.893-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
+  "lastId": "1hbw9st000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service.md",
   "items": [
     {
-      "id": "mhppx90000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
-      "filePath": "bleepingcomp/pages/2026/06/01/microsoft-investigates-office-apps-teams-file-access-issues.md",
-      "committedAt": "2026-06-01T12:01:21.075-04:00",
-      "title": "Microsoft investigates Office Apps, Teams file access issues"
+      "id": "1hbw9st000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
+      "filePath": "bleepingcomp/pages/2026/06/01/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service.md",
+      "committedAt": "2026-06-01T13:01:30.893-04:00",
+      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service"
     }
   ]
 }
