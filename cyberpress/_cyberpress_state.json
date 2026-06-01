@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T08:00:34.452-05:00",
-  "lastLink": "https://cyberpress.org/critical-magento-cache-plugin-flaw/",
-  "lastId": "1uzwykd000",
-  "lastFilePath": "cyberpress/pages/2026/06/01/critical-magento-cache-plugin-flaw-enables-remote-code-execution.md",
+  "updatedAt": "2026-06-01T09:00:45.483-05:00",
+  "lastLink": "https://cyberpress.org/gamaredon-apt-hides-malware/",
+  "lastId": "1nsinkq000",
+  "lastFilePath": "cyberpress/pages/2026/06/01/gamaredon-apt-hides-malware-in-windows-features-uses-cloud-c2.md",
   "items": [
     {
-      "id": "1uzwykd000",
-      "link": "https://cyberpress.org/critical-magento-cache-plugin-flaw/",
-      "filePath": "cyberpress/pages/2026/06/01/critical-magento-cache-plugin-flaw-enables-remote-code-execution.md",
-      "committedAt": "2026-06-01T08:00:34.452-05:00",
-      "title": "Critical Magento Cache Plugin Flaw Enables Remote Code Execution"
+      "id": "1nsinkq000",
+      "link": "https://cyberpress.org/gamaredon-apt-hides-malware/",
+      "filePath": "cyberpress/pages/2026/06/01/gamaredon-apt-hides-malware-in-windows-features-uses-cloud-c2.md",
+      "committedAt": "2026-06-01T09:00:45.483-05:00",
+      "title": "Gamaredon APT Hides Malware in Windows Features, Uses Cloud C2"
     }
   ]
 }
