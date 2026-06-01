@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T07:00:45.461-05:00",
-  "lastLink": "https://cyberpress.org/drivesurge-deploys-clickfix-malware/",
-  "lastId": "18du8j0000",
-  "lastFilePath": "cyberpress/pages/2026/06/01/new-drivesurge-campaign-delivers-malware-through-clickfix-lures.md",
+  "updatedAt": "2026-06-01T08:00:34.452-05:00",
+  "lastLink": "https://cyberpress.org/critical-magento-cache-plugin-flaw/",
+  "lastId": "1uzwykd000",
+  "lastFilePath": "cyberpress/pages/2026/06/01/critical-magento-cache-plugin-flaw-enables-remote-code-execution.md",
   "items": [
     {
-      "id": "18du8j0000",
-      "link": "https://cyberpress.org/drivesurge-deploys-clickfix-malware/",
-      "filePath": "cyberpress/pages/2026/06/01/new-drivesurge-campaign-delivers-malware-through-clickfix-lures.md",
-      "committedAt": "2026-06-01T07:00:45.461-05:00",
-      "title": "New DriveSurge Campaign Delivers Malware Through ClickFix Lures"
+      "id": "1uzwykd000",
+      "link": "https://cyberpress.org/critical-magento-cache-plugin-flaw/",
+      "filePath": "cyberpress/pages/2026/06/01/critical-magento-cache-plugin-flaw-enables-remote-code-execution.md",
+      "committedAt": "2026-06-01T08:00:34.452-05:00",
+      "title": "Critical Magento Cache Plugin Flaw Enables Remote Code Execution"
     }
   ]
 }
