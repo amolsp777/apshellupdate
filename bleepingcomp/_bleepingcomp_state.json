@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T11:00:52.762-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-  "lastId": "n1nzux0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/race-against-time-why-faster-vulnerability-alerts-matter.md",
+  "updatedAt": "2026-06-01T12:01:21.075-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
+  "lastId": "mhppx90000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/microsoft-investigates-office-apps-teams-file-access-issues.md",
   "items": [
     {
-      "id": "n1nzux0000",
-      "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-      "filePath": "bleepingcomp/pages/2026/06/01/race-against-time-why-faster-vulnerability-alerts-matter.md",
-      "committedAt": "2026-06-01T11:00:52.762-04:00",
-      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter"
+      "id": "mhppx90000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
+      "filePath": "bleepingcomp/pages/2026/06/01/microsoft-investigates-office-apps-teams-file-access-issues.md",
+      "committedAt": "2026-06-01T12:01:21.075-04:00",
+      "title": "Microsoft investigates Office Apps, Teams file access issues"
     }
   ]
 }
