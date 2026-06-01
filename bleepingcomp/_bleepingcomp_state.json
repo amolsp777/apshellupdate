@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T18:00:41.585-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-  "lastId": "ius3fi0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/red-hat-npm-packages-compromised-to-steal-developer-credentials.md",
+  "updatedAt": "2026-06-01T19:00:41.292-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
+  "lastId": "t5o1w30000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks.md",
   "items": [
     {
-      "id": "ius3fi0000",
-      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-      "filePath": "bleepingcomp/pages/2026/06/01/red-hat-npm-packages-compromised-to-steal-developer-credentials.md",
-      "committedAt": "2026-06-01T18:00:41.585-04:00",
-      "title": "Red Hat npm packages compromised to steal developer credentials"
+      "id": "t5o1w30000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/01/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks.md",
+      "committedAt": "2026-06-01T19:00:41.292-04:00",
+      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks"
     }
   ]
 }
