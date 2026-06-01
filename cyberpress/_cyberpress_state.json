@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T13:01:13.516-05:00",
-  "lastLink": "https://cyberpress.org/iranian-appdomainmanager-evasion/",
-  "lastId": "12z28ej000",
-  "lastFilePath": "cyberpress/pages/2026/06/01/threat-actors-linked-to-iran-leverage-appdomainmanager-to-evade-detection.md",
+  "updatedAt": "2026-06-01T14:01:18.678-05:00",
+  "lastLink": "https://cyberpress.org/iran-hackers-wipe-systems/",
+  "lastId": "14r9lqo000",
+  "lastFilePath": "cyberpress/pages/2026/06/01/iran-linked-hackers-wipe-it-systems-and-backups-in-middle-east-cyberattack.md",
   "items": [
     {
-      "id": "12z28ej000",
-      "link": "https://cyberpress.org/iranian-appdomainmanager-evasion/",
-      "filePath": "cyberpress/pages/2026/06/01/threat-actors-linked-to-iran-leverage-appdomainmanager-to-evade-detection.md",
-      "committedAt": "2026-06-01T13:01:13.516-05:00",
-      "title": "Threat Actors Linked to Iran Leverage AppDomainManager to Evade Detection"
+      "id": "14r9lqo000",
+      "link": "https://cyberpress.org/iran-hackers-wipe-systems/",
+      "filePath": "cyberpress/pages/2026/06/01/iran-linked-hackers-wipe-it-systems-and-backups-in-middle-east-cyberattack.md",
+      "committedAt": "2026-06-01T14:01:18.678-05:00",
+      "title": "Iran-Linked Hackers Wipe IT Systems and Backups in Middle East Cyberattack"
     }
   ]
 }
