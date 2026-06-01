@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T07:00:58.223-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
-  "lastId": "1x3049d000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/microsoft-fixes-kb5089549-windows-security-update-install-issues.md",
+  "updatedAt": "2026-06-01T08:01:14.872-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform/",
+  "lastId": "8kf42l0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform.md",
   "items": [
     {
-      "id": "1x3049d000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
-      "filePath": "bleepingcomp/pages/2026/06/01/microsoft-fixes-kb5089549-windows-security-update-install-issues.md",
-      "committedAt": "2026-06-01T07:00:58.223-04:00",
-      "title": "Microsoft fixes KB5089549 Windows security update install issues"
+      "id": "8kf42l0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform/",
+      "filePath": "bleepingcomp/pages/2026/06/01/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform.md",
+      "committedAt": "2026-06-01T08:01:14.872-04:00",
+      "title": "Microsoft confirms outage affecting MFA, My Sign-Ins platform"
     }
   ]
 }
