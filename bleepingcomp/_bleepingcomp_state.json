@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T08:01:14.872-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform/",
-  "lastId": "8kf42l0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform.md",
+  "updatedAt": "2026-06-01T09:00:30.739-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+  "lastId": "1a7p31v000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/critical-windows-netlogon-rce-flaw-now-exploited-in-attacks.md",
   "items": [
     {
-      "id": "8kf42l0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform/",
-      "filePath": "bleepingcomp/pages/2026/06/01/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform.md",
-      "committedAt": "2026-06-01T08:01:14.872-04:00",
-      "title": "Microsoft confirms outage affecting MFA, My Sign-Ins platform"
+      "id": "1a7p31v000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/01/critical-windows-netlogon-rce-flaw-now-exploited-in-attacks.md",
+      "committedAt": "2026-06-01T09:00:30.739-04:00",
+      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks"
     }
   ]
 }
