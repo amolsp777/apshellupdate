@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T15:00:52.492-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-  "lastId": "c1rx9v0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/dashlane-password-manager-users-locked-out-by-brute-force-attacks.md",
+  "updatedAt": "2026-06-01T18:00:41.585-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+  "lastId": "ius3fi0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/red-hat-npm-packages-compromised-to-steal-developer-credentials.md",
   "items": [
     {
-      "id": "c1rx9v0000",
-      "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/01/dashlane-password-manager-users-locked-out-by-brute-force-attacks.md",
-      "committedAt": "2026-06-01T15:00:52.492-04:00",
-      "title": "Dashlane password manager users locked out by brute force attacks"
+      "id": "ius3fi0000",
+      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+      "filePath": "bleepingcomp/pages/2026/06/01/red-hat-npm-packages-compromised-to-steal-developer-credentials.md",
+      "committedAt": "2026-06-01T18:00:41.585-04:00",
+      "title": "Red Hat npm packages compromised to steal developer credentials"
     }
   ]
 }
