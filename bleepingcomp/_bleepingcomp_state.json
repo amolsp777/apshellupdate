@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T17:00:42.487-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-  "lastId": "1ejs18f000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/02/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery.md",
+  "updatedAt": "2026-06-02T18:00:41.410-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+  "lastId": "1nasmhr000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/02/over-116000-mincraft-systems-infected-in-weedhack-malware-campaign.md",
   "items": [
     {
-      "id": "1ejs18f000",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-      "filePath": "bleepingcomp/pages/2026/06/02/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery.md",
-      "committedAt": "2026-06-02T17:00:42.487-04:00",
-      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery"
+      "id": "1nasmhr000",
+      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+      "filePath": "bleepingcomp/pages/2026/06/02/over-116000-mincraft-systems-infected-in-weedhack-malware-campaign.md",
+      "committedAt": "2026-06-02T18:00:41.410-04:00",
+      "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign"
     }
   ]
 }
