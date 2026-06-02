@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T04:00:34.629-05:00",
-  "lastLink": "https://cyberpress.org/android-0-day-vulnerability-exploited/",
-  "lastId": "1762nam000",
-  "lastFilePath": "cyberpress/pages/2026/06/02/android-0-day-vulnerability-exploited-for-full-device-control.md",
+  "updatedAt": "2026-06-02T05:00:51.145-05:00",
+  "lastLink": "https://cyberpress.org/palo-alto-pan-os-flaw-exploited/",
+  "lastId": "bdep4o0000",
+  "lastFilePath": "cyberpress/pages/2026/06/02/cisa-flags-palo-alto-pan-os-flaw-as-actively-exploited.md",
   "items": [
     {
-      "id": "1762nam000",
-      "link": "https://cyberpress.org/android-0-day-vulnerability-exploited/",
-      "filePath": "cyberpress/pages/2026/06/02/android-0-day-vulnerability-exploited-for-full-device-control.md",
-      "committedAt": "2026-06-02T04:00:34.629-05:00",
-      "title": "Android 0-Day Vulnerability Exploited for Full Device Control"
+      "id": "bdep4o0000",
+      "link": "https://cyberpress.org/palo-alto-pan-os-flaw-exploited/",
+      "filePath": "cyberpress/pages/2026/06/02/cisa-flags-palo-alto-pan-os-flaw-as-actively-exploited.md",
+      "committedAt": "2026-06-02T05:00:51.145-05:00",
+      "title": "CISA Flags Palo Alto PAN-OS Flaw as Actively Exploited"
     }
   ]
 }
