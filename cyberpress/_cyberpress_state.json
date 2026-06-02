@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T08:00:40.192-05:00",
-  "lastLink": "https://cyberpress.org/claude-code-github-actions-flaw/",
-  "lastId": "1d6mwd6000",
-  "lastFilePath": "cyberpress/pages/2026/06/02/claude-code-github-actions-flaw-enables-repository-compromise.md",
+  "updatedAt": "2026-06-02T09:00:57.544-05:00",
+  "lastLink": "https://cyberpress.org/critical-kmw-cctv-flaw/",
+  "lastId": "1fsrv0q000",
+  "lastFilePath": "cyberpress/pages/2026/06/02/critical-kmw-cctv-flaw-enables-unauthorized-camera-access.md",
   "items": [
     {
-      "id": "1d6mwd6000",
-      "link": "https://cyberpress.org/claude-code-github-actions-flaw/",
-      "filePath": "cyberpress/pages/2026/06/02/claude-code-github-actions-flaw-enables-repository-compromise.md",
-      "committedAt": "2026-06-02T08:00:40.192-05:00",
-      "title": "Claude Code GitHub Actions Flaw Enables Repository Compromise"
+      "id": "1fsrv0q000",
+      "link": "https://cyberpress.org/critical-kmw-cctv-flaw/",
+      "filePath": "cyberpress/pages/2026/06/02/critical-kmw-cctv-flaw-enables-unauthorized-camera-access.md",
+      "committedAt": "2026-06-02T09:00:57.544-05:00",
+      "title": "Critical KMW CCTV Flaw Enables Unauthorized Camera Access"
     }
   ]
 }
