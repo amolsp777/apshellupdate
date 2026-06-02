@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T19:00:41.292-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
-  "lastId": "t5o1w30000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks.md",
+  "updatedAt": "2026-06-01T20:00:52.054-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+  "lastId": "iuav200000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees.md",
   "items": [
     {
-      "id": "t5o1w30000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/01/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks.md",
-      "committedAt": "2026-06-01T19:00:41.292-04:00",
-      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks"
+      "id": "iuav200000",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+      "filePath": "bleepingcomp/pages/2026/06/01/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees.md",
+      "committedAt": "2026-06-01T20:00:52.054-04:00",
+      "title": "Spain arrests doxer leaking sensitive data of govt employees"
     }
   ]
 }
