@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T12:01:28.366-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
-  "lastId": "1hhanwe000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/02/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts.md",
+  "updatedAt": "2026-06-02T13:01:32.280-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
+  "lastId": "hxprtq0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/02/why-the-browser-is-now-the-front-line-for-ai-security.md",
   "items": [
     {
-      "id": "1hhanwe000",
-      "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
-      "filePath": "bleepingcomp/pages/2026/06/02/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts.md",
-      "committedAt": "2026-06-02T12:01:28.366-04:00",
-      "title": "Instagram users locked out after Meta AI abused to steal accounts"
+      "id": "hxprtq0000",
+      "link": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
+      "filePath": "bleepingcomp/pages/2026/06/02/why-the-browser-is-now-the-front-line-for-ai-security.md",
+      "committedAt": "2026-06-02T13:01:32.280-04:00",
+      "title": "Why the browser is now the front line for AI security"
     }
   ]
 }
