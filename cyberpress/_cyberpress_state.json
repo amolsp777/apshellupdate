@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T07:00:51.084-05:00",
-  "lastLink": "https://cyberpress.org/azureveil-spearphishing-delivers-c2/",
-  "lastId": "19znzyu000",
-  "lastFilePath": "cyberpress/pages/2026/06/02/azureveil-adaptix-c2-agent-delivered-via-targeted-spearphishing-attacks.md",
+  "updatedAt": "2026-06-02T08:00:40.192-05:00",
+  "lastLink": "https://cyberpress.org/claude-code-github-actions-flaw/",
+  "lastId": "1d6mwd6000",
+  "lastFilePath": "cyberpress/pages/2026/06/02/claude-code-github-actions-flaw-enables-repository-compromise.md",
   "items": [
     {
-      "id": "19znzyu000",
-      "link": "https://cyberpress.org/azureveil-spearphishing-delivers-c2/",
-      "filePath": "cyberpress/pages/2026/06/02/azureveil-adaptix-c2-agent-delivered-via-targeted-spearphishing-attacks.md",
-      "committedAt": "2026-06-02T07:00:51.084-05:00",
-      "title": "AZUREVEIL Adaptix C2 Agent Delivered via Targeted Spearphishing Attacks"
+      "id": "1d6mwd6000",
+      "link": "https://cyberpress.org/claude-code-github-actions-flaw/",
+      "filePath": "cyberpress/pages/2026/06/02/claude-code-github-actions-flaw-enables-repository-compromise.md",
+      "committedAt": "2026-06-02T08:00:40.192-05:00",
+      "title": "Claude Code GitHub Actions Flaw Enables Repository Compromise"
     }
   ]
 }
