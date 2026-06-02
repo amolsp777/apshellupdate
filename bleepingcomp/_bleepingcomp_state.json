@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T08:00:36.920-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
-  "lastId": "hpkadu0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/02/google-fixes-one-actively-exploited-android-zero-day-124-flaws.md",
+  "updatedAt": "2026-06-02T09:00:48.157-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+  "lastId": "t1id500000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/02/cisa-flags-two-year-old-oracle-flaw-as-actively-exploited-in-attacks.md",
   "items": [
     {
-      "id": "hpkadu0000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
-      "filePath": "bleepingcomp/pages/2026/06/02/google-fixes-one-actively-exploited-android-zero-day-124-flaws.md",
-      "committedAt": "2026-06-02T08:00:36.920-04:00",
-      "title": "Google fixes one actively exploited Android zero-day, 124 flaws"
+      "id": "t1id500000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+      "filePath": "bleepingcomp/pages/2026/06/02/cisa-flags-two-year-old-oracle-flaw-as-actively-exploited-in-attacks.md",
+      "committedAt": "2026-06-02T09:00:48.157-04:00",
+      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks"
     }
   ]
 }
