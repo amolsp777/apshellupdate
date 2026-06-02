@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T11:01:14.509-05:00",
-  "lastLink": "https://cyberpress.org/foreign-spyware-mobile-phones/",
-  "lastId": "1sw93r0000",
-  "lastFilePath": "cyberpress/pages/2026/06/02/russia-reports-foreign-spyware-found-on-officials-mobile-phones.md",
+  "updatedAt": "2026-06-02T12:01:18.913-05:00",
+  "lastLink": "https://cyberpress.org/malicious-packages-steal-credentials/",
+  "lastId": "1bhmvs5000",
+  "lastFilePath": "cyberpress/pages/2026/06/02/malicious-packages-target-cloud-keys-wallets-and-ssh-credentials.md",
   "items": [
     {
-      "id": "1sw93r0000",
-      "link": "https://cyberpress.org/foreign-spyware-mobile-phones/",
-      "filePath": "cyberpress/pages/2026/06/02/russia-reports-foreign-spyware-found-on-officials-mobile-phones.md",
-      "committedAt": "2026-06-02T11:01:14.509-05:00",
-      "title": "Russia Reports Foreign Spyware Found on Officials’ Mobile Phones"
+      "id": "1bhmvs5000",
+      "link": "https://cyberpress.org/malicious-packages-steal-credentials/",
+      "filePath": "cyberpress/pages/2026/06/02/malicious-packages-target-cloud-keys-wallets-and-ssh-credentials.md",
+      "committedAt": "2026-06-02T12:01:18.913-05:00",
+      "title": "Malicious Packages Target Cloud Keys, Wallets, and SSH Credentials"
     }
   ]
 }
