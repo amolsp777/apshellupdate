@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T20:00:52.054-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-  "lastId": "iuav200000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees.md",
+  "updatedAt": "2026-06-02T08:00:36.920-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+  "lastId": "hpkadu0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/02/google-fixes-one-actively-exploited-android-zero-day-124-flaws.md",
   "items": [
     {
-      "id": "iuav200000",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-      "filePath": "bleepingcomp/pages/2026/06/01/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees.md",
-      "committedAt": "2026-06-01T20:00:52.054-04:00",
-      "title": "Spain arrests doxer leaking sensitive data of govt employees"
+      "id": "hpkadu0000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+      "filePath": "bleepingcomp/pages/2026/06/02/google-fixes-one-actively-exploited-android-zero-day-124-flaws.md",
+      "committedAt": "2026-06-02T08:00:36.920-04:00",
+      "title": "Google fixes one actively exploited Android zero-day, 124 flaws"
     }
   ]
 }
