@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T02:00:34.583-05:00",
-  "lastLink": "https://cyberpress.org/critical-strongdm-vulnerability/",
-  "lastId": "i4712l0000",
-  "lastFilePath": "cyberpress/pages/2026/06/02/critical-strongdm-vulnerability-enables-authentication-theft.md",
+  "updatedAt": "2026-06-02T03:00:39.390-05:00",
+  "lastLink": "https://cyberpress.org/red-hat-cloud-npm-packages-compromised/",
+  "lastId": "1ufk7ct000",
+  "lastFilePath": "cyberpress/pages/2026/06/02/red-hat-cloud-services-npm-packages-compromised-with-credential-stealing-malware.md",
   "items": [
     {
-      "id": "i4712l0000",
-      "link": "https://cyberpress.org/critical-strongdm-vulnerability/",
-      "filePath": "cyberpress/pages/2026/06/02/critical-strongdm-vulnerability-enables-authentication-theft.md",
-      "committedAt": "2026-06-02T02:00:34.583-05:00",
-      "title": "Critical StrongDM Vulnerability Enables Authentication Theft"
+      "id": "1ufk7ct000",
+      "link": "https://cyberpress.org/red-hat-cloud-npm-packages-compromised/",
+      "filePath": "cyberpress/pages/2026/06/02/red-hat-cloud-services-npm-packages-compromised-with-credential-stealing-malware.md",
+      "committedAt": "2026-06-02T03:00:39.390-05:00",
+      "title": "Red Hat Cloud Services npm Packages Compromised with Credential-Stealing Malware"
     }
   ]
 }
