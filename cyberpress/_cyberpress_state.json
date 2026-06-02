@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T12:01:18.913-05:00",
-  "lastLink": "https://cyberpress.org/malicious-packages-steal-credentials/",
-  "lastId": "1bhmvs5000",
-  "lastFilePath": "cyberpress/pages/2026/06/02/malicious-packages-target-cloud-keys-wallets-and-ssh-credentials.md",
+  "updatedAt": "2026-06-02T13:01:25.529-05:00",
+  "lastLink": "https://cyberpress.org/phantompulse-rat-bypasses-uac/",
+  "lastId": "1m9n8am000",
+  "lastFilePath": "cyberpress/pages/2026/06/02/new-phantompulse-rat-campaign-uses-uac-bypass-in-windows-attacks.md",
   "items": [
     {
-      "id": "1bhmvs5000",
-      "link": "https://cyberpress.org/malicious-packages-steal-credentials/",
-      "filePath": "cyberpress/pages/2026/06/02/malicious-packages-target-cloud-keys-wallets-and-ssh-credentials.md",
-      "committedAt": "2026-06-02T12:01:18.913-05:00",
-      "title": "Malicious Packages Target Cloud Keys, Wallets, and SSH Credentials"
+      "id": "1m9n8am000",
+      "link": "https://cyberpress.org/phantompulse-rat-bypasses-uac/",
+      "filePath": "cyberpress/pages/2026/06/02/new-phantompulse-rat-campaign-uses-uac-bypass-in-windows-attacks.md",
+      "committedAt": "2026-06-02T13:01:25.529-05:00",
+      "title": "New PHANTOMPULSE RAT Campaign Uses UAC Bypass in Windows Attacks"
     }
   ]
 }
