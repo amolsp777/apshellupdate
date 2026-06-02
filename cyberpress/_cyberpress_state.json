@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T06:00:56.758-05:00",
-  "lastLink": "https://cyberpress.org/solyximmortal-steals-browser-credentials/",
-  "lastId": "6og4uc0000",
-  "lastFilePath": "cyberpress/pages/2026/06/02/solyximmortal-python-malware-steals-browser-passwords-and-cookies.md",
+  "updatedAt": "2026-06-02T07:00:51.084-05:00",
+  "lastLink": "https://cyberpress.org/azureveil-spearphishing-delivers-c2/",
+  "lastId": "19znzyu000",
+  "lastFilePath": "cyberpress/pages/2026/06/02/azureveil-adaptix-c2-agent-delivered-via-targeted-spearphishing-attacks.md",
   "items": [
     {
-      "id": "6og4uc0000",
-      "link": "https://cyberpress.org/solyximmortal-steals-browser-credentials/",
-      "filePath": "cyberpress/pages/2026/06/02/solyximmortal-python-malware-steals-browser-passwords-and-cookies.md",
-      "committedAt": "2026-06-02T06:00:56.758-05:00",
-      "title": "SolyxImmortal Python Malware Steals Browser Passwords and Cookies"
+      "id": "19znzyu000",
+      "link": "https://cyberpress.org/azureveil-spearphishing-delivers-c2/",
+      "filePath": "cyberpress/pages/2026/06/02/azureveil-adaptix-c2-agent-delivered-via-targeted-spearphishing-attacks.md",
+      "committedAt": "2026-06-02T07:00:51.084-05:00",
+      "title": "AZUREVEIL Adaptix C2 Agent Delivered via Targeted Spearphishing Attacks"
     }
   ]
 }
