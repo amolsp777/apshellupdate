@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T06:00:34.689-05:00",
-  "lastLink": "https://cyberpress.org/error-524-phishing-decoys/",
-  "lastId": "r7g5ao0000",
-  "lastFilePath": "cyberpress/pages/2026/06/03/error-524-decoys-used-in-brand-impersonation-phishing-campaign.md",
+  "updatedAt": "2026-06-03T07:00:34.102-05:00",
+  "lastLink": "https://cyberpress.org/ivanti-itsm-vulnerability/",
+  "lastId": "1xqauvs000",
+  "lastFilePath": "cyberpress/pages/2026/06/03/ivanti-itsm-vulnerability-allows-attacker-to-gain-admin-privileges.md",
   "items": [
     {
-      "id": "r7g5ao0000",
-      "link": "https://cyberpress.org/error-524-phishing-decoys/",
-      "filePath": "cyberpress/pages/2026/06/03/error-524-decoys-used-in-brand-impersonation-phishing-campaign.md",
-      "committedAt": "2026-06-03T06:00:34.689-05:00",
-      "title": "Error 524 Decoys Used in Brand Impersonation Phishing Campaign"
+      "id": "1xqauvs000",
+      "link": "https://cyberpress.org/ivanti-itsm-vulnerability/",
+      "filePath": "cyberpress/pages/2026/06/03/ivanti-itsm-vulnerability-allows-attacker-to-gain-admin-privileges.md",
+      "committedAt": "2026-06-03T07:00:34.102-05:00",
+      "title": "Ivanti ITSM Vulnerability Allows Attacker to Gain Admin Privileges"
     }
   ]
 }
