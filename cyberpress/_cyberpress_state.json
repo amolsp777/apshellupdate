@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T02:00:40.046-05:00",
-  "lastLink": "https://cyberpress.org/red-hat-confirms-supply-chain-breach/",
-  "lastId": "1bqo82y000",
-  "lastFilePath": "cyberpress/pages/2026/06/03/red-hat-confirms-supply-chain-breach-of-npm-packages.md",
+  "updatedAt": "2026-06-03T03:00:39.774-05:00",
+  "lastLink": "https://cyberpress.org/north-korean-mac-malware/",
+  "lastId": "yi3aws0000",
+  "lastFilePath": "cyberpress/pages/2026/06/03/north-korean-apt-deploys-macos-malware-to-steal-crypto-wallets-and-ssh-keys.md",
   "items": [
     {
-      "id": "1bqo82y000",
-      "link": "https://cyberpress.org/red-hat-confirms-supply-chain-breach/",
-      "filePath": "cyberpress/pages/2026/06/03/red-hat-confirms-supply-chain-breach-of-npm-packages.md",
-      "committedAt": "2026-06-03T02:00:40.046-05:00",
-      "title": "Red Hat Confirms Supply Chain Breach of npm Packages"
+      "id": "yi3aws0000",
+      "link": "https://cyberpress.org/north-korean-mac-malware/",
+      "filePath": "cyberpress/pages/2026/06/03/north-korean-apt-deploys-macos-malware-to-steal-crypto-wallets-and-ssh-keys.md",
+      "committedAt": "2026-06-03T03:00:39.774-05:00",
+      "title": "North Korean APT Deploys macOS Malware to Steal Crypto Wallets and SSH Keys"
     }
   ]
 }
