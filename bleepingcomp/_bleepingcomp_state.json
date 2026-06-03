@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T12:00:42.498-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
-  "lastId": "bsblde0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/03/cisa-warns-of-active-attacks-exploiting-android-linux-bugs.md",
+  "updatedAt": "2026-06-03T16:01:03.673-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+  "lastId": "1esd169000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/03/new-http2-bomb-dos-attack-crashes-web-servers-in-under-a-minute.md",
   "items": [
     {
-      "id": "bsblde0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
-      "filePath": "bleepingcomp/pages/2026/06/03/cisa-warns-of-active-attacks-exploiting-android-linux-bugs.md",
-      "committedAt": "2026-06-03T12:00:42.498-04:00",
-      "title": "CISA warns of active attacks exploiting Android, Linux bugs"
+      "id": "1esd169000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+      "filePath": "bleepingcomp/pages/2026/06/03/new-http2-bomb-dos-attack-crashes-web-servers-in-under-a-minute.md",
+      "committedAt": "2026-06-03T16:01:03.673-04:00",
+      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute"
     }
   ]
 }
