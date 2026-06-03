@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T04:00:39.989-05:00",
-  "lastLink": "https://cyberpress.org/http-2-bomb-dos-exploit/",
-  "lastId": "ld5i3h0000",
-  "lastFilePath": "cyberpress/pages/2026/06/03/http2-bomb-dos-exploit-impacts-nginx-apache-iis-and-envoy.md",
+  "updatedAt": "2026-06-03T05:00:39.708-05:00",
+  "lastLink": "https://cyberpress.org/windows-search-uri-leaks-ntlmv2-hashes/",
+  "lastId": "1krgmq0000",
+  "lastFilePath": "cyberpress/pages/2026/06/03/windows-search-uri-flaw-leaks-ntlmv2-hashes-to-attackers.md",
   "items": [
     {
-      "id": "ld5i3h0000",
-      "link": "https://cyberpress.org/http-2-bomb-dos-exploit/",
-      "filePath": "cyberpress/pages/2026/06/03/http2-bomb-dos-exploit-impacts-nginx-apache-iis-and-envoy.md",
-      "committedAt": "2026-06-03T04:00:39.989-05:00",
-      "title": "HTTP/2 Bomb DoS Exploit Impacts nginx, Apache, IIS, and Envoy"
+      "id": "1krgmq0000",
+      "link": "https://cyberpress.org/windows-search-uri-leaks-ntlmv2-hashes/",
+      "filePath": "cyberpress/pages/2026/06/03/windows-search-uri-flaw-leaks-ntlmv2-hashes-to-attackers.md",
+      "committedAt": "2026-06-03T05:00:39.708-05:00",
+      "title": "Windows Search URI Flaw Leaks NTLMv2 Hashes to Attackers"
     }
   ]
 }
