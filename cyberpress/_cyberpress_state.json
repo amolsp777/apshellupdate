@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T14:01:18.730-05:00",
-  "lastLink": "https://cyberpress.org/aws-abuse-powers-hazybeacon/",
-  "lastId": "1ogfa87000",
-  "lastFilePath": "cyberpress/pages/2026/06/03/threat-actors-abuse-amazon-web-services-in-hazybeacon-campaign.md",
+  "updatedAt": "2026-06-03T15:01:23.915-05:00",
+  "lastLink": "https://cyberpress.org/cyberattacks-target-tank-gauges/",
+  "lastId": "miy9970000",
+  "lastFilePath": "cyberpress/pages/2026/06/03/cyberattacks-target-us-based-automatic-tank-gauge-systems.md",
   "items": [
     {
-      "id": "1ogfa87000",
-      "link": "https://cyberpress.org/aws-abuse-powers-hazybeacon/",
-      "filePath": "cyberpress/pages/2026/06/03/threat-actors-abuse-amazon-web-services-in-hazybeacon-campaign.md",
-      "committedAt": "2026-06-03T14:01:18.730-05:00",
-      "title": "Threat Actors Abuse Amazon Web Services in HazyBeacon Campaign"
+      "id": "miy9970000",
+      "link": "https://cyberpress.org/cyberattacks-target-tank-gauges/",
+      "filePath": "cyberpress/pages/2026/06/03/cyberattacks-target-us-based-automatic-tank-gauge-systems.md",
+      "committedAt": "2026-06-03T15:01:23.915-05:00",
+      "title": "Cyberattacks Target U.S.-Based Automatic Tank Gauge Systems"
     }
   ]
 }
