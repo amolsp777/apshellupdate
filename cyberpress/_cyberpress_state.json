@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T10:00:57.262-05:00",
-  "lastLink": "https://cyberpress.org/fortinet-flaws-fuel-ransomware/",
-  "lastId": "x288vk0000",
-  "lastFilePath": "cyberpress/pages/2026/06/03/ransomware-gang-abuses-fortinet-flaws-with-custom-c2-frameworks.md",
+  "updatedAt": "2026-06-03T11:01:02.599-05:00",
+  "lastLink": "https://cyberpress.org/critical-apache-activemq-flaw-2/",
+  "lastId": "1cu4jze000",
+  "lastFilePath": "cyberpress/pages/2026/06/03/critical-apache-activemq-flaw-enables-security-header-injection.md",
   "items": [
     {
-      "id": "x288vk0000",
-      "link": "https://cyberpress.org/fortinet-flaws-fuel-ransomware/",
-      "filePath": "cyberpress/pages/2026/06/03/ransomware-gang-abuses-fortinet-flaws-with-custom-c2-frameworks.md",
-      "committedAt": "2026-06-03T10:00:57.262-05:00",
-      "title": "Ransomware Gang Abuses Fortinet Flaws With Custom C2 Frameworks"
+      "id": "1cu4jze000",
+      "link": "https://cyberpress.org/critical-apache-activemq-flaw-2/",
+      "filePath": "cyberpress/pages/2026/06/03/critical-apache-activemq-flaw-enables-security-header-injection.md",
+      "committedAt": "2026-06-03T11:01:02.599-05:00",
+      "title": "Critical Apache ActiveMQ Flaw Enables Security Header Injection"
     }
   ]
 }
