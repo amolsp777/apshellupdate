@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T11:01:02.599-05:00",
-  "lastLink": "https://cyberpress.org/critical-apache-activemq-flaw-2/",
-  "lastId": "1cu4jze000",
-  "lastFilePath": "cyberpress/pages/2026/06/03/critical-apache-activemq-flaw-enables-security-header-injection.md",
+  "updatedAt": "2026-06-03T12:01:08.301-05:00",
+  "lastLink": "https://cyberpress.org/secure-boot-keys-expiring/",
+  "lastId": "jbjf9n0000",
+  "lastFilePath": "cyberpress/pages/2026/06/03/expiring-microsoft-secure-boot-keys-could-freeze-dbx-updates.md",
   "items": [
     {
-      "id": "1cu4jze000",
-      "link": "https://cyberpress.org/critical-apache-activemq-flaw-2/",
-      "filePath": "cyberpress/pages/2026/06/03/critical-apache-activemq-flaw-enables-security-header-injection.md",
-      "committedAt": "2026-06-03T11:01:02.599-05:00",
-      "title": "Critical Apache ActiveMQ Flaw Enables Security Header Injection"
+      "id": "jbjf9n0000",
+      "link": "https://cyberpress.org/secure-boot-keys-expiring/",
+      "filePath": "cyberpress/pages/2026/06/03/expiring-microsoft-secure-boot-keys-could-freeze-dbx-updates.md",
+      "committedAt": "2026-06-03T12:01:08.301-05:00",
+      "title": "Expiring Microsoft Secure Boot Keys Could Freeze DBX Updates"
     }
   ]
 }
