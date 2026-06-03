@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:00:43.166-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
-  "lastId": "13n090e000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/03/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click.md",
+  "updatedAt": "2026-06-03T06:01:20.784-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
+  "lastId": "1pkqo2m000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/03/google-adds-android-protection-against-ai-deepfake-scam-calls.md",
   "items": [
     {
-      "id": "13n090e000",
-      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
-      "filePath": "bleepingcomp/pages/2026/06/03/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click.md",
-      "committedAt": "2026-06-03T03:00:43.166-04:00",
-      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click"
+      "id": "1pkqo2m000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
+      "filePath": "bleepingcomp/pages/2026/06/03/google-adds-android-protection-against-ai-deepfake-scam-calls.md",
+      "committedAt": "2026-06-03T06:01:20.784-04:00",
+      "title": "Google adds Android protection against AI deepfake scam calls"
     }
   ]
 }
