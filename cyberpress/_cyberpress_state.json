@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T12:01:08.301-05:00",
-  "lastLink": "https://cyberpress.org/secure-boot-keys-expiring/",
-  "lastId": "jbjf9n0000",
-  "lastFilePath": "cyberpress/pages/2026/06/03/expiring-microsoft-secure-boot-keys-could-freeze-dbx-updates.md",
+  "updatedAt": "2026-06-03T13:01:14.072-05:00",
+  "lastLink": "https://cyberpress.org/hackers-use-ai-generated-tools/",
+  "lastId": "19i3788000",
+  "lastFilePath": "cyberpress/pages/2026/06/03/hackers-use-ai-generated-tools-to-automate-ad-attacks-edr-evasion.md",
   "items": [
     {
-      "id": "jbjf9n0000",
-      "link": "https://cyberpress.org/secure-boot-keys-expiring/",
-      "filePath": "cyberpress/pages/2026/06/03/expiring-microsoft-secure-boot-keys-could-freeze-dbx-updates.md",
-      "committedAt": "2026-06-03T12:01:08.301-05:00",
-      "title": "Expiring Microsoft Secure Boot Keys Could Freeze DBX Updates"
+      "id": "19i3788000",
+      "link": "https://cyberpress.org/hackers-use-ai-generated-tools/",
+      "filePath": "cyberpress/pages/2026/06/03/hackers-use-ai-generated-tools-to-automate-ad-attacks-edr-evasion.md",
+      "committedAt": "2026-06-03T13:01:14.072-05:00",
+      "title": "Hackers Use AI-Generated Tools to Automate AD Attacks, EDR Evasion"
     }
   ]
 }
