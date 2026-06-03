@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:00:39.774-05:00",
-  "lastLink": "https://cyberpress.org/north-korean-mac-malware/",
-  "lastId": "yi3aws0000",
-  "lastFilePath": "cyberpress/pages/2026/06/03/north-korean-apt-deploys-macos-malware-to-steal-crypto-wallets-and-ssh-keys.md",
+  "updatedAt": "2026-06-03T04:00:39.989-05:00",
+  "lastLink": "https://cyberpress.org/http-2-bomb-dos-exploit/",
+  "lastId": "ld5i3h0000",
+  "lastFilePath": "cyberpress/pages/2026/06/03/http2-bomb-dos-exploit-impacts-nginx-apache-iis-and-envoy.md",
   "items": [
     {
-      "id": "yi3aws0000",
-      "link": "https://cyberpress.org/north-korean-mac-malware/",
-      "filePath": "cyberpress/pages/2026/06/03/north-korean-apt-deploys-macos-malware-to-steal-crypto-wallets-and-ssh-keys.md",
-      "committedAt": "2026-06-03T03:00:39.774-05:00",
-      "title": "North Korean APT Deploys macOS Malware to Steal Crypto Wallets and SSH Keys"
+      "id": "ld5i3h0000",
+      "link": "https://cyberpress.org/http-2-bomb-dos-exploit/",
+      "filePath": "cyberpress/pages/2026/06/03/http2-bomb-dos-exploit-impacts-nginx-apache-iis-and-envoy.md",
+      "committedAt": "2026-06-03T04:00:39.989-05:00",
+      "title": "HTTP/2 Bomb DoS Exploit Impacts nginx, Apache, IIS, and Envoy"
     }
   ]
 }
