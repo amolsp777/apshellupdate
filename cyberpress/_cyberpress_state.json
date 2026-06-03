@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T09:00:34.904-05:00",
-  "lastLink": "https://cyberpress.org/cve-2026-24884-patch/",
-  "lastId": "11bplxf000",
-  "lastFilePath": "cyberpress/pages/2026/06/03/nodejs-compression-library-vulnerable-again-after-cve-2026-24884-bypass.md",
+  "updatedAt": "2026-06-03T10:00:57.262-05:00",
+  "lastLink": "https://cyberpress.org/fortinet-flaws-fuel-ransomware/",
+  "lastId": "x288vk0000",
+  "lastFilePath": "cyberpress/pages/2026/06/03/ransomware-gang-abuses-fortinet-flaws-with-custom-c2-frameworks.md",
   "items": [
     {
-      "id": "11bplxf000",
-      "link": "https://cyberpress.org/cve-2026-24884-patch/",
-      "filePath": "cyberpress/pages/2026/06/03/nodejs-compression-library-vulnerable-again-after-cve-2026-24884-bypass.md",
-      "committedAt": "2026-06-03T09:00:34.904-05:00",
-      "title": "Node.js Compression Library Vulnerable Again After CVE-2026-24884 Bypass"
+      "id": "x288vk0000",
+      "link": "https://cyberpress.org/fortinet-flaws-fuel-ransomware/",
+      "filePath": "cyberpress/pages/2026/06/03/ransomware-gang-abuses-fortinet-flaws-with-custom-c2-frameworks.md",
+      "committedAt": "2026-06-03T10:00:57.262-05:00",
+      "title": "Ransomware Gang Abuses Fortinet Flaws With Custom C2 Frameworks"
     }
   ]
 }
