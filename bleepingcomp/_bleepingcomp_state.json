@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T21:01:29.010-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-  "lastId": "oges440000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/02/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models.md",
+  "updatedAt": "2026-06-03T01:00:41.322-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
+  "lastId": "135zwjj000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/02/over-116000-minecraft-systems-infected-in-weedhack-malware-campaign.md",
   "items": [
     {
-      "id": "oges440000",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-      "filePath": "bleepingcomp/pages/2026/06/02/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models.md",
-      "committedAt": "2026-06-02T21:01:29.010-04:00",
-      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models"
+      "id": "135zwjj000",
+      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
+      "filePath": "bleepingcomp/pages/2026/06/02/over-116000-minecraft-systems-infected-in-weedhack-malware-campaign.md",
+      "committedAt": "2026-06-03T01:00:41.322-04:00",
+      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign"
     }
   ]
 }
