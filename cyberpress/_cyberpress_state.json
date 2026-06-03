@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T01:01:06.787-05:00",
-  "lastLink": "https://cyberpress.org/anthropic-expands-project-glasswing/",
-  "lastId": "143844r000",
-  "lastFilePath": "cyberpress/pages/2026/06/03/anthropic-expands-project-glasswing-to-150-more-organizations.md",
+  "updatedAt": "2026-06-03T02:00:40.046-05:00",
+  "lastLink": "https://cyberpress.org/red-hat-confirms-supply-chain-breach/",
+  "lastId": "1bqo82y000",
+  "lastFilePath": "cyberpress/pages/2026/06/03/red-hat-confirms-supply-chain-breach-of-npm-packages.md",
   "items": [
     {
-      "id": "143844r000",
-      "link": "https://cyberpress.org/anthropic-expands-project-glasswing/",
-      "filePath": "cyberpress/pages/2026/06/03/anthropic-expands-project-glasswing-to-150-more-organizations.md",
-      "committedAt": "2026-06-03T01:01:06.787-05:00",
-      "title": "Anthropic Expands Project Glasswing to 150 More Organizations"
+      "id": "1bqo82y000",
+      "link": "https://cyberpress.org/red-hat-confirms-supply-chain-breach/",
+      "filePath": "cyberpress/pages/2026/06/03/red-hat-confirms-supply-chain-breach-of-npm-packages.md",
+      "committedAt": "2026-06-03T02:00:40.046-05:00",
+      "title": "Red Hat Confirms Supply Chain Breach of npm Packages"
     }
   ]
 }
