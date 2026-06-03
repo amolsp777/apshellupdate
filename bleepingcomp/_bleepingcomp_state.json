@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T01:00:41.322-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
-  "lastId": "135zwjj000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/02/over-116000-minecraft-systems-infected-in-weedhack-malware-campaign.md",
+  "updatedAt": "2026-06-03T03:00:43.166-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+  "lastId": "13n090e000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/03/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click.md",
   "items": [
     {
-      "id": "135zwjj000",
-      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
-      "filePath": "bleepingcomp/pages/2026/06/02/over-116000-minecraft-systems-infected-in-weedhack-malware-campaign.md",
-      "committedAt": "2026-06-03T01:00:41.322-04:00",
-      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign"
+      "id": "13n090e000",
+      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "filePath": "bleepingcomp/pages/2026/06/03/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click.md",
+      "committedAt": "2026-06-03T03:00:43.166-04:00",
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click"
     }
   ]
 }
