@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T19:01:14.529-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
-  "lastId": "1k1e3by000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/03/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems.md",
+  "updatedAt": "2026-06-04T02:00:47.079-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+  "lastId": "ppre0d0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/03/us-sanctions-nobitex-crypto-exchange-used-by-iranian-ransomware-actors.md",
   "items": [
     {
-      "id": "1k1e3by000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
-      "filePath": "bleepingcomp/pages/2026/06/03/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems.md",
-      "committedAt": "2026-06-03T19:01:14.529-04:00",
-      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems"
+      "id": "ppre0d0000",
+      "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+      "filePath": "bleepingcomp/pages/2026/06/03/us-sanctions-nobitex-crypto-exchange-used-by-iranian-ransomware-actors.md",
+      "committedAt": "2026-06-04T02:00:47.079-04:00",
+      "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors"
     }
   ]
 }
