@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T16:01:17.523-05:00",
-  "lastLink": "https://cyberpress.org/ironworm-targets-developer-secrets/",
-  "lastId": "2bu6560000",
-  "lastFilePath": "cyberpress/pages/2026/06/04/ironworm-campaign-targets-developers-through-malicious-npm-packages.md",
+  "updatedAt": "2026-06-04T17:01:22.080-05:00",
+  "lastLink": "https://cyberpress.org/executive-outlook-credentials-targeted/",
+  "lastId": "ev4q3i0000",
+  "lastFilePath": "cyberpress/pages/2026/06/04/stock-exchange-executives-outlook-account-targeted-in-credential-theft-attack.md",
   "items": [
     {
-      "id": "2bu6560000",
-      "link": "https://cyberpress.org/ironworm-targets-developer-secrets/",
-      "filePath": "cyberpress/pages/2026/06/04/ironworm-campaign-targets-developers-through-malicious-npm-packages.md",
-      "committedAt": "2026-06-04T16:01:17.523-05:00",
-      "title": "IronWorm Campaign Targets Developers Through Malicious npm Packages"
+      "id": "ev4q3i0000",
+      "link": "https://cyberpress.org/executive-outlook-credentials-targeted/",
+      "filePath": "cyberpress/pages/2026/06/04/stock-exchange-executives-outlook-account-targeted-in-credential-theft-attack.md",
+      "committedAt": "2026-06-04T17:01:22.080-05:00",
+      "title": "Stock Exchange Executive’s Outlook Account Targeted in Credential Theft Attack"
     }
   ]
 }
