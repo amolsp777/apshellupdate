@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T08:00:30.584-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
-  "lastId": "1tlj24e000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code.md",
+  "updatedAt": "2026-06-04T09:01:11.031-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
+  "lastId": "vvd1i60000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/04/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers.md",
   "items": [
     {
-      "id": "1tlj24e000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
-      "filePath": "bleepingcomp/pages/2026/06/04/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code.md",
-      "committedAt": "2026-06-04T08:00:30.584-04:00",
-      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code"
+      "id": "vvd1i60000",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
+      "filePath": "bleepingcomp/pages/2026/06/04/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers.md",
+      "committedAt": "2026-06-04T09:01:11.031-04:00",
+      "title": "Police dismantles fake ID marketplace used by migrant smugglers"
     }
   ]
 }
