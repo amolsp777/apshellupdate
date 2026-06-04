@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T15:01:23.915-05:00",
-  "lastLink": "https://cyberpress.org/cyberattacks-target-tank-gauges/",
-  "lastId": "miy9970000",
-  "lastFilePath": "cyberpress/pages/2026/06/03/cyberattacks-target-us-based-automatic-tank-gauge-systems.md",
+  "updatedAt": "2026-06-04T01:00:34.174-05:00",
+  "lastLink": "https://cyberpress.org/new-gemini-flaw-exploited/",
+  "lastId": "1uc4lod000",
+  "lastFilePath": "cyberpress/pages/2026/06/04/new-gemini-flaw-exploited-through-whatsapp-slack-and-sms-prompts.md",
   "items": [
     {
-      "id": "miy9970000",
-      "link": "https://cyberpress.org/cyberattacks-target-tank-gauges/",
-      "filePath": "cyberpress/pages/2026/06/03/cyberattacks-target-us-based-automatic-tank-gauge-systems.md",
-      "committedAt": "2026-06-03T15:01:23.915-05:00",
-      "title": "Cyberattacks Target U.S.-Based Automatic Tank Gauge Systems"
+      "id": "1uc4lod000",
+      "link": "https://cyberpress.org/new-gemini-flaw-exploited/",
+      "filePath": "cyberpress/pages/2026/06/04/new-gemini-flaw-exploited-through-whatsapp-slack-and-sms-prompts.md",
+      "committedAt": "2026-06-04T01:00:34.174-05:00",
+      "title": "New Gemini Flaw Exploited Through WhatsApp, Slack, and SMS Prompts"
     }
   ]
 }
