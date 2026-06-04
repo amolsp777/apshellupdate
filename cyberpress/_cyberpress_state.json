@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T04:00:40.056-05:00",
-  "lastLink": "https://cyberpress.org/exploited-android-framework-vulnerability/",
-  "lastId": "1fi2b81000",
-  "lastFilePath": "cyberpress/pages/2026/06/04/cisa-warns-of-exploited-android-framework-vulnerability.md",
+  "updatedAt": "2026-06-04T05:00:45.071-05:00",
+  "lastLink": "https://cyberpress.org/acer-wave-7-router-zero-day/",
+  "lastId": "wrgyt90000",
+  "lastFilePath": "cyberpress/pages/2026/06/04/acer-develops-fix-for-critical-wave-7-router-zero-day-flaw.md",
   "items": [
     {
-      "id": "1fi2b81000",
-      "link": "https://cyberpress.org/exploited-android-framework-vulnerability/",
-      "filePath": "cyberpress/pages/2026/06/04/cisa-warns-of-exploited-android-framework-vulnerability.md",
-      "committedAt": "2026-06-04T04:00:40.056-05:00",
-      "title": "CISA Warns of Exploited Android Framework Vulnerability"
+      "id": "wrgyt90000",
+      "link": "https://cyberpress.org/acer-wave-7-router-zero-day/",
+      "filePath": "cyberpress/pages/2026/06/04/acer-develops-fix-for-critical-wave-7-router-zero-day-flaw.md",
+      "committedAt": "2026-06-04T05:00:45.071-05:00",
+      "title": "Acer Develops Fix for Critical Wave 7 Router Zero-Day Flaw"
     }
   ]
 }
