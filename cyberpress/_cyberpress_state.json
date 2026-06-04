@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T08:00:34.522-05:00",
-  "lastLink": "https://cyberpress.org/phishing-campaigns-deploy-infostealers/",
-  "lastId": "1d9yqic000",
-  "lastFilePath": "cyberpress/pages/2026/06/04/phishing-campaigns-evolve-as-cybercriminals-turn-to-infostealer-malware.md",
+  "updatedAt": "2026-06-04T09:00:40.899-05:00",
+  "lastLink": "https://cyberpress.org/comodo-internet-security-0-day/",
+  "lastId": "yh239f0000",
+  "lastFilePath": "cyberpress/pages/2026/06/04/comodo-internet-security-0-day-vulnerability-can-crash-windows-systems.md",
   "items": [
     {
-      "id": "1d9yqic000",
-      "link": "https://cyberpress.org/phishing-campaigns-deploy-infostealers/",
-      "filePath": "cyberpress/pages/2026/06/04/phishing-campaigns-evolve-as-cybercriminals-turn-to-infostealer-malware.md",
-      "committedAt": "2026-06-04T08:00:34.522-05:00",
-      "title": "Phishing Campaigns Evolve as Cybercriminals Turn to Infostealer Malware"
+      "id": "yh239f0000",
+      "link": "https://cyberpress.org/comodo-internet-security-0-day/",
+      "filePath": "cyberpress/pages/2026/06/04/comodo-internet-security-0-day-vulnerability-can-crash-windows-systems.md",
+      "committedAt": "2026-06-04T09:00:40.899-05:00",
+      "title": "Comodo Internet Security 0-Day Vulnerability Can Crash Windows Systems"
     }
   ]
 }
