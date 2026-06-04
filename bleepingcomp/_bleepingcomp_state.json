@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T09:01:11.031-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
-  "lastId": "vvd1i60000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers.md",
+  "updatedAt": "2026-06-04T10:00:44.085-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
+  "lastId": "129p1uk000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/04/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue.md",
   "items": [
     {
-      "id": "vvd1i60000",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
-      "filePath": "bleepingcomp/pages/2026/06/04/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers.md",
-      "committedAt": "2026-06-04T09:01:11.031-04:00",
-      "title": "Police dismantles fake ID marketplace used by migrant smugglers"
+      "id": "129p1uk000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
+      "filePath": "bleepingcomp/pages/2026/06/04/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue.md",
+      "committedAt": "2026-06-04T10:00:44.085-04:00",
+      "title": "Microsoft blames unexpected Windows driver updates on caching issue"
     }
   ]
 }
