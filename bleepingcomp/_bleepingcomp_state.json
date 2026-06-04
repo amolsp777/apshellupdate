@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T15:00:35.960-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
-  "lastId": "11uh29c000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/dentaquest-data-breach-exposed-info-of-26-million-accounts.md",
+  "updatedAt": "2026-06-04T17:01:24.455-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
+  "lastId": "hueme60000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/04/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info.md",
   "items": [
     {
-      "id": "11uh29c000",
-      "link": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
-      "filePath": "bleepingcomp/pages/2026/06/04/dentaquest-data-breach-exposed-info-of-26-million-accounts.md",
-      "committedAt": "2026-06-04T15:00:35.960-04:00",
-      "title": "DentaQuest data breach  exposed info of 2.6 million accounts"
+      "id": "hueme60000",
+      "link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
+      "filePath": "bleepingcomp/pages/2026/06/04/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info.md",
+      "committedAt": "2026-06-04T17:01:24.455-04:00",
+      "title": "Credit card theft campaign abuses Stripe to host stolen payment info"
     }
   ]
 }
