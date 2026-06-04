@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T17:01:24.455-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
-  "lastId": "hueme60000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info.md",
+  "updatedAt": "2026-06-04T18:00:41.045-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
+  "lastId": "rps2qb0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/04/hola-browser-for-windows-compromised-to-deliver-cryptominer.md",
   "items": [
     {
-      "id": "hueme60000",
-      "link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
-      "filePath": "bleepingcomp/pages/2026/06/04/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info.md",
-      "committedAt": "2026-06-04T17:01:24.455-04:00",
-      "title": "Credit card theft campaign abuses Stripe to host stolen payment info"
+      "id": "rps2qb0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
+      "filePath": "bleepingcomp/pages/2026/06/04/hola-browser-for-windows-compromised-to-deliver-cryptominer.md",
+      "committedAt": "2026-06-04T18:00:41.045-04:00",
+      "title": "Hola Browser for Windows compromised to deliver cryptominer"
     }
   ]
 }
