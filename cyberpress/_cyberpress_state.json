@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T03:00:34.265-05:00",
-  "lastLink": "https://cyberpress.org/payouts-king-evades-detection/",
-  "lastId": "1uf1mn6000",
-  "lastFilePath": "cyberpress/pages/2026/06/04/new-payouts-king-ransomware-technique-helps-malware-avoid-detection.md",
+  "updatedAt": "2026-06-04T04:00:40.056-05:00",
+  "lastLink": "https://cyberpress.org/exploited-android-framework-vulnerability/",
+  "lastId": "1fi2b81000",
+  "lastFilePath": "cyberpress/pages/2026/06/04/cisa-warns-of-exploited-android-framework-vulnerability.md",
   "items": [
     {
-      "id": "1uf1mn6000",
-      "link": "https://cyberpress.org/payouts-king-evades-detection/",
-      "filePath": "cyberpress/pages/2026/06/04/new-payouts-king-ransomware-technique-helps-malware-avoid-detection.md",
-      "committedAt": "2026-06-04T03:00:34.265-05:00",
-      "title": "New Payouts King Ransomware Technique Helps Malware Avoid Detection"
+      "id": "1fi2b81000",
+      "link": "https://cyberpress.org/exploited-android-framework-vulnerability/",
+      "filePath": "cyberpress/pages/2026/06/04/cisa-warns-of-exploited-android-framework-vulnerability.md",
+      "committedAt": "2026-06-04T04:00:40.056-05:00",
+      "title": "CISA Warns of Exploited Android Framework Vulnerability"
     }
   ]
 }
