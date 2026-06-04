@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T10:00:44.085-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
-  "lastId": "129p1uk000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue.md",
+  "updatedAt": "2026-06-04T11:00:42.185-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
+  "lastId": "1peswry000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/04/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook.md",
   "items": [
     {
-      "id": "129p1uk000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
-      "filePath": "bleepingcomp/pages/2026/06/04/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue.md",
-      "committedAt": "2026-06-04T10:00:44.085-04:00",
-      "title": "Microsoft blames unexpected Windows driver updates on caching issue"
+      "id": "1peswry000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
+      "filePath": "bleepingcomp/pages/2026/06/04/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook.md",
+      "committedAt": "2026-06-04T11:00:42.185-04:00",
+      "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook"
     }
   ]
 }
