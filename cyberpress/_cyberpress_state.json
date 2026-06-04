@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T14:01:06.694-05:00",
-  "lastLink": "https://cyberpress.org/fluttershell-spreads-through-malvertising/",
-  "lastId": "e88gqt0000",
-  "lastFilePath": "cyberpress/pages/2026/06/04/hackers-deploy-fluttershell-backdoor-through-malvertising-campaigns.md",
+  "updatedAt": "2026-06-04T15:01:12.022-05:00",
+  "lastLink": "https://cyberpress.org/fake-claude-deploys-infostealer/",
+  "lastId": "h673k90000",
+  "lastFilePath": "cyberpress/pages/2026/06/04/cybercriminals-impersonate-claude-code-to-deploy-fileless-net-infostealer.md",
   "items": [
     {
-      "id": "e88gqt0000",
-      "link": "https://cyberpress.org/fluttershell-spreads-through-malvertising/",
-      "filePath": "cyberpress/pages/2026/06/04/hackers-deploy-fluttershell-backdoor-through-malvertising-campaigns.md",
-      "committedAt": "2026-06-04T14:01:06.694-05:00",
-      "title": "Hackers Deploy FlutterShell Backdoor Through Malvertising Campaigns"
+      "id": "h673k90000",
+      "link": "https://cyberpress.org/fake-claude-deploys-infostealer/",
+      "filePath": "cyberpress/pages/2026/06/04/cybercriminals-impersonate-claude-code-to-deploy-fileless-net-infostealer.md",
+      "committedAt": "2026-06-04T15:01:12.022-05:00",
+      "title": "Cybercriminals Impersonate Claude Code to Deploy Fileless .NET Infostealer"
     }
   ]
 }
