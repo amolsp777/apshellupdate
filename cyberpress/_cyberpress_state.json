@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T11:00:51.162-05:00",
-  "lastLink": "https://cyberpress.org/ta4922-deploys-malware-loaders/",
-  "lastId": "cu7ta70000",
-  "lastFilePath": "cyberpress/pages/2026/06/04/proofpoint-warns-ta4922-deploys-atlas-rat-and-multiple-malware-loaders.md",
+  "updatedAt": "2026-06-04T12:00:55.732-05:00",
+  "lastLink": "https://cyberpress.org/google-adds-android-protections/",
+  "lastId": "1kqy37q000",
+  "lastFilePath": "cyberpress/pages/2026/06/04/google-adds-android-protections-against-ai-deepfake-threats.md",
   "items": [
     {
-      "id": "cu7ta70000",
-      "link": "https://cyberpress.org/ta4922-deploys-malware-loaders/",
-      "filePath": "cyberpress/pages/2026/06/04/proofpoint-warns-ta4922-deploys-atlas-rat-and-multiple-malware-loaders.md",
-      "committedAt": "2026-06-04T11:00:51.162-05:00",
-      "title": "Proofpoint Warns TA4922 Deploys Atlas RAT and Multiple Malware Loaders"
+      "id": "1kqy37q000",
+      "link": "https://cyberpress.org/google-adds-android-protections/",
+      "filePath": "cyberpress/pages/2026/06/04/google-adds-android-protections-against-ai-deepfake-threats.md",
+      "committedAt": "2026-06-04T12:00:55.732-05:00",
+      "title": "Google Adds Android Protections Against AI Deepfake Threats"
     }
   ]
 }
