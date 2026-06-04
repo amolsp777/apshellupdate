@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T12:00:55.732-05:00",
-  "lastLink": "https://cyberpress.org/google-adds-android-protections/",
-  "lastId": "1kqy37q000",
-  "lastFilePath": "cyberpress/pages/2026/06/04/google-adds-android-protections-against-ai-deepfake-threats.md",
+  "updatedAt": "2026-06-04T13:01:00.757-05:00",
+  "lastLink": "https://cyberpress.org/binding-gyp-targets-npm-maintainers/",
+  "lastId": "13hgn95000",
+  "lastFilePath": "cyberpress/pages/2026/06/04/malicious-bindinggyp-campaign-targets-npm-packages-across-maintainer-accounts.md",
   "items": [
     {
-      "id": "1kqy37q000",
-      "link": "https://cyberpress.org/google-adds-android-protections/",
-      "filePath": "cyberpress/pages/2026/06/04/google-adds-android-protections-against-ai-deepfake-threats.md",
-      "committedAt": "2026-06-04T12:00:55.732-05:00",
-      "title": "Google Adds Android Protections Against AI Deepfake Threats"
+      "id": "13hgn95000",
+      "link": "https://cyberpress.org/binding-gyp-targets-npm-maintainers/",
+      "filePath": "cyberpress/pages/2026/06/04/malicious-bindinggyp-campaign-targets-npm-packages-across-maintainer-accounts.md",
+      "committedAt": "2026-06-04T13:01:00.757-05:00",
+      "title": "Malicious binding.gyp Campaign Targets npm Packages Across Maintainer Accounts"
     }
   ]
 }
