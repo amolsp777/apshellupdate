@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T19:01:23.437-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
-  "lastId": "15w9hl2000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience.md",
+  "updatedAt": "2026-06-05T03:00:30.734-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+  "lastId": "w4d38m0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/05/cisco-warns-of-unpatched-sd-wan-zero-day-exploited-in-attacks.md",
   "items": [
     {
-      "id": "15w9hl2000",
-      "link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
-      "filePath": "bleepingcomp/pages/2026/06/04/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience.md",
-      "committedAt": "2026-06-04T19:01:23.437-04:00",
-      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience"
+      "id": "w4d38m0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+      "filePath": "bleepingcomp/pages/2026/06/05/cisco-warns-of-unpatched-sd-wan-zero-day-exploited-in-attacks.md",
+      "committedAt": "2026-06-05T03:00:30.734-04:00",
+      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks"
     }
   ]
 }
