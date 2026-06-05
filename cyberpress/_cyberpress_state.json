@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T02:00:39.196-05:00",
-  "lastLink": "https://cyberpress.org/verdantbamboo-targets-network-appliances/",
-  "lastId": "1rdp638000",
-  "lastFilePath": "cyberpress/pages/2026/06/05/verdantbamboo-apt-uses-brickstorm-malware-in-attacks-on-network-appliances.md",
+  "updatedAt": "2026-06-05T03:00:39.226-05:00",
+  "lastLink": "https://cyberpress.org/exploited-linux-kernel-authentication-flaw/",
+  "lastId": "lyk27w0000",
+  "lastFilePath": "cyberpress/pages/2026/06/05/cisa-warns-of-exploited-linux-kernel-authentication-flaw.md",
   "items": [
     {
-      "id": "1rdp638000",
-      "link": "https://cyberpress.org/verdantbamboo-targets-network-appliances/",
-      "filePath": "cyberpress/pages/2026/06/05/verdantbamboo-apt-uses-brickstorm-malware-in-attacks-on-network-appliances.md",
-      "committedAt": "2026-06-05T02:00:39.196-05:00",
-      "title": "VerdantBamboo APT Uses BRICKSTORM Malware in Attacks on Network Appliances"
+      "id": "lyk27w0000",
+      "link": "https://cyberpress.org/exploited-linux-kernel-authentication-flaw/",
+      "filePath": "cyberpress/pages/2026/06/05/cisa-warns-of-exploited-linux-kernel-authentication-flaw.md",
+      "committedAt": "2026-06-05T03:00:39.226-05:00",
+      "title": "CISA Warns of Exploited Linux Kernel Authentication Flaw"
     }
   ]
 }
