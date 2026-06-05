@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T01:00:33.927-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-edge-vulnerability/",
-  "lastId": "wv4l4t0000",
-  "lastFilePath": "cyberpress/pages/2026/06/05/microsoft-edge-vulnerability-enables-remote-code-execution.md",
+  "updatedAt": "2026-06-05T02:00:39.196-05:00",
+  "lastLink": "https://cyberpress.org/verdantbamboo-targets-network-appliances/",
+  "lastId": "1rdp638000",
+  "lastFilePath": "cyberpress/pages/2026/06/05/verdantbamboo-apt-uses-brickstorm-malware-in-attacks-on-network-appliances.md",
   "items": [
     {
-      "id": "wv4l4t0000",
-      "link": "https://cyberpress.org/microsoft-edge-vulnerability/",
-      "filePath": "cyberpress/pages/2026/06/05/microsoft-edge-vulnerability-enables-remote-code-execution.md",
-      "committedAt": "2026-06-05T01:00:33.927-05:00",
-      "title": "Microsoft Edge Vulnerability Enables Remote Code Execution"
+      "id": "1rdp638000",
+      "link": "https://cyberpress.org/verdantbamboo-targets-network-appliances/",
+      "filePath": "cyberpress/pages/2026/06/05/verdantbamboo-apt-uses-brickstorm-malware-in-attacks-on-network-appliances.md",
+      "committedAt": "2026-06-05T02:00:39.196-05:00",
+      "title": "VerdantBamboo APT Uses BRICKSTORM Malware in Attacks on Network Appliances"
     }
   ]
 }
