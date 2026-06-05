@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T03:00:30.734-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-  "lastId": "w4d38m0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/05/cisco-warns-of-unpatched-sd-wan-zero-day-exploited-in-attacks.md",
+  "updatedAt": "2026-06-05T11:01:27.207-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
+  "lastId": "1idh0im000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/05/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks.md",
   "items": [
     {
-      "id": "w4d38m0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-      "filePath": "bleepingcomp/pages/2026/06/05/cisco-warns-of-unpatched-sd-wan-zero-day-exploited-in-attacks.md",
-      "committedAt": "2026-06-05T03:00:30.734-04:00",
-      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks"
+      "id": "1idh0im000",
+      "link": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/05/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks.md",
+      "committedAt": "2026-06-05T11:01:27.207-04:00",
+      "title": "Over 900 US gas station tank gauge systems exposed to attacks"
     }
   ]
 }
