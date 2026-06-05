@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T05:00:57.042-05:00",
-  "lastLink": "https://cyberpress.org/vect-2-0-corrupts-files/",
-  "lastId": "7pie140000",
-  "lastFilePath": "cyberpress/pages/2026/06/05/vect-20-ransomware-can-corrupt-encrypted-files-beyond-reliable-decryption.md",
+  "updatedAt": "2026-06-05T06:00:35.427-05:00",
+  "lastLink": "https://cyberpress.org/legitimate-tools-deploy-malware/",
+  "lastId": "14osr9j000",
+  "lastFilePath": "cyberpress/pages/2026/06/05/threat-actors-abuse-legitimate-tools-in-malware-deployment-campaigns.md",
   "items": [
     {
-      "id": "7pie140000",
-      "link": "https://cyberpress.org/vect-2-0-corrupts-files/",
-      "filePath": "cyberpress/pages/2026/06/05/vect-20-ransomware-can-corrupt-encrypted-files-beyond-reliable-decryption.md",
-      "committedAt": "2026-06-05T05:00:57.042-05:00",
-      "title": "VECT 2.0 Ransomware Can Corrupt Encrypted Files Beyond Reliable Decryption"
+      "id": "14osr9j000",
+      "link": "https://cyberpress.org/legitimate-tools-deploy-malware/",
+      "filePath": "cyberpress/pages/2026/06/05/threat-actors-abuse-legitimate-tools-in-malware-deployment-campaigns.md",
+      "committedAt": "2026-06-05T06:00:35.427-05:00",
+      "title": "Threat Actors Abuse Legitimate Tools in Malware Deployment Campaigns"
     }
   ]
 }
