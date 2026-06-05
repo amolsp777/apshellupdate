@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T07:00:34.353-05:00",
-  "lastLink": "https://cyberpress.org/critical-hugging-face-transformers-flaw/",
-  "lastId": "lsoqd90000",
-  "lastFilePath": "cyberpress/pages/2026/06/05/critical-hugging-face-transformers-flaw-enables-remote-code-execution.md",
+  "updatedAt": "2026-06-05T08:00:44.919-05:00",
+  "lastLink": "https://cyberpress.org/magecart-abuses-stripe-c2/",
+  "lastId": "11ys5ow000",
+  "lastFilePath": "cyberpress/pages/2026/06/05/magecart-hackers-turn-stripe-into-malware-command-and-control-server.md",
   "items": [
     {
-      "id": "lsoqd90000",
-      "link": "https://cyberpress.org/critical-hugging-face-transformers-flaw/",
-      "filePath": "cyberpress/pages/2026/06/05/critical-hugging-face-transformers-flaw-enables-remote-code-execution.md",
-      "committedAt": "2026-06-05T07:00:34.353-05:00",
-      "title": "Critical Hugging Face Transformers Flaw Enables Remote Code Execution"
+      "id": "11ys5ow000",
+      "link": "https://cyberpress.org/magecart-abuses-stripe-c2/",
+      "filePath": "cyberpress/pages/2026/06/05/magecart-hackers-turn-stripe-into-malware-command-and-control-server.md",
+      "committedAt": "2026-06-05T08:00:44.919-05:00",
+      "title": "Magecart Hackers Turn Stripe Into Malware Command-and-Control Server"
     }
   ]
 }
