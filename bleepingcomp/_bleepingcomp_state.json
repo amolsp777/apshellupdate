@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T14:01:19.682-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
-  "lastId": "17d8uwu000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/05/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs.md",
+  "updatedAt": "2026-06-05T15:00:46.823-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+  "lastId": "aqrc9q0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/05/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks.md",
   "items": [
     {
-      "id": "17d8uwu000",
-      "link": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
-      "filePath": "bleepingcomp/pages/2026/06/05/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs.md",
-      "committedAt": "2026-06-05T14:01:19.682-04:00",
-      "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs"
+      "id": "aqrc9q0000",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+      "filePath": "bleepingcomp/pages/2026/06/05/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks.md",
+      "committedAt": "2026-06-05T15:00:46.823-04:00",
+      "title": "Chinese APT deploys new malware to keep access to hacked networks"
     }
   ]
 }
