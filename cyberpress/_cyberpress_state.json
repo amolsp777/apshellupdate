@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T17:01:22.080-05:00",
-  "lastLink": "https://cyberpress.org/executive-outlook-credentials-targeted/",
-  "lastId": "ev4q3i0000",
-  "lastFilePath": "cyberpress/pages/2026/06/04/stock-exchange-executives-outlook-account-targeted-in-credential-theft-attack.md",
+  "updatedAt": "2026-06-05T01:00:33.927-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-edge-vulnerability/",
+  "lastId": "wv4l4t0000",
+  "lastFilePath": "cyberpress/pages/2026/06/05/microsoft-edge-vulnerability-enables-remote-code-execution.md",
   "items": [
     {
-      "id": "ev4q3i0000",
-      "link": "https://cyberpress.org/executive-outlook-credentials-targeted/",
-      "filePath": "cyberpress/pages/2026/06/04/stock-exchange-executives-outlook-account-targeted-in-credential-theft-attack.md",
-      "committedAt": "2026-06-04T17:01:22.080-05:00",
-      "title": "Stock Exchange Executive’s Outlook Account Targeted in Credential Theft Attack"
+      "id": "wv4l4t0000",
+      "link": "https://cyberpress.org/microsoft-edge-vulnerability/",
+      "filePath": "cyberpress/pages/2026/06/05/microsoft-edge-vulnerability-enables-remote-code-execution.md",
+      "committedAt": "2026-06-05T01:00:33.927-05:00",
+      "title": "Microsoft Edge Vulnerability Enables Remote Code Execution"
     }
   ]
 }
