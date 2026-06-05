@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T04:00:50.417-05:00",
-  "lastLink": "https://cyberpress.org/cisco-sd-wan-flaw-exploited/",
-  "lastId": "x1k3ec0000",
-  "lastFilePath": "cyberpress/pages/2026/06/05/cisco-sd-wan-flaw-exploited-to-execute-root-level-commands.md",
+  "updatedAt": "2026-06-05T05:00:57.042-05:00",
+  "lastLink": "https://cyberpress.org/vect-2-0-corrupts-files/",
+  "lastId": "7pie140000",
+  "lastFilePath": "cyberpress/pages/2026/06/05/vect-20-ransomware-can-corrupt-encrypted-files-beyond-reliable-decryption.md",
   "items": [
     {
-      "id": "x1k3ec0000",
-      "link": "https://cyberpress.org/cisco-sd-wan-flaw-exploited/",
-      "filePath": "cyberpress/pages/2026/06/05/cisco-sd-wan-flaw-exploited-to-execute-root-level-commands.md",
-      "committedAt": "2026-06-05T04:00:50.417-05:00",
-      "title": "Cisco SD-WAN Flaw Exploited to Execute Root-Level Commands"
+      "id": "7pie140000",
+      "link": "https://cyberpress.org/vect-2-0-corrupts-files/",
+      "filePath": "cyberpress/pages/2026/06/05/vect-20-ransomware-can-corrupt-encrypted-files-beyond-reliable-decryption.md",
+      "committedAt": "2026-06-05T05:00:57.042-05:00",
+      "title": "VECT 2.0 Ransomware Can Corrupt Encrypted Files Beyond Reliable Decryption"
     }
   ]
 }
