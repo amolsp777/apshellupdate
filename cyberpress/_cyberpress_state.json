@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T08:00:44.919-05:00",
-  "lastLink": "https://cyberpress.org/magecart-abuses-stripe-c2/",
-  "lastId": "11ys5ow000",
-  "lastFilePath": "cyberpress/pages/2026/06/05/magecart-hackers-turn-stripe-into-malware-command-and-control-server.md",
+  "updatedAt": "2026-06-05T09:00:50.725-05:00",
+  "lastLink": "https://cyberpress.org/hola-installer-delivers-cryptominer/",
+  "lastId": "2hsqvk0000",
+  "lastFilePath": "cyberpress/pages/2026/06/05/hola-browser-windows-installer-abused-to-deliver-cryptomining-malware.md",
   "items": [
     {
-      "id": "11ys5ow000",
-      "link": "https://cyberpress.org/magecart-abuses-stripe-c2/",
-      "filePath": "cyberpress/pages/2026/06/05/magecart-hackers-turn-stripe-into-malware-command-and-control-server.md",
-      "committedAt": "2026-06-05T08:00:44.919-05:00",
-      "title": "Magecart Hackers Turn Stripe Into Malware Command-and-Control Server"
+      "id": "2hsqvk0000",
+      "link": "https://cyberpress.org/hola-installer-delivers-cryptominer/",
+      "filePath": "cyberpress/pages/2026/06/05/hola-browser-windows-installer-abused-to-deliver-cryptomining-malware.md",
+      "committedAt": "2026-06-05T09:00:50.725-05:00",
+      "title": "Hola Browser Windows Installer Abused to Deliver Cryptomining Malware"
     }
   ]
 }
