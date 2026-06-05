@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T06:00:35.427-05:00",
-  "lastLink": "https://cyberpress.org/legitimate-tools-deploy-malware/",
-  "lastId": "14osr9j000",
-  "lastFilePath": "cyberpress/pages/2026/06/05/threat-actors-abuse-legitimate-tools-in-malware-deployment-campaigns.md",
+  "updatedAt": "2026-06-05T07:00:34.353-05:00",
+  "lastLink": "https://cyberpress.org/critical-hugging-face-transformers-flaw/",
+  "lastId": "lsoqd90000",
+  "lastFilePath": "cyberpress/pages/2026/06/05/critical-hugging-face-transformers-flaw-enables-remote-code-execution.md",
   "items": [
     {
-      "id": "14osr9j000",
-      "link": "https://cyberpress.org/legitimate-tools-deploy-malware/",
-      "filePath": "cyberpress/pages/2026/06/05/threat-actors-abuse-legitimate-tools-in-malware-deployment-campaigns.md",
-      "committedAt": "2026-06-05T06:00:35.427-05:00",
-      "title": "Threat Actors Abuse Legitimate Tools in Malware Deployment Campaigns"
+      "id": "lsoqd90000",
+      "link": "https://cyberpress.org/critical-hugging-face-transformers-flaw/",
+      "filePath": "cyberpress/pages/2026/06/05/critical-hugging-face-transformers-flaw-enables-remote-code-execution.md",
+      "committedAt": "2026-06-05T07:00:34.353-05:00",
+      "title": "Critical Hugging Face Transformers Flaw Enables Remote Code Execution"
     }
   ]
 }
