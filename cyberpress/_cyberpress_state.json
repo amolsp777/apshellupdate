@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T04:00:39.192-05:00",
-  "lastLink": "https://cyberpress.org/critical-unifi-os-flaws/",
-  "lastId": "rmwtl00000",
-  "lastFilePath": "cyberpress/pages/2026/06/06/critical-unifi-os-flaws-enable-auth-bypass-and-command-execution.md",
+  "updatedAt": "2026-06-06T05:01:05.355-05:00",
+  "lastLink": "https://cyberpress.org/unc3753-targets-us-law-firms/",
+  "lastId": "m4xa3k0000",
+  "lastFilePath": "cyberpress/pages/2026/06/06/unc3753-targets-us-law-firms-with-vishing-and-rmm-tools.md",
   "items": [
     {
-      "id": "rmwtl00000",
-      "link": "https://cyberpress.org/critical-unifi-os-flaws/",
-      "filePath": "cyberpress/pages/2026/06/06/critical-unifi-os-flaws-enable-auth-bypass-and-command-execution.md",
-      "committedAt": "2026-06-06T04:00:39.192-05:00",
-      "title": "Critical UniFi OS Flaws Enable Auth Bypass and Command Execution"
+      "id": "m4xa3k0000",
+      "link": "https://cyberpress.org/unc3753-targets-us-law-firms/",
+      "filePath": "cyberpress/pages/2026/06/06/unc3753-targets-us-law-firms-with-vishing-and-rmm-tools.md",
+      "committedAt": "2026-06-06T05:01:05.355-05:00",
+      "title": "UNC3753 Targets US Law Firms with Vishing and RMM Tools"
     }
   ]
 }
