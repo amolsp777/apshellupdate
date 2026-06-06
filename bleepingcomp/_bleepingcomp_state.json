@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T18:01:17.967-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
-  "lastId": "huqp3z0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/05/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites.md",
+  "updatedAt": "2026-06-06T11:00:35.606-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+  "lastId": "1jf7zge000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/06/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites.md",
   "items": [
     {
-      "id": "huqp3z0000",
-      "link": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
-      "filePath": "bleepingcomp/pages/2026/06/05/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites.md",
-      "committedAt": "2026-06-05T18:01:17.967-04:00",
-      "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites"
+      "id": "1jf7zge000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "filePath": "bleepingcomp/pages/2026/06/06/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites.md",
+      "committedAt": "2026-06-06T11:00:35.606-04:00",
+      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites"
     }
   ]
 }
