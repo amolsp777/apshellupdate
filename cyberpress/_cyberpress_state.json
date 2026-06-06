@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T02:01:05.545-05:00",
-  "lastLink": "https://cyberpress.org/china-linked-aspx-ashx-web-shells/",
-  "lastId": "17w82ln000",
-  "lastFilePath": "cyberpress/pages/2026/06/06/china-linked-group-deploys-custom-aspx-and-ashx-web-shells.md",
+  "updatedAt": "2026-06-06T03:00:33.886-05:00",
+  "lastLink": "https://cyberpress.org/exploited-solarwinds-serv-u-vulnerability/",
+  "lastId": "akfxzl0000",
+  "lastFilePath": "cyberpress/pages/2026/06/06/cisa-warns-of-exploited-solarwinds-serv-u-vulnerability.md",
   "items": [
     {
-      "id": "17w82ln000",
-      "link": "https://cyberpress.org/china-linked-aspx-ashx-web-shells/",
-      "filePath": "cyberpress/pages/2026/06/06/china-linked-group-deploys-custom-aspx-and-ashx-web-shells.md",
-      "committedAt": "2026-06-06T02:01:05.545-05:00",
-      "title": "China-Linked Group Deploys Custom ASPX and ASHX Web Shells"
+      "id": "akfxzl0000",
+      "link": "https://cyberpress.org/exploited-solarwinds-serv-u-vulnerability/",
+      "filePath": "cyberpress/pages/2026/06/06/cisa-warns-of-exploited-solarwinds-serv-u-vulnerability.md",
+      "committedAt": "2026-06-06T03:00:33.886-05:00",
+      "title": "CISA Warns of Exploited SolarWinds Serv-U Vulnerability"
     }
   ]
 }
