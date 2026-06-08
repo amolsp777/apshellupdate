@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T12:01:13.219-05:00",
-  "lastLink": "https://cyberpress.org/owasp-ai-security-tools/",
-  "lastId": "1508rio000",
-  "lastFilePath": "cyberpress/pages/2026/06/08/owasp-releases-ai-security-report-with-new-tools-for-professionals.md",
+  "updatedAt": "2026-06-08T13:01:17.636-05:00",
+  "lastLink": "https://cyberpress.org/lucid-stealer-targets-wallets/",
+  "lastId": "1rkzkji000",
+  "lastFilePath": "cyberpress/pages/2026/06/08/new-lucid-stealer-targets-browsers-crypto-wallets-and-discord-tokens.md",
   "items": [
     {
-      "id": "1508rio000",
-      "link": "https://cyberpress.org/owasp-ai-security-tools/",
-      "filePath": "cyberpress/pages/2026/06/08/owasp-releases-ai-security-report-with-new-tools-for-professionals.md",
-      "committedAt": "2026-06-08T12:01:13.219-05:00",
-      "title": "OWASP Releases AI Security Report With New Tools for Professionals"
+      "id": "1rkzkji000",
+      "link": "https://cyberpress.org/lucid-stealer-targets-wallets/",
+      "filePath": "cyberpress/pages/2026/06/08/new-lucid-stealer-targets-browsers-crypto-wallets-and-discord-tokens.md",
+      "committedAt": "2026-06-08T13:01:17.636-05:00",
+      "title": "New Lucid Stealer Targets Browsers, Crypto Wallets, and Discord Tokens"
     }
   ]
 }
