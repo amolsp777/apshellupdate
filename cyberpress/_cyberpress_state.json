@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T00:01:00.135-05:00",
-  "lastLink": "https://cyberpress.org/edrchoker-uses-qos-policies/",
-  "lastId": "k3c1ir0000",
-  "lastFilePath": "cyberpress/pages/2026/06/08/edrchoker-uses-quality-of-service-policies-to-disrupt-edr-security-processes.md",
+  "updatedAt": "2026-06-08T03:00:44.652-05:00",
+  "lastLink": "https://cyberpress.org/verdantbamboo-breaches-pfsense-firewall/",
+  "lastId": "1cdm7s7000",
+  "lastFilePath": "cyberpress/pages/2026/06/08/pfsense-firewall-compromised-in-verdantbamboo-cyberattack-deploying-brickstorm.md",
   "items": [
     {
-      "id": "k3c1ir0000",
-      "link": "https://cyberpress.org/edrchoker-uses-qos-policies/",
-      "filePath": "cyberpress/pages/2026/06/08/edrchoker-uses-quality-of-service-policies-to-disrupt-edr-security-processes.md",
-      "committedAt": "2026-06-08T00:01:00.135-05:00",
-      "title": "EDRChoker Uses Quality of Service Policies to Disrupt EDR Security Processes"
+      "id": "1cdm7s7000",
+      "link": "https://cyberpress.org/verdantbamboo-breaches-pfsense-firewall/",
+      "filePath": "cyberpress/pages/2026/06/08/pfsense-firewall-compromised-in-verdantbamboo-cyberattack-deploying-brickstorm.md",
+      "committedAt": "2026-06-08T03:00:44.652-05:00",
+      "title": "pfSense Firewall Compromised in VerdantBamboo Cyberattack Deploying BRICKSTORM"
     }
   ]
 }
