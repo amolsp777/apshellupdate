@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T06:00:39.429-05:00",
-  "lastLink": "https://cyberpress.org/critical-redis-server-takeover/",
-  "lastId": "118j5j7000",
-  "lastFilePath": "cyberpress/pages/2026/06/08/critical-redis-bug-allows-remote-attackers-to-gain-server-control.md",
+  "updatedAt": "2026-06-08T07:00:39.478-05:00",
+  "lastLink": "https://cyberpress.org/sitefinity-flaws-expose-credentials/",
+  "lastId": "1obm9un000",
+  "lastFilePath": "cyberpress/pages/2026/06/08/sitefinity-vulnerabilities-allow-hackers-to-steal-plaintext-credentials.md",
   "items": [
     {
-      "id": "118j5j7000",
-      "link": "https://cyberpress.org/critical-redis-server-takeover/",
-      "filePath": "cyberpress/pages/2026/06/08/critical-redis-bug-allows-remote-attackers-to-gain-server-control.md",
-      "committedAt": "2026-06-08T06:00:39.429-05:00",
-      "title": "Critical Redis Bug Allows Remote Attackers to Gain Server Control"
+      "id": "1obm9un000",
+      "link": "https://cyberpress.org/sitefinity-flaws-expose-credentials/",
+      "filePath": "cyberpress/pages/2026/06/08/sitefinity-vulnerabilities-allow-hackers-to-steal-plaintext-credentials.md",
+      "committedAt": "2026-06-08T07:00:39.478-05:00",
+      "title": "Sitefinity Vulnerabilities Allow Hackers to Steal Plaintext Credentials"
     }
   ]
 }
