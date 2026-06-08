@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T10:01:01.884-05:00",
-  "lastLink": "https://cyberpress.org/pink-hackers-steal-credentials/",
-  "lastId": "swiimv0000",
-  "lastFilePath": "cyberpress/pages/2026/06/08/new-pink-hackers-attack-enterprises-for-cloud-storage-credentials.md",
+  "updatedAt": "2026-06-08T11:01:06.722-05:00",
+  "lastLink": "https://cyberpress.org/op-512-targets-iis-servers/",
+  "lastId": "2ymwe30000",
+  "lastFilePath": "cyberpress/pages/2026/06/08/china-linked-op-512-targets-iis-servers-with-unique-web-shell-framework.md",
   "items": [
     {
-      "id": "swiimv0000",
-      "link": "https://cyberpress.org/pink-hackers-steal-credentials/",
-      "filePath": "cyberpress/pages/2026/06/08/new-pink-hackers-attack-enterprises-for-cloud-storage-credentials.md",
-      "committedAt": "2026-06-08T10:01:01.884-05:00",
-      "title": "New Pink Hackers Attack Enterprises for Cloud Storage Credentials"
+      "id": "2ymwe30000",
+      "link": "https://cyberpress.org/op-512-targets-iis-servers/",
+      "filePath": "cyberpress/pages/2026/06/08/china-linked-op-512-targets-iis-servers-with-unique-web-shell-framework.md",
+      "committedAt": "2026-06-08T11:01:06.722-05:00",
+      "title": "China-Linked OP-512 Targets IIS Servers With Unique Web Shell Framework"
     }
   ]
 }
