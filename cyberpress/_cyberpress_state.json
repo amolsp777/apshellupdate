@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T05:01:07.096-05:00",
-  "lastLink": "https://cyberpress.org/smart-tvs-become-proxies/",
-  "lastId": "ysdkbk0000",
-  "lastFilePath": "cyberpress/pages/2026/06/08/smart-tv-apps-found-converting-samsung-and-lg-devices-into-ai-proxy-nodes.md",
+  "updatedAt": "2026-06-08T06:00:39.429-05:00",
+  "lastLink": "https://cyberpress.org/critical-redis-server-takeover/",
+  "lastId": "118j5j7000",
+  "lastFilePath": "cyberpress/pages/2026/06/08/critical-redis-bug-allows-remote-attackers-to-gain-server-control.md",
   "items": [
     {
-      "id": "ysdkbk0000",
-      "link": "https://cyberpress.org/smart-tvs-become-proxies/",
-      "filePath": "cyberpress/pages/2026/06/08/smart-tv-apps-found-converting-samsung-and-lg-devices-into-ai-proxy-nodes.md",
-      "committedAt": "2026-06-08T05:01:07.096-05:00",
-      "title": "Smart TV Apps Found Converting Samsung and LG Devices Into AI Proxy Nodes"
+      "id": "118j5j7000",
+      "link": "https://cyberpress.org/critical-redis-server-takeover/",
+      "filePath": "cyberpress/pages/2026/06/08/critical-redis-bug-allows-remote-attackers-to-gain-server-control.md",
+      "committedAt": "2026-06-08T06:00:39.429-05:00",
+      "title": "Critical Redis Bug Allows Remote Attackers to Gain Server Control"
     }
   ]
 }
