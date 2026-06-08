@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T10:00:36.771-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
-  "lastId": "pvu1770000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang.md",
+  "updatedAt": "2026-06-08T11:01:10.071-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/",
+  "lastId": "y8ecvy0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/reducing-security-operations-complexity-with-wazuh-cloud.md",
   "items": [
     {
-      "id": "pvu1770000",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
-      "filePath": "bleepingcomp/pages/2026/06/08/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang.md",
-      "committedAt": "2026-06-08T10:00:36.771-04:00",
-      "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang"
+      "id": "y8ecvy0000",
+      "link": "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/",
+      "filePath": "bleepingcomp/pages/2026/06/08/reducing-security-operations-complexity-with-wazuh-cloud.md",
+      "committedAt": "2026-06-08T11:01:10.071-04:00",
+      "title": "Reducing security operations complexity with Wazuh Cloud"
     }
   ]
 }
