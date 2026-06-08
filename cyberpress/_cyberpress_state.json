@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-07T23:00:49.826-05:00",
-  "lastLink": "https://cyberpress.org/exploit-claude-code-mcp/",
-  "lastId": "ha3nlj0000",
-  "lastFilePath": "cyberpress/pages/2026/06/08/hackers-exploit-claude-code-mcp-to-steal-oauth-credentials.md",
+  "updatedAt": "2026-06-08T00:01:00.135-05:00",
+  "lastLink": "https://cyberpress.org/edrchoker-uses-qos-policies/",
+  "lastId": "k3c1ir0000",
+  "lastFilePath": "cyberpress/pages/2026/06/08/edrchoker-uses-quality-of-service-policies-to-disrupt-edr-security-processes.md",
   "items": [
     {
-      "id": "ha3nlj0000",
-      "link": "https://cyberpress.org/exploit-claude-code-mcp/",
-      "filePath": "cyberpress/pages/2026/06/08/hackers-exploit-claude-code-mcp-to-steal-oauth-credentials.md",
-      "committedAt": "2026-06-07T23:00:49.826-05:00",
-      "title": "Hackers Exploit Claude Code MCP to Steal OAuth Credentials"
+      "id": "k3c1ir0000",
+      "link": "https://cyberpress.org/edrchoker-uses-qos-policies/",
+      "filePath": "cyberpress/pages/2026/06/08/edrchoker-uses-quality-of-service-policies-to-disrupt-edr-security-processes.md",
+      "committedAt": "2026-06-08T00:01:00.135-05:00",
+      "title": "EDRChoker Uses Quality of Service Policies to Disrupt EDR Security Processes"
     }
   ]
 }
