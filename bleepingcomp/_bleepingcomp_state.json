@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T17:01:18.823-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
-  "lastId": "r81flf0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages.md",
+  "updatedAt": "2026-06-08T18:00:35.877-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
+  "lastId": "dfzgym0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary.md",
   "items": [
     {
-      "id": "r81flf0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
-      "filePath": "bleepingcomp/pages/2026/06/08/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages.md",
-      "committedAt": "2026-06-08T17:01:18.823-04:00",
-      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages"
+      "id": "dfzgym0000",
+      "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
+      "filePath": "bleepingcomp/pages/2026/06/08/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary.md",
+      "committedAt": "2026-06-08T18:00:35.877-04:00",
+      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary"
     }
   ]
 }
