@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T08:00:44.844-05:00",
-  "lastLink": "https://cyberpress.org/vmware-xss-enables-script-injection/",
-  "lastId": "1laa2yr000",
-  "lastFilePath": "cyberpress/pages/2026/06/08/attackers-can-inject-malicious-scripts-through-vmware-xss-flaws.md",
+  "updatedAt": "2026-06-08T09:00:56.228-05:00",
+  "lastLink": "https://cyberpress.org/verizon-volte-sip-manipulation/",
+  "lastId": "13kq6wx000",
+  "lastFilePath": "cyberpress/pages/2026/06/08/attackers-can-manipulate-sip-messages-in-verizon-volte-deployments.md",
   "items": [
     {
-      "id": "1laa2yr000",
-      "link": "https://cyberpress.org/vmware-xss-enables-script-injection/",
-      "filePath": "cyberpress/pages/2026/06/08/attackers-can-inject-malicious-scripts-through-vmware-xss-flaws.md",
-      "committedAt": "2026-06-08T08:00:44.844-05:00",
-      "title": "Attackers Can Inject Malicious Scripts Through VMware XSS Flaws"
+      "id": "13kq6wx000",
+      "link": "https://cyberpress.org/verizon-volte-sip-manipulation/",
+      "filePath": "cyberpress/pages/2026/06/08/attackers-can-manipulate-sip-messages-in-verizon-volte-deployments.md",
+      "committedAt": "2026-06-08T09:00:56.228-05:00",
+      "title": "Attackers Can Manipulate SIP Messages in Verizon VoLTE Deployments"
     }
   ]
 }
