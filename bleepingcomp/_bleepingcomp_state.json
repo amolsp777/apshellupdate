@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T13:00:32.817-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
-  "lastId": "17ajac3000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/gogs-patches-critical-zero-day-enabling-remote-code-execution.md",
+  "updatedAt": "2026-06-08T15:00:57.652-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
+  "lastId": "1ycfz4u000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks.md",
   "items": [
     {
-      "id": "17ajac3000",
-      "link": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
-      "filePath": "bleepingcomp/pages/2026/06/08/gogs-patches-critical-zero-day-enabling-remote-code-execution.md",
-      "committedAt": "2026-06-08T13:00:32.817-04:00",
-      "title": "Gogs patches critical zero-day enabling remote code execution"
+      "id": "1ycfz4u000",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/08/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks.md",
+      "committedAt": "2026-06-08T15:00:57.652-04:00",
+      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks"
     }
   ]
 }
