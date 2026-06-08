@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T09:00:56.228-05:00",
-  "lastLink": "https://cyberpress.org/verizon-volte-sip-manipulation/",
-  "lastId": "13kq6wx000",
-  "lastFilePath": "cyberpress/pages/2026/06/08/attackers-can-manipulate-sip-messages-in-verizon-volte-deployments.md",
+  "updatedAt": "2026-06-08T10:01:01.884-05:00",
+  "lastLink": "https://cyberpress.org/pink-hackers-steal-credentials/",
+  "lastId": "swiimv0000",
+  "lastFilePath": "cyberpress/pages/2026/06/08/new-pink-hackers-attack-enterprises-for-cloud-storage-credentials.md",
   "items": [
     {
-      "id": "13kq6wx000",
-      "link": "https://cyberpress.org/verizon-volte-sip-manipulation/",
-      "filePath": "cyberpress/pages/2026/06/08/attackers-can-manipulate-sip-messages-in-verizon-volte-deployments.md",
-      "committedAt": "2026-06-08T09:00:56.228-05:00",
-      "title": "Attackers Can Manipulate SIP Messages in Verizon VoLTE Deployments"
+      "id": "swiimv0000",
+      "link": "https://cyberpress.org/pink-hackers-steal-credentials/",
+      "filePath": "cyberpress/pages/2026/06/08/new-pink-hackers-attack-enterprises-for-cloud-storage-credentials.md",
+      "committedAt": "2026-06-08T10:01:01.884-05:00",
+      "title": "New Pink Hackers Attack Enterprises for Cloud Storage Credentials"
     }
   ]
 }
