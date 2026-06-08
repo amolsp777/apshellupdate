@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T15:00:57.652-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
-  "lastId": "1ycfz4u000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks.md",
+  "updatedAt": "2026-06-08T17:01:18.823-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
+  "lastId": "r81flf0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages.md",
   "items": [
     {
-      "id": "1ycfz4u000",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/08/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks.md",
-      "committedAt": "2026-06-08T15:00:57.652-04:00",
-      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks"
+      "id": "r81flf0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
+      "filePath": "bleepingcomp/pages/2026/06/08/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages.md",
+      "committedAt": "2026-06-08T17:01:18.823-04:00",
+      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages"
     }
   ]
 }
