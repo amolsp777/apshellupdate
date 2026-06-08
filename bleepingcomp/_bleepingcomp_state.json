@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-07T12:01:12.274-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
-  "lastId": "b7d3cu0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/07/silent-ransom-group-targets-law-firms-with-fake-it-support-calls.md",
+  "updatedAt": "2026-06-07T20:01:07.929-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
+  "lastId": "iitte80000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/07/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal.md",
   "items": [
     {
-      "id": "b7d3cu0000",
-      "link": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
-      "filePath": "bleepingcomp/pages/2026/06/07/silent-ransom-group-targets-law-firms-with-fake-it-support-calls.md",
-      "committedAt": "2026-06-07T12:01:12.274-04:00",
-      "title": "Silent Ransom Group targets law firms with fake IT support calls"
+      "id": "iitte80000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
+      "filePath": "bleepingcomp/pages/2026/06/07/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal.md",
+      "committedAt": "2026-06-07T20:01:07.929-04:00",
+      "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal"
     }
   ]
 }
