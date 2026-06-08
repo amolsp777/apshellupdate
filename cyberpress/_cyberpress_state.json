@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T07:00:39.478-05:00",
-  "lastLink": "https://cyberpress.org/sitefinity-flaws-expose-credentials/",
-  "lastId": "1obm9un000",
-  "lastFilePath": "cyberpress/pages/2026/06/08/sitefinity-vulnerabilities-allow-hackers-to-steal-plaintext-credentials.md",
+  "updatedAt": "2026-06-08T08:00:44.844-05:00",
+  "lastLink": "https://cyberpress.org/vmware-xss-enables-script-injection/",
+  "lastId": "1laa2yr000",
+  "lastFilePath": "cyberpress/pages/2026/06/08/attackers-can-inject-malicious-scripts-through-vmware-xss-flaws.md",
   "items": [
     {
-      "id": "1obm9un000",
-      "link": "https://cyberpress.org/sitefinity-flaws-expose-credentials/",
-      "filePath": "cyberpress/pages/2026/06/08/sitefinity-vulnerabilities-allow-hackers-to-steal-plaintext-credentials.md",
-      "committedAt": "2026-06-08T07:00:39.478-05:00",
-      "title": "Sitefinity Vulnerabilities Allow Hackers to Steal Plaintext Credentials"
+      "id": "1laa2yr000",
+      "link": "https://cyberpress.org/vmware-xss-enables-script-injection/",
+      "filePath": "cyberpress/pages/2026/06/08/attackers-can-inject-malicious-scripts-through-vmware-xss-flaws.md",
+      "committedAt": "2026-06-08T08:00:44.844-05:00",
+      "title": "Attackers Can Inject Malicious Scripts Through VMware XSS Flaws"
     }
   ]
 }
