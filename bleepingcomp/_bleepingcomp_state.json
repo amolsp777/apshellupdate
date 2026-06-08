@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T18:00:35.877-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-  "lastId": "dfzgym0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary.md",
+  "updatedAt": "2026-06-08T19:00:35.612-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+  "lastId": "6pwcam0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github.md",
   "items": [
     {
-      "id": "dfzgym0000",
-      "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-      "filePath": "bleepingcomp/pages/2026/06/08/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary.md",
-      "committedAt": "2026-06-08T18:00:35.877-04:00",
-      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary"
+      "id": "6pwcam0000",
+      "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+      "filePath": "bleepingcomp/pages/2026/06/08/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github.md",
+      "committedAt": "2026-06-08T19:00:35.612-04:00",
+      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub"
     }
   ]
 }
