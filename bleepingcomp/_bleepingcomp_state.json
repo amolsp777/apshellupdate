@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T05:00:36.273-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
-  "lastId": "1bkw64z000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/09/cisa-gives-feds-3-days-to-patch-check-point-vpn-bug-exploited-as-zero-day.md",
+  "updatedAt": "2026-06-09T07:01:08.321-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
+  "lastId": "1hmrsse000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/09/french-govt-messaging-service-breached-in-account-hijacking-attack.md",
   "items": [
     {
-      "id": "1bkw64z000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
-      "filePath": "bleepingcomp/pages/2026/06/09/cisa-gives-feds-3-days-to-patch-check-point-vpn-bug-exploited-as-zero-day.md",
-      "committedAt": "2026-06-09T05:00:36.273-04:00",
-      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day"
+      "id": "1hmrsse000",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
+      "filePath": "bleepingcomp/pages/2026/06/09/french-govt-messaging-service-breached-in-account-hijacking-attack.md",
+      "committedAt": "2026-06-09T07:01:08.321-04:00",
+      "title": "French govt messaging service breached in account hijacking attack"
     }
   ]
 }
