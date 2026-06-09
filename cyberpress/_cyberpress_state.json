@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T10:01:02.658-05:00",
-  "lastLink": "https://cyberpress.org/entra-logs-flag-agents/",
-  "lastId": "1awac0d000",
-  "lastFilePath": "cyberpress/pages/2026/06/09/suspicious-assistive-agent-behavior-detected-through-microsoft-entra-agent-id-lo.md",
+  "updatedAt": "2026-06-09T11:00:51.414-05:00",
+  "lastLink": "https://cyberpress.org/how-to-stop-false-positives-from-breaking-your-mttr/",
+  "lastId": "1xepeic000",
+  "lastFilePath": "cyberpress/pages/2026/06/09/how-to-stop-false-positives-from-breaking-your-mttr.md",
   "items": [
     {
-      "id": "1awac0d000",
-      "link": "https://cyberpress.org/entra-logs-flag-agents/",
-      "filePath": "cyberpress/pages/2026/06/09/suspicious-assistive-agent-behavior-detected-through-microsoft-entra-agent-id-lo.md",
-      "committedAt": "2026-06-09T10:01:02.658-05:00",
-      "title": "Suspicious Assistive Agent Behavior Detected Through Microsoft Entra Agent ID Logs"
+      "id": "1xepeic000",
+      "link": "https://cyberpress.org/how-to-stop-false-positives-from-breaking-your-mttr/",
+      "filePath": "cyberpress/pages/2026/06/09/how-to-stop-false-positives-from-breaking-your-mttr.md",
+      "committedAt": "2026-06-09T11:00:51.414-05:00",
+      "title": "How to Stop False Positives from Breaking Your MTTR"
     }
   ]
 }
