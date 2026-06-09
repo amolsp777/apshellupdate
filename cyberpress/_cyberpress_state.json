@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T11:00:51.414-05:00",
-  "lastLink": "https://cyberpress.org/how-to-stop-false-positives-from-breaking-your-mttr/",
-  "lastId": "1xepeic000",
-  "lastFilePath": "cyberpress/pages/2026/06/09/how-to-stop-false-positives-from-breaking-your-mttr.md",
+  "updatedAt": "2026-06-09T12:01:13.667-05:00",
+  "lastLink": "https://cyberpress.org/ghost-sender-sender-spoofing/",
+  "lastId": "1fh9thl000",
+  "lastFilePath": "cyberpress/pages/2026/06/09/ghost-sender-flaw-enables-sender-spoofing-in-exchange-online.md",
   "items": [
     {
-      "id": "1xepeic000",
-      "link": "https://cyberpress.org/how-to-stop-false-positives-from-breaking-your-mttr/",
-      "filePath": "cyberpress/pages/2026/06/09/how-to-stop-false-positives-from-breaking-your-mttr.md",
-      "committedAt": "2026-06-09T11:00:51.414-05:00",
-      "title": "How to Stop False Positives from Breaking Your MTTR"
+      "id": "1fh9thl000",
+      "link": "https://cyberpress.org/ghost-sender-sender-spoofing/",
+      "filePath": "cyberpress/pages/2026/06/09/ghost-sender-flaw-enables-sender-spoofing-in-exchange-online.md",
+      "committedAt": "2026-06-09T12:01:13.667-05:00",
+      "title": "Ghost-Sender Flaw Enables Sender Spoofing in Exchange Online"
     }
   ]
 }
