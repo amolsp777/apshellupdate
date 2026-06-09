@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T08:00:39.997-05:00",
-  "lastLink": "https://cyberpress.org/magicad-malware-floods-android/",
-  "lastId": "11p7dsb000",
-  "lastFilePath": "cyberpress/pages/2026/06/09/android-malware-magicad-delivers-aggressive-ad-flooding-campaign.md",
+  "updatedAt": "2026-06-09T09:00:57.578-05:00",
+  "lastLink": "https://cyberpress.org/north-korean-hackers-weaponize-github/",
+  "lastId": "12oxrhm000",
+  "lastFilePath": "cyberpress/pages/2026/06/09/north-korea-linked-hackers-infect-developers-via-github.md",
   "items": [
     {
-      "id": "11p7dsb000",
-      "link": "https://cyberpress.org/magicad-malware-floods-android/",
-      "filePath": "cyberpress/pages/2026/06/09/android-malware-magicad-delivers-aggressive-ad-flooding-campaign.md",
-      "committedAt": "2026-06-09T08:00:39.997-05:00",
-      "title": "Android Malware MagicAd Delivers Aggressive Ad Flooding Campaign"
+      "id": "12oxrhm000",
+      "link": "https://cyberpress.org/north-korean-hackers-weaponize-github/",
+      "filePath": "cyberpress/pages/2026/06/09/north-korea-linked-hackers-infect-developers-via-github.md",
+      "committedAt": "2026-06-09T09:00:57.578-05:00",
+      "title": "North Korea-Linked Hackers Infect Developers via GitHub"
     }
   ]
 }
