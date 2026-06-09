@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T12:01:14.614-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
-  "lastId": "ec0rge0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/09/github-disables-microsoft-repos-pushing-password-stealing-malware.md",
+  "updatedAt": "2026-06-09T14:00:47.261-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
+  "lastId": "7l10pp0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/09/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws.md",
   "items": [
     {
-      "id": "ec0rge0000",
-      "link": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
-      "filePath": "bleepingcomp/pages/2026/06/09/github-disables-microsoft-repos-pushing-password-stealing-malware.md",
-      "committedAt": "2026-06-09T12:01:14.614-04:00",
-      "title": "GitHub disables Microsoft repos pushing password-stealing malware"
+      "id": "7l10pp0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
+      "filePath": "bleepingcomp/pages/2026/06/09/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws.md",
+      "committedAt": "2026-06-09T14:00:47.261-04:00",
+      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws"
     }
   ]
 }
