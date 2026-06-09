@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T06:00:39.773-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-365-phishing-attack/",
-  "lastId": "1dz6n0v000",
-  "lastFilePath": "cyberpress/pages/2026/06/09/new-browser-in-the-browser-phishing-attack-targets-microsoft-365-login-credentia.md",
+  "updatedAt": "2026-06-09T07:00:50.676-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-defender-adds-detection/",
+  "lastId": "5fqb6d0000",
+  "lastFilePath": "cyberpress/pages/2026/06/09/microsoft-defender-adds-detection-for-rpc-protocol-abuse.md",
   "items": [
     {
-      "id": "1dz6n0v000",
-      "link": "https://cyberpress.org/microsoft-365-phishing-attack/",
-      "filePath": "cyberpress/pages/2026/06/09/new-browser-in-the-browser-phishing-attack-targets-microsoft-365-login-credentia.md",
-      "committedAt": "2026-06-09T06:00:39.773-05:00",
-      "title": "New Browser-in-the-Browser Phishing Attack Targets Microsoft 365 Login Credentials"
+      "id": "5fqb6d0000",
+      "link": "https://cyberpress.org/microsoft-defender-adds-detection/",
+      "filePath": "cyberpress/pages/2026/06/09/microsoft-defender-adds-detection-for-rpc-protocol-abuse.md",
+      "committedAt": "2026-06-09T07:00:50.676-05:00",
+      "title": "Microsoft Defender Adds Detection for RPC Protocol Abuse"
     }
   ]
 }
