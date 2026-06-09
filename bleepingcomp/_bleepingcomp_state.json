@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T14:00:47.261-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
-  "lastId": "7l10pp0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/09/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws.md",
+  "updatedAt": "2026-06-09T15:01:08.588-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
+  "lastId": "pj126p0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/09/microsoft-releases-windows-10-kb5094127-extended-security-update.md",
   "items": [
     {
-      "id": "7l10pp0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
-      "filePath": "bleepingcomp/pages/2026/06/09/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws.md",
-      "committedAt": "2026-06-09T14:00:47.261-04:00",
-      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws"
+      "id": "pj126p0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
+      "filePath": "bleepingcomp/pages/2026/06/09/microsoft-releases-windows-10-kb5094127-extended-security-update.md",
+      "committedAt": "2026-06-09T15:01:08.588-04:00",
+      "title": "Microsoft releases Windows 10 KB5094127 extended security update"
     }
   ]
 }
