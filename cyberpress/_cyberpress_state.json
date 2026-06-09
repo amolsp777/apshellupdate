@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T09:00:57.578-05:00",
-  "lastLink": "https://cyberpress.org/north-korean-hackers-weaponize-github/",
-  "lastId": "12oxrhm000",
-  "lastFilePath": "cyberpress/pages/2026/06/09/north-korea-linked-hackers-infect-developers-via-github.md",
+  "updatedAt": "2026-06-09T10:01:02.658-05:00",
+  "lastLink": "https://cyberpress.org/entra-logs-flag-agents/",
+  "lastId": "1awac0d000",
+  "lastFilePath": "cyberpress/pages/2026/06/09/suspicious-assistive-agent-behavior-detected-through-microsoft-entra-agent-id-lo.md",
   "items": [
     {
-      "id": "12oxrhm000",
-      "link": "https://cyberpress.org/north-korean-hackers-weaponize-github/",
-      "filePath": "cyberpress/pages/2026/06/09/north-korea-linked-hackers-infect-developers-via-github.md",
-      "committedAt": "2026-06-09T09:00:57.578-05:00",
-      "title": "North Korea-Linked Hackers Infect Developers via GitHub"
+      "id": "1awac0d000",
+      "link": "https://cyberpress.org/entra-logs-flag-agents/",
+      "filePath": "cyberpress/pages/2026/06/09/suspicious-assistive-agent-behavior-detected-through-microsoft-entra-agent-id-lo.md",
+      "committedAt": "2026-06-09T10:01:02.658-05:00",
+      "title": "Suspicious Assistive Agent Behavior Detected Through Microsoft Entra Agent ID Logs"
     }
   ]
 }
