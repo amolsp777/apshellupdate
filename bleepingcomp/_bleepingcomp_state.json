@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T19:00:35.612-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
-  "lastId": "6pwcam0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github.md",
+  "updatedAt": "2026-06-08T20:01:07.671-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
+  "lastId": "1hyjb3h000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/new-apple-feature-automatically-changes-your-compromised-passwords.md",
   "items": [
     {
-      "id": "6pwcam0000",
-      "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
-      "filePath": "bleepingcomp/pages/2026/06/08/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github.md",
-      "committedAt": "2026-06-08T19:00:35.612-04:00",
-      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub"
+      "id": "1hyjb3h000",
+      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
+      "filePath": "bleepingcomp/pages/2026/06/08/new-apple-feature-automatically-changes-your-compromised-passwords.md",
+      "committedAt": "2026-06-08T20:01:07.671-04:00",
+      "title": "New Apple feature automatically changes your compromised passwords"
     }
   ]
 }
