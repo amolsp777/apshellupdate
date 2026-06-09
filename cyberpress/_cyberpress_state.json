@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T04:00:46.483-05:00",
-  "lastLink": "https://cyberpress.org/weedhack-targets-minecraft-credentials/",
-  "lastId": "1onn9w9000",
-  "lastFilePath": "cyberpress/pages/2026/06/09/weedhack-malware-targets-minecraft-players-in-credential-theft-campaign.md",
+  "updatedAt": "2026-06-09T05:00:34.385-05:00",
+  "lastLink": "https://cyberpress.org/litellm-rce-vulnerability-exploited/",
+  "lastId": "1nb6ndj000",
+  "lastFilePath": "cyberpress/pages/2026/06/09/litellm-rce-vulnerability-exploited-in-the-wild-to-run-commands.md",
   "items": [
     {
-      "id": "1onn9w9000",
-      "link": "https://cyberpress.org/weedhack-targets-minecraft-credentials/",
-      "filePath": "cyberpress/pages/2026/06/09/weedhack-malware-targets-minecraft-players-in-credential-theft-campaign.md",
-      "committedAt": "2026-06-09T04:00:46.483-05:00",
-      "title": "Weedhack Malware Targets Minecraft Players in Credential Theft Campaign"
+      "id": "1nb6ndj000",
+      "link": "https://cyberpress.org/litellm-rce-vulnerability-exploited/",
+      "filePath": "cyberpress/pages/2026/06/09/litellm-rce-vulnerability-exploited-in-the-wild-to-run-commands.md",
+      "committedAt": "2026-06-09T05:00:34.385-05:00",
+      "title": "LiteLLM RCE Vulnerability Exploited in the Wild to Run Commands"
     }
   ]
 }
