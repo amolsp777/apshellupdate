@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T03:00:39.334-05:00",
-  "lastLink": "https://cyberpress.org/new-linux-kernel-vulnerability/",
-  "lastId": "1cny5qv000",
-  "lastFilePath": "cyberpress/pages/2026/06/09/new-linux-kernel-vulnerability-enables-root-privilege-escalation.md",
+  "updatedAt": "2026-06-09T04:00:46.483-05:00",
+  "lastLink": "https://cyberpress.org/weedhack-targets-minecraft-credentials/",
+  "lastId": "1onn9w9000",
+  "lastFilePath": "cyberpress/pages/2026/06/09/weedhack-malware-targets-minecraft-players-in-credential-theft-campaign.md",
   "items": [
     {
-      "id": "1cny5qv000",
-      "link": "https://cyberpress.org/new-linux-kernel-vulnerability/",
-      "filePath": "cyberpress/pages/2026/06/09/new-linux-kernel-vulnerability-enables-root-privilege-escalation.md",
-      "committedAt": "2026-06-09T03:00:39.334-05:00",
-      "title": "New Linux Kernel Vulnerability Enables Root Privilege Escalation"
+      "id": "1onn9w9000",
+      "link": "https://cyberpress.org/weedhack-targets-minecraft-credentials/",
+      "filePath": "cyberpress/pages/2026/06/09/weedhack-malware-targets-minecraft-players-in-credential-theft-campaign.md",
+      "committedAt": "2026-06-09T04:00:46.483-05:00",
+      "title": "Weedhack Malware Targets Minecraft Players in Credential Theft Campaign"
     }
   ]
 }
