@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T20:01:07.671-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
-  "lastId": "1hyjb3h000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/new-apple-feature-automatically-changes-your-compromised-passwords.md",
+  "updatedAt": "2026-06-09T03:00:35.905-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+  "lastId": "1h8gnt2000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/09/google-patches-new-chrome-zero-day-flaw-exploited-in-the-wild.md",
   "items": [
     {
-      "id": "1hyjb3h000",
-      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
-      "filePath": "bleepingcomp/pages/2026/06/08/new-apple-feature-automatically-changes-your-compromised-passwords.md",
-      "committedAt": "2026-06-08T20:01:07.671-04:00",
-      "title": "New Apple feature automatically changes your compromised passwords"
+      "id": "1h8gnt2000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+      "filePath": "bleepingcomp/pages/2026/06/09/google-patches-new-chrome-zero-day-flaw-exploited-in-the-wild.md",
+      "committedAt": "2026-06-09T03:00:35.905-04:00",
+      "title": "Google patches new Chrome zero-day flaw exploited in the wild"
     }
   ]
 }
