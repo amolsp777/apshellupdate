@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T15:01:08.588-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
-  "lastId": "pj126p0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/09/microsoft-releases-windows-10-kb5094127-extended-security-update.md",
+  "updatedAt": "2026-06-09T16:00:42.163-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
+  "lastId": "u7ds9q0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/09/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud.md",
   "items": [
     {
-      "id": "pj126p0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
-      "filePath": "bleepingcomp/pages/2026/06/09/microsoft-releases-windows-10-kb5094127-extended-security-update.md",
-      "committedAt": "2026-06-09T15:01:08.588-04:00",
-      "title": "Microsoft releases Windows 10 KB5094127 extended security update"
+      "id": "u7ds9q0000",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
+      "filePath": "bleepingcomp/pages/2026/06/09/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud.md",
+      "committedAt": "2026-06-09T16:00:42.163-04:00",
+      "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud"
     }
   ]
 }
