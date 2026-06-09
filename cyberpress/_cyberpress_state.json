@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T07:00:50.676-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-defender-adds-detection/",
-  "lastId": "5fqb6d0000",
-  "lastFilePath": "cyberpress/pages/2026/06/09/microsoft-defender-adds-detection-for-rpc-protocol-abuse.md",
+  "updatedAt": "2026-06-09T08:00:39.997-05:00",
+  "lastLink": "https://cyberpress.org/magicad-malware-floods-android/",
+  "lastId": "11p7dsb000",
+  "lastFilePath": "cyberpress/pages/2026/06/09/android-malware-magicad-delivers-aggressive-ad-flooding-campaign.md",
   "items": [
     {
-      "id": "5fqb6d0000",
-      "link": "https://cyberpress.org/microsoft-defender-adds-detection/",
-      "filePath": "cyberpress/pages/2026/06/09/microsoft-defender-adds-detection-for-rpc-protocol-abuse.md",
-      "committedAt": "2026-06-09T07:00:50.676-05:00",
-      "title": "Microsoft Defender Adds Detection for RPC Protocol Abuse"
+      "id": "11p7dsb000",
+      "link": "https://cyberpress.org/magicad-malware-floods-android/",
+      "filePath": "cyberpress/pages/2026/06/09/android-malware-magicad-delivers-aggressive-ad-flooding-campaign.md",
+      "committedAt": "2026-06-09T08:00:39.997-05:00",
+      "title": "Android Malware MagicAd Delivers Aggressive Ad Flooding Campaign"
     }
   ]
 }
