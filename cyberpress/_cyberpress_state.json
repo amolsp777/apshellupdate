@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T04:00:39.372-05:00",
-  "lastLink": "https://cyberpress.org/windows-bitlocker-0-day-vulnerability/",
-  "lastId": "i0v3dj0000",
-  "lastFilePath": "cyberpress/pages/2026/06/10/windows-bitlocker-0-day-vulnerability-enables-security-bypass.md",
+  "updatedAt": "2026-06-10T05:00:44.908-05:00",
+  "lastLink": "https://cyberpress.org/tax-phishing-drops-malware/",
+  "lastId": "1c4wojw000",
+  "lastFilePath": "cyberpress/pages/2026/06/10/tax-themed-phishing-emails-deliver-in-memory-malware-to-windows-users.md",
   "items": [
     {
-      "id": "i0v3dj0000",
-      "link": "https://cyberpress.org/windows-bitlocker-0-day-vulnerability/",
-      "filePath": "cyberpress/pages/2026/06/10/windows-bitlocker-0-day-vulnerability-enables-security-bypass.md",
-      "committedAt": "2026-06-10T04:00:39.372-05:00",
-      "title": "Windows BitLocker 0-Day Vulnerability Enables Security Bypass"
+      "id": "1c4wojw000",
+      "link": "https://cyberpress.org/tax-phishing-drops-malware/",
+      "filePath": "cyberpress/pages/2026/06/10/tax-themed-phishing-emails-deliver-in-memory-malware-to-windows-users.md",
+      "committedAt": "2026-06-10T05:00:44.908-05:00",
+      "title": "Tax-Themed Phishing Emails Deliver In-Memory Malware to Windows Users"
     }
   ]
 }
