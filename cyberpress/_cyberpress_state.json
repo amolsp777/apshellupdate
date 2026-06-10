@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T05:00:44.908-05:00",
-  "lastLink": "https://cyberpress.org/tax-phishing-drops-malware/",
-  "lastId": "1c4wojw000",
-  "lastFilePath": "cyberpress/pages/2026/06/10/tax-themed-phishing-emails-deliver-in-memory-malware-to-windows-users.md",
+  "updatedAt": "2026-06-10T06:00:40.136-05:00",
+  "lastLink": "https://cyberpress.org/exploited-google-chromium-0-day/",
+  "lastId": "ixbhcd0000",
+  "lastFilePath": "cyberpress/pages/2026/06/10/cisa-warns-of-exploited-google-chromium-0-day-flaw.md",
   "items": [
     {
-      "id": "1c4wojw000",
-      "link": "https://cyberpress.org/tax-phishing-drops-malware/",
-      "filePath": "cyberpress/pages/2026/06/10/tax-themed-phishing-emails-deliver-in-memory-malware-to-windows-users.md",
-      "committedAt": "2026-06-10T05:00:44.908-05:00",
-      "title": "Tax-Themed Phishing Emails Deliver In-Memory Malware to Windows Users"
+      "id": "ixbhcd0000",
+      "link": "https://cyberpress.org/exploited-google-chromium-0-day/",
+      "filePath": "cyberpress/pages/2026/06/10/cisa-warns-of-exploited-google-chromium-0-day-flaw.md",
+      "committedAt": "2026-06-10T06:00:40.136-05:00",
+      "title": "CISA Warns of Exploited Google Chromium 0-Day Flaw"
     }
   ]
 }
