@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T17:00:36.429-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
-  "lastId": "1uki3kv000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/10/the-miasma-worm-source-code-briefly-leaked-on-github.md",
+  "updatedAt": "2026-06-10T18:00:35.917-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
+  "lastId": "4ewa0u0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/10/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks.md",
   "items": [
     {
-      "id": "1uki3kv000",
-      "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
-      "filePath": "bleepingcomp/pages/2026/06/10/the-miasma-worm-source-code-briefly-leaked-on-github.md",
-      "committedAt": "2026-06-10T17:00:36.429-04:00",
-      "title": "The ‘Miasma’ worm source code briefly leaked on GitHub"
+      "id": "4ewa0u0000",
+      "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/10/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks.md",
+      "committedAt": "2026-06-10T18:00:35.917-04:00",
+      "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks"
     }
   ]
 }
