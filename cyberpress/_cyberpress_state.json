@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T13:01:18.674-05:00",
-  "lastLink": "https://cyberpress.org/dbmux-malware-targets-developers/",
-  "lastId": "o39xjf0000",
-  "lastFilePath": "cyberpress/pages/2026/06/10/malicious-npm-package-dbmux-targets-developers-with-system-compromising-malware.md",
+  "updatedAt": "2026-06-10T14:01:24.602-05:00",
+  "lastLink": "https://cyberpress.org/clickfix-campaign-drops-mltbackdoor/",
+  "lastId": "1m1maj8000",
+  "lastFilePath": "cyberpress/pages/2026/06/10/new-clickfix-campaign-delivers-mltbackdoor-malware-in-multi-stage-attacks.md",
   "items": [
     {
-      "id": "o39xjf0000",
-      "link": "https://cyberpress.org/dbmux-malware-targets-developers/",
-      "filePath": "cyberpress/pages/2026/06/10/malicious-npm-package-dbmux-targets-developers-with-system-compromising-malware.md",
-      "committedAt": "2026-06-10T13:01:18.674-05:00",
-      "title": "Malicious npm Package dbmux Targets Developers With System-Compromising Malware"
+      "id": "1m1maj8000",
+      "link": "https://cyberpress.org/clickfix-campaign-drops-mltbackdoor/",
+      "filePath": "cyberpress/pages/2026/06/10/new-clickfix-campaign-delivers-mltbackdoor-malware-in-multi-stage-attacks.md",
+      "committedAt": "2026-06-10T14:01:24.602-05:00",
+      "title": "New ClickFix Campaign Delivers MLTBackdoor Malware in Multi-Stage Attacks"
     }
   ]
 }
