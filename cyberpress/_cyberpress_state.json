@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T03:00:34.212-05:00",
-  "lastLink": "https://cyberpress.org/critical-veeam-vulnerability/",
-  "lastId": "1gz8p1n000",
-  "lastFilePath": "cyberpress/pages/2026/06/10/critical-veeam-vulnerability-enables-rce-on-backup-servers.md",
+  "updatedAt": "2026-06-10T04:00:39.372-05:00",
+  "lastLink": "https://cyberpress.org/windows-bitlocker-0-day-vulnerability/",
+  "lastId": "i0v3dj0000",
+  "lastFilePath": "cyberpress/pages/2026/06/10/windows-bitlocker-0-day-vulnerability-enables-security-bypass.md",
   "items": [
     {
-      "id": "1gz8p1n000",
-      "link": "https://cyberpress.org/critical-veeam-vulnerability/",
-      "filePath": "cyberpress/pages/2026/06/10/critical-veeam-vulnerability-enables-rce-on-backup-servers.md",
-      "committedAt": "2026-06-10T03:00:34.212-05:00",
-      "title": "Critical Veeam Vulnerability Enables RCE on Backup Servers"
+      "id": "i0v3dj0000",
+      "link": "https://cyberpress.org/windows-bitlocker-0-day-vulnerability/",
+      "filePath": "cyberpress/pages/2026/06/10/windows-bitlocker-0-day-vulnerability-enables-security-bypass.md",
+      "committedAt": "2026-06-10T04:00:39.372-05:00",
+      "title": "Windows BitLocker 0-Day Vulnerability Enables Security Bypass"
     }
   ]
 }
