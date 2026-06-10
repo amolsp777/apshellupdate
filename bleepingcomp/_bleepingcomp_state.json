@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T16:01:19.721-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
-  "lastId": "1bl95j2000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/10/github-announces-npm-security-changes-to-tackle-supply-chain-attacks.md",
+  "updatedAt": "2026-06-10T17:00:36.429-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
+  "lastId": "1uki3kv000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/10/the-miasma-worm-source-code-briefly-leaked-on-github.md",
   "items": [
     {
-      "id": "1bl95j2000",
-      "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/10/github-announces-npm-security-changes-to-tackle-supply-chain-attacks.md",
-      "committedAt": "2026-06-10T16:01:19.721-04:00",
-      "title": "GitHub announces npm security changes to tackle supply-chain attacks"
+      "id": "1uki3kv000",
+      "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
+      "filePath": "bleepingcomp/pages/2026/06/10/the-miasma-worm-source-code-briefly-leaked-on-github.md",
+      "committedAt": "2026-06-10T17:00:36.429-04:00",
+      "title": "The ‘Miasma’ worm source code briefly leaked on GitHub"
     }
   ]
 }
