@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T03:01:31.188-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
-  "lastId": "8iqcfs0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/10/ivanti-max-severity-sentry-flaw-allows-code-execution-as-root.md",
+  "updatedAt": "2026-06-10T06:00:36.252-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
+  "lastId": "y9t3kh0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/10/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days.md",
   "items": [
     {
-      "id": "8iqcfs0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
-      "filePath": "bleepingcomp/pages/2026/06/10/ivanti-max-severity-sentry-flaw-allows-code-execution-as-root.md",
-      "committedAt": "2026-06-10T03:01:31.188-04:00",
-      "title": "Ivanti: Max severity Sentry flaw allows code execution as root"
+      "id": "y9t3kh0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
+      "filePath": "bleepingcomp/pages/2026/06/10/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days.md",
+      "committedAt": "2026-06-10T06:00:36.252-04:00",
+      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days"
     }
   ]
 }
