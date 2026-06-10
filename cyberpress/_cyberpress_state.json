@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T06:00:40.136-05:00",
-  "lastLink": "https://cyberpress.org/exploited-google-chromium-0-day/",
-  "lastId": "ixbhcd0000",
-  "lastFilePath": "cyberpress/pages/2026/06/10/cisa-warns-of-exploited-google-chromium-0-day-flaw.md",
+  "updatedAt": "2026-06-10T07:00:39.965-05:00",
+  "lastLink": "https://cyberpress.org/windows-translation-framework-0-day/",
+  "lastId": "1jtgqz5000",
+  "lastFilePath": "cyberpress/pages/2026/06/10/windows-translation-framework-0-day-enables-privilege-escalation.md",
   "items": [
     {
-      "id": "ixbhcd0000",
-      "link": "https://cyberpress.org/exploited-google-chromium-0-day/",
-      "filePath": "cyberpress/pages/2026/06/10/cisa-warns-of-exploited-google-chromium-0-day-flaw.md",
-      "committedAt": "2026-06-10T06:00:40.136-05:00",
-      "title": "CISA Warns of Exploited Google Chromium 0-Day Flaw"
+      "id": "1jtgqz5000",
+      "link": "https://cyberpress.org/windows-translation-framework-0-day/",
+      "filePath": "cyberpress/pages/2026/06/10/windows-translation-framework-0-day-enables-privilege-escalation.md",
+      "committedAt": "2026-06-10T07:00:39.965-05:00",
+      "title": "Windows Translation Framework 0-Day Enables Privilege Escalation"
     }
   ]
 }
