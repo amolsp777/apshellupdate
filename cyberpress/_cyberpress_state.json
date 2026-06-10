@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T10:01:41.942-05:00",
-  "lastLink": "https://cyberpress.org/fake-utilities-deploy-miners/",
-  "lastId": "1l44e6z000",
-  "lastFilePath": "cyberpress/pages/2026/06/10/fake-utility-downloads-used-to-deploy-screenconnect-and-crypto-mining-malware.md",
+  "updatedAt": "2026-06-10T12:01:16.039-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-packages-spread-stealer/",
+  "lastId": "1xc1o9p000",
+  "lastFilePath": "cyberpress/pages/2026/06/10/hackers-abuse-73-microsoft-packages-to-spread-password-stealer-malware.md",
   "items": [
     {
-      "id": "1l44e6z000",
-      "link": "https://cyberpress.org/fake-utilities-deploy-miners/",
-      "filePath": "cyberpress/pages/2026/06/10/fake-utility-downloads-used-to-deploy-screenconnect-and-crypto-mining-malware.md",
-      "committedAt": "2026-06-10T10:01:41.942-05:00",
-      "title": "Fake Utility Downloads Used to Deploy ScreenConnect and Crypto Mining Malware"
+      "id": "1xc1o9p000",
+      "link": "https://cyberpress.org/microsoft-packages-spread-stealer/",
+      "filePath": "cyberpress/pages/2026/06/10/hackers-abuse-73-microsoft-packages-to-spread-password-stealer-malware.md",
+      "committedAt": "2026-06-10T12:01:16.039-05:00",
+      "title": "Hackers Abuse 73 Microsoft Packages to Spread Password Stealer Malware"
     }
   ]
 }
