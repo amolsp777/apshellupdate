@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T13:00:46.907-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws/",
-  "lastId": "1wjven1000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/09/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws.md",
+  "updatedAt": "2026-06-10T15:01:28.855-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
+  "lastId": "zcnp7i0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/10/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks.md",
   "items": [
     {
-      "id": "1wjven1000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws/",
-      "filePath": "bleepingcomp/pages/2026/06/09/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws.md",
-      "committedAt": "2026-06-10T13:00:46.907-04:00",
-      "title": "Microsoft June 2026 Patch Tuesday fixes 6 zero-days, 200 flaws"
+      "id": "zcnp7i0000",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/10/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks.md",
+      "committedAt": "2026-06-10T15:01:28.855-04:00",
+      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks"
     }
   ]
 }
