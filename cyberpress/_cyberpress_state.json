@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T02:00:34.322-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-patches-198-vulnerabilities/",
-  "lastId": "aqczxn0000",
-  "lastFilePath": "cyberpress/pages/2026/06/10/microsoft-patches-198-vulnerabilities-in-june-2026-security-update.md",
+  "updatedAt": "2026-06-10T03:00:34.212-05:00",
+  "lastLink": "https://cyberpress.org/critical-veeam-vulnerability/",
+  "lastId": "1gz8p1n000",
+  "lastFilePath": "cyberpress/pages/2026/06/10/critical-veeam-vulnerability-enables-rce-on-backup-servers.md",
   "items": [
     {
-      "id": "aqczxn0000",
-      "link": "https://cyberpress.org/microsoft-patches-198-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/06/10/microsoft-patches-198-vulnerabilities-in-june-2026-security-update.md",
-      "committedAt": "2026-06-10T02:00:34.322-05:00",
-      "title": "Microsoft Patches 198 Vulnerabilities in June 2026 Security Update"
+      "id": "1gz8p1n000",
+      "link": "https://cyberpress.org/critical-veeam-vulnerability/",
+      "filePath": "cyberpress/pages/2026/06/10/critical-veeam-vulnerability-enables-rce-on-backup-servers.md",
+      "committedAt": "2026-06-10T03:00:34.212-05:00",
+      "title": "Critical Veeam Vulnerability Enables RCE on Backup Servers"
     }
   ]
 }
