@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T12:01:16.039-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-packages-spread-stealer/",
-  "lastId": "1xc1o9p000",
-  "lastFilePath": "cyberpress/pages/2026/06/10/hackers-abuse-73-microsoft-packages-to-spread-password-stealer-malware.md",
+  "updatedAt": "2026-06-10T13:01:18.674-05:00",
+  "lastLink": "https://cyberpress.org/dbmux-malware-targets-developers/",
+  "lastId": "o39xjf0000",
+  "lastFilePath": "cyberpress/pages/2026/06/10/malicious-npm-package-dbmux-targets-developers-with-system-compromising-malware.md",
   "items": [
     {
-      "id": "1xc1o9p000",
-      "link": "https://cyberpress.org/microsoft-packages-spread-stealer/",
-      "filePath": "cyberpress/pages/2026/06/10/hackers-abuse-73-microsoft-packages-to-spread-password-stealer-malware.md",
-      "committedAt": "2026-06-10T12:01:16.039-05:00",
-      "title": "Hackers Abuse 73 Microsoft Packages to Spread Password Stealer Malware"
+      "id": "o39xjf0000",
+      "link": "https://cyberpress.org/dbmux-malware-targets-developers/",
+      "filePath": "cyberpress/pages/2026/06/10/malicious-npm-package-dbmux-targets-developers-with-system-compromising-malware.md",
+      "committedAt": "2026-06-10T13:01:18.674-05:00",
+      "title": "Malicious npm Package dbmux Targets Developers With System-Compromising Malware"
     }
   ]
 }
