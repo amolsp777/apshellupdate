@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T15:01:28.855-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
-  "lastId": "zcnp7i0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/10/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks.md",
+  "updatedAt": "2026-06-10T16:01:19.721-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
+  "lastId": "1bl95j2000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/10/github-announces-npm-security-changes-to-tackle-supply-chain-attacks.md",
   "items": [
     {
-      "id": "zcnp7i0000",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/10/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks.md",
-      "committedAt": "2026-06-10T15:01:28.855-04:00",
-      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks"
+      "id": "1bl95j2000",
+      "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/10/github-announces-npm-security-changes-to-tackle-supply-chain-attacks.md",
+      "committedAt": "2026-06-10T16:01:19.721-04:00",
+      "title": "GitHub announces npm security changes to tackle supply-chain attacks"
     }
   ]
 }
