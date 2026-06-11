@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T05:00:50.863-05:00",
-  "lastLink": "https://cyberpress.org/residential-proxies-enable-stealth/",
-  "lastId": "ienbak0000",
-  "lastFilePath": "cyberpress/pages/2026/06/11/attackers-exploit-residential-proxies-for-stealthy-cyber-operations.md",
+  "updatedAt": "2026-06-11T06:00:45.826-05:00",
+  "lastLink": "https://cyberpress.org/macos-infostealer-uses-dmgs/",
+  "lastId": "sprpub0000",
+  "lastFilePath": "cyberpress/pages/2026/06/11/macos-users-hit-by-infostealer-malware-through-malicious-dmg-files.md",
   "items": [
     {
-      "id": "ienbak0000",
-      "link": "https://cyberpress.org/residential-proxies-enable-stealth/",
-      "filePath": "cyberpress/pages/2026/06/11/attackers-exploit-residential-proxies-for-stealthy-cyber-operations.md",
-      "committedAt": "2026-06-11T05:00:50.863-05:00",
-      "title": "Attackers Exploit Residential Proxies for Stealthy Cyber Operations"
+      "id": "sprpub0000",
+      "link": "https://cyberpress.org/macos-infostealer-uses-dmgs/",
+      "filePath": "cyberpress/pages/2026/06/11/macos-users-hit-by-infostealer-malware-through-malicious-dmg-files.md",
+      "committedAt": "2026-06-11T06:00:45.826-05:00",
+      "title": "macOS Users Hit by Infostealer Malware Through Malicious DMG Files"
     }
   ]
 }
