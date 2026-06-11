@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T04:00:37.103-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-  "lastId": "1nyb042000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/11/nottingham-university-data-breach-affects-over-450000-students.md",
+  "updatedAt": "2026-06-11T05:01:19.636-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+  "lastId": "4624ho0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/11/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025.md",
   "items": [
     {
-      "id": "1nyb042000",
-      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "filePath": "bleepingcomp/pages/2026/06/11/nottingham-university-data-breach-affects-over-450000-students.md",
-      "committedAt": "2026-06-11T04:00:37.103-04:00",
-      "title": "Nottingham University data breach affects over 450,000 students"
+      "id": "4624ho0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+      "filePath": "bleepingcomp/pages/2026/06/11/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025.md",
+      "committedAt": "2026-06-11T05:01:19.636-04:00",
+      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025"
     }
   ]
 }
