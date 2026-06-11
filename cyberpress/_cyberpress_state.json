@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T12:01:12.754-05:00",
-  "lastLink": "https://cyberpress.org/sniperdz-powers-brand-impersonation/",
-  "lastId": "1b08j97000",
-  "lastFilePath": "cyberpress/pages/2026/06/11/hackers-abuse-sniperdz-phaas-for-brand-impersonation-attacks.md",
+  "updatedAt": "2026-06-11T13:01:18.754-05:00",
+  "lastLink": "https://cyberpress.org/bluerabbit-targets-windows-files/",
+  "lastId": "1ayufd8000",
+  "lastFilePath": "cyberpress/pages/2026/06/11/bluerabbit-backdoor-targets-windows-systems-with-file-encryption.md",
   "items": [
     {
-      "id": "1b08j97000",
-      "link": "https://cyberpress.org/sniperdz-powers-brand-impersonation/",
-      "filePath": "cyberpress/pages/2026/06/11/hackers-abuse-sniperdz-phaas-for-brand-impersonation-attacks.md",
-      "committedAt": "2026-06-11T12:01:12.754-05:00",
-      "title": "Hackers Abuse SniperDz PhaaS for Brand Impersonation Attacks"
+      "id": "1ayufd8000",
+      "link": "https://cyberpress.org/bluerabbit-targets-windows-files/",
+      "filePath": "cyberpress/pages/2026/06/11/bluerabbit-backdoor-targets-windows-systems-with-file-encryption.md",
+      "committedAt": "2026-06-11T13:01:18.754-05:00",
+      "title": "BLUERABBIT Backdoor Targets Windows Systems With File Encryption"
     }
   ]
 }
