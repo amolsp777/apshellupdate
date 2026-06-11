@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T06:00:45.826-05:00",
-  "lastLink": "https://cyberpress.org/macos-infostealer-uses-dmgs/",
-  "lastId": "sprpub0000",
-  "lastFilePath": "cyberpress/pages/2026/06/11/macos-users-hit-by-infostealer-malware-through-malicious-dmg-files.md",
+  "updatedAt": "2026-06-11T07:00:34.172-05:00",
+  "lastLink": "https://cyberpress.org/langflow-vulnerability-exploited/",
+  "lastId": "122to29000",
+  "lastFilePath": "cyberpress/pages/2026/06/11/critical-langflow-vulnerability-exploited-for-malicious-code-execution.md",
   "items": [
     {
-      "id": "sprpub0000",
-      "link": "https://cyberpress.org/macos-infostealer-uses-dmgs/",
-      "filePath": "cyberpress/pages/2026/06/11/macos-users-hit-by-infostealer-malware-through-malicious-dmg-files.md",
-      "committedAt": "2026-06-11T06:00:45.826-05:00",
-      "title": "macOS Users Hit by Infostealer Malware Through Malicious DMG Files"
+      "id": "122to29000",
+      "link": "https://cyberpress.org/langflow-vulnerability-exploited/",
+      "filePath": "cyberpress/pages/2026/06/11/critical-langflow-vulnerability-exploited-for-malicious-code-execution.md",
+      "committedAt": "2026-06-11T07:00:34.172-05:00",
+      "title": "Critical Langflow Vulnerability Exploited for Malicious Code Execution"
     }
   ]
 }
