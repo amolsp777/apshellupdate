@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T18:00:35.917-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
-  "lastId": "4ewa0u0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/10/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks.md",
+  "updatedAt": "2026-06-11T03:00:37.727-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+  "lastId": "1e2jp6m000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/11/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks.md",
   "items": [
     {
-      "id": "4ewa0u0000",
-      "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/10/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks.md",
-      "committedAt": "2026-06-10T18:00:35.917-04:00",
-      "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks"
+      "id": "1e2jp6m000",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/11/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks.md",
+      "committedAt": "2026-06-11T03:00:37.727-04:00",
+      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks"
     }
   ]
 }
