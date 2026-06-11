@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T09:00:45.822-05:00",
-  "lastLink": "https://cyberpress.org/goflateloader-drops-infostealer-payloads/",
-  "lastId": "1x6i3rt000",
-  "lastFilePath": "cyberpress/pages/2026/06/11/goflateloader-malware-drops-lumma-vidar-and-stealc-payloads.md",
+  "updatedAt": "2026-06-11T10:01:03.472-05:00",
+  "lastLink": "https://cyberpress.org/github-automatically-npm-script/",
+  "lastId": "dk0ubc0000",
+  "lastFilePath": "cyberpress/pages/2026/06/11/github-to-automatically-disable-npm-script-installs-against-attacks.md",
   "items": [
     {
-      "id": "1x6i3rt000",
-      "link": "https://cyberpress.org/goflateloader-drops-infostealer-payloads/",
-      "filePath": "cyberpress/pages/2026/06/11/goflateloader-malware-drops-lumma-vidar-and-stealc-payloads.md",
-      "committedAt": "2026-06-11T09:00:45.822-05:00",
-      "title": "GoFlateLoader Malware Drops Lumma, Vidar, and StealC Payloads"
+      "id": "dk0ubc0000",
+      "link": "https://cyberpress.org/github-automatically-npm-script/",
+      "filePath": "cyberpress/pages/2026/06/11/github-to-automatically-disable-npm-script-installs-against-attacks.md",
+      "committedAt": "2026-06-11T10:01:03.472-05:00",
+      "title": "GitHub to Automatically Disable npm Script Installs Against Attacks"
     }
   ]
 }
