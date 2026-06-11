@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T16:00:41.674-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-  "lastId": "iddnum0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/11/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks.md",
+  "updatedAt": "2026-06-11T19:00:35.711-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
+  "lastId": "lbloib0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/11/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures.md",
   "items": [
     {
-      "id": "iddnum0000",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/11/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks.md",
-      "committedAt": "2026-06-11T16:00:41.674-04:00",
-      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks"
+      "id": "lbloib0000",
+      "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
+      "filePath": "bleepingcomp/pages/2026/06/11/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures.md",
+      "committedAt": "2026-06-11T19:00:35.711-04:00",
+      "title": "Maine breach portal abused to publish fake data breach disclosures"
     }
   ]
 }
