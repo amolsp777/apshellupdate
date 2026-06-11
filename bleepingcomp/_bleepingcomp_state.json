@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T10:00:41.962-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
-  "lastId": "1y81gl4000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/11/coupang-hit-with-record-409-million-data-breach-fine-in-korea.md",
+  "updatedAt": "2026-06-11T11:01:28.121-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
+  "lastId": "1ao0py6000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/11/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks.md",
   "items": [
     {
-      "id": "1y81gl4000",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
-      "filePath": "bleepingcomp/pages/2026/06/11/coupang-hit-with-record-409-million-data-breach-fine-in-korea.md",
-      "committedAt": "2026-06-11T10:00:41.962-04:00",
-      "title": "Coupang hit with record $409 million data breach fine in Korea"
+      "id": "1ao0py6000",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
+      "filePath": "bleepingcomp/pages/2026/06/11/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks.md",
+      "committedAt": "2026-06-11T11:01:28.121-04:00",
+      "title": "Why AI-driven threats are exposing the limits of MSP security stacks"
     }
   ]
 }
