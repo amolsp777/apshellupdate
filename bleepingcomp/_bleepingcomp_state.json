@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T12:01:10.720-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
-  "lastId": "1c8ge5i000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/11/authorities-dismantle-audia6-ransomware-crypto-laundering-service.md",
+  "updatedAt": "2026-06-11T16:00:41.674-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+  "lastId": "iddnum0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/11/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks.md",
   "items": [
     {
-      "id": "1c8ge5i000",
-      "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
-      "filePath": "bleepingcomp/pages/2026/06/11/authorities-dismantle-audia6-ransomware-crypto-laundering-service.md",
-      "committedAt": "2026-06-11T12:01:10.720-04:00",
-      "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service"
+      "id": "iddnum0000",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/11/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks.md",
+      "committedAt": "2026-06-11T16:00:41.674-04:00",
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks"
     }
   ]
 }
