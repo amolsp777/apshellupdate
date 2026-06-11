@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T08:00:40.030-05:00",
-  "lastLink": "https://cyberpress.org/greatxml-bitlocker-0-day-bypass-exploited/",
-  "lastId": "1pdptou000",
-  "lastFilePath": "cyberpress/pages/2026/06/11/greatxml-bitlocker-0-day-bypass-exploited-through-defender-offline-scan.md",
+  "updatedAt": "2026-06-11T09:00:45.822-05:00",
+  "lastLink": "https://cyberpress.org/goflateloader-drops-infostealer-payloads/",
+  "lastId": "1x6i3rt000",
+  "lastFilePath": "cyberpress/pages/2026/06/11/goflateloader-malware-drops-lumma-vidar-and-stealc-payloads.md",
   "items": [
     {
-      "id": "1pdptou000",
-      "link": "https://cyberpress.org/greatxml-bitlocker-0-day-bypass-exploited/",
-      "filePath": "cyberpress/pages/2026/06/11/greatxml-bitlocker-0-day-bypass-exploited-through-defender-offline-scan.md",
-      "committedAt": "2026-06-11T08:00:40.030-05:00",
-      "title": "GreatXML BitLocker 0-Day Bypass Exploited Through Defender Offline Scan"
+      "id": "1x6i3rt000",
+      "link": "https://cyberpress.org/goflateloader-drops-infostealer-payloads/",
+      "filePath": "cyberpress/pages/2026/06/11/goflateloader-malware-drops-lumma-vidar-and-stealc-payloads.md",
+      "committedAt": "2026-06-11T09:00:45.822-05:00",
+      "title": "GoFlateLoader Malware Drops Lumma, Vidar, and StealC Payloads"
     }
   ]
 }
