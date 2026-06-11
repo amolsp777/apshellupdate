@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T03:01:03.091-05:00",
-  "lastLink": "https://cyberpress.org/gitlab-patches-multiple-flaws/",
-  "lastId": "mxbolu0000",
-  "lastFilePath": "cyberpress/pages/2026/06/11/gitlab-patches-multiple-flaws-enabling-account-takeover-attacks.md",
+  "updatedAt": "2026-06-11T04:01:06.629-05:00",
+  "lastLink": "https://cyberpress.org/poc-released-guest-to-host-escape/",
+  "lastId": "r6e0le0000",
+  "lastFilePath": "cyberpress/pages/2026/06/11/public-poc-released-for-linux-kernel-guest-to-host-escape-flaw.md",
   "items": [
     {
-      "id": "mxbolu0000",
-      "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/",
-      "filePath": "cyberpress/pages/2026/06/11/gitlab-patches-multiple-flaws-enabling-account-takeover-attacks.md",
-      "committedAt": "2026-06-11T03:01:03.091-05:00",
-      "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks"
+      "id": "r6e0le0000",
+      "link": "https://cyberpress.org/poc-released-guest-to-host-escape/",
+      "filePath": "cyberpress/pages/2026/06/11/public-poc-released-for-linux-kernel-guest-to-host-escape-flaw.md",
+      "committedAt": "2026-06-11T04:01:06.629-05:00",
+      "title": "Public PoC Released for Linux Kernel Guest-to-Host Escape Flaw"
     }
   ]
 }
