@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T02:00:35.857-05:00",
-  "lastLink": "https://cyberpress.org/jdy-botnet-targets-flaws/",
-  "lastId": "1jox7kj000",
-  "lastFilePath": "cyberpress/pages/2026/06/11/jdy-botnet-expands-with-1500-compromised-devices-targeting-fresh-vulnerabilities.md",
+  "updatedAt": "2026-06-11T03:01:03.091-05:00",
+  "lastLink": "https://cyberpress.org/gitlab-patches-multiple-flaws/",
+  "lastId": "mxbolu0000",
+  "lastFilePath": "cyberpress/pages/2026/06/11/gitlab-patches-multiple-flaws-enabling-account-takeover-attacks.md",
   "items": [
     {
-      "id": "1jox7kj000",
-      "link": "https://cyberpress.org/jdy-botnet-targets-flaws/",
-      "filePath": "cyberpress/pages/2026/06/11/jdy-botnet-expands-with-1500-compromised-devices-targeting-fresh-vulnerabilities.md",
-      "committedAt": "2026-06-11T02:00:35.857-05:00",
-      "title": "JDY Botnet Expands With 1,500 Compromised Devices Targeting Fresh Vulnerabilities"
+      "id": "mxbolu0000",
+      "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/",
+      "filePath": "cyberpress/pages/2026/06/11/gitlab-patches-multiple-flaws-enabling-account-takeover-attacks.md",
+      "committedAt": "2026-06-11T03:01:03.091-05:00",
+      "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks"
     }
   ]
 }
