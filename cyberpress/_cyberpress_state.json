@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T04:01:06.629-05:00",
-  "lastLink": "https://cyberpress.org/poc-released-guest-to-host-escape/",
-  "lastId": "r6e0le0000",
-  "lastFilePath": "cyberpress/pages/2026/06/11/public-poc-released-for-linux-kernel-guest-to-host-escape-flaw.md",
+  "updatedAt": "2026-06-11T05:00:50.863-05:00",
+  "lastLink": "https://cyberpress.org/residential-proxies-enable-stealth/",
+  "lastId": "ienbak0000",
+  "lastFilePath": "cyberpress/pages/2026/06/11/attackers-exploit-residential-proxies-for-stealthy-cyber-operations.md",
   "items": [
     {
-      "id": "r6e0le0000",
-      "link": "https://cyberpress.org/poc-released-guest-to-host-escape/",
-      "filePath": "cyberpress/pages/2026/06/11/public-poc-released-for-linux-kernel-guest-to-host-escape-flaw.md",
-      "committedAt": "2026-06-11T04:01:06.629-05:00",
-      "title": "Public PoC Released for Linux Kernel Guest-to-Host Escape Flaw"
+      "id": "ienbak0000",
+      "link": "https://cyberpress.org/residential-proxies-enable-stealth/",
+      "filePath": "cyberpress/pages/2026/06/11/attackers-exploit-residential-proxies-for-stealthy-cyber-operations.md",
+      "committedAt": "2026-06-11T05:00:50.863-05:00",
+      "title": "Attackers Exploit Residential Proxies for Stealthy Cyber Operations"
     }
   ]
 }
