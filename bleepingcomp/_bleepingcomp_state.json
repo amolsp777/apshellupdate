@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T19:00:35.711-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
-  "lastId": "lbloib0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/11/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures.md",
+  "updatedAt": "2026-06-11T20:01:24.215-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
+  "lastId": "ot02nk0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/11/japanese-energy-firm-loses-drive-with-data-of-109-million-clients.md",
   "items": [
     {
-      "id": "lbloib0000",
-      "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
-      "filePath": "bleepingcomp/pages/2026/06/11/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures.md",
-      "committedAt": "2026-06-11T19:00:35.711-04:00",
-      "title": "Maine breach portal abused to publish fake data breach disclosures"
+      "id": "ot02nk0000",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
+      "filePath": "bleepingcomp/pages/2026/06/11/japanese-energy-firm-loses-drive-with-data-of-109-million-clients.md",
+      "committedAt": "2026-06-11T20:01:24.215-04:00",
+      "title": "Japanese energy firm loses drive with data of 10.9 million clients"
     }
   ]
 }
