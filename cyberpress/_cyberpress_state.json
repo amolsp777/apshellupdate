@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T10:01:09.715-05:00",
-  "lastLink": "https://cyberpress.org/apt28-steals-net-ntlmv2-hashes-via-outlook-flaw/",
-  "lastId": "v9gmqs0000",
-  "lastFilePath": "cyberpress/pages/2026/06/12/apt28-weaponizes-outlook-zero-click-flaw-to-steal-net-ntlmv2-hashes-from-nato-ta.md",
+  "updatedAt": "2026-06-12T11:01:12.537-05:00",
+  "lastLink": "https://cyberpress.org/fake-fiscal-docs-deploy-ninjaone/",
+  "lastId": "uam0og0000",
+  "lastFilePath": "cyberpress/pages/2026/06/12/hackers-use-fake-fiscal-documents-to-deliver-ninjaone-rmm-agent-for-remote-acces.md",
   "items": [
     {
-      "id": "v9gmqs0000",
-      "link": "https://cyberpress.org/apt28-steals-net-ntlmv2-hashes-via-outlook-flaw/",
-      "filePath": "cyberpress/pages/2026/06/12/apt28-weaponizes-outlook-zero-click-flaw-to-steal-net-ntlmv2-hashes-from-nato-ta.md",
-      "committedAt": "2026-06-12T10:01:09.715-05:00",
-      "title": "APT28 Weaponizes Outlook Zero-Click Flaw to Steal Net-NTLMv2 Hashes From NATO Targets"
+      "id": "uam0og0000",
+      "link": "https://cyberpress.org/fake-fiscal-docs-deploy-ninjaone/",
+      "filePath": "cyberpress/pages/2026/06/12/hackers-use-fake-fiscal-documents-to-deliver-ninjaone-rmm-agent-for-remote-acces.md",
+      "committedAt": "2026-06-12T11:01:12.537-05:00",
+      "title": "Hackers Use Fake Fiscal Documents to Deliver NinjaOne RMM Agent for Remote Access"
     }
   ]
 }
