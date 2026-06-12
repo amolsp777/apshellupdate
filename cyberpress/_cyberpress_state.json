@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T07:00:34.099-05:00",
-  "lastLink": "https://cyberpress.org/critical-langgraph-vulnerability/",
-  "lastId": "12deb60000",
-  "lastFilePath": "cyberpress/pages/2026/06/12/critical-langgraph-vulnerability-chain-enables-full-server-takeover.md",
+  "updatedAt": "2026-06-12T08:00:45.007-05:00",
+  "lastLink": "https://cyberpress.org/critical-palo-alto-pan-os-flaw/",
+  "lastId": "1t6abvy000",
+  "lastFilePath": "cyberpress/pages/2026/06/12/critical-palo-alto-pan-os-flaw-enables-root-level-command-execution.md",
   "items": [
     {
-      "id": "12deb60000",
-      "link": "https://cyberpress.org/critical-langgraph-vulnerability/",
-      "filePath": "cyberpress/pages/2026/06/12/critical-langgraph-vulnerability-chain-enables-full-server-takeover.md",
-      "committedAt": "2026-06-12T07:00:34.099-05:00",
-      "title": "Critical LangGraph Vulnerability Chain Enables Full Server Takeover"
+      "id": "1t6abvy000",
+      "link": "https://cyberpress.org/critical-palo-alto-pan-os-flaw/",
+      "filePath": "cyberpress/pages/2026/06/12/critical-palo-alto-pan-os-flaw-enables-root-level-command-execution.md",
+      "committedAt": "2026-06-12T08:00:45.007-05:00",
+      "title": "Critical Palo Alto PAN-OS Flaw Enables Root-Level Command Execution"
     }
   ]
 }
