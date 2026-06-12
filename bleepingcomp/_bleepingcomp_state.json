@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T05:00:36.181-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
-  "lastId": "1uzdapi000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/12/cisa-orders-feds-to-patch-actively-exploited-ivanti-flaw-by-sunday.md",
+  "updatedAt": "2026-06-12T07:01:18.727-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
+  "lastId": "1jrpo8f000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/12/pharma-giant-novo-nordisk-discloses-breach-of-clinical-trials-data.md",
   "items": [
     {
-      "id": "1uzdapi000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/12/cisa-orders-feds-to-patch-actively-exploited-ivanti-flaw-by-sunday.md",
-      "committedAt": "2026-06-12T05:00:36.181-04:00",
-      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday"
+      "id": "1jrpo8f000",
+      "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
+      "filePath": "bleepingcomp/pages/2026/06/12/pharma-giant-novo-nordisk-discloses-breach-of-clinical-trials-data.md",
+      "committedAt": "2026-06-12T07:01:18.727-04:00",
+      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data"
     }
   ]
 }
