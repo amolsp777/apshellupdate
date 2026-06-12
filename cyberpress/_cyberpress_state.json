@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T06:00:34.806-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-outlook-and-word-flaws/",
-  "lastId": "1kwn563000",
-  "lastFilePath": "cyberpress/pages/2026/06/12/critical-microsoft-outlook-and-word-flaws-enable-malicious-code-execution.md",
+  "updatedAt": "2026-06-12T07:00:34.099-05:00",
+  "lastLink": "https://cyberpress.org/critical-langgraph-vulnerability/",
+  "lastId": "12deb60000",
+  "lastFilePath": "cyberpress/pages/2026/06/12/critical-langgraph-vulnerability-chain-enables-full-server-takeover.md",
   "items": [
     {
-      "id": "1kwn563000",
-      "link": "https://cyberpress.org/microsoft-outlook-and-word-flaws/",
-      "filePath": "cyberpress/pages/2026/06/12/critical-microsoft-outlook-and-word-flaws-enable-malicious-code-execution.md",
-      "committedAt": "2026-06-12T06:00:34.806-05:00",
-      "title": "Critical Microsoft Outlook and Word Flaws Enable Malicious Code Execution"
+      "id": "12deb60000",
+      "link": "https://cyberpress.org/critical-langgraph-vulnerability/",
+      "filePath": "cyberpress/pages/2026/06/12/critical-langgraph-vulnerability-chain-enables-full-server-takeover.md",
+      "committedAt": "2026-06-12T07:00:34.099-05:00",
+      "title": "Critical LangGraph Vulnerability Chain Enables Full Server Takeover"
     }
   ]
 }
