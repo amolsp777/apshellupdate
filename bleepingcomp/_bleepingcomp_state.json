@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T07:01:18.727-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-  "lastId": "1jrpo8f000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/12/pharma-giant-novo-nordisk-discloses-breach-of-clinical-trials-data.md",
+  "updatedAt": "2026-06-12T08:01:14.560-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
+  "lastId": "12hvtek000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/12/microsoft-fixes-windows-update-failures-linked-to-wusa-installer.md",
   "items": [
     {
-      "id": "1jrpo8f000",
-      "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-      "filePath": "bleepingcomp/pages/2026/06/12/pharma-giant-novo-nordisk-discloses-breach-of-clinical-trials-data.md",
-      "committedAt": "2026-06-12T07:01:18.727-04:00",
-      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data"
+      "id": "12hvtek000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
+      "filePath": "bleepingcomp/pages/2026/06/12/microsoft-fixes-windows-update-failures-linked-to-wusa-installer.md",
+      "committedAt": "2026-06-12T08:01:14.560-04:00",
+      "title": "Microsoft fixes Windows update failures linked to WUSA installer"
     }
   ]
 }
