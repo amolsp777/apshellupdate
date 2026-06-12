@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T04:01:14.135-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
-  "lastId": "6q606o0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/12/over-73000-french-govt-employees-affected-in-tchap-messenger-breach.md",
+  "updatedAt": "2026-06-12T05:00:36.181-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
+  "lastId": "1uzdapi000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/12/cisa-orders-feds-to-patch-actively-exploited-ivanti-flaw-by-sunday.md",
   "items": [
     {
-      "id": "6q606o0000",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
-      "filePath": "bleepingcomp/pages/2026/06/12/over-73000-french-govt-employees-affected-in-tchap-messenger-breach.md",
-      "committedAt": "2026-06-12T04:01:14.135-04:00",
-      "title": "Over 73,000 French govt employees affected in Tchap messenger breach"
+      "id": "1uzdapi000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/12/cisa-orders-feds-to-patch-actively-exploited-ivanti-flaw-by-sunday.md",
+      "committedAt": "2026-06-12T05:00:36.181-04:00",
+      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday"
     }
   ]
 }
