@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T14:01:23.676-05:00",
-  "lastLink": "https://cyberpress.org/stolen-credentials-sold-online/",
-  "lastId": "15d1s2j000",
-  "lastFilePath": "cyberpress/pages/2026/06/11/stolen-credentials-sold-through-chinese-language-guarantee-marketplaces.md",
+  "updatedAt": "2026-06-12T01:00:39.493-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-teams-for-android-flaw/",
+  "lastId": "a30w1q0000",
+  "lastFilePath": "cyberpress/pages/2026/06/12/critical-microsoft-teams-for-android-vulnerability-could-lead-to-sensitive-infor.md",
   "items": [
     {
-      "id": "15d1s2j000",
-      "link": "https://cyberpress.org/stolen-credentials-sold-online/",
-      "filePath": "cyberpress/pages/2026/06/11/stolen-credentials-sold-through-chinese-language-guarantee-marketplaces.md",
-      "committedAt": "2026-06-11T14:01:23.676-05:00",
-      "title": "Stolen Credentials Sold Through Chinese-Language Guarantee Marketplaces"
+      "id": "a30w1q0000",
+      "link": "https://cyberpress.org/microsoft-teams-for-android-flaw/",
+      "filePath": "cyberpress/pages/2026/06/12/critical-microsoft-teams-for-android-vulnerability-could-lead-to-sensitive-infor.md",
+      "committedAt": "2026-06-12T01:00:39.493-05:00",
+      "title": "Critical Microsoft Teams for Android Vulnerability Could Lead to Sensitive Information Disclosure"
     }
   ]
 }
