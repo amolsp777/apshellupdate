@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T08:00:45.007-05:00",
-  "lastLink": "https://cyberpress.org/critical-palo-alto-pan-os-flaw/",
-  "lastId": "1t6abvy000",
-  "lastFilePath": "cyberpress/pages/2026/06/12/critical-palo-alto-pan-os-flaw-enables-root-level-command-execution.md",
+  "updatedAt": "2026-06-12T09:00:55.997-05:00",
+  "lastLink": "https://cyberpress.org/hackers-deliver-onyxc2-via-fake-updates/",
+  "lastId": "5sjw9x0000",
+  "lastFilePath": "cyberpress/pages/2026/06/12/hackers-use-fake-windows-update-installers-to-deliver-onyxc2-credential-stealer.md",
   "items": [
     {
-      "id": "1t6abvy000",
-      "link": "https://cyberpress.org/critical-palo-alto-pan-os-flaw/",
-      "filePath": "cyberpress/pages/2026/06/12/critical-palo-alto-pan-os-flaw-enables-root-level-command-execution.md",
-      "committedAt": "2026-06-12T08:00:45.007-05:00",
-      "title": "Critical Palo Alto PAN-OS Flaw Enables Root-Level Command Execution"
+      "id": "5sjw9x0000",
+      "link": "https://cyberpress.org/hackers-deliver-onyxc2-via-fake-updates/",
+      "filePath": "cyberpress/pages/2026/06/12/hackers-use-fake-windows-update-installers-to-deliver-onyxc2-credential-stealer.md",
+      "committedAt": "2026-06-12T09:00:55.997-05:00",
+      "title": "Hackers Use Fake Windows Update Installers to Deliver OnyxC2 Credential Stealer"
     }
   ]
 }
