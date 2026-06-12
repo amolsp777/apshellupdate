@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T05:00:44.781-05:00",
-  "lastLink": "https://cyberpress.org/tchap-messenger-breach-exposes/",
-  "lastId": "9hansz0000",
-  "lastFilePath": "cyberpress/pages/2026/06/12/tchap-messenger-breach-exposes-data-of-73000-french-government-employees.md",
+  "updatedAt": "2026-06-12T06:00:34.806-05:00",
+  "lastLink": "https://cyberpress.org/microsoft-outlook-and-word-flaws/",
+  "lastId": "1kwn563000",
+  "lastFilePath": "cyberpress/pages/2026/06/12/critical-microsoft-outlook-and-word-flaws-enable-malicious-code-execution.md",
   "items": [
     {
-      "id": "9hansz0000",
-      "link": "https://cyberpress.org/tchap-messenger-breach-exposes/",
-      "filePath": "cyberpress/pages/2026/06/12/tchap-messenger-breach-exposes-data-of-73000-french-government-employees.md",
-      "committedAt": "2026-06-12T05:00:44.781-05:00",
-      "title": "Tchap Messenger Breach Exposes Data of 73,000+ French Government Employees"
+      "id": "1kwn563000",
+      "link": "https://cyberpress.org/microsoft-outlook-and-word-flaws/",
+      "filePath": "cyberpress/pages/2026/06/12/critical-microsoft-outlook-and-word-flaws-enable-malicious-code-execution.md",
+      "committedAt": "2026-06-12T06:00:34.806-05:00",
+      "title": "Critical Microsoft Outlook and Word Flaws Enable Malicious Code Execution"
     }
   ]
 }
