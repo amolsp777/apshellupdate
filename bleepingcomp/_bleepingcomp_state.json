@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T20:01:24.215-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
-  "lastId": "ot02nk0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/11/japanese-energy-firm-loses-drive-with-data-of-109-million-clients.md",
+  "updatedAt": "2026-06-12T04:01:14.135-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
+  "lastId": "6q606o0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/12/over-73000-french-govt-employees-affected-in-tchap-messenger-breach.md",
   "items": [
     {
-      "id": "ot02nk0000",
-      "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
-      "filePath": "bleepingcomp/pages/2026/06/11/japanese-energy-firm-loses-drive-with-data-of-109-million-clients.md",
-      "committedAt": "2026-06-11T20:01:24.215-04:00",
-      "title": "Japanese energy firm loses drive with data of 10.9 million clients"
+      "id": "6q606o0000",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
+      "filePath": "bleepingcomp/pages/2026/06/12/over-73000-french-govt-employees-affected-in-tchap-messenger-breach.md",
+      "committedAt": "2026-06-12T04:01:14.135-04:00",
+      "title": "Over 73,000 French govt employees affected in Tchap messenger breach"
     }
   ]
 }
