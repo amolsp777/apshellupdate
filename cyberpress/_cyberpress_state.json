@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T02:00:34.629-05:00",
-  "lastLink": "https://cyberpress.org/oracle-peoplesoft-0-day-rce-flaw/",
-  "lastId": "1q404zn000",
-  "lastFilePath": "cyberpress/pages/2026/06/12/oracle-peoplesoft-0-day-rce-flaw-under-active-exploitation-by-shinyhunters.md",
+  "updatedAt": "2026-06-12T03:00:39.645-05:00",
+  "lastLink": "https://cyberpress.org/cisa-orders-federal-agencies-patch-vulnerabilities/",
+  "lastId": "1nioyu0000",
+  "lastFilePath": "cyberpress/pages/2026/06/12/cisa-orders-federal-agencies-to-patch-high-risk-vulnerabilities-within-3-days-un.md",
   "items": [
     {
-      "id": "1q404zn000",
-      "link": "https://cyberpress.org/oracle-peoplesoft-0-day-rce-flaw/",
-      "filePath": "cyberpress/pages/2026/06/12/oracle-peoplesoft-0-day-rce-flaw-under-active-exploitation-by-shinyhunters.md",
-      "committedAt": "2026-06-12T02:00:34.629-05:00",
-      "title": "Oracle PeopleSoft 0-Day RCE Flaw Under Active Exploitation by ShinyHunters"
+      "id": "1nioyu0000",
+      "link": "https://cyberpress.org/cisa-orders-federal-agencies-patch-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/06/12/cisa-orders-federal-agencies-to-patch-high-risk-vulnerabilities-within-3-days-un.md",
+      "committedAt": "2026-06-12T03:00:39.645-05:00",
+      "title": "CISA Orders Federal Agencies to Patch High-Risk Vulnerabilities Within 3 Days Under New Directive"
     }
   ]
 }
