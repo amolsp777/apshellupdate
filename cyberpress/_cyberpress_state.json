@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T01:00:39.493-05:00",
-  "lastLink": "https://cyberpress.org/microsoft-teams-for-android-flaw/",
-  "lastId": "a30w1q0000",
-  "lastFilePath": "cyberpress/pages/2026/06/12/critical-microsoft-teams-for-android-vulnerability-could-lead-to-sensitive-infor.md",
+  "updatedAt": "2026-06-12T02:00:34.629-05:00",
+  "lastLink": "https://cyberpress.org/oracle-peoplesoft-0-day-rce-flaw/",
+  "lastId": "1q404zn000",
+  "lastFilePath": "cyberpress/pages/2026/06/12/oracle-peoplesoft-0-day-rce-flaw-under-active-exploitation-by-shinyhunters.md",
   "items": [
     {
-      "id": "a30w1q0000",
-      "link": "https://cyberpress.org/microsoft-teams-for-android-flaw/",
-      "filePath": "cyberpress/pages/2026/06/12/critical-microsoft-teams-for-android-vulnerability-could-lead-to-sensitive-infor.md",
-      "committedAt": "2026-06-12T01:00:39.493-05:00",
-      "title": "Critical Microsoft Teams for Android Vulnerability Could Lead to Sensitive Information Disclosure"
+      "id": "1q404zn000",
+      "link": "https://cyberpress.org/oracle-peoplesoft-0-day-rce-flaw/",
+      "filePath": "cyberpress/pages/2026/06/12/oracle-peoplesoft-0-day-rce-flaw-under-active-exploitation-by-shinyhunters.md",
+      "committedAt": "2026-06-12T02:00:34.629-05:00",
+      "title": "Oracle PeopleSoft 0-Day RCE Flaw Under Active Exploitation by ShinyHunters"
     }
   ]
 }
