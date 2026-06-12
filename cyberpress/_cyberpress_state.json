@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T09:00:55.997-05:00",
-  "lastLink": "https://cyberpress.org/hackers-deliver-onyxc2-via-fake-updates/",
-  "lastId": "5sjw9x0000",
-  "lastFilePath": "cyberpress/pages/2026/06/12/hackers-use-fake-windows-update-installers-to-deliver-onyxc2-credential-stealer.md",
+  "updatedAt": "2026-06-12T10:01:09.715-05:00",
+  "lastLink": "https://cyberpress.org/apt28-steals-net-ntlmv2-hashes-via-outlook-flaw/",
+  "lastId": "v9gmqs0000",
+  "lastFilePath": "cyberpress/pages/2026/06/12/apt28-weaponizes-outlook-zero-click-flaw-to-steal-net-ntlmv2-hashes-from-nato-ta.md",
   "items": [
     {
-      "id": "5sjw9x0000",
-      "link": "https://cyberpress.org/hackers-deliver-onyxc2-via-fake-updates/",
-      "filePath": "cyberpress/pages/2026/06/12/hackers-use-fake-windows-update-installers-to-deliver-onyxc2-credential-stealer.md",
-      "committedAt": "2026-06-12T09:00:55.997-05:00",
-      "title": "Hackers Use Fake Windows Update Installers to Deliver OnyxC2 Credential Stealer"
+      "id": "v9gmqs0000",
+      "link": "https://cyberpress.org/apt28-steals-net-ntlmv2-hashes-via-outlook-flaw/",
+      "filePath": "cyberpress/pages/2026/06/12/apt28-weaponizes-outlook-zero-click-flaw-to-steal-net-ntlmv2-hashes-from-nato-ta.md",
+      "committedAt": "2026-06-12T10:01:09.715-05:00",
+      "title": "APT28 Weaponizes Outlook Zero-Click Flaw to Steal Net-NTLMv2 Hashes From NATO Targets"
     }
   ]
 }
