@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T15:00:57.952-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-  "lastId": "1sbmno3000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/12/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade.md",
+  "updatedAt": "2026-06-12T16:00:30.926-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+  "lastId": "epx7i60000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/12/maine-disables-data-breach-notification-portal-after-fake-disclosures.md",
   "items": [
     {
-      "id": "1sbmno3000",
-      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-      "filePath": "bleepingcomp/pages/2026/06/12/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade.md",
-      "committedAt": "2026-06-12T15:00:57.952-04:00",
-      "title": "phpBB forum fixes auth bypass bug lurking for a decade"
+      "id": "epx7i60000",
+      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "filePath": "bleepingcomp/pages/2026/06/12/maine-disables-data-breach-notification-portal-after-fake-disclosures.md",
+      "committedAt": "2026-06-12T16:00:30.926-04:00",
+      "title": "Maine disables data breach notification portal after fake disclosures"
     }
   ]
 }
