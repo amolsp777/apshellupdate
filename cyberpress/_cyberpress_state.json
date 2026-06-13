@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T05:00:33.882-05:00",
-  "lastLink": "https://cyberpress.org/critical-splunk-enterprise-flaw/",
-  "lastId": "1sqj9e0000",
-  "lastFilePath": "cyberpress/pages/2026/06/13/critical-splunk-enterprise-flaw-enables-unauthenticated-remote-code-execution.md",
+  "updatedAt": "2026-06-13T06:00:44.663-05:00",
+  "lastLink": "https://cyberpress.org/agentjacking-attack-ai-coding-agents/",
+  "lastId": "swzz9d0000",
+  "lastFilePath": "cyberpress/pages/2026/06/13/new-agentjacking-attack-compromises-ai-coding-agents-for-code-execution.md",
   "items": [
     {
-      "id": "1sqj9e0000",
-      "link": "https://cyberpress.org/critical-splunk-enterprise-flaw/",
-      "filePath": "cyberpress/pages/2026/06/13/critical-splunk-enterprise-flaw-enables-unauthenticated-remote-code-execution.md",
-      "committedAt": "2026-06-13T05:00:33.882-05:00",
-      "title": "Critical Splunk Enterprise Flaw Enables Unauthenticated Remote Code Execution"
+      "id": "swzz9d0000",
+      "link": "https://cyberpress.org/agentjacking-attack-ai-coding-agents/",
+      "filePath": "cyberpress/pages/2026/06/13/new-agentjacking-attack-compromises-ai-coding-agents-for-code-execution.md",
+      "committedAt": "2026-06-13T06:00:44.663-05:00",
+      "title": "New Agentjacking Attack Compromises AI Coding Agents for Code Execution"
     }
   ]
 }
