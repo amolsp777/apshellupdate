@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T17:01:07.838-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-  "lastId": "6h3wm70000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/12/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer.md",
+  "updatedAt": "2026-06-13T07:01:28.883-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
+  "lastId": "1hl6m70000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/13/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos.md",
   "items": [
     {
-      "id": "6h3wm70000",
-      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-      "filePath": "bleepingcomp/pages/2026/06/12/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer.md",
-      "committedAt": "2026-06-12T17:01:07.838-04:00",
-      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer"
+      "id": "1hl6m70000",
+      "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
+      "filePath": "bleepingcomp/pages/2026/06/13/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos.md",
+      "committedAt": "2026-06-13T07:01:28.883-04:00",
+      "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos"
     }
   ]
 }
