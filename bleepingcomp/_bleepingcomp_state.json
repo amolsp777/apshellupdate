@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T07:01:28.883-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
-  "lastId": "1hl6m70000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/13/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos.md",
+  "updatedAt": "2026-06-13T11:01:28.601-04:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+  "lastId": "1ocib8f000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/13/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade.md",
   "items": [
     {
-      "id": "1hl6m70000",
-      "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
-      "filePath": "bleepingcomp/pages/2026/06/13/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos.md",
-      "committedAt": "2026-06-13T07:01:28.883-04:00",
-      "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos"
+      "id": "1ocib8f000",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+      "filePath": "bleepingcomp/pages/2026/06/13/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade.md",
+      "committedAt": "2026-06-13T11:01:28.601-04:00",
+      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade"
     }
   ]
 }
