@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T01:00:55.249-05:00",
-  "lastLink": "https://cyberpress.org/chrome-extensions-manipulate-google-search/",
-  "lastId": "4xitau0000",
-  "lastFilePath": "cyberpress/pages/2026/06/13/malicious-chrome-extensions-manipulate-google-organic-search-metrics.md",
+  "updatedAt": "2026-06-13T05:00:33.882-05:00",
+  "lastLink": "https://cyberpress.org/critical-splunk-enterprise-flaw/",
+  "lastId": "1sqj9e0000",
+  "lastFilePath": "cyberpress/pages/2026/06/13/critical-splunk-enterprise-flaw-enables-unauthenticated-remote-code-execution.md",
   "items": [
     {
-      "id": "4xitau0000",
-      "link": "https://cyberpress.org/chrome-extensions-manipulate-google-search/",
-      "filePath": "cyberpress/pages/2026/06/13/malicious-chrome-extensions-manipulate-google-organic-search-metrics.md",
-      "committedAt": "2026-06-13T01:00:55.249-05:00",
-      "title": "Malicious Chrome Extensions Manipulate Google Organic Search Metrics"
+      "id": "1sqj9e0000",
+      "link": "https://cyberpress.org/critical-splunk-enterprise-flaw/",
+      "filePath": "cyberpress/pages/2026/06/13/critical-splunk-enterprise-flaw-enables-unauthenticated-remote-code-execution.md",
+      "committedAt": "2026-06-13T05:00:33.882-05:00",
+      "title": "Critical Splunk Enterprise Flaw Enables Unauthenticated Remote Code Execution"
     }
   ]
 }
