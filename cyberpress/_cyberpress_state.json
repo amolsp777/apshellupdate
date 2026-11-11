@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T14:00:46.320-06:00",
-  "lastLink": "https://cyberpress.org/ghostframe-malwarevmware-esxi/",
-  "lastId": "lx7aol0000",
-  "lastFilePath": "cyberpress/pages/2026/11/11/new-ghostframe-malware-lets-hackers-hijack-vmware-esxi-virtual-machines-and-stea.md",
+  "updatedAt": "2026-11-11T15:00:50.625-06:00",
+  "lastLink": "https://cyberpress.org/mcp-changes-enable-attacks/",
+  "lastId": "1kdeyeg000",
+  "lastFilePath": "cyberpress/pages/2026/11/11/mcp-servers-silently-change-dependencies-without-user-approval-exposing-ai-agent.md",
   "items": [
     {
-      "id": "lx7aol0000",
-      "link": "https://cyberpress.org/ghostframe-malwarevmware-esxi/",
-      "filePath": "cyberpress/pages/2026/11/11/new-ghostframe-malware-lets-hackers-hijack-vmware-esxi-virtual-machines-and-stea.md",
-      "committedAt": "2026-11-11T14:00:46.320-06:00",
-      "title": "New GhostFrame Malware Lets Hackers Hijack VMware ESXi Virtual Machines and Steal Windows Credentials"
+      "id": "1kdeyeg000",
+      "link": "https://cyberpress.org/mcp-changes-enable-attacks/",
+      "filePath": "cyberpress/pages/2026/11/11/mcp-servers-silently-change-dependencies-without-user-approval-exposing-ai-agent.md",
+      "committedAt": "2026-11-11T15:00:50.625-06:00",
+      "title": "MCP Servers Silently Change Dependencies Without User Approval, Exposing AI Agents to Supply Chain Attacks"
     }
   ]
 }
