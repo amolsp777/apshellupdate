@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T16:01:01.109-06:00",
-  "lastLink": "https://cyberpress.org/ubuntu-26-10-security-protection-ssl-certificates/",
-  "lastId": "1cb3zsd000",
-  "lastFilePath": "cyberpress/pages/2026/11/11/ubuntu-2610-adds-new-security-protection-to-block-revoked-ssl-certificates-in-cu.md",
+  "updatedAt": "2026-11-11T17:01:02.143-06:00",
+  "lastLink": "https://cyberpress.org/windows-active-directory-security-flaws/",
+  "lastId": "1wq7i3q000",
+  "lastFilePath": "cyberpress/pages/2026/11/11/windows-active-directory-security-flaws-allow-attackers-to-execute-code-and-cras.md",
   "items": [
     {
-      "id": "1cb3zsd000",
-      "link": "https://cyberpress.org/ubuntu-26-10-security-protection-ssl-certificates/",
-      "filePath": "cyberpress/pages/2026/11/11/ubuntu-2610-adds-new-security-protection-to-block-revoked-ssl-certificates-in-cu.md",
-      "committedAt": "2026-11-11T16:01:01.109-06:00",
-      "title": "Ubuntu 26.10 Adds New Security Protection to Block Revoked SSL Certificates in curl"
+      "id": "1wq7i3q000",
+      "link": "https://cyberpress.org/windows-active-directory-security-flaws/",
+      "filePath": "cyberpress/pages/2026/11/11/windows-active-directory-security-flaws-allow-attackers-to-execute-code-and-cras.md",
+      "committedAt": "2026-11-11T17:01:02.143-06:00",
+      "title": "Windows Active Directory Security Flaws Allow Attackers to Execute Code and Crash Services"
     }
   ]
 }
