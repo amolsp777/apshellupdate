@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T11:00:49.006-06:00",
-  "lastLink": "https://cyberpress.org/critical-xen-orchestra-authentication-bypass/",
-  "lastId": "1nwre40000",
-  "lastFilePath": "cyberpress/pages/2026/11/11/hackers-exploit-critical-xen-orchestra-authentication-bypass-to-take-over-virtua.md",
+  "updatedAt": "2026-11-11T11:40:02.361-06:00",
+  "lastLink": "https://cyberpress.org/hackers-exploit-microsoft-outlook-zero-day/",
+  "lastId": "vhdh9v0000",
+  "lastFilePath": "cyberpress/pages/2026/11/11/hackers-exploit-microsoft-outlook-zero-day-to-steal-ntlm-credentials-in-active-a.md",
   "items": [
     {
-      "id": "1nwre40000",
-      "link": "https://cyberpress.org/critical-xen-orchestra-authentication-bypass/",
-      "filePath": "cyberpress/pages/2026/11/11/hackers-exploit-critical-xen-orchestra-authentication-bypass-to-take-over-virtua.md",
-      "committedAt": "2026-11-11T11:00:49.006-06:00",
-      "title": "Hackers Exploit Critical Xen Orchestra Authentication Bypass to Take Over Virtualization Hosts"
+      "id": "vhdh9v0000",
+      "link": "https://cyberpress.org/hackers-exploit-microsoft-outlook-zero-day/",
+      "filePath": "cyberpress/pages/2026/11/11/hackers-exploit-microsoft-outlook-zero-day-to-steal-ntlm-credentials-in-active-a.md",
+      "committedAt": "2026-11-11T11:40:02.361-06:00",
+      "title": "Hackers Exploit Microsoft Outlook Zero-Day to Steal NTLM Credentials in Active Attacks"
     }
   ]
 }
