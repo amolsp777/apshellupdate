@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T15:00:50.625-06:00",
-  "lastLink": "https://cyberpress.org/mcp-changes-enable-attacks/",
-  "lastId": "1kdeyeg000",
-  "lastFilePath": "cyberpress/pages/2026/11/11/mcp-servers-silently-change-dependencies-without-user-approval-exposing-ai-agent.md",
+  "updatedAt": "2026-11-11T16:01:01.109-06:00",
+  "lastLink": "https://cyberpress.org/ubuntu-26-10-security-protection-ssl-certificates/",
+  "lastId": "1cb3zsd000",
+  "lastFilePath": "cyberpress/pages/2026/11/11/ubuntu-2610-adds-new-security-protection-to-block-revoked-ssl-certificates-in-cu.md",
   "items": [
     {
-      "id": "1kdeyeg000",
-      "link": "https://cyberpress.org/mcp-changes-enable-attacks/",
-      "filePath": "cyberpress/pages/2026/11/11/mcp-servers-silently-change-dependencies-without-user-approval-exposing-ai-agent.md",
-      "committedAt": "2026-11-11T15:00:50.625-06:00",
-      "title": "MCP Servers Silently Change Dependencies Without User Approval, Exposing AI Agents to Supply Chain Attacks"
+      "id": "1cb3zsd000",
+      "link": "https://cyberpress.org/ubuntu-26-10-security-protection-ssl-certificates/",
+      "filePath": "cyberpress/pages/2026/11/11/ubuntu-2610-adds-new-security-protection-to-block-revoked-ssl-certificates-in-cu.md",
+      "committedAt": "2026-11-11T16:01:01.109-06:00",
+      "title": "Ubuntu 26.10 Adds New Security Protection to Block Revoked SSL Certificates in curl"
     }
   ]
 }
