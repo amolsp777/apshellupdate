@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T15:01:11.234-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-  "lastId": "iojo4z0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/10/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments.md",
+  "updatedAt": "2026-11-11T16:01:16.857-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+  "lastId": "aocnwc0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/10/microsoft-november-2026-patch-tuesday-fixes-1235-flaws-outlook-zero-day.md",
   "items": [
     {
-      "id": "iojo4z0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-      "filePath": "bleepingcomp/pages/2026/11/10/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments.md",
-      "committedAt": "2026-11-11T15:01:11.234-05:00",
-      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments"
+      "id": "aocnwc0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+      "filePath": "bleepingcomp/pages/2026/11/10/microsoft-november-2026-patch-tuesday-fixes-1235-flaws-outlook-zero-day.md",
+      "committedAt": "2026-11-11T16:01:16.857-05:00",
+      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day"
     }
   ]
 }
