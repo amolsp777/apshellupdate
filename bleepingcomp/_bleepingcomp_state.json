@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T14:00:22.382-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-  "lastId": "1tsqola000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/10/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers.md",
+  "updatedAt": "2026-11-11T15:01:11.234-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+  "lastId": "iojo4z0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/10/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments.md",
   "items": [
     {
-      "id": "1tsqola000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "filePath": "bleepingcomp/pages/2026/11/10/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers.md",
-      "committedAt": "2026-11-11T14:00:22.382-05:00",
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers"
+      "id": "iojo4z0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+      "filePath": "bleepingcomp/pages/2026/11/10/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments.md",
+      "committedAt": "2026-11-11T15:01:11.234-05:00",
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments"
     }
   ]
 }
