@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T11:01:28.601-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
-  "lastId": "1ocib8f000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/13/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade.md",
+  "updatedAt": "2026-11-11T12:00:46.959-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+  "lastId": "1puilef000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/11/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million.md",
   "items": [
     {
-      "id": "1ocib8f000",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
-      "filePath": "bleepingcomp/pages/2026/06/13/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade.md",
-      "committedAt": "2026-06-13T11:01:28.601-04:00",
-      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade"
+      "id": "1puilef000",
+      "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "filePath": "bleepingcomp/pages/2026/11/11/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million.md",
+      "committedAt": "2026-11-11T12:00:46.959-05:00",
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million"
     }
   ]
 }
