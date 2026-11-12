@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T02:00:28.540-06:00",
-  "lastLink": "https://cyberpress.org/hackers-weaponize-ai-tools/",
-  "lastId": "pwtdsi0000",
-  "lastFilePath": "cyberpress/pages/2026/11/12/hackers-abuse-claude-code-and-other-ai-developer-tools-to-spread-malware-and-est.md",
+  "updatedAt": "2026-11-12T03:00:26.511-06:00",
+  "lastLink": "https://cyberpress.org/github-attack-exposes-secrets/",
+  "lastId": "1tsw1f2000",
+  "lastFilePath": "cyberpress/pages/2026/11/12/github-supply-chain-attack-exposes-developer-secrets-as-malicious-workflows-exec.md",
   "items": [
     {
-      "id": "pwtdsi0000",
-      "link": "https://cyberpress.org/hackers-weaponize-ai-tools/",
-      "filePath": "cyberpress/pages/2026/11/12/hackers-abuse-claude-code-and-other-ai-developer-tools-to-spread-malware-and-est.md",
-      "committedAt": "2026-11-12T02:00:28.540-06:00",
-      "title": "Hackers Abuse Claude Code and Other AI Developer Tools to Spread Malware and Establish Backdoors"
+      "id": "1tsw1f2000",
+      "link": "https://cyberpress.org/github-attack-exposes-secrets/",
+      "filePath": "cyberpress/pages/2026/11/12/github-supply-chain-attack-exposes-developer-secrets-as-malicious-workflows-exec.md",
+      "committedAt": "2026-11-12T03:00:26.511-06:00",
+      "title": "GitHub Supply Chain Attack Exposes Developer Secrets as Malicious Workflows Execute Across 1,806 Repositories"
     }
   ]
 }
