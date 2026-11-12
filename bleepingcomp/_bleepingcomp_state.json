@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T23:01:43.880-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-  "lastId": "12dpkg5000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/10/railway-breach-leads-to-740000-in-fraudulent-ai-charges.md",
+  "updatedAt": "2026-11-12T00:01:48.799-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+  "lastId": "1775b1t000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/10/microsoft-releases-windows-10-kb5131096-extended-security-update.md",
   "items": [
     {
-      "id": "12dpkg5000",
-      "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-      "filePath": "bleepingcomp/pages/2026/11/10/railway-breach-leads-to-740000-in-fraudulent-ai-charges.md",
-      "committedAt": "2026-11-11T23:01:43.880-05:00",
-      "title": "Railway breach leads to $740,000 in fraudulent AI charges"
+      "id": "1775b1t000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+      "filePath": "bleepingcomp/pages/2026/11/10/microsoft-releases-windows-10-kb5131096-extended-security-update.md",
+      "committedAt": "2026-11-12T00:01:48.799-05:00",
+      "title": "Microsoft releases Windows 10 KB5131096 extended security update"
     }
   ]
 }
