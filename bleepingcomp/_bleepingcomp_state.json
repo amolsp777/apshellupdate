@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T20:01:27.863-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-  "lastId": "8hhsvp0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/11/microsoft-fixes-audio-issues-caused-by-september-security-updates.md",
+  "updatedAt": "2026-11-11T21:01:33.143-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+  "lastId": "6wihsj0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/11/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks.md",
   "items": [
     {
-      "id": "8hhsvp0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-      "filePath": "bleepingcomp/pages/2026/11/11/microsoft-fixes-audio-issues-caused-by-september-security-updates.md",
-      "committedAt": "2026-11-11T20:01:27.863-05:00",
-      "title": "Microsoft fixes audio issues caused by September security updates"
+      "id": "6wihsj0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/11/11/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks.md",
+      "committedAt": "2026-11-11T21:01:33.143-05:00",
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks"
     }
   ]
 }
