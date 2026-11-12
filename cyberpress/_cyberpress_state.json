@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T00:00:29.993-06:00",
-  "lastLink": "https://cyberpress.org/node-js-fixes-16-security-flaws/",
-  "lastId": "xlc7ix0000",
-  "lastFilePath": "cyberpress/pages/2026/11/12/nodejs-fixes-16-security-flaws-allowing-hackers-to-crash-servers-and-leak-sensit.md",
+  "updatedAt": "2026-11-12T01:00:16.538-06:00",
+  "lastLink": "https://cyberpress.org/apache-http-server-2-4-71/",
+  "lastId": "13szqnt000",
+  "lastFilePath": "cyberpress/pages/2026/11/12/apache-http-server-2471-fixes-critical-http2-remote-code-execution-vulnerability.md",
   "items": [
     {
-      "id": "xlc7ix0000",
-      "link": "https://cyberpress.org/node-js-fixes-16-security-flaws/",
-      "filePath": "cyberpress/pages/2026/11/12/nodejs-fixes-16-security-flaws-allowing-hackers-to-crash-servers-and-leak-sensit.md",
-      "committedAt": "2026-11-12T00:00:29.993-06:00",
-      "title": "Node.js Fixes 16 Security Flaws Allowing Hackers to Crash Servers and Leak Sensitive Data"
+      "id": "13szqnt000",
+      "link": "https://cyberpress.org/apache-http-server-2-4-71/",
+      "filePath": "cyberpress/pages/2026/11/12/apache-http-server-2471-fixes-critical-http2-remote-code-execution-vulnerability.md",
+      "committedAt": "2026-11-12T01:00:16.538-06:00",
+      "title": "Apache HTTP Server 2.4.71 Fixes Critical HTTP/2 Remote Code Execution Vulnerability"
     }
   ]
 }
