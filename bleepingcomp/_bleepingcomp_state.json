@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T19:01:05.819-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-  "lastId": "xbkw4z0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/11/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider.md",
+  "updatedAt": "2026-11-11T20:01:27.863-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+  "lastId": "8hhsvp0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/11/microsoft-fixes-audio-issues-caused-by-september-security-updates.md",
   "items": [
     {
-      "id": "xbkw4z0000",
-      "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-      "filePath": "bleepingcomp/pages/2026/11/11/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider.md",
-      "committedAt": "2026-11-11T19:01:05.819-05:00",
-      "title": "Baker Tilly notifies clients of data breach at third-party provider"
+      "id": "8hhsvp0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+      "filePath": "bleepingcomp/pages/2026/11/11/microsoft-fixes-audio-issues-caused-by-september-security-updates.md",
+      "committedAt": "2026-11-11T20:01:27.863-05:00",
+      "title": "Microsoft fixes audio issues caused by September security updates"
     }
   ]
 }
