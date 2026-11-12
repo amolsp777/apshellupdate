@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T06:00:21.819-06:00",
-  "lastLink": "https://cyberpress.org/critical-cisco-expressway-flaw-poc-released/",
-  "lastId": "gmkovh0000",
-  "lastFilePath": "cyberpress/pages/2026/11/12/critical-cisco-expressway-flaw-allows-hackers-to-execute-root-commands-public-po.md",
+  "updatedAt": "2026-11-12T07:00:21.193-06:00",
+  "lastLink": "https://cyberpress.org/critical-mongodb-flaw/",
+  "lastId": "9wawqr0000",
+  "lastFilePath": "cyberpress/pages/2026/11/12/critical-mongodb-flaw-allows-unauthenticated-attackers-to-crash-database-servers.md",
   "items": [
     {
-      "id": "gmkovh0000",
-      "link": "https://cyberpress.org/critical-cisco-expressway-flaw-poc-released/",
-      "filePath": "cyberpress/pages/2026/11/12/critical-cisco-expressway-flaw-allows-hackers-to-execute-root-commands-public-po.md",
-      "committedAt": "2026-11-12T06:00:21.819-06:00",
-      "title": "Critical Cisco Expressway Flaw Allows Hackers to Execute Root Commands, Public PoC Released"
+      "id": "9wawqr0000",
+      "link": "https://cyberpress.org/critical-mongodb-flaw/",
+      "filePath": "cyberpress/pages/2026/11/12/critical-mongodb-flaw-allows-unauthenticated-attackers-to-crash-database-servers.md",
+      "committedAt": "2026-11-12T07:00:21.193-06:00",
+      "title": "Critical MongoDB Flaw Allows Unauthenticated Attackers to Crash Database Servers, Trigger RCE"
     }
   ]
 }
