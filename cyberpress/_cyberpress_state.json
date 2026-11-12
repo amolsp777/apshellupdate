@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T11:00:49.217-06:00",
-  "lastLink": "https://cyberpress.org/cruciferra-encrypts-malicious-payloads/",
-  "lastId": "d60c4f0000",
-  "lastFilePath": "cyberpress/pages/2026/11/12/eset-warns-cruciferra-malware-as-a-service-uses-over-90-encryption-routines-to-h.md",
+  "updatedAt": "2026-11-12T12:00:55.162-06:00",
+  "lastLink": "https://cyberpress.org/antifox-enables-aws-breaches/",
+  "lastId": "zee3j00000",
+  "lastFilePath": "cyberpress/pages/2026/11/12/hackers-use-antifox-ai-hacking-tool-to-compromise-aws-cloud-environments-and-ste.md",
   "items": [
     {
-      "id": "d60c4f0000",
-      "link": "https://cyberpress.org/cruciferra-encrypts-malicious-payloads/",
-      "filePath": "cyberpress/pages/2026/11/12/eset-warns-cruciferra-malware-as-a-service-uses-over-90-encryption-routines-to-h.md",
-      "committedAt": "2026-11-12T11:00:49.217-06:00",
-      "title": "ESET Warns Cruciferra Malware-as-a-Service Uses Over 90 Encryption Routines to Hide Malicious Payloads"
+      "id": "zee3j00000",
+      "link": "https://cyberpress.org/antifox-enables-aws-breaches/",
+      "filePath": "cyberpress/pages/2026/11/12/hackers-use-antifox-ai-hacking-tool-to-compromise-aws-cloud-environments-and-ste.md",
+      "committedAt": "2026-11-12T12:00:55.162-06:00",
+      "title": "Hackers Use AntiFox AI Hacking Tool to Compromise AWS Cloud Environments and Steal Sensitive Data"
     }
   ]
 }
