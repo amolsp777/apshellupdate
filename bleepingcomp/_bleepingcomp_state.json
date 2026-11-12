@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T21:01:33.143-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-  "lastId": "6wihsj0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/11/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks.md",
+  "updatedAt": "2026-11-11T22:01:38.501-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+  "lastId": "s9k36b0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/11/microsoft-fixes-exchange-sign-ins-broken-by-windows-server-updates.md",
   "items": [
     {
-      "id": "6wihsj0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/11/11/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks.md",
-      "committedAt": "2026-11-11T21:01:33.143-05:00",
-      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks"
+      "id": "s9k36b0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+      "filePath": "bleepingcomp/pages/2026/11/11/microsoft-fixes-exchange-sign-ins-broken-by-windows-server-updates.md",
+      "committedAt": "2026-11-11T22:01:38.501-05:00",
+      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates"
     }
   ]
 }
