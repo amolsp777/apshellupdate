@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T07:00:21.193-06:00",
-  "lastLink": "https://cyberpress.org/critical-mongodb-flaw/",
-  "lastId": "9wawqr0000",
-  "lastFilePath": "cyberpress/pages/2026/11/12/critical-mongodb-flaw-allows-unauthenticated-attackers-to-crash-database-servers.md",
+  "updatedAt": "2026-11-12T08:00:34.549-06:00",
+  "lastLink": "https://cyberpress.org/palo-alto-networks-patches-panorama-rce-flaw/",
+  "lastId": "1f5uxgd000",
+  "lastFilePath": "cyberpress/pages/2026/11/12/palo-alto-networks-patches-panorama-rce-flaw-allowing-administrators-to-gain-roo.md",
   "items": [
     {
-      "id": "9wawqr0000",
-      "link": "https://cyberpress.org/critical-mongodb-flaw/",
-      "filePath": "cyberpress/pages/2026/11/12/critical-mongodb-flaw-allows-unauthenticated-attackers-to-crash-database-servers.md",
-      "committedAt": "2026-11-12T07:00:21.193-06:00",
-      "title": "Critical MongoDB Flaw Allows Unauthenticated Attackers to Crash Database Servers, Trigger RCE"
+      "id": "1f5uxgd000",
+      "link": "https://cyberpress.org/palo-alto-networks-patches-panorama-rce-flaw/",
+      "filePath": "cyberpress/pages/2026/11/12/palo-alto-networks-patches-panorama-rce-flaw-allowing-administrators-to-gain-roo.md",
+      "committedAt": "2026-11-12T08:00:34.549-06:00",
+      "title": "Palo Alto Networks Patches Panorama RCE Flaw Allowing Administrators to Gain Root Access"
     }
   ]
 }
