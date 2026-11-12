@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T01:01:54.731-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-  "lastId": "6ieyhf0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/11/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap.md",
+  "updatedAt": "2026-11-12T05:01:50.241-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+  "lastId": "1ldigke000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/12/hackers-plant-gsocket-on-linux-servers-for-persistent-access.md",
   "items": [
     {
-      "id": "6ieyhf0000",
-      "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-      "filePath": "bleepingcomp/pages/2026/11/11/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap.md",
-      "committedAt": "2026-11-12T01:01:54.731-05:00",
-      "title": "eMudhra revokes 8 more CA certificates after private key mishap"
+      "id": "1ldigke000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+      "filePath": "bleepingcomp/pages/2026/11/12/hackers-plant-gsocket-on-linux-servers-for-persistent-access.md",
+      "committedAt": "2026-11-12T05:01:50.241-05:00",
+      "title": "Hackers plant GSocket on Linux servers for persistent access"
     }
   ]
 }
