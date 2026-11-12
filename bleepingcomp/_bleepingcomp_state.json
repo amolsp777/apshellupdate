@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T00:01:48.799-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
-  "lastId": "1775b1t000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/10/microsoft-releases-windows-10-kb5131096-extended-security-update.md",
+  "updatedAt": "2026-11-12T01:01:54.731-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+  "lastId": "6ieyhf0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/11/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap.md",
   "items": [
     {
-      "id": "1775b1t000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
-      "filePath": "bleepingcomp/pages/2026/11/10/microsoft-releases-windows-10-kb5131096-extended-security-update.md",
-      "committedAt": "2026-11-12T00:01:48.799-05:00",
-      "title": "Microsoft releases Windows 10 KB5131096 extended security update"
+      "id": "6ieyhf0000",
+      "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "filePath": "bleepingcomp/pages/2026/11/11/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap.md",
+      "committedAt": "2026-11-12T01:01:54.731-05:00",
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap"
     }
   ]
 }
