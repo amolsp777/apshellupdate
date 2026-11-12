@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T12:01:11.594-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-  "lastId": "18aeksz000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/12/new-windows-signdrop-zero-day-gives-hackers-system-privileges.md",
+  "updatedAt": "2026-11-12T13:01:49.295-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+  "lastId": "qqvxir0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/12/your-endpoint-management-platform-could-be-your-biggest-security-risk.md",
   "items": [
     {
-      "id": "18aeksz000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-      "filePath": "bleepingcomp/pages/2026/11/12/new-windows-signdrop-zero-day-gives-hackers-system-privileges.md",
-      "committedAt": "2026-11-12T12:01:11.594-05:00",
-      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges"
+      "id": "qqvxir0000",
+      "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+      "filePath": "bleepingcomp/pages/2026/11/12/your-endpoint-management-platform-could-be-your-biggest-security-risk.md",
+      "committedAt": "2026-11-12T13:01:49.295-05:00",
+      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk"
     }
   ]
 }
