@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T11:01:17.285-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-  "lastId": "1m0i67h000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/12/police-dismantle-gootloader-castlerat-stealc-malware-infrastructure.md",
+  "updatedAt": "2026-11-12T12:01:11.594-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+  "lastId": "18aeksz000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/12/new-windows-signdrop-zero-day-gives-hackers-system-privileges.md",
   "items": [
     {
-      "id": "1m0i67h000",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-      "filePath": "bleepingcomp/pages/2026/11/12/police-dismantle-gootloader-castlerat-stealc-malware-infrastructure.md",
-      "committedAt": "2026-11-12T11:01:17.285-05:00",
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure"
+      "id": "18aeksz000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "filePath": "bleepingcomp/pages/2026/11/12/new-windows-signdrop-zero-day-gives-hackers-system-privileges.md",
+      "committedAt": "2026-11-12T12:01:11.594-05:00",
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges"
     }
   ]
 }
