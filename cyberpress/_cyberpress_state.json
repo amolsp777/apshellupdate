@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T04:00:40.532-06:00",
-  "lastLink": "https://cyberpress.org/shipping-giant-maersk-confirms-cyberattack/",
-  "lastId": "13897vh000",
-  "lastFilePath": "cyberpress/pages/2026/11/12/shipping-giant-maersk-confirms-cyberattack-and-data-theft-as-ransomware-gang-dem.md",
+  "updatedAt": "2026-11-12T05:00:16.673-06:00",
+  "lastLink": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+  "lastId": "15c3vfh000",
+  "lastFilePath": "cyberpress/pages/2026/11/12/google-chrome-patches-83-security-flaws-including-five-critical-memory-corruptio.md",
   "items": [
     {
-      "id": "13897vh000",
-      "link": "https://cyberpress.org/shipping-giant-maersk-confirms-cyberattack/",
-      "filePath": "cyberpress/pages/2026/11/12/shipping-giant-maersk-confirms-cyberattack-and-data-theft-as-ransomware-gang-dem.md",
-      "committedAt": "2026-11-12T04:00:40.532-06:00",
-      "title": "Shipping Giant Maersk Confirms Cyberattack and Data Theft as Ransomware Gang Demands $5 Million"
+      "id": "15c3vfh000",
+      "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+      "filePath": "cyberpress/pages/2026/11/12/google-chrome-patches-83-security-flaws-including-five-critical-memory-corruptio.md",
+      "committedAt": "2026-11-12T05:00:16.673-06:00",
+      "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities"
     }
   ]
 }
