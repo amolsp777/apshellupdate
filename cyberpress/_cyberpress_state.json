@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T23:00:33.866-06:00",
-  "lastLink": "https://cyberpress.org/new-windows-signdrop-zero-day-flaw/",
-  "lastId": "13gkpnc000",
-  "lastFilePath": "cyberpress/pages/2026/11/12/new-windows-signdrop-zero-day-flaw-lets-attackers-gain-system-privileges-and-dis.md",
+  "updatedAt": "2026-11-12T00:00:29.993-06:00",
+  "lastLink": "https://cyberpress.org/node-js-fixes-16-security-flaws/",
+  "lastId": "xlc7ix0000",
+  "lastFilePath": "cyberpress/pages/2026/11/12/nodejs-fixes-16-security-flaws-allowing-hackers-to-crash-servers-and-leak-sensit.md",
   "items": [
     {
-      "id": "13gkpnc000",
-      "link": "https://cyberpress.org/new-windows-signdrop-zero-day-flaw/",
-      "filePath": "cyberpress/pages/2026/11/12/new-windows-signdrop-zero-day-flaw-lets-attackers-gain-system-privileges-and-dis.md",
-      "committedAt": "2026-11-11T23:00:33.866-06:00",
-      "title": "New Windows SignDrop Zero-Day Flaw Lets Attackers Gain SYSTEM Privileges and Disable Antivirus"
+      "id": "xlc7ix0000",
+      "link": "https://cyberpress.org/node-js-fixes-16-security-flaws/",
+      "filePath": "cyberpress/pages/2026/11/12/nodejs-fixes-16-security-flaws-allowing-hackers-to-crash-servers-and-leak-sensit.md",
+      "committedAt": "2026-11-12T00:00:29.993-06:00",
+      "title": "Node.js Fixes 16 Security Flaws Allowing Hackers to Crash Servers and Leak Sensitive Data"
     }
   ]
 }
