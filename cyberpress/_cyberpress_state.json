@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T03:00:26.511-06:00",
-  "lastLink": "https://cyberpress.org/github-attack-exposes-secrets/",
-  "lastId": "1tsw1f2000",
-  "lastFilePath": "cyberpress/pages/2026/11/12/github-supply-chain-attack-exposes-developer-secrets-as-malicious-workflows-exec.md",
+  "updatedAt": "2026-11-12T04:00:40.532-06:00",
+  "lastLink": "https://cyberpress.org/shipping-giant-maersk-confirms-cyberattack/",
+  "lastId": "13897vh000",
+  "lastFilePath": "cyberpress/pages/2026/11/12/shipping-giant-maersk-confirms-cyberattack-and-data-theft-as-ransomware-gang-dem.md",
   "items": [
     {
-      "id": "1tsw1f2000",
-      "link": "https://cyberpress.org/github-attack-exposes-secrets/",
-      "filePath": "cyberpress/pages/2026/11/12/github-supply-chain-attack-exposes-developer-secrets-as-malicious-workflows-exec.md",
-      "committedAt": "2026-11-12T03:00:26.511-06:00",
-      "title": "GitHub Supply Chain Attack Exposes Developer Secrets as Malicious Workflows Execute Across 1,806 Repositories"
+      "id": "13897vh000",
+      "link": "https://cyberpress.org/shipping-giant-maersk-confirms-cyberattack/",
+      "filePath": "cyberpress/pages/2026/11/12/shipping-giant-maersk-confirms-cyberattack-and-data-theft-as-ransomware-gang-dem.md",
+      "committedAt": "2026-11-12T04:00:40.532-06:00",
+      "title": "Shipping Giant Maersk Confirms Cyberattack and Data Theft as Ransomware Gang Demands $5 Million"
     }
   ]
 }
