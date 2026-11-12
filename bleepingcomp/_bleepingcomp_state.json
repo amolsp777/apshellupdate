@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T13:01:49.295-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-  "lastId": "qqvxir0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/12/your-endpoint-management-platform-could-be-your-biggest-security-risk.md",
+  "updatedAt": "2026-11-12T15:00:54.982-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+  "lastId": "yhopku0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/12/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released.md",
   "items": [
     {
-      "id": "qqvxir0000",
-      "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-      "filePath": "bleepingcomp/pages/2026/11/12/your-endpoint-management-platform-could-be-your-biggest-security-risk.md",
-      "committedAt": "2026-11-12T13:01:49.295-05:00",
-      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk"
+      "id": "yhopku0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "filePath": "bleepingcomp/pages/2026/11/12/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released.md",
+      "committedAt": "2026-11-12T15:00:54.982-05:00",
+      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released"
     }
   ]
 }
