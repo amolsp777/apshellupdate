@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T15:00:54.982-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-  "lastId": "yhopku0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/12/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released.md",
+  "updatedAt": "2026-11-12T16:01:00.553-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+  "lastId": "cahdch0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/12/apache-http-server-patches-critical-http2-remote-code-execution-flaw.md",
   "items": [
     {
-      "id": "yhopku0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "filePath": "bleepingcomp/pages/2026/11/12/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released.md",
-      "committedAt": "2026-11-12T15:00:54.982-05:00",
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released"
+      "id": "cahdch0000",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "filePath": "bleepingcomp/pages/2026/11/12/apache-http-server-patches-critical-http2-remote-code-execution-flaw.md",
+      "committedAt": "2026-11-12T16:01:00.553-05:00",
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw"
     }
   ]
 }
