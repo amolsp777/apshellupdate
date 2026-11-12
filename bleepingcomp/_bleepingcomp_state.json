@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T08:01:11.755-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
-  "lastId": "lmxv8m0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/12/microsoft-recent-windows-updates-cause-sql-server-performance-issues.md",
+  "updatedAt": "2026-11-12T10:01:11.573-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+  "lastId": "7rn8200000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/12/apify-rotates-api-tokens-prompts-2fa-resets-after-breach.md",
   "items": [
     {
-      "id": "lmxv8m0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
-      "filePath": "bleepingcomp/pages/2026/11/12/microsoft-recent-windows-updates-cause-sql-server-performance-issues.md",
-      "committedAt": "2026-11-12T08:01:11.755-05:00",
-      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues"
+      "id": "7rn8200000",
+      "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+      "filePath": "bleepingcomp/pages/2026/11/12/apify-rotates-api-tokens-prompts-2fa-resets-after-breach.md",
+      "committedAt": "2026-11-12T10:01:11.573-05:00",
+      "title": "Apify rotates API tokens, prompts 2FA resets after breach"
     }
   ]
 }
