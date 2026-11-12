@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T22:01:38.501-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
-  "lastId": "s9k36b0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/11/microsoft-fixes-exchange-sign-ins-broken-by-windows-server-updates.md",
+  "updatedAt": "2026-11-11T23:01:43.880-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+  "lastId": "12dpkg5000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/10/railway-breach-leads-to-740000-in-fraudulent-ai-charges.md",
   "items": [
     {
-      "id": "s9k36b0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
-      "filePath": "bleepingcomp/pages/2026/11/11/microsoft-fixes-exchange-sign-ins-broken-by-windows-server-updates.md",
-      "committedAt": "2026-11-11T22:01:38.501-05:00",
-      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates"
+      "id": "12dpkg5000",
+      "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "filePath": "bleepingcomp/pages/2026/11/10/railway-breach-leads-to-740000-in-fraudulent-ai-charges.md",
+      "committedAt": "2026-11-11T23:01:43.880-05:00",
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges"
     }
   ]
 }
