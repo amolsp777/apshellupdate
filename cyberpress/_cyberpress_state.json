@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T18:01:09.328-06:00",
-  "lastLink": "https://cyberpress.org/artex-ai-hacking-exposed/",
-  "lastId": "zx8r1a0000",
-  "lastFilePath": "cyberpress/pages/2026/11/11/over-1400-artex-ai-hacking-services-found-exposed-on-the-internet-researchers-wa.md",
+  "updatedAt": "2026-11-11T23:00:33.866-06:00",
+  "lastLink": "https://cyberpress.org/new-windows-signdrop-zero-day-flaw/",
+  "lastId": "13gkpnc000",
+  "lastFilePath": "cyberpress/pages/2026/11/12/new-windows-signdrop-zero-day-flaw-lets-attackers-gain-system-privileges-and-dis.md",
   "items": [
     {
-      "id": "zx8r1a0000",
-      "link": "https://cyberpress.org/artex-ai-hacking-exposed/",
-      "filePath": "cyberpress/pages/2026/11/11/over-1400-artex-ai-hacking-services-found-exposed-on-the-internet-researchers-wa.md",
-      "committedAt": "2026-11-11T18:01:09.328-06:00",
-      "title": "Over 1,400 ARTEX AI Hacking Services Found Exposed on the Internet, Researchers Warn"
+      "id": "13gkpnc000",
+      "link": "https://cyberpress.org/new-windows-signdrop-zero-day-flaw/",
+      "filePath": "cyberpress/pages/2026/11/12/new-windows-signdrop-zero-day-flaw-lets-attackers-gain-system-privileges-and-dis.md",
+      "committedAt": "2026-11-11T23:00:33.866-06:00",
+      "title": "New Windows SignDrop Zero-Day Flaw Lets Attackers Gain SYSTEM Privileges and Disable Antivirus"
     }
   ]
 }
