@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T12:00:55.162-06:00",
-  "lastLink": "https://cyberpress.org/antifox-enables-aws-breaches/",
-  "lastId": "zee3j00000",
-  "lastFilePath": "cyberpress/pages/2026/11/12/hackers-use-antifox-ai-hacking-tool-to-compromise-aws-cloud-environments-and-ste.md",
+  "updatedAt": "2026-11-12T13:01:04.505-06:00",
+  "lastLink": "https://cyberpress.org/fatf-warns-two-minute-laundering/",
+  "lastId": "131s8a8000",
+  "lastFilePath": "cyberpress/pages/2026/11/12/fatf-warns-cybercriminals-can-move-stolen-money-in-just-two-minutes-through-inst.md",
   "items": [
     {
-      "id": "zee3j00000",
-      "link": "https://cyberpress.org/antifox-enables-aws-breaches/",
-      "filePath": "cyberpress/pages/2026/11/12/hackers-use-antifox-ai-hacking-tool-to-compromise-aws-cloud-environments-and-ste.md",
-      "committedAt": "2026-11-12T12:00:55.162-06:00",
-      "title": "Hackers Use AntiFox AI Hacking Tool to Compromise AWS Cloud Environments and Steal Sensitive Data"
+      "id": "131s8a8000",
+      "link": "https://cyberpress.org/fatf-warns-two-minute-laundering/",
+      "filePath": "cyberpress/pages/2026/11/12/fatf-warns-cybercriminals-can-move-stolen-money-in-just-two-minutes-through-inst.md",
+      "committedAt": "2026-11-12T13:01:04.505-06:00",
+      "title": "FATF Warns Cybercriminals Can Move Stolen Money in Just Two Minutes Through Instant Payment Systems"
     }
   ]
 }
