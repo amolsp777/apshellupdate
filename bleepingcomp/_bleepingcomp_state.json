@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T06:01:11.399-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
-  "lastId": "ulu7xq0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/12/microsoft-confirms-windows-security-updates-installation-issues.md",
+  "updatedAt": "2026-11-12T08:01:11.755-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+  "lastId": "lmxv8m0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/12/microsoft-recent-windows-updates-cause-sql-server-performance-issues.md",
   "items": [
     {
-      "id": "ulu7xq0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
-      "filePath": "bleepingcomp/pages/2026/11/12/microsoft-confirms-windows-security-updates-installation-issues.md",
-      "committedAt": "2026-11-12T06:01:11.399-05:00",
-      "title": "Microsoft confirms Windows security updates installation issues"
+      "id": "lmxv8m0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+      "filePath": "bleepingcomp/pages/2026/11/12/microsoft-recent-windows-updates-cause-sql-server-performance-issues.md",
+      "committedAt": "2026-11-12T08:01:11.755-05:00",
+      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues"
     }
   ]
 }
