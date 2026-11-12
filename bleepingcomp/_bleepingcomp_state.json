@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T16:01:00.553-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-  "lastId": "cahdch0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/12/apache-http-server-patches-critical-http2-remote-code-execution-flaw.md",
+  "updatedAt": "2026-11-12T17:01:59.974-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+  "lastId": "1mwifcs000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/12/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide.md",
   "items": [
     {
-      "id": "cahdch0000",
-      "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-      "filePath": "bleepingcomp/pages/2026/11/12/apache-http-server-patches-critical-http2-remote-code-execution-flaw.md",
-      "committedAt": "2026-11-12T16:01:00.553-05:00",
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw"
+      "id": "1mwifcs000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+      "filePath": "bleepingcomp/pages/2026/11/12/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide.md",
+      "committedAt": "2026-11-12T17:01:59.974-05:00",
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide"
     }
   ]
 }
