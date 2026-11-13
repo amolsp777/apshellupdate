@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T05:01:11.153-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-  "lastId": "m5kmdt0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/13/microsoft-confirms-windows-activation-failures-after-november-updates.md",
+  "updatedAt": "2026-11-13T06:01:06.177-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+  "lastId": "fme63e0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/13/check-point-warns-of-zero-day-flaw-exploited-for-root-access.md",
   "items": [
     {
-      "id": "m5kmdt0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-      "filePath": "bleepingcomp/pages/2026/11/13/microsoft-confirms-windows-activation-failures-after-november-updates.md",
-      "committedAt": "2026-11-13T05:01:11.153-05:00",
-      "title": "Microsoft confirms Windows activation failures after November updates"
+      "id": "fme63e0000",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+      "filePath": "bleepingcomp/pages/2026/11/13/check-point-warns-of-zero-day-flaw-exploited-for-root-access.md",
+      "committedAt": "2026-11-13T06:01:06.177-05:00",
+      "title": "Check Point warns of zero-day flaw exploited for root access"
     }
   ]
 }
