@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T00:00:43.579-06:00",
-  "lastLink": "https://cyberpress.org/europol-dismantles-three-major-malware-networks/",
-  "lastId": "4e4g0u0000",
-  "lastFilePath": "cyberpress/pages/2026/11/13/europol-dismantles-three-major-malware-networks-seizes-235-servers-and-64-millio.md",
+  "updatedAt": "2026-11-13T01:00:20.817-06:00",
+  "lastLink": "https://cyberpress.org/tsmc-confirms-employee-data-breach/",
+  "lastId": "pv00100000",
+  "lastFilePath": "cyberpress/pages/2026/11/13/tsmc-confirms-employee-data-breach-after-personal-information-leaked-on-external.md",
   "items": [
     {
-      "id": "4e4g0u0000",
-      "link": "https://cyberpress.org/europol-dismantles-three-major-malware-networks/",
-      "filePath": "cyberpress/pages/2026/11/13/europol-dismantles-three-major-malware-networks-seizes-235-servers-and-64-millio.md",
-      "committedAt": "2026-11-13T00:00:43.579-06:00",
-      "title": "Europol Dismantles Three Major Malware Networks, Seizes 235 Servers and 6.4 Million Stolen Records"
+      "id": "pv00100000",
+      "link": "https://cyberpress.org/tsmc-confirms-employee-data-breach/",
+      "filePath": "cyberpress/pages/2026/11/13/tsmc-confirms-employee-data-breach-after-personal-information-leaked-on-external.md",
+      "committedAt": "2026-11-13T01:00:20.817-06:00",
+      "title": "TSMC Confirms Employee Data Breach After Personal Information Leaked on External Website"
     }
   ]
 }
