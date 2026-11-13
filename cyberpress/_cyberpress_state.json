@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T07:00:37.119-06:00",
-  "lastLink": "https://cyberpress.org/hackers-hijack-sql-servers/",
-  "lastId": "17lamu5000",
-  "lastFilePath": "cyberpress/pages/2026/11/13/microsoft-sql-servers-under-attack-as-hackers-deploy-gh0st-rat-and-monero-mining.md",
+  "updatedAt": "2026-11-13T08:00:50.795-06:00",
+  "lastLink": "https://cyberpress.org/xloader-phishing-targets-employees/",
+  "lastId": "kfhgrt0000",
+  "lastFilePath": "cyberpress/pages/2026/11/13/new-xloader-phishing-campaign-tricks-employees-into-opening-malicious-microsoft-.md",
   "items": [
     {
-      "id": "17lamu5000",
-      "link": "https://cyberpress.org/hackers-hijack-sql-servers/",
-      "filePath": "cyberpress/pages/2026/11/13/microsoft-sql-servers-under-attack-as-hackers-deploy-gh0st-rat-and-monero-mining.md",
-      "committedAt": "2026-11-13T07:00:37.119-06:00",
-      "title": "Microsoft SQL Servers Under Attack as Hackers Deploy Gh0st RAT and Monero Mining Malware"
+      "id": "kfhgrt0000",
+      "link": "https://cyberpress.org/xloader-phishing-targets-employees/",
+      "filePath": "cyberpress/pages/2026/11/13/new-xloader-phishing-campaign-tricks-employees-into-opening-malicious-microsoft-.md",
+      "committedAt": "2026-11-13T08:00:50.795-06:00",
+      "title": "New XLoader Phishing Campaign Tricks Employees Into Opening Malicious Microsoft Word Documents"
     }
   ]
 }
