@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T08:01:11.324-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-  "lastId": "skg1sh0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/13/microsoft-says-november-security-updates-cause-printing-issues.md",
+  "updatedAt": "2026-11-13T11:01:11.239-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+  "lastId": "1lqznbn000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/13/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps.md",
   "items": [
     {
-      "id": "skg1sh0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-      "filePath": "bleepingcomp/pages/2026/11/13/microsoft-says-november-security-updates-cause-printing-issues.md",
-      "committedAt": "2026-11-13T08:01:11.324-05:00",
-      "title": "Microsoft says November security updates cause printing issues"
+      "id": "1lqznbn000",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+      "filePath": "bleepingcomp/pages/2026/11/13/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps.md",
+      "committedAt": "2026-11-13T11:01:11.239-05:00",
+      "title": "How one AI agent exposed five critical enterprise security gaps"
     }
   ]
 }
