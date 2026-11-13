@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T23:00:59.289-06:00",
-  "lastLink": "https://cyberpress.org/microsoft-365-outage/",
-  "lastId": "k81u540000",
-  "lastFilePath": "cyberpress/pages/2026/11/13/microsoft-365-outage-disrupts-outlook-teams-copilot-and-defender-xdr-worldwide.md",
+  "updatedAt": "2026-11-13T00:00:43.579-06:00",
+  "lastLink": "https://cyberpress.org/europol-dismantles-three-major-malware-networks/",
+  "lastId": "4e4g0u0000",
+  "lastFilePath": "cyberpress/pages/2026/11/13/europol-dismantles-three-major-malware-networks-seizes-235-servers-and-64-millio.md",
   "items": [
     {
-      "id": "k81u540000",
-      "link": "https://cyberpress.org/microsoft-365-outage/",
-      "filePath": "cyberpress/pages/2026/11/13/microsoft-365-outage-disrupts-outlook-teams-copilot-and-defender-xdr-worldwide.md",
-      "committedAt": "2026-11-12T23:00:59.289-06:00",
-      "title": "Microsoft 365 Outage Disrupts Outlook, Teams, Copilot and Defender XDR Worldwide"
+      "id": "4e4g0u0000",
+      "link": "https://cyberpress.org/europol-dismantles-three-major-malware-networks/",
+      "filePath": "cyberpress/pages/2026/11/13/europol-dismantles-three-major-malware-networks-seizes-235-servers-and-64-millio.md",
+      "committedAt": "2026-11-13T00:00:43.579-06:00",
+      "title": "Europol Dismantles Three Major Malware Networks, Seizes 235 Servers and 6.4 Million Stolen Records"
     }
   ]
 }
