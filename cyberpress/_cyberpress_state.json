@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T11:01:02.088-06:00",
-  "lastLink": "https://cyberpress.org/sansar-rootkit-hides-cryptomining/",
-  "lastId": "1lr7k9t000",
-  "lastFilePath": "cyberpress/pages/2026/11/13/hackers-deploy-sansar-rootkit-to-hide-cryptocurrency-mining-on-linux-ai-servers.md",
+  "updatedAt": "2026-11-13T12:01:07.661-06:00",
+  "lastLink": "https://cyberpress.org/ai-agents-enable-cyberespionage/",
+  "lastId": "hqbda70000",
+  "lastFilePath": "cyberpress/pages/2026/11/13/hackers-use-autonomous-ai-agents-to-access-over-1-million-records-in-cyberespion.md",
   "items": [
     {
-      "id": "1lr7k9t000",
-      "link": "https://cyberpress.org/sansar-rootkit-hides-cryptomining/",
-      "filePath": "cyberpress/pages/2026/11/13/hackers-deploy-sansar-rootkit-to-hide-cryptocurrency-mining-on-linux-ai-servers.md",
-      "committedAt": "2026-11-13T11:01:02.088-06:00",
-      "title": "Hackers Deploy SANSAR Rootkit to Hide Cryptocurrency Mining on Linux AI Servers"
+      "id": "hqbda70000",
+      "link": "https://cyberpress.org/ai-agents-enable-cyberespionage/",
+      "filePath": "cyberpress/pages/2026/11/13/hackers-use-autonomous-ai-agents-to-access-over-1-million-records-in-cyberespion.md",
+      "committedAt": "2026-11-13T12:01:07.661-06:00",
+      "title": "Hackers Use Autonomous AI Agents to Access Over 1 Million Records in Cyberespionage Campaign"
     }
   ]
 }
