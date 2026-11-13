@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T11:01:11.239-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-  "lastId": "1lqznbn000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/13/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps.md",
+  "updatedAt": "2026-11-13T12:01:55.987-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+  "lastId": "10cqabi000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/13/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper.md",
   "items": [
     {
-      "id": "1lqznbn000",
-      "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-      "filePath": "bleepingcomp/pages/2026/11/13/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps.md",
-      "committedAt": "2026-11-13T11:01:11.239-05:00",
-      "title": "How one AI agent exposed five critical enterprise security gaps"
+      "id": "10cqabi000",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+      "filePath": "bleepingcomp/pages/2026/11/13/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper.md",
+      "committedAt": "2026-11-13T12:01:55.987-05:00",
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper"
     }
   ]
 }
