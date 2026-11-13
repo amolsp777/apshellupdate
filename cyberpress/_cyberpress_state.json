@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T06:00:33.502-06:00",
-  "lastLink": "https://cyberpress.org/six-danfoss-zero-day-flaws/",
-  "lastId": "6cz2ez0000",
-  "lastFilePath": "cyberpress/pages/2026/11/13/six-danfoss-zero-day-flaws-allow-hackers-to-hijack-refrigeration-controllers-wit.md",
+  "updatedAt": "2026-11-13T07:00:37.119-06:00",
+  "lastLink": "https://cyberpress.org/hackers-hijack-sql-servers/",
+  "lastId": "17lamu5000",
+  "lastFilePath": "cyberpress/pages/2026/11/13/microsoft-sql-servers-under-attack-as-hackers-deploy-gh0st-rat-and-monero-mining.md",
   "items": [
     {
-      "id": "6cz2ez0000",
-      "link": "https://cyberpress.org/six-danfoss-zero-day-flaws/",
-      "filePath": "cyberpress/pages/2026/11/13/six-danfoss-zero-day-flaws-allow-hackers-to-hijack-refrigeration-controllers-wit.md",
-      "committedAt": "2026-11-13T06:00:33.502-06:00",
-      "title": "Six Danfoss Zero-Day Flaws Allow Hackers to Hijack Refrigeration Controllers Without Login"
+      "id": "17lamu5000",
+      "link": "https://cyberpress.org/hackers-hijack-sql-servers/",
+      "filePath": "cyberpress/pages/2026/11/13/microsoft-sql-servers-under-attack-as-hackers-deploy-gh0st-rat-and-monero-mining.md",
+      "committedAt": "2026-11-13T07:00:37.119-06:00",
+      "title": "Microsoft SQL Servers Under Attack as Hackers Deploy Gh0st RAT and Monero Mining Malware"
     }
   ]
 }
