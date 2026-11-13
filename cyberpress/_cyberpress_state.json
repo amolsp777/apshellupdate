@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T01:00:20.817-06:00",
-  "lastLink": "https://cyberpress.org/tsmc-confirms-employee-data-breach/",
-  "lastId": "pv00100000",
-  "lastFilePath": "cyberpress/pages/2026/11/13/tsmc-confirms-employee-data-breach-after-personal-information-leaked-on-external.md",
+  "updatedAt": "2026-11-13T02:00:21.516-06:00",
+  "lastLink": "https://cyberpress.org/new-n-able-n-central-zero-days/",
+  "lastId": "1gim6fh000",
+  "lastFilePath": "cyberpress/pages/2026/11/13/new-n-able-n-central-zero-days-allow-root-rce-and-windows-system-access-after-pa.md",
   "items": [
     {
-      "id": "pv00100000",
-      "link": "https://cyberpress.org/tsmc-confirms-employee-data-breach/",
-      "filePath": "cyberpress/pages/2026/11/13/tsmc-confirms-employee-data-breach-after-personal-information-leaked-on-external.md",
-      "committedAt": "2026-11-13T01:00:20.817-06:00",
-      "title": "TSMC Confirms Employee Data Breach After Personal Information Leaked on External Website"
+      "id": "1gim6fh000",
+      "link": "https://cyberpress.org/new-n-able-n-central-zero-days/",
+      "filePath": "cyberpress/pages/2026/11/13/new-n-able-n-central-zero-days-allow-root-rce-and-windows-system-access-after-pa.md",
+      "committedAt": "2026-11-13T02:00:21.516-06:00",
+      "title": "New N-able N-central Zero-Days Allow Root RCE and Windows SYSTEM Access After Patching"
     }
   ]
 }
