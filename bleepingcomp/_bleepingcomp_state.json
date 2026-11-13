@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T19:01:16.667-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-  "lastId": "1dbl8tb000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/12/hackers-compromise-4800-github-accounts-to-steal-cloud-credentials.md",
+  "updatedAt": "2026-11-13T04:01:54.708-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+  "lastId": "1w63jvk000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/13/police-arrest-354-suspects-in-dark-web-cybercrime-crackdown.md",
   "items": [
     {
-      "id": "1dbl8tb000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "filePath": "bleepingcomp/pages/2026/11/12/hackers-compromise-4800-github-accounts-to-steal-cloud-credentials.md",
-      "committedAt": "2026-11-12T19:01:16.667-05:00",
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials"
+      "id": "1w63jvk000",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+      "filePath": "bleepingcomp/pages/2026/11/13/police-arrest-354-suspects-in-dark-web-cybercrime-crackdown.md",
+      "committedAt": "2026-11-13T04:01:54.708-05:00",
+      "title": "Police arrest 354 suspects in dark web cybercrime crackdown"
     }
   ]
 }
