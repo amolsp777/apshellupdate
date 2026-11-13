@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T12:01:55.987-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-  "lastId": "10cqabi000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/13/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper.md",
+  "updatedAt": "2026-11-13T13:01:49.912-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+  "lastId": "17wgb9a000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/13/german-military-drone-operations-disrupted-by-cyberattack.md",
   "items": [
     {
-      "id": "10cqabi000",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-      "filePath": "bleepingcomp/pages/2026/11/13/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper.md",
-      "committedAt": "2026-11-13T12:01:55.987-05:00",
-      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper"
+      "id": "17wgb9a000",
+      "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+      "filePath": "bleepingcomp/pages/2026/11/13/german-military-drone-operations-disrupted-by-cyberattack.md",
+      "committedAt": "2026-11-13T13:01:49.912-05:00",
+      "title": "German military drone operations disrupted by cyberattack"
     }
   ]
 }
