@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T10:00:54.065-06:00",
-  "lastLink": "https://cyberpress.org/store-signed-app-hijacks-browsers/",
-  "lastId": "1dkz1jc000",
-  "lastFilePath": "cyberpress/pages/2026/11/13/hackers-abuse-microsoft-store-signed-net-guard-app-to-hijack-browsers-through-fa.md",
+  "updatedAt": "2026-11-13T11:01:02.088-06:00",
+  "lastLink": "https://cyberpress.org/sansar-rootkit-hides-cryptomining/",
+  "lastId": "1lr7k9t000",
+  "lastFilePath": "cyberpress/pages/2026/11/13/hackers-deploy-sansar-rootkit-to-hide-cryptocurrency-mining-on-linux-ai-servers.md",
   "items": [
     {
-      "id": "1dkz1jc000",
-      "link": "https://cyberpress.org/store-signed-app-hijacks-browsers/",
-      "filePath": "cyberpress/pages/2026/11/13/hackers-abuse-microsoft-store-signed-net-guard-app-to-hijack-browsers-through-fa.md",
-      "committedAt": "2026-11-13T10:00:54.065-06:00",
-      "title": "Hackers Abuse Microsoft Store-Signed Net Guard App to Hijack Browsers Through Fake AI Websites"
+      "id": "1lr7k9t000",
+      "link": "https://cyberpress.org/sansar-rootkit-hides-cryptomining/",
+      "filePath": "cyberpress/pages/2026/11/13/hackers-deploy-sansar-rootkit-to-hide-cryptocurrency-mining-on-linux-ai-servers.md",
+      "committedAt": "2026-11-13T11:01:02.088-06:00",
+      "title": "Hackers Deploy SANSAR Rootkit to Hide Cryptocurrency Mining on Linux AI Servers"
     }
   ]
 }
