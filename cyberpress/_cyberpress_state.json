@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T03:00:29.191-06:00",
-  "lastLink": "https://cyberpress.org/critical-red-hat-quay-flaw/",
-  "lastId": "1xszkdv000",
-  "lastFilePath": "cyberpress/pages/2026/11/13/critical-red-hat-quay-vulnerability-allows-hackers-to-hijack-private-container-r.md",
+  "updatedAt": "2026-11-13T04:00:22.282-06:00",
+  "lastLink": "https://cyberpress.org/openai-launches-ai-security-agents/",
+  "lastId": "1d67b01000",
+  "lastFilePath": "cyberpress/pages/2026/11/13/openai-launches-ai-security-agents-to-find-vulnerabilities-test-exploits-and-fix.md",
   "items": [
     {
-      "id": "1xszkdv000",
-      "link": "https://cyberpress.org/critical-red-hat-quay-flaw/",
-      "filePath": "cyberpress/pages/2026/11/13/critical-red-hat-quay-vulnerability-allows-hackers-to-hijack-private-container-r.md",
-      "committedAt": "2026-11-13T03:00:29.191-06:00",
-      "title": "Critical Red Hat Quay Vulnerability Allows Hackers to Hijack Private Container Registries"
+      "id": "1d67b01000",
+      "link": "https://cyberpress.org/openai-launches-ai-security-agents/",
+      "filePath": "cyberpress/pages/2026/11/13/openai-launches-ai-security-agents-to-find-vulnerabilities-test-exploits-and-fix.md",
+      "committedAt": "2026-11-13T04:00:22.282-06:00",
+      "title": "OpenAI Launches AI Security Agents to Find Vulnerabilities, Test Exploits and Fix Flaws"
     }
   ]
 }
