@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T09:00:48.780-06:00",
-  "lastLink": "https://cyberpress.org/fbi-disrupts-north-korean-facestealer-attacks/",
-  "lastId": "1fy0ls0000",
-  "lastFilePath": "cyberpress/pages/2026/11/13/fbi-disrupts-north-korean-facestealer-attacks-linked-to-400-million-in-crypto-th.md",
+  "updatedAt": "2026-11-13T10:00:54.065-06:00",
+  "lastLink": "https://cyberpress.org/store-signed-app-hijacks-browsers/",
+  "lastId": "1dkz1jc000",
+  "lastFilePath": "cyberpress/pages/2026/11/13/hackers-abuse-microsoft-store-signed-net-guard-app-to-hijack-browsers-through-fa.md",
   "items": [
     {
-      "id": "1fy0ls0000",
-      "link": "https://cyberpress.org/fbi-disrupts-north-korean-facestealer-attacks/",
-      "filePath": "cyberpress/pages/2026/11/13/fbi-disrupts-north-korean-facestealer-attacks-linked-to-400-million-in-crypto-th.md",
-      "committedAt": "2026-11-13T09:00:48.780-06:00",
-      "title": "FBI Disrupts North Korean FaceStealer Attacks Linked to $400 Million in Crypto Theft"
+      "id": "1dkz1jc000",
+      "link": "https://cyberpress.org/store-signed-app-hijacks-browsers/",
+      "filePath": "cyberpress/pages/2026/11/13/hackers-abuse-microsoft-store-signed-net-guard-app-to-hijack-browsers-through-fa.md",
+      "committedAt": "2026-11-13T10:00:54.065-06:00",
+      "title": "Hackers Abuse Microsoft Store-Signed Net Guard App to Hijack Browsers Through Fake AI Websites"
     }
   ]
 }
