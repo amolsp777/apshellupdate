@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T00:00:28.137-06:00",
-  "lastLink": "https://cyberpress.org/fbi-artex-ai-agents-breach-networks/",
-  "lastId": "1lyc9sx000",
-  "lastFilePath": "cyberpress/pages/2026/11/14/fbi-warns-hackers-are-using-artex-ai-agents-to-breach-networks-in-under-3-hours.md",
+  "updatedAt": "2026-11-14T01:00:18.185-06:00",
+  "lastLink": "https://cyberpress.org/blacknevas-ransomware-vmware-esxi-servers/",
+  "lastId": "3dhztv0000",
+  "lastFilePath": "cyberpress/pages/2026/11/14/blacknevas-ransomware-gang-destroys-vmware-esxi-servers-and-backups-in-10-day-at.md",
   "items": [
     {
-      "id": "1lyc9sx000",
-      "link": "https://cyberpress.org/fbi-artex-ai-agents-breach-networks/",
-      "filePath": "cyberpress/pages/2026/11/14/fbi-warns-hackers-are-using-artex-ai-agents-to-breach-networks-in-under-3-hours.md",
-      "committedAt": "2026-11-14T00:00:28.137-06:00",
-      "title": "FBI Warns Hackers Are Using ARTEX AI Agents to Breach Networks in Under 3 Hours"
+      "id": "3dhztv0000",
+      "link": "https://cyberpress.org/blacknevas-ransomware-vmware-esxi-servers/",
+      "filePath": "cyberpress/pages/2026/11/14/blacknevas-ransomware-gang-destroys-vmware-esxi-servers-and-backups-in-10-day-at.md",
+      "committedAt": "2026-11-14T01:00:18.185-06:00",
+      "title": "BlackNevas Ransomware Gang Destroys VMware ESXi Servers and Backups in 10-Day Attack"
     }
   ]
 }
