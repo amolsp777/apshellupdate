@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T02:00:21.652-06:00",
-  "lastLink": "https://cyberpress.org/cisa-check-point-zero-day/",
-  "lastId": "xwa76h0000",
-  "lastFilePath": "cyberpress/pages/2026/11/14/cisa-warns-of-actively-exploited-check-point-zero-day-allowing-root-access.md",
+  "updatedAt": "2026-11-14T03:00:22.148-06:00",
+  "lastLink": "https://cyberpress.org/uber-data-breach-fireworks-ai-attack/",
+  "lastId": "1487ga4000",
+  "lastFilePath": "cyberpress/pages/2026/11/14/uber-data-breach-exposes-thousands-of-drivers-license-records-in-fireworks-ai-at.md",
   "items": [
     {
-      "id": "xwa76h0000",
-      "link": "https://cyberpress.org/cisa-check-point-zero-day/",
-      "filePath": "cyberpress/pages/2026/11/14/cisa-warns-of-actively-exploited-check-point-zero-day-allowing-root-access.md",
-      "committedAt": "2026-11-14T02:00:21.652-06:00",
-      "title": "CISA Warns of Actively Exploited Check Point Zero-Day Allowing Root Access"
+      "id": "1487ga4000",
+      "link": "https://cyberpress.org/uber-data-breach-fireworks-ai-attack/",
+      "filePath": "cyberpress/pages/2026/11/14/uber-data-breach-exposes-thousands-of-drivers-license-records-in-fireworks-ai-at.md",
+      "committedAt": "2026-11-14T03:00:22.148-06:00",
+      "title": "Uber Data Breach Exposes Thousands of Drivers’ License Records in Fireworks AI Attack"
     }
   ]
 }
