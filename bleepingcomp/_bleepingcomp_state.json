@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T13:01:11.422-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-  "lastId": "300n030000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/14/cursor-confirms-security-breach-led-to-malicious-claude-code-extension.md",
+  "updatedAt": "2026-11-15T11:01:00.244-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+  "lastId": "cedwgj0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/15/tsmc-employee-data-breach-linked-to-cloud-provider.md",
   "items": [
     {
-      "id": "300n030000",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-      "filePath": "bleepingcomp/pages/2026/11/14/cursor-confirms-security-breach-led-to-malicious-claude-code-extension.md",
-      "committedAt": "2026-11-14T13:01:11.422-05:00",
-      "title": "Cursor confirms security breach led to malicious Claude Code extension"
+      "id": "cedwgj0000",
+      "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "filePath": "bleepingcomp/pages/2026/11/15/tsmc-employee-data-breach-linked-to-cloud-provider.md",
+      "committedAt": "2026-11-15T11:01:00.244-05:00",
+      "title": "TSMC employee data breach linked to cloud provider"
     }
   ]
 }
