@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T11:01:00.244-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-  "lastId": "cedwgj0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/15/tsmc-employee-data-breach-linked-to-cloud-provider.md",
+  "updatedAt": "2026-11-15T14:01:38.419-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+  "lastId": "t9v4370000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/15/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks.md",
   "items": [
     {
-      "id": "cedwgj0000",
-      "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-      "filePath": "bleepingcomp/pages/2026/11/15/tsmc-employee-data-breach-linked-to-cloud-provider.md",
-      "committedAt": "2026-11-15T11:01:00.244-05:00",
-      "title": "TSMC employee data breach linked to cloud provider"
+      "id": "t9v4370000",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "filePath": "bleepingcomp/pages/2026/11/15/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks.md",
+      "committedAt": "2026-11-15T14:01:38.419-05:00",
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks"
     }
   ]
 }
