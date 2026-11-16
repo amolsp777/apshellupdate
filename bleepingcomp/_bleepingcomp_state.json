@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T16:01:22.720-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-  "lastId": "174mnkv000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/16/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms.md",
+  "updatedAt": "2026-11-16T17:01:23.124-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+  "lastId": "o8ok6f0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/16/google-project-zero-cuts-bug-disclosures-to-30-days-amid-ai-threats.md",
   "items": [
     {
-      "id": "174mnkv000",
-      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "filePath": "bleepingcomp/pages/2026/11/16/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms.md",
-      "committedAt": "2026-11-16T16:01:22.720-05:00",
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms"
+      "id": "o8ok6f0000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "filePath": "bleepingcomp/pages/2026/11/16/google-project-zero-cuts-bug-disclosures-to-30-days-amid-ai-threats.md",
+      "committedAt": "2026-11-16T17:01:23.124-05:00",
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats"
     }
   ]
 }
