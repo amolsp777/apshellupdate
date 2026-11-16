@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T13:01:28.476-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-  "lastId": "y8pq7n0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/16/7-tips-for-complying-with-cjis-password-and-mfa-requirements.md",
+  "updatedAt": "2026-11-16T15:01:00.452-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+  "lastId": "1xrljg3000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/16/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack.md",
   "items": [
     {
-      "id": "y8pq7n0000",
-      "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "filePath": "bleepingcomp/pages/2026/11/16/7-tips-for-complying-with-cjis-password-and-mfa-requirements.md",
-      "committedAt": "2026-11-16T13:01:28.476-05:00",
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements"
+      "id": "1xrljg3000",
+      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "filePath": "bleepingcomp/pages/2026/11/16/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack.md",
+      "committedAt": "2026-11-16T15:01:00.452-05:00",
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack"
     }
   ]
 }
