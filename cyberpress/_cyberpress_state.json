@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T05:00:23.359-06:00",
-  "lastLink": "https://cyberpress.org/critical-apple-zero-day-bypasses/",
-  "lastId": "1l1q3kj000",
-  "lastFilePath": "cyberpress/pages/2026/11/16/critical-apple-zero-day-bypasses-microphone-permissions-and-recording-indicators.md",
+  "updatedAt": "2026-11-16T06:00:34.237-06:00",
+  "lastLink": "https://cyberpress.org/retadup-returns-delivering-coffeeloader/",
+  "lastId": "1im6poi000",
+  "lastFilePath": "cyberpress/pages/2026/11/16/old-usb-worm-retadup-resurfaces-targeting-15000-systems-with-new-coffeeloader-ma.md",
   "items": [
     {
-      "id": "1l1q3kj000",
-      "link": "https://cyberpress.org/critical-apple-zero-day-bypasses/",
-      "filePath": "cyberpress/pages/2026/11/16/critical-apple-zero-day-bypasses-microphone-permissions-and-recording-indicators.md",
-      "committedAt": "2026-11-16T05:00:23.359-06:00",
-      "title": "Critical Apple Zero-Day Bypasses Microphone Permissions and Recording Indicators"
+      "id": "1im6poi000",
+      "link": "https://cyberpress.org/retadup-returns-delivering-coffeeloader/",
+      "filePath": "cyberpress/pages/2026/11/16/old-usb-worm-retadup-resurfaces-targeting-15000-systems-with-new-coffeeloader-ma.md",
+      "committedAt": "2026-11-16T06:00:34.237-06:00",
+      "title": "Old USB Worm Retadup Resurfaces, Targeting 15,000 Systems With New CoffeeLoader Malware Campaign"
     }
   ]
 }
