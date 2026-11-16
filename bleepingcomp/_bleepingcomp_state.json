@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T15:01:00.452-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-  "lastId": "1xrljg3000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/16/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack.md",
+  "updatedAt": "2026-11-16T16:01:22.720-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+  "lastId": "174mnkv000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/16/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms.md",
   "items": [
     {
-      "id": "1xrljg3000",
-      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "filePath": "bleepingcomp/pages/2026/11/16/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack.md",
-      "committedAt": "2026-11-16T15:01:00.452-05:00",
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack"
+      "id": "174mnkv000",
+      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "filePath": "bleepingcomp/pages/2026/11/16/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms.md",
+      "committedAt": "2026-11-16T16:01:22.720-05:00",
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms"
     }
   ]
 }
