@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T08:01:33.558-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-  "lastId": "x0opl20000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/16/microsoft-windows-server-2016-reaches-end-of-support-in-60-days.md",
+  "updatedAt": "2026-11-16T10:01:29.986-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+  "lastId": "11o52ou000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/16/google-warns-that-fully-automated-ai-attacks-are-coming-soon.md",
   "items": [
     {
-      "id": "x0opl20000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-      "filePath": "bleepingcomp/pages/2026/11/16/microsoft-windows-server-2016-reaches-end-of-support-in-60-days.md",
-      "committedAt": "2026-11-16T08:01:33.558-05:00",
-      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days"
+      "id": "11o52ou000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "filePath": "bleepingcomp/pages/2026/11/16/google-warns-that-fully-automated-ai-attacks-are-coming-soon.md",
+      "committedAt": "2026-11-16T10:01:29.986-05:00",
+      "title": "Google warns that fully-automated AI attacks are coming soon"
     }
   ]
 }
