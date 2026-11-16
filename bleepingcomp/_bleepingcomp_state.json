@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T14:01:38.419-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-  "lastId": "t9v4370000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/15/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks.md",
+  "updatedAt": "2026-11-16T04:01:07.130-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+  "lastId": "1sw1mh9000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/16/microsoft-pushes-windows-emergency-updates-to-fix-activation-failures.md",
   "items": [
     {
-      "id": "t9v4370000",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "filePath": "bleepingcomp/pages/2026/11/15/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks.md",
-      "committedAt": "2026-11-15T14:01:38.419-05:00",
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks"
+      "id": "1sw1mh9000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+      "filePath": "bleepingcomp/pages/2026/11/16/microsoft-pushes-windows-emergency-updates-to-fix-activation-failures.md",
+      "committedAt": "2026-11-16T04:01:07.130-05:00",
+      "title": "Microsoft pushes Windows emergency updates to fix activation failures"
     }
   ]
 }
