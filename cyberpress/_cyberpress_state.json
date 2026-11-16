@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T10:00:48.728-06:00",
-  "lastLink": "https://cyberpress.org/macos-27-siri-app-stores/",
-  "lastId": "1bdrjvu000",
-  "lastFilePath": "cyberpress/pages/2026/11/16/macos-27-siri-app-stores-conversation-history-permanently-in-hidden-sqlite-datab.md",
+  "updatedAt": "2026-11-16T11:00:55.136-06:00",
+  "lastLink": "https://cyberpress.org/claude-prompts-conceal-access/",
+  "lastId": "1goh7q4000",
+  "lastFilePath": "cyberpress/pages/2026/11/16/claude-code-vs-code-permission-prompts-can-conceal-access-to-files-outside-the-w.md",
   "items": [
     {
-      "id": "1bdrjvu000",
-      "link": "https://cyberpress.org/macos-27-siri-app-stores/",
-      "filePath": "cyberpress/pages/2026/11/16/macos-27-siri-app-stores-conversation-history-permanently-in-hidden-sqlite-datab.md",
-      "committedAt": "2026-11-16T10:00:48.728-06:00",
-      "title": "macOS 27 Siri App Stores Conversation History Permanently in Hidden SQLite Database"
+      "id": "1goh7q4000",
+      "link": "https://cyberpress.org/claude-prompts-conceal-access/",
+      "filePath": "cyberpress/pages/2026/11/16/claude-code-vs-code-permission-prompts-can-conceal-access-to-files-outside-the-w.md",
+      "committedAt": "2026-11-16T11:00:55.136-06:00",
+      "title": "Claude Code VS Code Permission Prompts Can Conceal Access to Files Outside the Workspace"
     }
   ]
 }
