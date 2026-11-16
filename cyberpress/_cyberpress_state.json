@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T09:00:43.165-06:00",
-  "lastLink": "https://cyberpress.org/apple-introduces-secure-exclaves/",
-  "lastId": "1sfhxjb000",
-  "lastFilePath": "cyberpress/pages/2026/11/16/apple-introduces-secure-exclaves-to-block-unauthorized-camera-and-microphone-acc.md",
+  "updatedAt": "2026-11-16T10:00:48.728-06:00",
+  "lastLink": "https://cyberpress.org/macos-27-siri-app-stores/",
+  "lastId": "1bdrjvu000",
+  "lastFilePath": "cyberpress/pages/2026/11/16/macos-27-siri-app-stores-conversation-history-permanently-in-hidden-sqlite-datab.md",
   "items": [
     {
-      "id": "1sfhxjb000",
-      "link": "https://cyberpress.org/apple-introduces-secure-exclaves/",
-      "filePath": "cyberpress/pages/2026/11/16/apple-introduces-secure-exclaves-to-block-unauthorized-camera-and-microphone-acc.md",
-      "committedAt": "2026-11-16T09:00:43.165-06:00",
-      "title": "Apple Introduces Secure Exclaves to Block Unauthorized Camera and Microphone Access"
+      "id": "1bdrjvu000",
+      "link": "https://cyberpress.org/macos-27-siri-app-stores/",
+      "filePath": "cyberpress/pages/2026/11/16/macos-27-siri-app-stores-conversation-history-permanently-in-hidden-sqlite-datab.md",
+      "committedAt": "2026-11-16T10:00:48.728-06:00",
+      "title": "macOS 27 Siri App Stores Conversation History Permanently in Hidden SQLite Database"
     }
   ]
 }
