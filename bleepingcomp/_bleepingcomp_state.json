@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T12:01:18.250-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-  "lastId": "16spegs000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/16/microsoft-says-months-old-bug-caused-global-microsoft-365-outage.md",
+  "updatedAt": "2026-11-16T13:01:28.476-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+  "lastId": "y8pq7n0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/16/7-tips-for-complying-with-cjis-password-and-mfa-requirements.md",
   "items": [
     {
-      "id": "16spegs000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-      "filePath": "bleepingcomp/pages/2026/11/16/microsoft-says-months-old-bug-caused-global-microsoft-365-outage.md",
-      "committedAt": "2026-11-16T12:01:18.250-05:00",
-      "title": "Microsoft says months-old bug caused global Microsoft 365 outage"
+      "id": "y8pq7n0000",
+      "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+      "filePath": "bleepingcomp/pages/2026/11/16/7-tips-for-complying-with-cjis-password-and-mfa-requirements.md",
+      "committedAt": "2026-11-16T13:01:28.476-05:00",
+      "title": "7 Tips For Complying with CJIS Password and MFA Requirements"
     }
   ]
 }
