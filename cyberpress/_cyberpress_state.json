@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T04:00:28.087-06:00",
-  "lastLink": "https://cyberpress.org/critical-apache-shiro-apisix-flaws/",
-  "lastId": "n8qsg20000",
-  "lastFilePath": "cyberpress/pages/2026/11/16/critical-apache-shiro-and-apisix-flaws-let-hackers-bypass-authentication-without.md",
+  "updatedAt": "2026-11-16T05:00:23.359-06:00",
+  "lastLink": "https://cyberpress.org/critical-apple-zero-day-bypasses/",
+  "lastId": "1l1q3kj000",
+  "lastFilePath": "cyberpress/pages/2026/11/16/critical-apple-zero-day-bypasses-microphone-permissions-and-recording-indicators.md",
   "items": [
     {
-      "id": "n8qsg20000",
-      "link": "https://cyberpress.org/critical-apache-shiro-apisix-flaws/",
-      "filePath": "cyberpress/pages/2026/11/16/critical-apache-shiro-and-apisix-flaws-let-hackers-bypass-authentication-without.md",
-      "committedAt": "2026-11-16T04:00:28.087-06:00",
-      "title": "Critical Apache Shiro and APISIX Flaws Let Hackers Bypass Authentication Without Login"
+      "id": "1l1q3kj000",
+      "link": "https://cyberpress.org/critical-apple-zero-day-bypasses/",
+      "filePath": "cyberpress/pages/2026/11/16/critical-apple-zero-day-bypasses-microphone-permissions-and-recording-indicators.md",
+      "committedAt": "2026-11-16T05:00:23.359-06:00",
+      "title": "Critical Apple Zero-Day Bypasses Microphone Permissions and Recording Indicators"
     }
   ]
 }
