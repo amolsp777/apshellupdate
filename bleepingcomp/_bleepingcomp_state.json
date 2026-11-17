@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T22:00:55.321-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
-  "lastId": "s8gp1w0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/17/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware.md",
+  "updatedAt": "2026-11-17T00:00:54.669-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+  "lastId": "1uqtm1k000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/17/optimizely-hack-infected-cnn-fox-news-bbc-salesforce-sites-with-malware.md",
   "items": [
     {
-      "id": "s8gp1w0000",
-      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
-      "filePath": "bleepingcomp/pages/2026/11/17/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware.md",
-      "committedAt": "2026-11-16T22:00:55.321-05:00",
-      "title": "Optimizely supply chain attack infects major brands' sites with malware"
+      "id": "1uqtm1k000",
+      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "filePath": "bleepingcomp/pages/2026/11/17/optimizely-hack-infected-cnn-fox-news-bbc-salesforce-sites-with-malware.md",
+      "committedAt": "2026-11-17T00:00:54.669-05:00",
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware"
     }
   ]
 }
