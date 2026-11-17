@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T11:01:05.832-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-  "lastId": "q9kbn70000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/17/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions.md",
+  "updatedAt": "2026-11-17T12:01:24.536-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+  "lastId": "lqeim60000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/17/flipper-devices-launches-399-flipper-one-linux-based-multi-tool.md",
   "items": [
     {
-      "id": "q9kbn70000",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-      "filePath": "bleepingcomp/pages/2026/11/17/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions.md",
-      "committedAt": "2026-11-17T11:01:05.832-05:00",
-      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions"
+      "id": "lqeim60000",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "filePath": "bleepingcomp/pages/2026/11/17/flipper-devices-launches-399-flipper-one-linux-based-multi-tool.md",
+      "committedAt": "2026-11-17T12:01:24.536-05:00",
+      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool"
     }
   ]
 }
