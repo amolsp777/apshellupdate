@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T17:01:23.124-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-  "lastId": "o8ok6f0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/16/google-project-zero-cuts-bug-disclosures-to-30-days-amid-ai-threats.md",
+  "updatedAt": "2026-11-16T19:01:16.261-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+  "lastId": "tvzqib0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/16/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website.md",
   "items": [
     {
-      "id": "o8ok6f0000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-      "filePath": "bleepingcomp/pages/2026/11/16/google-project-zero-cuts-bug-disclosures-to-30-days-amid-ai-threats.md",
-      "committedAt": "2026-11-16T17:01:23.124-05:00",
-      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats"
+      "id": "tvzqib0000",
+      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "filePath": "bleepingcomp/pages/2026/11/16/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website.md",
+      "committedAt": "2026-11-16T19:01:16.261-05:00",
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website"
     }
   ]
 }
