@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T11:00:49.847-06:00",
-  "lastLink": "https://cyberpress.org/the-hidden-cost-of-manual-ioc-checks-why-growing-mssps-need-live-threat-intelligence/",
-  "lastId": "1m7uqdf000",
-  "lastFilePath": "cyberpress/pages/2026/11/17/the-hidden-cost-of-manual-ioc-checks-why-growing-mssps-need-live-threat-intellig.md",
+  "updatedAt": "2026-11-17T12:00:59.843-06:00",
+  "lastLink": "https://cyberpress.org/apple-tightens-macos-27-3-security/",
+  "lastId": "1k6wavs000",
+  "lastFilePath": "cyberpress/pages/2026/11/17/apple-tightens-macos-273-security-to-stop-ai-agents-from-accessing-sensitive-dat.md",
   "items": [
     {
-      "id": "1m7uqdf000",
-      "link": "https://cyberpress.org/the-hidden-cost-of-manual-ioc-checks-why-growing-mssps-need-live-threat-intelligence/",
-      "filePath": "cyberpress/pages/2026/11/17/the-hidden-cost-of-manual-ioc-checks-why-growing-mssps-need-live-threat-intellig.md",
-      "committedAt": "2026-11-17T11:00:49.847-06:00",
-      "title": "The Hidden Cost of Manual IOC Checks: Why Growing MSSPs Need Live Threat Intelligence"
+      "id": "1k6wavs000",
+      "link": "https://cyberpress.org/apple-tightens-macos-27-3-security/",
+      "filePath": "cyberpress/pages/2026/11/17/apple-tightens-macos-273-security-to-stop-ai-agents-from-accessing-sensitive-dat.md",
+      "committedAt": "2026-11-17T12:00:59.843-06:00",
+      "title": "Apple Tightens macOS 27.3 Security to Stop AI Agents From Accessing Sensitive Data"
     }
   ]
 }
