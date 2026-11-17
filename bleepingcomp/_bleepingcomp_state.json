@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T07:01:16.205-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-  "lastId": "1bgcoep000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/17/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices.md",
+  "updatedAt": "2026-11-17T11:01:05.832-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+  "lastId": "q9kbn70000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/17/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions.md",
   "items": [
     {
-      "id": "1bgcoep000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-      "filePath": "bleepingcomp/pages/2026/11/17/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices.md",
-      "committedAt": "2026-11-17T07:01:16.205-05:00",
-      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices"
+      "id": "q9kbn70000",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "filePath": "bleepingcomp/pages/2026/11/17/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions.md",
+      "committedAt": "2026-11-17T11:01:05.832-05:00",
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions"
     }
   ]
 }
