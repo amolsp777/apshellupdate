@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T14:00:54.769-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-  "lastId": "15vjhf7000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/17/tor-releases-emergency-update-amid-ongoing-ddos-attack.md",
+  "updatedAt": "2026-11-17T15:01:28.694-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+  "lastId": "152f7bg000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/17/apple-reports-outages-affecting-icloud-mail-applecare-and-more.md",
   "items": [
     {
-      "id": "15vjhf7000",
-      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-      "filePath": "bleepingcomp/pages/2026/11/17/tor-releases-emergency-update-amid-ongoing-ddos-attack.md",
-      "committedAt": "2026-11-17T14:00:54.769-05:00",
-      "title": "Tor releases emergency update amid ongoing DDoS attack"
+      "id": "152f7bg000",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "filePath": "bleepingcomp/pages/2026/11/17/apple-reports-outages-affecting-icloud-mail-applecare-and-more.md",
+      "committedAt": "2026-11-17T15:01:28.694-05:00",
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more"
     }
   ]
 }
