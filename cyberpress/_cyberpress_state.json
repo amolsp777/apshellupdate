@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T03:00:21.263-06:00",
-  "lastLink": "https://cyberpress.org/kingsoft-side-loading-delivers-purerat/",
-  "lastId": "v8mk5d0000",
-  "lastFilePath": "cyberpress/pages/2026/11/17/hackers-abuse-legitimate-kingsoft-software-to-load-purerat-malware-through-dll-s.md",
+  "updatedAt": "2026-11-17T04:00:15.653-06:00",
+  "lastLink": "https://cyberpress.org/microsoft-warns-exploiting-microsoft-365-outage/",
+  "lastId": "mkdi0m0000",
+  "lastFilePath": "cyberpress/pages/2026/11/17/microsoft-warns-hackers-are-exploiting-microsoft-365-outage-to-launch-credential.md",
   "items": [
     {
-      "id": "v8mk5d0000",
-      "link": "https://cyberpress.org/kingsoft-side-loading-delivers-purerat/",
-      "filePath": "cyberpress/pages/2026/11/17/hackers-abuse-legitimate-kingsoft-software-to-load-purerat-malware-through-dll-s.md",
-      "committedAt": "2026-11-17T03:00:21.263-06:00",
-      "title": "Hackers Abuse Legitimate Kingsoft Software to Load PureRAT Malware Through DLL Side-Loading"
+      "id": "mkdi0m0000",
+      "link": "https://cyberpress.org/microsoft-warns-exploiting-microsoft-365-outage/",
+      "filePath": "cyberpress/pages/2026/11/17/microsoft-warns-hackers-are-exploiting-microsoft-365-outage-to-launch-credential.md",
+      "committedAt": "2026-11-17T04:00:15.653-06:00",
+      "title": "Microsoft Warns Hackers Are Exploiting Microsoft 365 Outage to Launch Credential Phishing Attacks"
     }
   ]
 }
