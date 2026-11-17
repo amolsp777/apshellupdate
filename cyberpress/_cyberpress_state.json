@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T05:00:18.863-06:00",
-  "lastLink": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
-  "lastId": "1bku0f2000",
-  "lastFilePath": "cyberpress/pages/2026/11/17/gitlab-patches-37-security-flaws-including-high-severity-cicd-and-xss-vulnerabil.md",
+  "updatedAt": "2026-11-17T06:00:21.403-06:00",
+  "lastLink": "https://cyberpress.org/lapsus-pleads-guilty-rockstar-games-breach/",
+  "lastId": "m1eis40000",
+  "lastFilePath": "cyberpress/pages/2026/11/17/lapsus-hacker-pleads-guilty-to-rockstar-games-breach-that-leaked-90-gta-6-videos.md",
   "items": [
     {
-      "id": "1bku0f2000",
-      "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
-      "filePath": "cyberpress/pages/2026/11/17/gitlab-patches-37-security-flaws-including-high-severity-cicd-and-xss-vulnerabil.md",
-      "committedAt": "2026-11-17T05:00:18.863-06:00",
-      "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities"
+      "id": "m1eis40000",
+      "link": "https://cyberpress.org/lapsus-pleads-guilty-rockstar-games-breach/",
+      "filePath": "cyberpress/pages/2026/11/17/lapsus-hacker-pleads-guilty-to-rockstar-games-breach-that-leaked-90-gta-6-videos.md",
+      "committedAt": "2026-11-17T06:00:21.403-06:00",
+      "title": "Lapsus$ Hacker Pleads Guilty to Rockstar Games Breach That Leaked 90 GTA 6 Videos"
     }
   ]
 }
