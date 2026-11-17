@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T16:01:28.317-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-  "lastId": "1b25vb2000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/17/japan-takes-fugaku-supercomputer-offlline-after-cyberattack.md",
+  "updatedAt": "2026-11-17T17:01:11.721-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+  "lastId": "1kc3fku000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/17/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds.md",
   "items": [
     {
-      "id": "1b25vb2000",
-      "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-      "filePath": "bleepingcomp/pages/2026/11/17/japan-takes-fugaku-supercomputer-offlline-after-cyberattack.md",
-      "committedAt": "2026-11-17T16:01:28.317-05:00",
-      "title": "Japan takes Fugaku supercomputer offlline after cyberattack"
+      "id": "1kc3fku000",
+      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "filePath": "bleepingcomp/pages/2026/11/17/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds.md",
+      "committedAt": "2026-11-17T17:01:11.721-05:00",
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds"
     }
   ]
 }
