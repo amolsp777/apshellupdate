@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T07:00:32.134-06:00",
-  "lastLink": "https://cyberpress.org/artex-ai-agents-breach-barracuda-cloud/",
-  "lastId": "xvvvan0000",
-  "lastFilePath": "cyberpress/pages/2026/11/17/hackers-use-artex-ai-agents-to-breach-barracuda-cloud-and-steal-aws-and-azure-cr.md",
+  "updatedAt": "2026-11-17T08:00:38.327-06:00",
+  "lastLink": "https://cyberpress.org/optimizely-attack-compromises-websites/",
+  "lastId": "z9toyp0000",
+  "lastFilePath": "cyberpress/pages/2026/11/17/hackers-inject-malicious-javascript-into-178-organizations-websites-through-opti.md",
   "items": [
     {
-      "id": "xvvvan0000",
-      "link": "https://cyberpress.org/artex-ai-agents-breach-barracuda-cloud/",
-      "filePath": "cyberpress/pages/2026/11/17/hackers-use-artex-ai-agents-to-breach-barracuda-cloud-and-steal-aws-and-azure-cr.md",
-      "committedAt": "2026-11-17T07:00:32.134-06:00",
-      "title": "Hackers Use ARTEX AI Agents to Breach Barracuda Cloud and Steal AWS and Azure Credentials"
+      "id": "z9toyp0000",
+      "link": "https://cyberpress.org/optimizely-attack-compromises-websites/",
+      "filePath": "cyberpress/pages/2026/11/17/hackers-inject-malicious-javascript-into-178-organizations-websites-through-opti.md",
+      "committedAt": "2026-11-17T08:00:38.327-06:00",
+      "title": "Hackers Inject Malicious JavaScript Into 178 Organizations’ Websites Through Optimizely Supply Chain Attack"
     }
   ]
 }
