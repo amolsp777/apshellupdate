@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T00:00:15.574-06:00",
-  "lastLink": "https://cyberpress.org/hackers-infect-178-major-websites/",
-  "lastId": "2msn5i0000",
-  "lastFilePath": "cyberpress/pages/2026/11/17/hackers-infect-178-major-websites-with-malware-through-optimizely-supply-chain-a.md",
+  "updatedAt": "2026-11-17T01:00:20.797-06:00",
+  "lastLink": "https://cyberpress.org/hackers-exploit-old-bitly-urls/",
+  "lastId": "60q4v90000",
+  "lastFilePath": "cyberpress/pages/2026/11/17/hackers-exploit-old-bitly-urls-to-redirect-corporate-social-media-posts-to-unrel.md",
   "items": [
     {
-      "id": "2msn5i0000",
-      "link": "https://cyberpress.org/hackers-infect-178-major-websites/",
-      "filePath": "cyberpress/pages/2026/11/17/hackers-infect-178-major-websites-with-malware-through-optimizely-supply-chain-a.md",
-      "committedAt": "2026-11-17T00:00:15.574-06:00",
-      "title": "Hackers Infect 178 Major Websites With Malware Through Optimizely Supply Chain Attack"
+      "id": "60q4v90000",
+      "link": "https://cyberpress.org/hackers-exploit-old-bitly-urls/",
+      "filePath": "cyberpress/pages/2026/11/17/hackers-exploit-old-bitly-urls-to-redirect-corporate-social-media-posts-to-unrel.md",
+      "committedAt": "2026-11-17T01:00:20.797-06:00",
+      "title": "Hackers Exploit Old Bitly URLs to Redirect Corporate Social Media Posts to Unrelated Websites"
     }
   ]
 }
