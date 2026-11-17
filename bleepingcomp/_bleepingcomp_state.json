@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T12:01:24.536-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-  "lastId": "lqeim60000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/17/flipper-devices-launches-399-flipper-one-linux-based-multi-tool.md",
+  "updatedAt": "2026-11-17T14:00:54.769-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+  "lastId": "15vjhf7000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/17/tor-releases-emergency-update-amid-ongoing-ddos-attack.md",
   "items": [
     {
-      "id": "lqeim60000",
-      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-      "filePath": "bleepingcomp/pages/2026/11/17/flipper-devices-launches-399-flipper-one-linux-based-multi-tool.md",
-      "committedAt": "2026-11-17T12:01:24.536-05:00",
-      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool"
+      "id": "15vjhf7000",
+      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "filePath": "bleepingcomp/pages/2026/11/17/tor-releases-emergency-update-amid-ongoing-ddos-attack.md",
+      "committedAt": "2026-11-17T14:00:54.769-05:00",
+      "title": "Tor releases emergency update amid ongoing DDoS attack"
     }
   ]
 }
