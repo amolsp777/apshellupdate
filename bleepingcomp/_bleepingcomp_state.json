@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T17:01:11.721-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-  "lastId": "1kc3fku000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/17/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds.md",
+  "updatedAt": "2026-11-17T18:01:38.457-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+  "lastId": "hqsysz0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/17/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model.md",
   "items": [
     {
-      "id": "1kc3fku000",
-      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-      "filePath": "bleepingcomp/pages/2026/11/17/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds.md",
-      "committedAt": "2026-11-17T17:01:11.721-05:00",
-      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds"
+      "id": "hqsysz0000",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "filePath": "bleepingcomp/pages/2026/11/17/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model.md",
+      "committedAt": "2026-11-17T18:01:38.457-05:00",
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model"
     }
   ]
 }
