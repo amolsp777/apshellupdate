@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T06:00:21.403-06:00",
-  "lastLink": "https://cyberpress.org/lapsus-pleads-guilty-rockstar-games-breach/",
-  "lastId": "m1eis40000",
-  "lastFilePath": "cyberpress/pages/2026/11/17/lapsus-hacker-pleads-guilty-to-rockstar-games-breach-that-leaked-90-gta-6-videos.md",
+  "updatedAt": "2026-11-17T07:00:32.134-06:00",
+  "lastLink": "https://cyberpress.org/artex-ai-agents-breach-barracuda-cloud/",
+  "lastId": "xvvvan0000",
+  "lastFilePath": "cyberpress/pages/2026/11/17/hackers-use-artex-ai-agents-to-breach-barracuda-cloud-and-steal-aws-and-azure-cr.md",
   "items": [
     {
-      "id": "m1eis40000",
-      "link": "https://cyberpress.org/lapsus-pleads-guilty-rockstar-games-breach/",
-      "filePath": "cyberpress/pages/2026/11/17/lapsus-hacker-pleads-guilty-to-rockstar-games-breach-that-leaked-90-gta-6-videos.md",
-      "committedAt": "2026-11-17T06:00:21.403-06:00",
-      "title": "Lapsus$ Hacker Pleads Guilty to Rockstar Games Breach That Leaked 90 GTA 6 Videos"
+      "id": "xvvvan0000",
+      "link": "https://cyberpress.org/artex-ai-agents-breach-barracuda-cloud/",
+      "filePath": "cyberpress/pages/2026/11/17/hackers-use-artex-ai-agents-to-breach-barracuda-cloud-and-steal-aws-and-azure-cr.md",
+      "committedAt": "2026-11-17T07:00:32.134-06:00",
+      "title": "Hackers Use ARTEX AI Agents to Breach Barracuda Cloud and Steal AWS and Azure Credentials"
     }
   ]
 }
