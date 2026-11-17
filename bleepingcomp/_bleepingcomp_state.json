@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T15:01:28.694-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-  "lastId": "152f7bg000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/17/apple-reports-outages-affecting-icloud-mail-applecare-and-more.md",
+  "updatedAt": "2026-11-17T16:01:28.317-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+  "lastId": "1b25vb2000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/17/japan-takes-fugaku-supercomputer-offlline-after-cyberattack.md",
   "items": [
     {
-      "id": "152f7bg000",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-      "filePath": "bleepingcomp/pages/2026/11/17/apple-reports-outages-affecting-icloud-mail-applecare-and-more.md",
-      "committedAt": "2026-11-17T15:01:28.694-05:00",
-      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more"
+      "id": "1b25vb2000",
+      "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "filePath": "bleepingcomp/pages/2026/11/17/japan-takes-fugaku-supercomputer-offlline-after-cyberattack.md",
+      "committedAt": "2026-11-17T16:01:28.317-05:00",
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack"
     }
   ]
 }
