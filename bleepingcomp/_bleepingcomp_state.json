@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T05:01:32.109-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-  "lastId": "1g9bbwx000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/18/microsoft-announces-windows-server-2028-with-hardened-security.md",
+  "updatedAt": "2026-11-18T06:00:54.626-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+  "lastId": "9fe73y0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/18/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks.md",
   "items": [
     {
-      "id": "1g9bbwx000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-      "filePath": "bleepingcomp/pages/2026/11/18/microsoft-announces-windows-server-2028-with-hardened-security.md",
-      "committedAt": "2026-11-18T05:01:32.109-05:00",
-      "title": "Microsoft announces Windows Server 2028 with hardened security"
+      "id": "9fe73y0000",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/11/18/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks.md",
+      "committedAt": "2026-11-18T06:00:54.626-05:00",
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks"
     }
   ]
 }
