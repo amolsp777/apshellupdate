@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T04:01:33.108-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-  "lastId": "i6526r0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/18/british-scattered-spider-hacker-sentenced-to-6-years-in-prison.md",
+  "updatedAt": "2026-11-18T05:01:32.109-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+  "lastId": "1g9bbwx000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/18/microsoft-announces-windows-server-2028-with-hardened-security.md",
   "items": [
     {
-      "id": "i6526r0000",
-      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-      "filePath": "bleepingcomp/pages/2026/11/18/british-scattered-spider-hacker-sentenced-to-6-years-in-prison.md",
-      "committedAt": "2026-11-18T04:01:33.108-05:00",
-      "title": "British Scattered Spider hacker sentenced to 6 years in prison"
+      "id": "1g9bbwx000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "filePath": "bleepingcomp/pages/2026/11/18/microsoft-announces-windows-server-2028-with-hardened-security.md",
+      "committedAt": "2026-11-18T05:01:32.109-05:00",
+      "title": "Microsoft announces Windows Server 2028 with hardened security"
     }
   ]
 }
