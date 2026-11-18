@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T08:00:28.399-06:00",
-  "lastLink": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
-  "lastId": "6kukhd0000",
-  "lastFilePath": "cyberpress/pages/2026/11/18/atlassian-patches-318-security-vulnerabilities-affecting-jira-confluence-and-bit.md",
+  "updatedAt": "2026-11-18T09:00:37.629-06:00",
+  "lastLink": "https://cyberpress.org/github-microsoft-ai-find-9791-security-issues/",
+  "lastId": "1w8xw5w000",
+  "lastFilePath": "cyberpress/pages/2026/11/18/github-and-microsoft-use-ai-to-find-9791-security-issues-across-six-open-source-.md",
   "items": [
     {
-      "id": "6kukhd0000",
-      "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/11/18/atlassian-patches-318-security-vulnerabilities-affecting-jira-confluence-and-bit.md",
-      "committedAt": "2026-11-18T08:00:28.399-06:00",
-      "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket"
+      "id": "1w8xw5w000",
+      "link": "https://cyberpress.org/github-microsoft-ai-find-9791-security-issues/",
+      "filePath": "cyberpress/pages/2026/11/18/github-and-microsoft-use-ai-to-find-9791-security-issues-across-six-open-source-.md",
+      "committedAt": "2026-11-18T09:00:37.629-06:00",
+      "title": "GitHub and Microsoft Use AI to Find 9,791 Security Issues Across Six Open-Source Projects"
     }
   ]
 }
