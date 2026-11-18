@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T02:00:15.307-06:00",
-  "lastLink": "https://cyberpress.org/microsoft-365-recovery-phishing/",
-  "lastId": "kvaong0000",
-  "lastFilePath": "cyberpress/pages/2026/11/18/hackers-send-fake-microsoft-365-email-recovery-notices-to-lure-users-into-creden.md",
+  "updatedAt": "2026-11-18T03:00:21.366-06:00",
+  "lastLink": "https://cyberpress.org/fake-freight-platforms-deliver-castlerat/",
+  "lastId": "vk5tsg0000",
+  "lastFilePath": "cyberpress/pages/2026/11/18/hackers-impersonate-freight-booking-platforms-to-deploy-castlerat-malware-on-tru.md",
   "items": [
     {
-      "id": "kvaong0000",
-      "link": "https://cyberpress.org/microsoft-365-recovery-phishing/",
-      "filePath": "cyberpress/pages/2026/11/18/hackers-send-fake-microsoft-365-email-recovery-notices-to-lure-users-into-creden.md",
-      "committedAt": "2026-11-18T02:00:15.307-06:00",
-      "title": "Hackers Send Fake Microsoft 365 Email Recovery Notices to Lure Users Into Credential Phishing"
+      "id": "vk5tsg0000",
+      "link": "https://cyberpress.org/fake-freight-platforms-deliver-castlerat/",
+      "filePath": "cyberpress/pages/2026/11/18/hackers-impersonate-freight-booking-platforms-to-deploy-castlerat-malware-on-tru.md",
+      "committedAt": "2026-11-18T03:00:21.366-06:00",
+      "title": "Hackers Impersonate Freight Booking Platforms to Deploy CastleRAT Malware on Trucking Companies’ Systems"
     }
   ]
 }
