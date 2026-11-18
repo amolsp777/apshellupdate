@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T04:00:26.436-06:00",
-  "lastLink": "https://cyberpress.org/iot-security-solutions/",
-  "lastId": "dwpmt80000",
-  "lastFilePath": "cyberpress/pages/2026/11/18/8-iot-security-solutions-our-top-picks-by-use-case-2026.md",
+  "updatedAt": "2026-11-18T05:00:15.659-06:00",
+  "lastLink": "https://cyberpress.org/nvidia-gpu-driver-flaw/",
+  "lastId": "vm05600000",
+  "lastFilePath": "cyberpress/pages/2026/11/18/nvidia-gpu-driver-flaw-lets-attackers-escape-containers-and-gain-root-access-to-.md",
   "items": [
     {
-      "id": "dwpmt80000",
-      "link": "https://cyberpress.org/iot-security-solutions/",
-      "filePath": "cyberpress/pages/2026/11/18/8-iot-security-solutions-our-top-picks-by-use-case-2026.md",
-      "committedAt": "2026-11-18T04:00:26.436-06:00",
-      "title": "8 IoT Security Solutions: Our Top Picks by Use Case (2026)"
+      "id": "vm05600000",
+      "link": "https://cyberpress.org/nvidia-gpu-driver-flaw/",
+      "filePath": "cyberpress/pages/2026/11/18/nvidia-gpu-driver-flaw-lets-attackers-escape-containers-and-gain-root-access-to-.md",
+      "committedAt": "2026-11-18T05:00:15.659-06:00",
+      "title": "NVIDIA GPU Driver Flaw Lets Attackers Escape Containers and Gain Root Access to Linux Hosts"
     }
   ]
 }
