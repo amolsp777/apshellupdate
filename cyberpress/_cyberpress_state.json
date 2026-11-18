@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T07:00:21.896-06:00",
-  "lastLink": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
-  "lastId": "1wh3kd6000",
-  "lastFilePath": "cyberpress/pages/2026/11/18/google-chrome-158-fixes-204-security-flaws-including-six-critical-vulnerabilitie.md",
+  "updatedAt": "2026-11-18T08:00:28.399-06:00",
+  "lastLink": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+  "lastId": "6kukhd0000",
+  "lastFilePath": "cyberpress/pages/2026/11/18/atlassian-patches-318-security-vulnerabilities-affecting-jira-confluence-and-bit.md",
   "items": [
     {
-      "id": "1wh3kd6000",
-      "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
-      "filePath": "cyberpress/pages/2026/11/18/google-chrome-158-fixes-204-security-flaws-including-six-critical-vulnerabilitie.md",
-      "committedAt": "2026-11-18T07:00:21.896-06:00",
-      "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities"
+      "id": "6kukhd0000",
+      "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/11/18/atlassian-patches-318-security-vulnerabilities-affecting-jira-confluence-and-bit.md",
+      "committedAt": "2026-11-18T08:00:28.399-06:00",
+      "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket"
     }
   ]
 }
