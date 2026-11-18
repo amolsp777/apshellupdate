@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T12:01:11.685-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-  "lastId": "1yt9nwn000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/18/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials.md",
+  "updatedAt": "2026-11-18T15:01:00.178-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+  "lastId": "71hvg30000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/18/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack.md",
   "items": [
     {
-      "id": "1yt9nwn000",
-      "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-      "filePath": "bleepingcomp/pages/2026/11/18/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials.md",
-      "committedAt": "2026-11-18T12:01:11.685-05:00",
-      "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials"
+      "id": "71hvg30000",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+      "filePath": "bleepingcomp/pages/2026/11/18/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack.md",
+      "committedAt": "2026-11-18T15:01:00.178-05:00",
+      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack"
     }
   ]
 }
