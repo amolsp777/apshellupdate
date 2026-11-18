@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T10:00:38.534-06:00",
-  "lastLink": "https://cyberpress.org/hackers-breach-japans-fugaku-supercomputer/",
-  "lastId": "82msk60000",
-  "lastFilePath": "cyberpress/pages/2026/11/18/hackers-breach-japans-fugaku-supercomputer-exposing-data-of-up-to-4597-users.md",
+  "updatedAt": "2026-11-18T11:00:49.432-06:00",
+  "lastLink": "https://cyberpress.org/mior-attack-cloud-hosts-read-modify-amd/",
+  "lastId": "pf4tzj0000",
+  "lastFilePath": "cyberpress/pages/2026/11/18/new-mior-attack-lets-malicious-cloud-hosts-read-and-modify-amd-confidential-vm-m.md",
   "items": [
     {
-      "id": "82msk60000",
-      "link": "https://cyberpress.org/hackers-breach-japans-fugaku-supercomputer/",
-      "filePath": "cyberpress/pages/2026/11/18/hackers-breach-japans-fugaku-supercomputer-exposing-data-of-up-to-4597-users.md",
-      "committedAt": "2026-11-18T10:00:38.534-06:00",
-      "title": "Hackers Breach Japan’s Fugaku Supercomputer, Exposing Data of Up to 4,597 Users"
+      "id": "pf4tzj0000",
+      "link": "https://cyberpress.org/mior-attack-cloud-hosts-read-modify-amd/",
+      "filePath": "cyberpress/pages/2026/11/18/new-mior-attack-lets-malicious-cloud-hosts-read-and-modify-amd-confidential-vm-m.md",
+      "committedAt": "2026-11-18T11:00:49.432-06:00",
+      "title": "New Mior Attack Lets Malicious Cloud Hosts Read and Modify AMD Confidential VM Memory"
     }
   ]
 }
