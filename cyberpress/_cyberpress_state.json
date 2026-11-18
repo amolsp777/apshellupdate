@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T00:00:21.318-06:00",
-  "lastLink": "https://cyberpress.org/critical-java4shell-flaw/",
-  "lastId": "14qvbm0000",
-  "lastFilePath": "cyberpress/pages/2026/11/18/critical-java4shell-flaw-lets-hackers-execute-code-remotely-on-popular-java-serv.md",
+  "updatedAt": "2026-11-18T01:00:17.124-06:00",
+  "lastLink": "https://cyberpress.org/fortigate-vpn-credentials-exposed/",
+  "lastId": "1b8fglm000",
+  "lastFilePath": "cyberpress/pages/2026/11/18/hackers-expose-500-fortigate-vpn-credentials-as-researchers-uncover-178-bot-malw.md",
   "items": [
     {
-      "id": "14qvbm0000",
-      "link": "https://cyberpress.org/critical-java4shell-flaw/",
-      "filePath": "cyberpress/pages/2026/11/18/critical-java4shell-flaw-lets-hackers-execute-code-remotely-on-popular-java-serv.md",
-      "committedAt": "2026-11-18T00:00:21.318-06:00",
-      "title": "Critical Java4Shell Flaw Lets Hackers Execute Code Remotely on Popular Java Servers"
+      "id": "1b8fglm000",
+      "link": "https://cyberpress.org/fortigate-vpn-credentials-exposed/",
+      "filePath": "cyberpress/pages/2026/11/18/hackers-expose-500-fortigate-vpn-credentials-as-researchers-uncover-178-bot-malw.md",
+      "committedAt": "2026-11-18T01:00:17.124-06:00",
+      "title": "Hackers Expose 500+ FortiGate VPN Credentials as Researchers Uncover 178-Bot Malware Network"
     }
   ]
 }
