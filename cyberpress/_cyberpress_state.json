@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T06:00:16.513-06:00",
-  "lastLink": "https://cyberpress.org/tor-releases-tails-7-17-1-update/",
-  "lastId": "18iyzjq000",
-  "lastFilePath": "cyberpress/pages/2026/11/18/tor-releases-emergency-tails-7171-update-to-fix-critical-ublock-origin-xss-flaw.md",
+  "updatedAt": "2026-11-18T07:00:21.896-06:00",
+  "lastLink": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+  "lastId": "1wh3kd6000",
+  "lastFilePath": "cyberpress/pages/2026/11/18/google-chrome-158-fixes-204-security-flaws-including-six-critical-vulnerabilitie.md",
   "items": [
     {
-      "id": "18iyzjq000",
-      "link": "https://cyberpress.org/tor-releases-tails-7-17-1-update/",
-      "filePath": "cyberpress/pages/2026/11/18/tor-releases-emergency-tails-7171-update-to-fix-critical-ublock-origin-xss-flaw.md",
-      "committedAt": "2026-11-18T06:00:16.513-06:00",
-      "title": "Tor Releases Emergency Tails 7.17.1 Update to Fix Critical uBlock Origin XSS Flaw"
+      "id": "1wh3kd6000",
+      "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+      "filePath": "cyberpress/pages/2026/11/18/google-chrome-158-fixes-204-security-flaws-including-six-critical-vulnerabilitie.md",
+      "committedAt": "2026-11-18T07:00:21.896-06:00",
+      "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities"
     }
   ]
 }
