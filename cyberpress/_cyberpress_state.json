@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T05:00:15.659-06:00",
-  "lastLink": "https://cyberpress.org/nvidia-gpu-driver-flaw/",
-  "lastId": "vm05600000",
-  "lastFilePath": "cyberpress/pages/2026/11/18/nvidia-gpu-driver-flaw-lets-attackers-escape-containers-and-gain-root-access-to-.md",
+  "updatedAt": "2026-11-18T06:00:16.513-06:00",
+  "lastLink": "https://cyberpress.org/tor-releases-tails-7-17-1-update/",
+  "lastId": "18iyzjq000",
+  "lastFilePath": "cyberpress/pages/2026/11/18/tor-releases-emergency-tails-7171-update-to-fix-critical-ublock-origin-xss-flaw.md",
   "items": [
     {
-      "id": "vm05600000",
-      "link": "https://cyberpress.org/nvidia-gpu-driver-flaw/",
-      "filePath": "cyberpress/pages/2026/11/18/nvidia-gpu-driver-flaw-lets-attackers-escape-containers-and-gain-root-access-to-.md",
-      "committedAt": "2026-11-18T05:00:15.659-06:00",
-      "title": "NVIDIA GPU Driver Flaw Lets Attackers Escape Containers and Gain Root Access to Linux Hosts"
+      "id": "18iyzjq000",
+      "link": "https://cyberpress.org/tor-releases-tails-7-17-1-update/",
+      "filePath": "cyberpress/pages/2026/11/18/tor-releases-emergency-tails-7171-update-to-fix-critical-ublock-origin-xss-flaw.md",
+      "committedAt": "2026-11-18T06:00:16.513-06:00",
+      "title": "Tor Releases Emergency Tails 7.17.1 Update to Fix Critical uBlock Origin XSS Flaw"
     }
   ]
 }
