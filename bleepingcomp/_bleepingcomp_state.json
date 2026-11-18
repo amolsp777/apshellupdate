@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T18:01:38.457-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-  "lastId": "hqsysz0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/17/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model.md",
+  "updatedAt": "2026-11-17T19:00:54.852-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+  "lastId": "h3owb70000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/17/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications.md",
   "items": [
     {
-      "id": "hqsysz0000",
-      "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-      "filePath": "bleepingcomp/pages/2026/11/17/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model.md",
-      "committedAt": "2026-11-17T18:01:38.457-05:00",
-      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model"
+      "id": "h3owb70000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "filePath": "bleepingcomp/pages/2026/11/17/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications.md",
+      "committedAt": "2026-11-17T19:00:54.852-05:00",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications"
     }
   ]
 }
