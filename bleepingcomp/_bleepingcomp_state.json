@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T05:01:00.480-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-  "lastId": "xh921f0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/19/nvidia-investigating-gentlemen-ransomware-breach-claims.md",
+  "updatedAt": "2026-11-19T06:01:16.712-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+  "lastId": "1dvxa1p000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/19/microsoft-confirms-app-installation-launch-issues-after-hotpatch.md",
   "items": [
     {
-      "id": "xh921f0000",
-      "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-      "filePath": "bleepingcomp/pages/2026/11/19/nvidia-investigating-gentlemen-ransomware-breach-claims.md",
-      "committedAt": "2026-11-19T05:01:00.480-05:00",
-      "title": "NVIDIA investigating Gentlemen ransomware breach claims"
+      "id": "1dvxa1p000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+      "filePath": "bleepingcomp/pages/2026/11/19/microsoft-confirms-app-installation-launch-issues-after-hotpatch.md",
+      "committedAt": "2026-11-19T06:01:16.712-05:00",
+      "title": "Microsoft confirms app installation, launch issues after hotpatch"
     }
   ]
 }
