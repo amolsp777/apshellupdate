@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T02:01:24.307-06:00",
-  "lastLink": "https://cyberpress.org/automotive-cybersecurity-review/",
-  "lastId": "lf6zqm0000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/8-automotive-cybersecurity-companies-who-to-watch-in-2026.md",
+  "updatedAt": "2026-11-19T02:01:26.960-06:00",
+  "lastLink": "https://cyberpress.org/iomt-security-tools/",
+  "lastId": "10wtd2h000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/8-iomt-medical-device-security-tools-our-top-picks-by-use-case-2026.md",
   "items": [
     {
       "id": "rv10880000",
@@ -102,6 +102,13 @@
       "filePath": "cyberpress/pages/2026/11/19/8-automotive-cybersecurity-companies-who-to-watch-in-2026.md",
       "committedAt": "2026-11-19T02:01:24.307-06:00",
       "title": "8 Automotive Cybersecurity Companies: Who to Watch in 2026"
+    },
+    {
+      "id": "10wtd2h000",
+      "link": "https://cyberpress.org/iomt-security-tools/",
+      "filePath": "cyberpress/pages/2026/11/19/8-iomt-medical-device-security-tools-our-top-picks-by-use-case-2026.md",
+      "committedAt": "2026-11-19T02:01:26.960-06:00",
+      "title": "8 IoMT & Medical Device Security Tools: Our Top Picks by Use Case (2026)"
     }
   ]
 }
