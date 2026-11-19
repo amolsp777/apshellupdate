@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T01:00:38.347-06:00",
-  "lastLink": "https://cyberpress.org/opsagent-expands-ransomware-capabilities/",
-  "lastId": "1r104ul000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/new-opsagent-malware-framework-gives-ransomware-hackers-cobalt-strike-like-attac.md",
+  "updatedAt": "2026-11-19T01:00:51.079-06:00",
+  "lastLink": "https://cyberpress.org/eggstreme-returns-with-stealth/",
+  "lastId": "56eopt0000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/eggstreme-malware-returns-with-stealthier-backdoor-as-china-linked-hackers-targe.md",
   "items": [
     {
       "id": "rv10880000",
@@ -46,6 +46,13 @@
       "filePath": "cyberpress/pages/2026/11/19/new-opsagent-malware-framework-gives-ransomware-hackers-cobalt-strike-like-attac.md",
       "committedAt": "2026-11-19T01:00:38.347-06:00",
       "title": "New OpsAgent Malware Framework Gives Ransomware Hackers Cobalt Strike-Like Attack Capabilities"
+    },
+    {
+      "id": "56eopt0000",
+      "link": "https://cyberpress.org/eggstreme-returns-with-stealth/",
+      "filePath": "cyberpress/pages/2026/11/19/eggstreme-malware-returns-with-stealthier-backdoor-as-china-linked-hackers-targe.md",
+      "committedAt": "2026-11-19T01:00:51.079-06:00",
+      "title": "EggStreme Malware Returns With Stealthier Backdoor as China-Linked Hackers Target Government Organizations"
     }
   ]
 }
