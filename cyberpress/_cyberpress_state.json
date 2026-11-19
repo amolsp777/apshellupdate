@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T06:00:43.153-06:00",
-  "lastLink": "https://cyberpress.org/hijacked-tv-boxes-fuel-ad-fraud/",
-  "lastId": "1kiur5p000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/hackers-turn-infected-tv-boxes-into-worlds-largest-disclosed-ad-fraud-operation-.md",
+  "updatedAt": "2026-11-19T06:00:45.432-06:00",
+  "lastLink": "https://cyberpress.org/n-able-confirms-cyberattack/",
+  "lastId": "1n3zrwz000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/n-able-confirms-cyberattack-on-mail-assure-and-spamexperts-cloud-warns-of-creden.md",
   "items": [
     {
       "id": "rv10880000",
@@ -151,6 +151,13 @@
       "filePath": "cyberpress/pages/2026/11/19/hackers-turn-infected-tv-boxes-into-worlds-largest-disclosed-ad-fraud-operation-.md",
       "committedAt": "2026-11-19T06:00:43.153-06:00",
       "title": "Hackers Turn Infected TV Boxes Into World’s Largest Disclosed Ad Fraud Operation, Generating 40 Billion Daily Bids"
+    },
+    {
+      "id": "1n3zrwz000",
+      "link": "https://cyberpress.org/n-able-confirms-cyberattack/",
+      "filePath": "cyberpress/pages/2026/11/19/n-able-confirms-cyberattack-on-mail-assure-and-spamexperts-cloud-warns-of-creden.md",
+      "committedAt": "2026-11-19T06:00:45.432-06:00",
+      "title": "N-able Confirms Cyberattack on Mail Assure and SpamExperts Cloud, Warns of Credential Exposure"
     }
   ]
 }
