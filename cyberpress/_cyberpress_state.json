@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T04:01:26.902-06:00",
-  "lastLink": "https://cyberpress.org/critical-ruby2shell-flaw/",
-  "lastId": "eq58ve0000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/critical-ruby2shell-flaw-allows-unauthenticated-rce-in-rails-and-sinatra-applica.md",
+  "updatedAt": "2026-11-19T05:00:36.739-06:00",
+  "lastLink": "https://cyberpress.org/microsoft-device-code-phishing-bypasses-mfa/",
+  "lastId": "192n7uy000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/hackers-abuse-microsoft-device-code-login-to-bypass-mfa-and-access-corporate-ema.md",
   "items": [
     {
       "id": "rv10880000",
@@ -123,6 +123,13 @@
       "filePath": "cyberpress/pages/2026/11/19/critical-ruby2shell-flaw-allows-unauthenticated-rce-in-rails-and-sinatra-applica.md",
       "committedAt": "2026-11-19T04:01:26.902-06:00",
       "title": "Critical Ruby2Shell Flaw Allows Unauthenticated RCE in Rails and Sinatra Applications"
+    },
+    {
+      "id": "192n7uy000",
+      "link": "https://cyberpress.org/microsoft-device-code-phishing-bypasses-mfa/",
+      "filePath": "cyberpress/pages/2026/11/19/hackers-abuse-microsoft-device-code-login-to-bypass-mfa-and-access-corporate-ema.md",
+      "committedAt": "2026-11-19T05:00:36.739-06:00",
+      "title": "Hackers Abuse Microsoft Device Code Login to Bypass MFA and Access Corporate Email Accounts"
     }
   ]
 }
