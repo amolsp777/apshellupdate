@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T01:00:51.079-06:00",
-  "lastLink": "https://cyberpress.org/eggstreme-returns-with-stealth/",
-  "lastId": "56eopt0000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/eggstreme-malware-returns-with-stealthier-backdoor-as-china-linked-hackers-targe.md",
+  "updatedAt": "2026-11-19T01:00:58.433-06:00",
+  "lastLink": "https://cyberpress.org/nginx2root-flaws-nginx-servers/",
+  "lastId": "ikennz0000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/nginx2root-flaws-let-hackers-execute-code-remotely-on-nginx-servers-without-auth.md",
   "items": [
     {
       "id": "rv10880000",
@@ -53,6 +53,13 @@
       "filePath": "cyberpress/pages/2026/11/19/eggstreme-malware-returns-with-stealthier-backdoor-as-china-linked-hackers-targe.md",
       "committedAt": "2026-11-19T01:00:51.079-06:00",
       "title": "EggStreme Malware Returns With Stealthier Backdoor as China-Linked Hackers Target Government Organizations"
+    },
+    {
+      "id": "ikennz0000",
+      "link": "https://cyberpress.org/nginx2root-flaws-nginx-servers/",
+      "filePath": "cyberpress/pages/2026/11/19/nginx2root-flaws-let-hackers-execute-code-remotely-on-nginx-servers-without-auth.md",
+      "committedAt": "2026-11-19T01:00:58.433-06:00",
+      "title": "NGINX2Root Flaws Let Hackers Execute Code Remotely on NGINX Servers Without Authentication"
     }
   ]
 }
