@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T13:01:06.232-06:00",
-  "lastLink": "https://cyberpress.org/ot-ics-security-review/",
-  "lastId": "rv10880000",
-  "lastFilePath": "cyberpress/pages/2026/11/18/8-ot-ics-security-platforms-who-to-watch-in-2026.md",
+  "updatedAt": "2026-11-18T23:00:41.710-06:00",
+  "lastLink": "https://cyberpress.org/wordpress-7-1-5-fixes-20-security-flaws/",
+  "lastId": "9azmfv0000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/wordpress-715-fixes-20-security-flaws-including-unauthenticated-rce-and-privileg.md",
   "items": [
     {
       "id": "rv10880000",
@@ -11,6 +11,13 @@
       "filePath": "cyberpress/pages/2026/11/18/8-ot-ics-security-platforms-who-to-watch-in-2026.md",
       "committedAt": "2026-11-18T13:01:06.232-06:00",
       "title": "8 OT & ICS Security Platforms: Who to Watch in 2026"
+    },
+    {
+      "id": "9azmfv0000",
+      "link": "https://cyberpress.org/wordpress-7-1-5-fixes-20-security-flaws/",
+      "filePath": "cyberpress/pages/2026/11/19/wordpress-715-fixes-20-security-flaws-including-unauthenticated-rce-and-privileg.md",
+      "committedAt": "2026-11-18T23:00:41.710-06:00",
+      "title": "WordPress 7.1.5 Fixes 20 Security Flaws, Including Unauthenticated RCE and Privilege Escalation"
     }
   ]
 }
