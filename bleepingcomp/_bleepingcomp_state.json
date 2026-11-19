@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T09:00:54.853-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-  "lastId": "min7gf0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/19/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly.md",
+  "updatedAt": "2026-11-19T10:01:22.709-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+  "lastId": "mwj3pu0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/19/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers.md",
   "items": [
     {
-      "id": "min7gf0000",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-      "filePath": "bleepingcomp/pages/2026/11/19/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly.md",
-      "committedAt": "2026-11-19T09:00:54.853-05:00",
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly"
+      "id": "mwj3pu0000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+      "filePath": "bleepingcomp/pages/2026/11/19/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers.md",
+      "committedAt": "2026-11-19T10:01:22.709-05:00",
+      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers"
     }
   ]
 }
