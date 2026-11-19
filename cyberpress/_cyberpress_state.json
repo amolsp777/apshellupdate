@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:00:50.606-06:00",
-  "lastLink": "https://cyberpress.org/windows-hello-vulnerability/",
-  "lastId": "o5sry60000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/windows-hello-vulnerability-lets-attackers-brute-force-pins-in-just-40-hours.md",
+  "updatedAt": "2026-11-19T00:01:14.764-06:00",
+  "lastLink": "https://cyberpress.org/microsoft-windows-server-2028-security-protections/",
+  "lastId": "7e6mb30000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/microsoft-introduces-hardened-windows-server-2028-with-hundreds-of-security-prot.md",
   "items": [
     {
       "id": "rv10880000",
@@ -32,6 +32,13 @@
       "filePath": "cyberpress/pages/2026/11/19/windows-hello-vulnerability-lets-attackers-brute-force-pins-in-just-40-hours.md",
       "committedAt": "2026-11-19T00:00:50.606-06:00",
       "title": "Windows Hello Vulnerability Lets Attackers Brute-Force PINs in Just 40 Hours"
+    },
+    {
+      "id": "7e6mb30000",
+      "link": "https://cyberpress.org/microsoft-windows-server-2028-security-protections/",
+      "filePath": "cyberpress/pages/2026/11/19/microsoft-introduces-hardened-windows-server-2028-with-hundreds-of-security-prot.md",
+      "committedAt": "2026-11-19T00:01:14.764-06:00",
+      "title": "Microsoft Introduces Hardened Windows Server 2028 With Hundreds of Security Protections Enabled by Default"
     }
   ]
 }
