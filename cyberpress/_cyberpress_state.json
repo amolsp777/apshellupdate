@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T02:01:13.225-06:00",
-  "lastLink": "https://cyberpress.org/critical-apache-roller-xml-rpc-flaw/",
-  "lastId": "1es0kys000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/hackers-exploit-critical-apache-roller-xml-rpc-flaw-to-execute-code-without-logi.md",
+  "updatedAt": "2026-11-19T02:01:15.492-06:00",
+  "lastLink": "https://cyberpress.org/nodelinkrat-exploits-node-js-tooling/",
+  "lastId": "awt2y90000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/new-nodelinkrat-malware-abuses-legitimate-nodejs-tools-to-evade-security-detecti.md",
   "items": [
     {
       "id": "rv10880000",
@@ -67,6 +67,13 @@
       "filePath": "cyberpress/pages/2026/11/19/hackers-exploit-critical-apache-roller-xml-rpc-flaw-to-execute-code-without-logi.md",
       "committedAt": "2026-11-19T02:01:13.225-06:00",
       "title": "Hackers Exploit Critical Apache Roller XML-RPC Flaw to Execute Code Without Login"
+    },
+    {
+      "id": "awt2y90000",
+      "link": "https://cyberpress.org/nodelinkrat-exploits-node-js-tooling/",
+      "filePath": "cyberpress/pages/2026/11/19/new-nodelinkrat-malware-abuses-legitimate-nodejs-tools-to-evade-security-detecti.md",
+      "committedAt": "2026-11-19T02:01:15.492-06:00",
+      "title": "New NodeLinkRAT Malware Abuses Legitimate Node.js Tools to Evade Security Detection"
     }
   ]
 }
