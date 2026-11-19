@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:01:14.764-06:00",
-  "lastLink": "https://cyberpress.org/microsoft-windows-server-2028-security-protections/",
-  "lastId": "7e6mb30000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/microsoft-introduces-hardened-windows-server-2028-with-hundreds-of-security-prot.md",
+  "updatedAt": "2026-11-19T01:00:38.347-06:00",
+  "lastLink": "https://cyberpress.org/opsagent-expands-ransomware-capabilities/",
+  "lastId": "1r104ul000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/new-opsagent-malware-framework-gives-ransomware-hackers-cobalt-strike-like-attac.md",
   "items": [
     {
       "id": "rv10880000",
@@ -39,6 +39,13 @@
       "filePath": "cyberpress/pages/2026/11/19/microsoft-introduces-hardened-windows-server-2028-with-hundreds-of-security-prot.md",
       "committedAt": "2026-11-19T00:01:14.764-06:00",
       "title": "Microsoft Introduces Hardened Windows Server 2028 With Hundreds of Security Protections Enabled by Default"
+    },
+    {
+      "id": "1r104ul000",
+      "link": "https://cyberpress.org/opsagent-expands-ransomware-capabilities/",
+      "filePath": "cyberpress/pages/2026/11/19/new-opsagent-malware-framework-gives-ransomware-hackers-cobalt-strike-like-attac.md",
+      "committedAt": "2026-11-19T01:00:38.347-06:00",
+      "title": "New OpsAgent Malware Framework Gives Ransomware Hackers Cobalt Strike-Like Attack Capabilities"
     }
   ]
 }
