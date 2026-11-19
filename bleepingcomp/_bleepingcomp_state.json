@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T17:01:22.363-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
-  "lastId": "1gpusim000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/19/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express.md",
+  "updatedAt": "2026-11-19T18:01:54.384-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+  "lastId": "6ykkxp0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/19/hackers-steal-data-of-16-million-sbc-medical-group-customers.md",
   "items": [
     {
-      "id": "1gpusim000",
-      "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
-      "filePath": "bleepingcomp/pages/2026/11/19/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express.md",
-      "committedAt": "2026-11-19T17:01:22.363-05:00",
-      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express"
+      "id": "6ykkxp0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+      "filePath": "bleepingcomp/pages/2026/11/19/hackers-steal-data-of-16-million-sbc-medical-group-customers.md",
+      "committedAt": "2026-11-19T18:01:54.384-05:00",
+      "title": "Hackers steal data of 1.6 million SBC Medical Group customers"
     }
   ]
 }
