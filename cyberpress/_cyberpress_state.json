@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T02:01:29.035-06:00",
-  "lastLink": "https://cyberpress.org/good-game-infostealer-strikes/",
-  "lastId": "z44ure0000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/hackers-deploy-good-game-infostealer-to-target-23-browsers-and-21-cryptocurrency.md",
+  "updatedAt": "2026-11-19T04:01:26.902-06:00",
+  "lastLink": "https://cyberpress.org/critical-ruby2shell-flaw/",
+  "lastId": "eq58ve0000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/critical-ruby2shell-flaw-allows-unauthenticated-rce-in-rails-and-sinatra-applica.md",
   "items": [
     {
       "id": "rv10880000",
@@ -116,6 +116,13 @@
       "filePath": "cyberpress/pages/2026/11/19/hackers-deploy-good-game-infostealer-to-target-23-browsers-and-21-cryptocurrency.md",
       "committedAt": "2026-11-19T02:01:29.035-06:00",
       "title": "Hackers Deploy Good Game Infostealer to Target 23 Browsers and 21 Cryptocurrency Wallets"
+    },
+    {
+      "id": "eq58ve0000",
+      "link": "https://cyberpress.org/critical-ruby2shell-flaw/",
+      "filePath": "cyberpress/pages/2026/11/19/critical-ruby2shell-flaw-allows-unauthenticated-rce-in-rails-and-sinatra-applica.md",
+      "committedAt": "2026-11-19T04:01:26.902-06:00",
+      "title": "Critical Ruby2Shell Flaw Allows Unauthenticated RCE in Rails and Sinatra Applications"
     }
   ]
 }
