@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T07:01:38.661-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-  "lastId": "1aqfwhd000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/19/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis.md",
+  "updatedAt": "2026-11-19T09:00:54.853-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+  "lastId": "min7gf0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/19/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly.md",
   "items": [
     {
-      "id": "1aqfwhd000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-      "filePath": "bleepingcomp/pages/2026/11/19/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis.md",
-      "committedAt": "2026-11-19T07:01:38.661-05:00",
-      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs"
+      "id": "min7gf0000",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+      "filePath": "bleepingcomp/pages/2026/11/19/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly.md",
+      "committedAt": "2026-11-19T09:00:54.853-05:00",
+      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly"
     }
   ]
 }
