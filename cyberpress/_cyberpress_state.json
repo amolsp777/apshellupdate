@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T06:00:45.432-06:00",
-  "lastLink": "https://cyberpress.org/n-able-confirms-cyberattack/",
-  "lastId": "1n3zrwz000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/n-able-confirms-cyberattack-on-mail-assure-and-spamexperts-cloud-warns-of-creden.md",
+  "updatedAt": "2026-11-19T07:00:43.160-06:00",
+  "lastLink": "https://cyberpress.org/synology-warns-critical-nas-flaws/",
+  "lastId": "kjg9mk0000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/synology-warns-of-critical-nas-flaws-allowing-unauthenticated-file-access-and-do.md",
   "items": [
     {
       "id": "rv10880000",
@@ -158,6 +158,13 @@
       "filePath": "cyberpress/pages/2026/11/19/n-able-confirms-cyberattack-on-mail-assure-and-spamexperts-cloud-warns-of-creden.md",
       "committedAt": "2026-11-19T06:00:45.432-06:00",
       "title": "N-able Confirms Cyberattack on Mail Assure and SpamExperts Cloud, Warns of Credential Exposure"
+    },
+    {
+      "id": "kjg9mk0000",
+      "link": "https://cyberpress.org/synology-warns-critical-nas-flaws/",
+      "filePath": "cyberpress/pages/2026/11/19/synology-warns-of-critical-nas-flaws-allowing-unauthenticated-file-access-and-do.md",
+      "committedAt": "2026-11-19T07:00:43.160-06:00",
+      "title": "Synology Warns of Critical NAS Flaws Allowing Unauthenticated File Access and DoS Attacks"
     }
   ]
 }
