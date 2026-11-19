@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T05:00:38.786-06:00",
-  "lastLink": "https://cyberpress.org/european-commission-cyberattack-artex-ai/",
-  "lastId": "17kjn26000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/european-commission-hit-by-major-cyberattack-using-artex-ai-hacking-tool.md",
+  "updatedAt": "2026-11-19T06:00:40.879-06:00",
+  "lastLink": "https://cyberpress.org/malware-steals-banking-credentials/",
+  "lastId": "1nsu7g1000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/hackers-harvest-us-banking-credentials-from-infected-pcs-as-researchers-uncover-.md",
   "items": [
     {
       "id": "rv10880000",
@@ -137,6 +137,13 @@
       "filePath": "cyberpress/pages/2026/11/19/european-commission-hit-by-major-cyberattack-using-artex-ai-hacking-tool.md",
       "committedAt": "2026-11-19T05:00:38.786-06:00",
       "title": "European Commission Hit by Major Cyberattack Using ARTEX AI Hacking Tool"
+    },
+    {
+      "id": "1nsu7g1000",
+      "link": "https://cyberpress.org/malware-steals-banking-credentials/",
+      "filePath": "cyberpress/pages/2026/11/19/hackers-harvest-us-banking-credentials-from-infected-pcs-as-researchers-uncover-.md",
+      "committedAt": "2026-11-19T06:00:40.879-06:00",
+      "title": "Hackers Harvest US Banking Credentials From Infected PCs as Researchers Uncover 603 Malware Implants"
     }
   ]
 }
