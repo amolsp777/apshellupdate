@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T07:00:43.160-06:00",
-  "lastLink": "https://cyberpress.org/synology-warns-critical-nas-flaws/",
-  "lastId": "kjg9mk0000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/synology-warns-of-critical-nas-flaws-allowing-unauthenticated-file-access-and-do.md",
+  "updatedAt": "2026-11-19T07:00:45.325-06:00",
+  "lastLink": "https://cyberpress.org/critical-unifi-access-flaws/",
+  "lastId": "16cn6tw000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/critical-unifi-access-flaws-allow-attackers-to-gain-root-access-and-execute-comm.md",
   "items": [
     {
       "id": "rv10880000",
@@ -165,6 +165,13 @@
       "filePath": "cyberpress/pages/2026/11/19/synology-warns-of-critical-nas-flaws-allowing-unauthenticated-file-access-and-do.md",
       "committedAt": "2026-11-19T07:00:43.160-06:00",
       "title": "Synology Warns of Critical NAS Flaws Allowing Unauthenticated File Access and DoS Attacks"
+    },
+    {
+      "id": "16cn6tw000",
+      "link": "https://cyberpress.org/critical-unifi-access-flaws/",
+      "filePath": "cyberpress/pages/2026/11/19/critical-unifi-access-flaws-allow-attackers-to-gain-root-access-and-execute-comm.md",
+      "committedAt": "2026-11-19T07:00:45.325-06:00",
+      "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands"
     }
   ]
 }
