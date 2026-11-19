@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T11:01:06.382-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-  "lastId": "isc00u0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/19/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft.md",
+  "updatedAt": "2026-11-19T12:01:00.777-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+  "lastId": "1ft0ee7000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/19/php-security-updates-fix-18-flaws-including-critical-rce-bugs.md",
   "items": [
     {
-      "id": "isc00u0000",
-      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "filePath": "bleepingcomp/pages/2026/11/19/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft.md",
-      "committedAt": "2026-11-19T11:01:06.382-05:00",
-      "title": "Five warning signs of ransomware breach before encryption or data theft"
+      "id": "1ft0ee7000",
+      "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+      "filePath": "bleepingcomp/pages/2026/11/19/php-security-updates-fix-18-flaws-including-critical-rce-bugs.md",
+      "committedAt": "2026-11-19T12:01:00.777-05:00",
+      "title": "PHP security updates fix 18 flaws, including critical RCE bugs"
     }
   ]
 }
