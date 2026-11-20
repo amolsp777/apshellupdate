@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T07:00:45.325-06:00",
-  "lastLink": "https://cyberpress.org/critical-unifi-access-flaws/",
-  "lastId": "16cn6tw000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/critical-unifi-access-flaws-allow-attackers-to-gain-root-access-and-execute-comm.md",
+  "updatedAt": "2026-11-19T23:00:37.928-06:00",
+  "lastLink": "https://cyberpress.org/metas-muse-ai-agent-private-signal-messages/",
+  "lastId": "15460b7000",
+  "lastFilePath": "cyberpress/pages/2026/11/20/metas-muse-ai-agent-accesses-private-signal-messages-raising-serious-privacy-con.md",
   "items": [
     {
       "id": "rv10880000",
@@ -172,6 +172,13 @@
       "filePath": "cyberpress/pages/2026/11/19/critical-unifi-access-flaws-allow-attackers-to-gain-root-access-and-execute-comm.md",
       "committedAt": "2026-11-19T07:00:45.325-06:00",
       "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands"
+    },
+    {
+      "id": "15460b7000",
+      "link": "https://cyberpress.org/metas-muse-ai-agent-private-signal-messages/",
+      "filePath": "cyberpress/pages/2026/11/20/metas-muse-ai-agent-accesses-private-signal-messages-raising-serious-privacy-con.md",
+      "committedAt": "2026-11-19T23:00:37.928-06:00",
+      "title": "Meta’s Muse AI Agent Accesses Private Signal Messages, Raising Serious Privacy Concerns"
     }
   ]
 }
