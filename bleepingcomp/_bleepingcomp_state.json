@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T12:01:54.878-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-  "lastId": "ck0l3q0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/20/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind.md",
+  "updatedAt": "2026-11-20T13:01:28.432-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+  "lastId": "139mwwv000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/20/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server.md",
   "items": [
     {
-      "id": "ck0l3q0000",
-      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-      "filePath": "bleepingcomp/pages/2026/11/20/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind.md",
-      "committedAt": "2026-11-20T12:01:54.878-05:00",
-      "title": "Still tracking company passwords in spreadsheets? You’re flying blind."
+      "id": "139mwwv000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "filePath": "bleepingcomp/pages/2026/11/20/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server.md",
+      "committedAt": "2026-11-20T13:01:28.432-05:00",
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server"
     }
   ]
 }
