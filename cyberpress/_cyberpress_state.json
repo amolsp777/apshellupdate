@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T03:01:06.618-06:00",
-  "lastLink": "https://cyberpress.org/fraud-detection-tools/",
-  "lastId": "vcla640000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/8-fraud-detection-tools-our-top-picks-by-use-case-2026.md",
+  "updatedAt": "2026-11-20T03:01:08.840-06:00",
+  "lastLink": "https://cyberpress.org/brand-protection-tools/",
+  "lastId": "jataeh0000",
+  "lastFilePath": "cyberpress/pages/2026/11/20/8-brand-protection-anti-impersonation-tools-our-top-picks-by-use-case-2026.md",
   "items": [
     {
       "id": "rv10880000",
@@ -277,6 +277,13 @@
       "filePath": "cyberpress/pages/2026/11/20/8-fraud-detection-tools-our-top-picks-by-use-case-2026.md",
       "committedAt": "2026-11-20T03:01:06.618-06:00",
       "title": "8 Fraud Detection Tools: Our Top Picks by Use Case (2026)"
+    },
+    {
+      "id": "jataeh0000",
+      "link": "https://cyberpress.org/brand-protection-tools/",
+      "filePath": "cyberpress/pages/2026/11/20/8-brand-protection-anti-impersonation-tools-our-top-picks-by-use-case-2026.md",
+      "committedAt": "2026-11-20T03:01:08.840-06:00",
+      "title": "8 Brand Protection & Anti-Impersonation Tools: Our Top Picks by Use Case (2026)"
     }
   ]
 }
