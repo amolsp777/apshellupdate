@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T03:00:59.699-06:00",
-  "lastLink": "https://cyberpress.org/n-able-confirms-cyberattack-2/",
-  "lastId": "1ck3p2s000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/n-able-confirms-cyberattack-on-mail-assure-and-spamexperts-cloud-disables-manage.md",
+  "updatedAt": "2026-11-20T03:01:01.924-06:00",
+  "lastLink": "https://cyberpress.org/bot-management-solutions/",
+  "lastId": "rgfin00000",
+  "lastFilePath": "cyberpress/pages/2026/11/20/8-bot-management-solutions-our-top-picks-by-use-case-2026.md",
   "items": [
     {
       "id": "rv10880000",
@@ -256,6 +256,13 @@
       "filePath": "cyberpress/pages/2026/11/20/n-able-confirms-cyberattack-on-mail-assure-and-spamexperts-cloud-disables-manage.md",
       "committedAt": "2026-11-20T03:00:59.699-06:00",
       "title": "N-able Confirms Cyberattack on Mail Assure and SpamExperts Cloud, Disables Management Access"
+    },
+    {
+      "id": "rgfin00000",
+      "link": "https://cyberpress.org/bot-management-solutions/",
+      "filePath": "cyberpress/pages/2026/11/20/8-bot-management-solutions-our-top-picks-by-use-case-2026.md",
+      "committedAt": "2026-11-20T03:01:01.924-06:00",
+      "title": "8 Bot Management Solutions: Our Top Picks by Use Case (2026)"
     }
   ]
 }
