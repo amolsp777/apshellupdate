@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T02:00:55.081-06:00",
-  "lastLink": "https://cyberpress.org/nginx2root-vulnerabilities/",
-  "lastId": "ju78rg0000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/nginx2root-vulnerabilities-put-millions-of-internet-facing-web-servers-at-risk.md",
+  "updatedAt": "2026-11-20T02:00:57.558-06:00",
+  "lastLink": "https://cyberpress.org/bankweaver-hijacks-banking-servers/",
+  "lastId": "ctupoh0000",
+  "lastFilePath": "cyberpress/pages/2026/11/20/hackers-hijack-banking-servers-without-passwords-using-bankweaver-attack.md",
   "items": [
     {
       "id": "rv10880000",
@@ -214,6 +214,13 @@
       "filePath": "cyberpress/pages/2026/11/20/nginx2root-vulnerabilities-put-millions-of-internet-facing-web-servers-at-risk.md",
       "committedAt": "2026-11-20T02:00:55.081-06:00",
       "title": "NGINX2Root Vulnerabilities Put Millions of Internet-Facing Web Servers at Risk"
+    },
+    {
+      "id": "ctupoh0000",
+      "link": "https://cyberpress.org/bankweaver-hijacks-banking-servers/",
+      "filePath": "cyberpress/pages/2026/11/20/hackers-hijack-banking-servers-without-passwords-using-bankweaver-attack.md",
+      "committedAt": "2026-11-20T02:00:57.558-06:00",
+      "title": "Hackers Hijack Banking Servers Without Passwords Using BankWeaver Attack"
     }
   ]
 }
