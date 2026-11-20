@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T09:01:27.868-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
-  "lastId": "179nalt000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/20/n-able-says-recent-security-breach-led-to-major-service-outage.md",
+  "updatedAt": "2026-11-20T11:01:17.253-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+  "lastId": "j5wiji0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/20/vendor-data-breach-exposes-chase-visa-mastercard-customer-info.md",
   "items": [
     {
-      "id": "179nalt000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
-      "filePath": "bleepingcomp/pages/2026/11/20/n-able-says-recent-security-breach-led-to-major-service-outage.md",
-      "committedAt": "2026-11-20T09:01:27.868-05:00",
-      "title": "N-able says recent security breach led to major service outage"
+      "id": "j5wiji0000",
+      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "filePath": "bleepingcomp/pages/2026/11/20/vendor-data-breach-exposes-chase-visa-mastercard-customer-info.md",
+      "committedAt": "2026-11-20T11:01:17.253-05:00",
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info"
     }
   ]
 }
