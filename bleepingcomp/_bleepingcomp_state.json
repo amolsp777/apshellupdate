@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T20:00:59.999-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-  "lastId": "1tvjzry000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/20/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september.md",
+  "updatedAt": "2026-11-20T05:01:27.630-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+  "lastId": "m9zesx0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/20/windows-11-kb5132057-update-released-with-28-changes-and-fixes.md",
   "items": [
     {
-      "id": "1tvjzry000",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "filePath": "bleepingcomp/pages/2026/11/20/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september.md",
-      "committedAt": "2026-11-19T20:00:59.999-05:00",
-      "title": "VMware patches vCenter zero-day exploited in attacks since September"
+      "id": "m9zesx0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+      "filePath": "bleepingcomp/pages/2026/11/20/windows-11-kb5132057-update-released-with-28-changes-and-fixes.md",
+      "committedAt": "2026-11-20T05:01:27.630-05:00",
+      "title": "Windows 11 KB5132057 update released with 28 changes and fixes"
     }
   ]
 }
