@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T03:00:57.513-06:00",
-  "lastLink": "https://cyberpress.org/new-windows-11-zero-day/",
-  "lastId": "1xubj70000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/new-windows-11-zero-day-lets-attackers-bypass-lock-screen-using-microsoft-narrat.md",
+  "updatedAt": "2026-11-20T03:00:59.699-06:00",
+  "lastLink": "https://cyberpress.org/n-able-confirms-cyberattack-2/",
+  "lastId": "1ck3p2s000",
+  "lastFilePath": "cyberpress/pages/2026/11/20/n-able-confirms-cyberattack-on-mail-assure-and-spamexperts-cloud-disables-manage.md",
   "items": [
     {
       "id": "rv10880000",
@@ -249,6 +249,13 @@
       "filePath": "cyberpress/pages/2026/11/20/new-windows-11-zero-day-lets-attackers-bypass-lock-screen-using-microsoft-narrat.md",
       "committedAt": "2026-11-20T03:00:57.513-06:00",
       "title": "New Windows 11 Zero-Day Lets Attackers Bypass Lock Screen Using Microsoft Narrator"
+    },
+    {
+      "id": "1ck3p2s000",
+      "link": "https://cyberpress.org/n-able-confirms-cyberattack-2/",
+      "filePath": "cyberpress/pages/2026/11/20/n-able-confirms-cyberattack-on-mail-assure-and-spamexperts-cloud-disables-manage.md",
+      "committedAt": "2026-11-20T03:00:59.699-06:00",
+      "title": "N-able Confirms Cyberattack on Mail Assure and SpamExperts Cloud, Disables Management Access"
     }
   ]
 }
