@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T18:01:54.384-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-  "lastId": "6ykkxp0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/19/hackers-steal-data-of-16-million-sbc-medical-group-customers.md",
+  "updatedAt": "2026-11-19T20:00:59.999-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+  "lastId": "1tvjzry000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/20/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september.md",
   "items": [
     {
-      "id": "6ykkxp0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-      "filePath": "bleepingcomp/pages/2026/11/19/hackers-steal-data-of-16-million-sbc-medical-group-customers.md",
-      "committedAt": "2026-11-19T18:01:54.384-05:00",
-      "title": "Hackers steal data of 1.6 million SBC Medical Group customers"
+      "id": "1tvjzry000",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "filePath": "bleepingcomp/pages/2026/11/20/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september.md",
+      "committedAt": "2026-11-19T20:00:59.999-05:00",
+      "title": "VMware patches vCenter zero-day exploited in attacks since September"
     }
   ]
 }
