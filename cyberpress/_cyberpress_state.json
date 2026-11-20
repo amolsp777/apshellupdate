@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T02:00:59.709-06:00",
-  "lastLink": "https://cyberpress.org/powershell-modules-steal-credentials/",
-  "lastId": "16sel36000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/hackers-launch-41-powershell-modules-in-three-minutes-to-harvest-financial-crede.md",
+  "updatedAt": "2026-11-20T03:00:52.991-06:00",
+  "lastLink": "https://cyberpress.org/byod-ransomware-diverts-ambulances/",
+  "lastId": "9obw250000",
+  "lastFilePath": "cyberpress/pages/2026/11/20/byod-ransomware-attack-forces-ambulance-diversions-as-hackers-target-us-hospital.md",
   "items": [
     {
       "id": "rv10880000",
@@ -228,6 +228,13 @@
       "filePath": "cyberpress/pages/2026/11/20/hackers-launch-41-powershell-modules-in-three-minutes-to-harvest-financial-crede.md",
       "committedAt": "2026-11-20T02:00:59.709-06:00",
       "title": "Hackers Launch 41 PowerShell Modules in Three Minutes to Harvest Financial Credentials"
+    },
+    {
+      "id": "9obw250000",
+      "link": "https://cyberpress.org/byod-ransomware-diverts-ambulances/",
+      "filePath": "cyberpress/pages/2026/11/20/byod-ransomware-attack-forces-ambulance-diversions-as-hackers-target-us-hospital.md",
+      "committedAt": "2026-11-20T03:00:52.991-06:00",
+      "title": "BYOD Ransomware Attack Forces Ambulance Diversions as Hackers Target U.S. Hospitals and Universities"
     }
   ]
 }
