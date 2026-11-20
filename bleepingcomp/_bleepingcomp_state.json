@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T11:01:17.253-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-  "lastId": "j5wiji0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/20/vendor-data-breach-exposes-chase-visa-mastercard-customer-info.md",
+  "updatedAt": "2026-11-20T12:01:54.878-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+  "lastId": "ck0l3q0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/20/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind.md",
   "items": [
     {
-      "id": "j5wiji0000",
-      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-      "filePath": "bleepingcomp/pages/2026/11/20/vendor-data-breach-exposes-chase-visa-mastercard-customer-info.md",
-      "committedAt": "2026-11-20T11:01:17.253-05:00",
-      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info"
+      "id": "ck0l3q0000",
+      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "filePath": "bleepingcomp/pages/2026/11/20/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind.md",
+      "committedAt": "2026-11-20T12:01:54.878-05:00",
+      "title": "Still tracking company passwords in spreadsheets? You’re flying blind."
     }
   ]
 }
