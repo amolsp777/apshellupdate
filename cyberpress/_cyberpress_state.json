@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T23:00:37.928-06:00",
-  "lastLink": "https://cyberpress.org/metas-muse-ai-agent-private-signal-messages/",
-  "lastId": "15460b7000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/metas-muse-ai-agent-accesses-private-signal-messages-raising-serious-privacy-con.md",
+  "updatedAt": "2026-11-20T00:00:47.028-06:00",
+  "lastLink": "https://cyberpress.org/hackers-breach-kpmg-canada/",
+  "lastId": "opdfe40000",
+  "lastFilePath": "cyberpress/pages/2026/11/20/hackers-breach-kpmg-canada-and-access-confidential-client-tax-documents.md",
   "items": [
     {
       "id": "rv10880000",
@@ -179,6 +179,13 @@
       "filePath": "cyberpress/pages/2026/11/20/metas-muse-ai-agent-accesses-private-signal-messages-raising-serious-privacy-con.md",
       "committedAt": "2026-11-19T23:00:37.928-06:00",
       "title": "Meta’s Muse AI Agent Accesses Private Signal Messages, Raising Serious Privacy Concerns"
+    },
+    {
+      "id": "opdfe40000",
+      "link": "https://cyberpress.org/hackers-breach-kpmg-canada/",
+      "filePath": "cyberpress/pages/2026/11/20/hackers-breach-kpmg-canada-and-access-confidential-client-tax-documents.md",
+      "committedAt": "2026-11-20T00:00:47.028-06:00",
+      "title": "Hackers Breach KPMG Canada and Access Confidential Client Tax Documents"
     }
   ]
 }
