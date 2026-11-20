@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T03:00:55.227-06:00",
-  "lastLink": "https://cyberpress.org/critical-php2shell-vulnerability/",
-  "lastId": "1wn12ye000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/critical-php2shell-vulnerability-lets-hackers-execute-code-on-servers-without-au.md",
+  "updatedAt": "2026-11-20T03:00:57.513-06:00",
+  "lastLink": "https://cyberpress.org/new-windows-11-zero-day/",
+  "lastId": "1xubj70000",
+  "lastFilePath": "cyberpress/pages/2026/11/20/new-windows-11-zero-day-lets-attackers-bypass-lock-screen-using-microsoft-narrat.md",
   "items": [
     {
       "id": "rv10880000",
@@ -242,6 +242,13 @@
       "filePath": "cyberpress/pages/2026/11/20/critical-php2shell-vulnerability-lets-hackers-execute-code-on-servers-without-au.md",
       "committedAt": "2026-11-20T03:00:55.227-06:00",
       "title": "Critical PHP2Shell Vulnerability Lets Hackers Execute Code on Servers Without Authentication"
+    },
+    {
+      "id": "1xubj70000",
+      "link": "https://cyberpress.org/new-windows-11-zero-day/",
+      "filePath": "cyberpress/pages/2026/11/20/new-windows-11-zero-day-lets-attackers-bypass-lock-screen-using-microsoft-narrat.md",
+      "committedAt": "2026-11-20T03:00:57.513-06:00",
+      "title": "New Windows 11 Zero-Day Lets Attackers Bypass Lock Screen Using Microsoft Narrator"
     }
   ]
 }
