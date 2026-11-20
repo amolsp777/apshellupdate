@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T05:00:59.003-06:00",
-  "lastLink": "https://cyberpress.org/china-linked-hackers-exploit-softether/",
-  "lastId": "fg2g4r0000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/china-linked-hackers-use-stealthy-softether-vpn-tool-to-spy-on-government-networ.md",
+  "updatedAt": "2026-11-20T05:01:03.280-06:00",
+  "lastLink": "https://cyberpress.org/could-reporting-tools-do-better-with-the-ai-advances-what-should-a-pentest-team-do/",
+  "lastId": "3vpkdt0000",
+  "lastFilePath": "cyberpress/pages/2026/11/20/could-reporting-tools-do-better-with-the-ai-advances-what-should-a-pentest-team-.md",
   "items": [
     {
       "id": "rv10880000",
@@ -298,6 +298,13 @@
       "filePath": "cyberpress/pages/2026/11/20/china-linked-hackers-use-stealthy-softether-vpn-tool-to-spy-on-government-networ.md",
       "committedAt": "2026-11-20T05:00:59.003-06:00",
       "title": "China-Linked Hackers Use Stealthy SoftEther VPN Tool to Spy on Government Networks"
+    },
+    {
+      "id": "3vpkdt0000",
+      "link": "https://cyberpress.org/could-reporting-tools-do-better-with-the-ai-advances-what-should-a-pentest-team-do/",
+      "filePath": "cyberpress/pages/2026/11/20/could-reporting-tools-do-better-with-the-ai-advances-what-should-a-pentest-team-.md",
+      "committedAt": "2026-11-20T05:01:03.280-06:00",
+      "title": "Could Reporting Tools Do Better with the AI Advances: What Should a Pentest Team Do?"
     }
   ]
 }
