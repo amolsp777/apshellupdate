@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T03:01:08.840-06:00",
-  "lastLink": "https://cyberpress.org/brand-protection-tools/",
-  "lastId": "jataeh0000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/8-brand-protection-anti-impersonation-tools-our-top-picks-by-use-case-2026.md",
+  "updatedAt": "2026-11-20T03:01:11.366-06:00",
+  "lastLink": "https://cyberpress.org/ai-hackers-probe-relentlessly/",
+  "lastId": "1ct5qkz000",
+  "lastFilePath": "cyberpress/pages/2026/11/20/ai-powered-hacking-tools-let-attackers-keep-trying-until-they-find-weaknesses-in.md",
   "items": [
     {
       "id": "rv10880000",
@@ -284,6 +284,13 @@
       "filePath": "cyberpress/pages/2026/11/20/8-brand-protection-anti-impersonation-tools-our-top-picks-by-use-case-2026.md",
       "committedAt": "2026-11-20T03:01:08.840-06:00",
       "title": "8 Brand Protection & Anti-Impersonation Tools: Our Top Picks by Use Case (2026)"
+    },
+    {
+      "id": "1ct5qkz000",
+      "link": "https://cyberpress.org/ai-hackers-probe-relentlessly/",
+      "filePath": "cyberpress/pages/2026/11/20/ai-powered-hacking-tools-let-attackers-keep-trying-until-they-find-weaknesses-in.md",
+      "committedAt": "2026-11-20T03:01:11.366-06:00",
+      "title": "AI-Powered Hacking Tools Let Attackers Keep Trying Until They Find Weaknesses in Enterprise Defenses"
     }
   ]
 }
