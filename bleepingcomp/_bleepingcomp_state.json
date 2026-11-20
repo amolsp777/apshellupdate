@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T06:01:00.137-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-  "lastId": "11l59b2000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/20/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws.md",
+  "updatedAt": "2026-11-20T09:01:27.868-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+  "lastId": "179nalt000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/20/n-able-says-recent-security-breach-led-to-major-service-outage.md",
   "items": [
     {
-      "id": "11l59b2000",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-      "filePath": "bleepingcomp/pages/2026/11/20/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws.md",
-      "committedAt": "2026-11-20T06:01:00.137-05:00",
-      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws"
+      "id": "179nalt000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "filePath": "bleepingcomp/pages/2026/11/20/n-able-says-recent-security-breach-led-to-major-service-outage.md",
+      "committedAt": "2026-11-20T09:01:27.868-05:00",
+      "title": "N-able says recent security breach led to major service outage"
     }
   ]
 }
