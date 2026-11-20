@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T05:01:27.630-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
-  "lastId": "m9zesx0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/20/windows-11-kb5132057-update-released-with-28-changes-and-fixes.md",
+  "updatedAt": "2026-11-20T06:01:00.137-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+  "lastId": "11l59b2000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/20/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws.md",
   "items": [
     {
-      "id": "m9zesx0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
-      "filePath": "bleepingcomp/pages/2026/11/20/windows-11-kb5132057-update-released-with-28-changes-and-fixes.md",
-      "committedAt": "2026-11-20T05:01:27.630-05:00",
-      "title": "Windows 11 KB5132057 update released with 28 changes and fixes"
+      "id": "11l59b2000",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "filePath": "bleepingcomp/pages/2026/11/20/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws.md",
+      "committedAt": "2026-11-20T06:01:00.137-05:00",
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws"
     }
   ]
 }
