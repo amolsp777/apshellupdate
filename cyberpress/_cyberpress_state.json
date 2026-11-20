@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T03:01:01.924-06:00",
-  "lastLink": "https://cyberpress.org/bot-management-solutions/",
-  "lastId": "rgfin00000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/8-bot-management-solutions-our-top-picks-by-use-case-2026.md",
+  "updatedAt": "2026-11-20T03:01:04.357-06:00",
+  "lastLink": "https://cyberpress.org/account-takeover-protection/",
+  "lastId": "57iass0000",
+  "lastFilePath": "cyberpress/pages/2026/11/20/8-account-takeover-ato-protection-tools-our-top-picks-by-use-case-2026.md",
   "items": [
     {
       "id": "rv10880000",
@@ -263,6 +263,13 @@
       "filePath": "cyberpress/pages/2026/11/20/8-bot-management-solutions-our-top-picks-by-use-case-2026.md",
       "committedAt": "2026-11-20T03:01:01.924-06:00",
       "title": "8 Bot Management Solutions: Our Top Picks by Use Case (2026)"
+    },
+    {
+      "id": "57iass0000",
+      "link": "https://cyberpress.org/account-takeover-protection/",
+      "filePath": "cyberpress/pages/2026/11/20/8-account-takeover-ato-protection-tools-our-top-picks-by-use-case-2026.md",
+      "committedAt": "2026-11-20T03:01:04.357-06:00",
+      "title": "8 Account Takeover (ATO) Protection Tools: Our Top Picks by Use Case (2026)"
     }
   ]
 }
