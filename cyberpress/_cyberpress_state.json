@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T00:00:49.281-06:00",
-  "lastLink": "https://cyberpress.org/jpmorgan-chase-confirms-third-party-cyberattack/",
-  "lastId": "ybaeya0000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/jpmorgan-chase-confirms-third-party-cyberattack-exposing-customer-names-and-emai.md",
+  "updatedAt": "2026-11-20T02:00:50.696-06:00",
+  "lastLink": "https://cyberpress.org/exploit-vmware-vcenter-zero-day/",
+  "lastId": "1tqcblp000",
+  "lastFilePath": "cyberpress/pages/2026/11/20/chinese-hackers-exploit-vmware-vcenter-zero-day-to-gain-admin-access-without-log.md",
   "items": [
     {
       "id": "rv10880000",
@@ -193,6 +193,13 @@
       "filePath": "cyberpress/pages/2026/11/20/jpmorgan-chase-confirms-third-party-cyberattack-exposing-customer-names-and-emai.md",
       "committedAt": "2026-11-20T00:00:49.281-06:00",
       "title": "JPMorgan Chase Confirms Third-Party Cyberattack Exposing Customer Names and Email Addresses"
+    },
+    {
+      "id": "1tqcblp000",
+      "link": "https://cyberpress.org/exploit-vmware-vcenter-zero-day/",
+      "filePath": "cyberpress/pages/2026/11/20/chinese-hackers-exploit-vmware-vcenter-zero-day-to-gain-admin-access-without-log.md",
+      "committedAt": "2026-11-20T02:00:50.696-06:00",
+      "title": "Chinese Hackers Exploit VMware vCenter Zero-Day to Gain Admin Access Without Login"
     }
   ]
 }
