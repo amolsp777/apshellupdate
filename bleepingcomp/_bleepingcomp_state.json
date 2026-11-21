@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T14:01:54.619-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-  "lastId": "1at0fni000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/20/bell-canada-says-agentic-hacker-stole-enterprise-customer-data.md",
+  "updatedAt": "2026-11-21T10:01:49.062-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+  "lastId": "1rdyzmn000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/21/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database.md",
   "items": [
     {
-      "id": "1at0fni000",
-      "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "filePath": "bleepingcomp/pages/2026/11/20/bell-canada-says-agentic-hacker-stole-enterprise-customer-data.md",
-      "committedAt": "2026-11-20T14:01:54.619-05:00",
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data"
+      "id": "1rdyzmn000",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+      "filePath": "bleepingcomp/pages/2026/11/21/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database.md",
+      "committedAt": "2026-11-21T10:01:49.062-05:00",
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database"
     }
   ]
 }
