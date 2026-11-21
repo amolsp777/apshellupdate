@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T00:00:40.016-06:00",
-  "lastLink": "https://cyberpress.org/new-bazuka-android-banking-trojan/",
-  "lastId": "vrghnn0000",
-  "lastFilePath": "cyberpress/pages/2026/11/21/new-bazuka-android-banking-trojan-uses-ai-to-target-victims-and-steal-banking-cr.md",
+  "updatedAt": "2026-11-21T00:00:42.321-06:00",
+  "lastLink": "https://cyberpress.org/whatsapp-security-flaw/",
+  "lastId": "1vyq6ms000",
+  "lastFilePath": "cyberpress/pages/2026/11/21/whatsapp-security-flaw-lets-hackers-delete-local-chat-files-using-malicious-mess.md",
   "items": [
     {
       "id": "rv10880000",
@@ -354,6 +354,13 @@
       "filePath": "cyberpress/pages/2026/11/21/new-bazuka-android-banking-trojan-uses-ai-to-target-victims-and-steal-banking-cr.md",
       "committedAt": "2026-11-21T00:00:40.016-06:00",
       "title": "New Bazuka Android Banking Trojan Uses AI to Target Victims and Steal Banking Credentials"
+    },
+    {
+      "id": "1vyq6ms000",
+      "link": "https://cyberpress.org/whatsapp-security-flaw/",
+      "filePath": "cyberpress/pages/2026/11/21/whatsapp-security-flaw-lets-hackers-delete-local-chat-files-using-malicious-mess.md",
+      "committedAt": "2026-11-21T00:00:42.321-06:00",
+      "title": "WhatsApp Security Flaw Lets Hackers Delete Local Chat Files Using Malicious Messages"
     }
   ]
 }
