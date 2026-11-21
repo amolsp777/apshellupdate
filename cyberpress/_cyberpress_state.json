@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T00:00:35.407-06:00",
-  "lastLink": "https://cyberpress.org/critical-f5-big-ip-vulnerability/",
-  "lastId": "en69ar0000",
-  "lastFilePath": "cyberpress/pages/2026/11/21/critical-f5-big-ip-vulnerability-allows-hackers-to-execute-code-without-authenti.md",
+  "updatedAt": "2026-11-21T00:00:37.829-06:00",
+  "lastLink": "https://cyberpress.org/chinese-hackers-softether-vpn/",
+  "lastId": "18jvlpw000",
+  "lastFilePath": "cyberpress/pages/2026/11/21/chinese-hackers-use-modified-softether-vpn-to-spy-on-european-government-network.md",
   "items": [
     {
       "id": "rv10880000",
@@ -340,6 +340,13 @@
       "filePath": "cyberpress/pages/2026/11/21/critical-f5-big-ip-vulnerability-allows-hackers-to-execute-code-without-authenti.md",
       "committedAt": "2026-11-21T00:00:35.407-06:00",
       "title": "Critical F5 BIG-IP Vulnerability Allows Hackers to Execute Code Without Authentication"
+    },
+    {
+      "id": "18jvlpw000",
+      "link": "https://cyberpress.org/chinese-hackers-softether-vpn/",
+      "filePath": "cyberpress/pages/2026/11/21/chinese-hackers-use-modified-softether-vpn-to-spy-on-european-government-network.md",
+      "committedAt": "2026-11-21T00:00:37.829-06:00",
+      "title": "Chinese Hackers Use Modified SoftEther VPN to Spy on European Government Networks"
     }
   ]
 }
