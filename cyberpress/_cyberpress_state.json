@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T00:00:37.829-06:00",
-  "lastLink": "https://cyberpress.org/chinese-hackers-softether-vpn/",
-  "lastId": "18jvlpw000",
-  "lastFilePath": "cyberpress/pages/2026/11/21/chinese-hackers-use-modified-softether-vpn-to-spy-on-european-government-network.md",
+  "updatedAt": "2026-11-21T00:00:40.016-06:00",
+  "lastLink": "https://cyberpress.org/new-bazuka-android-banking-trojan/",
+  "lastId": "vrghnn0000",
+  "lastFilePath": "cyberpress/pages/2026/11/21/new-bazuka-android-banking-trojan-uses-ai-to-target-victims-and-steal-banking-cr.md",
   "items": [
     {
       "id": "rv10880000",
@@ -347,6 +347,13 @@
       "filePath": "cyberpress/pages/2026/11/21/chinese-hackers-use-modified-softether-vpn-to-spy-on-european-government-network.md",
       "committedAt": "2026-11-21T00:00:37.829-06:00",
       "title": "Chinese Hackers Use Modified SoftEther VPN to Spy on European Government Networks"
+    },
+    {
+      "id": "vrghnn0000",
+      "link": "https://cyberpress.org/new-bazuka-android-banking-trojan/",
+      "filePath": "cyberpress/pages/2026/11/21/new-bazuka-android-banking-trojan-uses-ai-to-target-victims-and-steal-banking-cr.md",
+      "committedAt": "2026-11-21T00:00:40.016-06:00",
+      "title": "New Bazuka Android Banking Trojan Uses AI to Target Victims and Steal Banking Credentials"
     }
   ]
 }
