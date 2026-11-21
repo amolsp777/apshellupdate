@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T23:00:38.576-06:00",
-  "lastLink": "https://cyberpress.org/north-korean-deepfake-video-calls/",
-  "lastId": "u3a4td0000",
-  "lastFilePath": "cyberpress/pages/2026/11/21/north-korean-hackers-use-deepfake-video-calls-and-fake-us-construction-company-t.md",
+  "updatedAt": "2026-11-21T00:00:35.407-06:00",
+  "lastLink": "https://cyberpress.org/critical-f5-big-ip-vulnerability/",
+  "lastId": "en69ar0000",
+  "lastFilePath": "cyberpress/pages/2026/11/21/critical-f5-big-ip-vulnerability-allows-hackers-to-execute-code-without-authenti.md",
   "items": [
     {
       "id": "rv10880000",
@@ -333,6 +333,13 @@
       "filePath": "cyberpress/pages/2026/11/21/north-korean-hackers-use-deepfake-video-calls-and-fake-us-construction-company-t.md",
       "committedAt": "2026-11-20T23:00:38.576-06:00",
       "title": "North Korean Hackers Use Deepfake Video Calls and Fake US Construction Company to Secure Contracts"
+    },
+    {
+      "id": "en69ar0000",
+      "link": "https://cyberpress.org/critical-f5-big-ip-vulnerability/",
+      "filePath": "cyberpress/pages/2026/11/21/critical-f5-big-ip-vulnerability-allows-hackers-to-execute-code-without-authenti.md",
+      "committedAt": "2026-11-21T00:00:35.407-06:00",
+      "title": "Critical F5 BIG-IP Vulnerability Allows Hackers to Execute Code Without Authentication"
     }
   ]
 }
