@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T23:00:35.691-06:00",
-  "lastLink": "https://cyberpress.org/critical-apache-tomcat-flaw/",
-  "lastId": "1tkjb7k000",
-  "lastFilePath": "cyberpress/pages/2026/11/21/critical-apache-tomcat-flaw-lets-unauthenticated-attackers-join-secure-server-cl.md",
+  "updatedAt": "2026-11-20T23:00:38.576-06:00",
+  "lastLink": "https://cyberpress.org/north-korean-deepfake-video-calls/",
+  "lastId": "u3a4td0000",
+  "lastFilePath": "cyberpress/pages/2026/11/21/north-korean-hackers-use-deepfake-video-calls-and-fake-us-construction-company-t.md",
   "items": [
     {
       "id": "rv10880000",
@@ -326,6 +326,13 @@
       "filePath": "cyberpress/pages/2026/11/21/critical-apache-tomcat-flaw-lets-unauthenticated-attackers-join-secure-server-cl.md",
       "committedAt": "2026-11-20T23:00:35.691-06:00",
       "title": "Critical Apache Tomcat Flaw Lets Unauthenticated Attackers Join Secure Server Clusters"
+    },
+    {
+      "id": "u3a4td0000",
+      "link": "https://cyberpress.org/north-korean-deepfake-video-calls/",
+      "filePath": "cyberpress/pages/2026/11/21/north-korean-hackers-use-deepfake-video-calls-and-fake-us-construction-company-t.md",
+      "committedAt": "2026-11-20T23:00:38.576-06:00",
+      "title": "North Korean Hackers Use Deepfake Video Calls and Fake US Construction Company to Secure Contracts"
     }
   ]
 }
