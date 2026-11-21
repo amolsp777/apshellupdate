@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T14:01:10.998-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-  "lastId": "1cq2ok3000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/21/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data.md",
+  "updatedAt": "2026-11-21T18:01:11.756-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+  "lastId": "1hpyxq0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/21/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets.md",
   "items": [
     {
-      "id": "1cq2ok3000",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-      "filePath": "bleepingcomp/pages/2026/11/21/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data.md",
-      "committedAt": "2026-11-21T14:01:10.998-05:00",
-      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data"
+      "id": "1hpyxq0000",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "filePath": "bleepingcomp/pages/2026/11/21/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets.md",
+      "committedAt": "2026-11-21T18:01:11.756-05:00",
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets"
     }
   ]
 }
