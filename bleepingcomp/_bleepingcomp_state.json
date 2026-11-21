@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T12:01:17.035-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-  "lastId": "6djtml0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/21/badbox-botnet-returns-with-record-breaking-40-billion-daily-ad-requests.md",
+  "updatedAt": "2026-11-21T14:01:10.998-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+  "lastId": "1cq2ok3000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/21/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data.md",
   "items": [
     {
-      "id": "6djtml0000",
-      "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-      "filePath": "bleepingcomp/pages/2026/11/21/badbox-botnet-returns-with-record-breaking-40-billion-daily-ad-requests.md",
-      "committedAt": "2026-11-21T12:01:17.035-05:00",
-      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests"
+      "id": "1cq2ok3000",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "filePath": "bleepingcomp/pages/2026/11/21/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data.md",
+      "committedAt": "2026-11-21T14:01:10.998-05:00",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data"
     }
   ]
 }
