@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T06:01:05.075-06:00",
-  "lastLink": "https://cyberpress.org/exploit-volkswagen-bluetooth-flaw/",
-  "lastId": "vjhg1e0000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/hackers-can-exploit-volkswagen-bluetooth-flaw-to-spy-on-drivers-and-track-vehicl.md",
+  "updatedAt": "2026-11-20T23:00:35.691-06:00",
+  "lastLink": "https://cyberpress.org/critical-apache-tomcat-flaw/",
+  "lastId": "1tkjb7k000",
+  "lastFilePath": "cyberpress/pages/2026/11/21/critical-apache-tomcat-flaw-lets-unauthenticated-attackers-join-secure-server-cl.md",
   "items": [
     {
       "id": "rv10880000",
@@ -319,6 +319,13 @@
       "filePath": "cyberpress/pages/2026/11/20/hackers-can-exploit-volkswagen-bluetooth-flaw-to-spy-on-drivers-and-track-vehicl.md",
       "committedAt": "2026-11-20T06:01:05.075-06:00",
       "title": "Hackers Can Exploit Volkswagen Bluetooth Flaw to Spy on Drivers and Track Vehicles"
+    },
+    {
+      "id": "1tkjb7k000",
+      "link": "https://cyberpress.org/critical-apache-tomcat-flaw/",
+      "filePath": "cyberpress/pages/2026/11/21/critical-apache-tomcat-flaw-lets-unauthenticated-attackers-join-secure-server-cl.md",
+      "committedAt": "2026-11-20T23:00:35.691-06:00",
+      "title": "Critical Apache Tomcat Flaw Lets Unauthenticated Attackers Join Secure Server Clusters"
     }
   ]
 }
