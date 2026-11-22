@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T11:01:05.300-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-  "lastId": "1fxr9f6000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/22/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach.md",
+  "updatedAt": "2026-11-22T12:01:49.001-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+  "lastId": "5r3blf0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/22/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android.md",
   "items": [
     {
-      "id": "1fxr9f6000",
-      "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-      "filePath": "bleepingcomp/pages/2026/11/22/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach.md",
-      "committedAt": "2026-11-22T11:01:05.300-05:00",
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach"
+      "id": "5r3blf0000",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "filePath": "bleepingcomp/pages/2026/11/22/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android.md",
+      "committedAt": "2026-11-22T12:01:49.001-05:00",
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android"
     }
   ]
 }
