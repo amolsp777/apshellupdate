@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T18:01:11.756-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-  "lastId": "1hpyxq0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/21/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets.md",
+  "updatedAt": "2026-11-22T11:01:05.300-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+  "lastId": "1fxr9f6000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/22/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach.md",
   "items": [
     {
-      "id": "1hpyxq0000",
-      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-      "filePath": "bleepingcomp/pages/2026/11/21/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets.md",
-      "committedAt": "2026-11-21T18:01:11.756-05:00",
-      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets"
+      "id": "1fxr9f6000",
+      "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "filePath": "bleepingcomp/pages/2026/11/22/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach.md",
+      "committedAt": "2026-11-22T11:01:05.300-05:00",
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach"
     }
   ]
 }
