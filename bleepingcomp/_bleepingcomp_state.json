@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T12:01:49.001-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
-  "lastId": "5r3blf0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/22/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android.md",
+  "updatedAt": "2026-11-22T14:01:11.093-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+  "lastId": "1hm4rkh000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/22/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices.md",
   "items": [
     {
-      "id": "5r3blf0000",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
-      "filePath": "bleepingcomp/pages/2026/11/22/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android.md",
-      "committedAt": "2026-11-22T12:01:49.001-05:00",
-      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android"
+      "id": "1hm4rkh000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "filePath": "bleepingcomp/pages/2026/11/22/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices.md",
+      "committedAt": "2026-11-22T14:01:11.093-05:00",
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices"
     }
   ]
 }
