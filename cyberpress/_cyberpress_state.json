@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T07:00:37.673-06:00",
-  "lastLink": "https://cyberpress.org/crowdstrike-acquire-zscaler-in-43-9-billion-deal/",
-  "lastId": "yw7u5f0000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/crowdstrike-to-acquire-zscaler-in-439-billion-deal-to-expand-network-security-an.md",
+  "updatedAt": "2026-11-23T07:00:40.216-06:00",
+  "lastLink": "https://cyberpress.org/indian-government-hijack-whatsapp-web-sessions/",
+  "lastId": "p4jltc0000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/indian-government-warns-hackers-could-hijack-whatsapp-web-sessions-to-steal-mess.md",
   "items": [
     {
       "id": "rv10880000",
@@ -494,6 +494,13 @@
       "filePath": "cyberpress/pages/2026/11/23/crowdstrike-to-acquire-zscaler-in-439-billion-deal-to-expand-network-security-an.md",
       "committedAt": "2026-11-23T07:00:37.673-06:00",
       "title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal to Expand Network Security and Zero Trust Protection"
+    },
+    {
+      "id": "p4jltc0000",
+      "link": "https://cyberpress.org/indian-government-hijack-whatsapp-web-sessions/",
+      "filePath": "cyberpress/pages/2026/11/23/indian-government-warns-hackers-could-hijack-whatsapp-web-sessions-to-steal-mess.md",
+      "committedAt": "2026-11-23T07:00:40.216-06:00",
+      "title": "Indian Government Warns Hackers Could Hijack WhatsApp Web Sessions to Steal Messages and Impersonate Users"
     }
   ]
 }
