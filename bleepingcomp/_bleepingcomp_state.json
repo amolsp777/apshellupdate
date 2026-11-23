@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T05:01:11.169-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-  "lastId": "1fc08ab000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/23/microsoft-confirms-windows-printing-issues-affecting-forcepoint-users.md",
+  "updatedAt": "2026-11-23T08:01:49.765-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+  "lastId": "k8f56n0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/23/call-center-operator-gets-8-years-for-helping-scam-30000-americans.md",
   "items": [
     {
-      "id": "1fc08ab000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-      "filePath": "bleepingcomp/pages/2026/11/23/microsoft-confirms-windows-printing-issues-affecting-forcepoint-users.md",
-      "committedAt": "2026-11-23T05:01:11.169-05:00",
-      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users"
+      "id": "k8f56n0000",
+      "link": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+      "filePath": "bleepingcomp/pages/2026/11/23/call-center-operator-gets-8-years-for-helping-scam-30000-americans.md",
+      "committedAt": "2026-11-23T08:01:49.765-05:00",
+      "title": "Call center operator gets 8 years for helping scam 30,000 Americans"
     }
   ]
 }
