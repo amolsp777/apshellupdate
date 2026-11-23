@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T00:00:36.289-06:00",
-  "lastLink": "https://cyberpress.org/microsoft-entra-connect-health-flaw/",
-  "lastId": "18rx7o2000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-exploit-microsoft-entra-connect-health-flaw-to-access-admin-emails-and-t.md",
+  "updatedAt": "2026-11-23T01:00:38.963-06:00",
+  "lastLink": "https://cyberpress.org/hackers-breach-three-ai-providers/",
+  "lastId": "1w3sgjy000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-breach-three-ai-providers-and-steal-customer-prompts-containing-aws-cred.md",
   "items": [
     {
       "id": "rv10880000",
@@ -368,6 +368,13 @@
       "filePath": "cyberpress/pages/2026/11/23/hackers-exploit-microsoft-entra-connect-health-flaw-to-access-admin-emails-and-t.md",
       "committedAt": "2026-11-23T00:00:36.289-06:00",
       "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Tenant Data"
+    },
+    {
+      "id": "1w3sgjy000",
+      "link": "https://cyberpress.org/hackers-breach-three-ai-providers/",
+      "filePath": "cyberpress/pages/2026/11/23/hackers-breach-three-ai-providers-and-steal-customer-prompts-containing-aws-cred.md",
+      "committedAt": "2026-11-23T01:00:38.963-06:00",
+      "title": "Hackers Breach Three AI Providers and Steal Customer Prompts Containing AWS Credentials"
     }
   ]
 }
