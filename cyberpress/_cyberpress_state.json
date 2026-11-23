@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T03:00:36.286-06:00",
-  "lastLink": "https://cyberpress.org/critical-cisco-expressway-flaw-2/",
-  "lastId": "1hzc71y000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-exploit-critical-cisco-expressway-flaw-to-gain-root-access-and-breach-in.md",
+  "updatedAt": "2026-11-23T03:00:38.456-06:00",
+  "lastLink": "https://cyberpress.org/critical-palo-alto-networks-pan-os-flaws/",
+  "lastId": "t9n77y0000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/critical-palo-alto-networks-pan-os-flaws-let-hackers-execute-code-remotely-witho.md",
   "items": [
     {
       "id": "rv10880000",
@@ -445,6 +445,13 @@
       "filePath": "cyberpress/pages/2026/11/23/hackers-exploit-critical-cisco-expressway-flaw-to-gain-root-access-and-breach-in.md",
       "committedAt": "2026-11-23T03:00:36.286-06:00",
       "title": "Hackers Exploit Critical Cisco Expressway Flaw to Gain Root Access and Breach Internal Networks"
+    },
+    {
+      "id": "t9n77y0000",
+      "link": "https://cyberpress.org/critical-palo-alto-networks-pan-os-flaws/",
+      "filePath": "cyberpress/pages/2026/11/23/critical-palo-alto-networks-pan-os-flaws-let-hackers-execute-code-remotely-witho.md",
+      "committedAt": "2026-11-23T03:00:38.456-06:00",
+      "title": "Critical Palo Alto Networks PAN-OS Flaws Let Hackers Execute Code Remotely Without Authentication"
     }
   ]
 }
