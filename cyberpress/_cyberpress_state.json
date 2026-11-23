@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T02:00:53.043-06:00",
-  "lastLink": "https://cyberpress.org/jailbroken-ai-enables-breach/",
-  "lastId": "o9i90b0000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/low-skilled-hacker-uses-jailbroken-ai-agent-to-steal-insurance-data-and-86gb-of-.md",
+  "updatedAt": "2026-11-23T02:00:57.712-06:00",
+  "lastLink": "https://cyberpress.org/malicious-ads-hijack-iphones/",
+  "lastId": "1cqr5mb000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-use-malicious-ads-to-hijack-iphones-and-steal-cryptocurrency-wallet-data.md",
   "items": [
     {
       "id": "rv10880000",
@@ -424,6 +424,13 @@
       "filePath": "cyberpress/pages/2026/11/23/low-skilled-hacker-uses-jailbroken-ai-agent-to-steal-insurance-data-and-86gb-of-.md",
       "committedAt": "2026-11-23T02:00:53.043-06:00",
       "title": "Low-Skilled Hacker Uses Jailbroken AI Agent to Steal Insurance Data and 8.6GB of Government Files"
+    },
+    {
+      "id": "1cqr5mb000",
+      "link": "https://cyberpress.org/malicious-ads-hijack-iphones/",
+      "filePath": "cyberpress/pages/2026/11/23/hackers-use-malicious-ads-to-hijack-iphones-and-steal-cryptocurrency-wallet-data.md",
+      "committedAt": "2026-11-23T02:00:57.712-06:00",
+      "title": "Hackers Use Malicious Ads to Hijack iPhones and Steal Cryptocurrency Wallet Data"
     }
   ]
 }
