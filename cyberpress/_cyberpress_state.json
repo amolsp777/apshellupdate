@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T05:00:47.348-06:00",
-  "lastLink": "https://cyberpress.org/hackers-breach-samsung-securities/",
-  "lastId": "1f75b10000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-breach-samsung-securities-exposing-bank-account-and-personal-data-of-824.md",
+  "updatedAt": "2026-11-23T06:00:47.112-06:00",
+  "lastLink": "https://cyberpress.org/cisa-exploiting-vmware-cisco-sap-apache-vulnerabilities/",
+  "lastId": "n71i7g0000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/cisa-warns-hackers-are-actively-exploiting-vmware-cisco-sap-and-apache-vulnerabi.md",
   "items": [
     {
       "id": "rv10880000",
@@ -473,6 +473,13 @@
       "filePath": "cyberpress/pages/2026/11/23/hackers-breach-samsung-securities-exposing-bank-account-and-personal-data-of-824.md",
       "committedAt": "2026-11-23T05:00:47.348-06:00",
       "title": "Hackers Breach Samsung Securities, Exposing Bank Account and Personal Data of 8,241 Customers"
+    },
+    {
+      "id": "n71i7g0000",
+      "link": "https://cyberpress.org/cisa-exploiting-vmware-cisco-sap-apache-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/11/23/cisa-warns-hackers-are-actively-exploiting-vmware-cisco-sap-and-apache-vulnerabi.md",
+      "committedAt": "2026-11-23T06:00:47.112-06:00",
+      "title": "CISA Warns Hackers Are Actively Exploiting VMware, Cisco, SAP and Apache Vulnerabilities"
     }
   ]
 }
