@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T16:01:01.269-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-  "lastId": "13ql9yh000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/23/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million.md",
+  "updatedAt": "2026-11-23T17:01:17.562-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+  "lastId": "gw15fd0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/23/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials.md",
   "items": [
     {
-      "id": "13ql9yh000",
-      "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "filePath": "bleepingcomp/pages/2026/11/23/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million.md",
-      "committedAt": "2026-11-23T16:01:01.269-05:00",
-      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million"
+      "id": "gw15fd0000",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "filePath": "bleepingcomp/pages/2026/11/23/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials.md",
+      "committedAt": "2026-11-23T17:01:17.562-05:00",
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials"
     }
   ]
 }
