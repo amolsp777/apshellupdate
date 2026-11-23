@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T02:00:44.141-06:00",
-  "lastLink": "https://cyberpress.org/gl-inet-cloud-vulnerability/",
-  "lastId": "56dtdf0000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-exploit-glinet-cloud-vulnerability-to-install-malware-on-routers-and-kvm.md",
+  "updatedAt": "2026-11-23T02:00:46.411-06:00",
+  "lastLink": "https://cyberpress.org/wordpress-hosts-13-clickfix-traps/",
+  "lastId": "1f8f5ue000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-plant-13-clickfix-traps-on-wordpress-site-to-trick-visitors-into-running.md",
   "items": [
     {
       "id": "rv10880000",
@@ -396,6 +396,13 @@
       "filePath": "cyberpress/pages/2026/11/23/hackers-exploit-glinet-cloud-vulnerability-to-install-malware-on-routers-and-kvm.md",
       "committedAt": "2026-11-23T02:00:44.141-06:00",
       "title": "Hackers Exploit GL.iNet Cloud Vulnerability to Install Malware on Routers and KVM Devices"
+    },
+    {
+      "id": "1f8f5ue000",
+      "link": "https://cyberpress.org/wordpress-hosts-13-clickfix-traps/",
+      "filePath": "cyberpress/pages/2026/11/23/hackers-plant-13-clickfix-traps-on-wordpress-site-to-trick-visitors-into-running.md",
+      "committedAt": "2026-11-23T02:00:46.411-06:00",
+      "title": "Hackers Plant 13 ClickFix Traps on WordPress Site to Trick Visitors Into Running Malware"
     }
   ]
 }
