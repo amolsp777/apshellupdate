@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T06:00:49.201-06:00",
-  "lastLink": "https://cyberpress.org/infiltrate-fbi-database/",
-  "lastId": "c8zmbw0000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-reportedly-infiltrate-fbi-database-containing-criminal-records-and-arres.md",
+  "updatedAt": "2026-11-23T07:00:37.673-06:00",
+  "lastLink": "https://cyberpress.org/crowdstrike-acquire-zscaler-in-43-9-billion-deal/",
+  "lastId": "yw7u5f0000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/crowdstrike-to-acquire-zscaler-in-439-billion-deal-to-expand-network-security-an.md",
   "items": [
     {
       "id": "rv10880000",
@@ -487,6 +487,13 @@
       "filePath": "cyberpress/pages/2026/11/23/hackers-reportedly-infiltrate-fbi-database-containing-criminal-records-and-arres.md",
       "committedAt": "2026-11-23T06:00:49.201-06:00",
       "title": "Hackers Reportedly Infiltrate FBI Database Containing Criminal Records and Arrest Warrants"
+    },
+    {
+      "id": "yw7u5f0000",
+      "link": "https://cyberpress.org/crowdstrike-acquire-zscaler-in-43-9-billion-deal/",
+      "filePath": "cyberpress/pages/2026/11/23/crowdstrike-to-acquire-zscaler-in-439-billion-deal-to-expand-network-security-an.md",
+      "committedAt": "2026-11-23T07:00:37.673-06:00",
+      "title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal to Expand Network Security and Zero Trust Protection"
     }
   ]
 }
