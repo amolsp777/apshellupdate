@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T05:00:45.081-06:00",
-  "lastLink": "https://cyberpress.org/critical-asp-net-vulnerability/",
-  "lastId": "1bhnwsd000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/critical-aspnet-vulnerability-allows-hackers-to-execute-code-without-authenticat.md",
+  "updatedAt": "2026-11-23T05:00:47.348-06:00",
+  "lastLink": "https://cyberpress.org/hackers-breach-samsung-securities/",
+  "lastId": "1f75b10000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-breach-samsung-securities-exposing-bank-account-and-personal-data-of-824.md",
   "items": [
     {
       "id": "rv10880000",
@@ -466,6 +466,13 @@
       "filePath": "cyberpress/pages/2026/11/23/critical-aspnet-vulnerability-allows-hackers-to-execute-code-without-authenticat.md",
       "committedAt": "2026-11-23T05:00:45.081-06:00",
       "title": "Critical ASP.NET Vulnerability Allows Hackers to Execute Code Without Authentication"
+    },
+    {
+      "id": "1f75b10000",
+      "link": "https://cyberpress.org/hackers-breach-samsung-securities/",
+      "filePath": "cyberpress/pages/2026/11/23/hackers-breach-samsung-securities-exposing-bank-account-and-personal-data-of-824.md",
+      "committedAt": "2026-11-23T05:00:47.348-06:00",
+      "title": "Hackers Breach Samsung Securities, Exposing Bank Account and Personal Data of 8,241 Customers"
     }
   ]
 }
