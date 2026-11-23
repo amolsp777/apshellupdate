@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T06:00:47.112-06:00",
-  "lastLink": "https://cyberpress.org/cisa-exploiting-vmware-cisco-sap-apache-vulnerabilities/",
-  "lastId": "n71i7g0000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/cisa-warns-hackers-are-actively-exploiting-vmware-cisco-sap-and-apache-vulnerabi.md",
+  "updatedAt": "2026-11-23T06:00:49.201-06:00",
+  "lastLink": "https://cyberpress.org/infiltrate-fbi-database/",
+  "lastId": "c8zmbw0000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-reportedly-infiltrate-fbi-database-containing-criminal-records-and-arres.md",
   "items": [
     {
       "id": "rv10880000",
@@ -480,6 +480,13 @@
       "filePath": "cyberpress/pages/2026/11/23/cisa-warns-hackers-are-actively-exploiting-vmware-cisco-sap-and-apache-vulnerabi.md",
       "committedAt": "2026-11-23T06:00:47.112-06:00",
       "title": "CISA Warns Hackers Are Actively Exploiting VMware, Cisco, SAP and Apache Vulnerabilities"
+    },
+    {
+      "id": "c8zmbw0000",
+      "link": "https://cyberpress.org/infiltrate-fbi-database/",
+      "filePath": "cyberpress/pages/2026/11/23/hackers-reportedly-infiltrate-fbi-database-containing-criminal-records-and-arres.md",
+      "committedAt": "2026-11-23T06:00:49.201-06:00",
+      "title": "Hackers Reportedly Infiltrate FBI Database Containing Criminal Records and Arrest Warrants"
     }
   ]
 }
