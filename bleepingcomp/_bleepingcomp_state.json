@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T14:01:11.093-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-  "lastId": "1hm4rkh000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/22/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices.md",
+  "updatedAt": "2026-11-23T03:00:54.949-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+  "lastId": "ketcai0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/23/cisa-flags-critical-cisco-rce-flaw-as-actively-exploited-in-attacks.md",
   "items": [
     {
-      "id": "1hm4rkh000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-      "filePath": "bleepingcomp/pages/2026/11/22/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices.md",
-      "committedAt": "2026-11-22T14:01:11.093-05:00",
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices"
+      "id": "ketcai0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+      "filePath": "bleepingcomp/pages/2026/11/23/cisa-flags-critical-cisco-rce-flaw-as-actively-exploited-in-attacks.md",
+      "committedAt": "2026-11-23T03:00:54.949-05:00",
+      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks"
     }
   ]
 }
