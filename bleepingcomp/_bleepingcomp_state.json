@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T12:01:40.531-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-  "lastId": "1gby4c0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/23/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards.md",
+  "updatedAt": "2026-11-23T14:01:34.227-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+  "lastId": "7rgwo70000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/23/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data.md",
   "items": [
     {
-      "id": "1gby4c0000",
-      "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-      "filePath": "bleepingcomp/pages/2026/11/23/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards.md",
-      "committedAt": "2026-11-23T12:01:40.531-05:00",
-      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards"
+      "id": "7rgwo70000",
+      "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+      "filePath": "bleepingcomp/pages/2026/11/23/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data.md",
+      "committedAt": "2026-11-23T14:01:34.227-05:00",
+      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data"
     }
   ]
 }
