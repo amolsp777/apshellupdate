@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T14:01:34.227-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-  "lastId": "7rgwo70000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/23/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data.md",
+  "updatedAt": "2026-11-23T15:01:06.135-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+  "lastId": "autkxq0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/23/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets.md",
   "items": [
     {
-      "id": "7rgwo70000",
-      "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-      "filePath": "bleepingcomp/pages/2026/11/23/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data.md",
-      "committedAt": "2026-11-23T14:01:34.227-05:00",
-      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data"
+      "id": "autkxq0000",
+      "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+      "filePath": "bleepingcomp/pages/2026/11/23/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets.md",
+      "committedAt": "2026-11-23T15:01:06.135-05:00",
+      "title": "OpenRouter drops AI providers over leaked prompts and secrets"
     }
   ]
 }
