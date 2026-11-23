@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T00:00:42.321-06:00",
-  "lastLink": "https://cyberpress.org/whatsapp-security-flaw/",
-  "lastId": "1vyq6ms000",
-  "lastFilePath": "cyberpress/pages/2026/11/21/whatsapp-security-flaw-lets-hackers-delete-local-chat-files-using-malicious-mess.md",
+  "updatedAt": "2026-11-23T00:00:36.289-06:00",
+  "lastLink": "https://cyberpress.org/microsoft-entra-connect-health-flaw/",
+  "lastId": "18rx7o2000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-exploit-microsoft-entra-connect-health-flaw-to-access-admin-emails-and-t.md",
   "items": [
     {
       "id": "rv10880000",
@@ -361,6 +361,13 @@
       "filePath": "cyberpress/pages/2026/11/21/whatsapp-security-flaw-lets-hackers-delete-local-chat-files-using-malicious-mess.md",
       "committedAt": "2026-11-21T00:00:42.321-06:00",
       "title": "WhatsApp Security Flaw Lets Hackers Delete Local Chat Files Using Malicious Messages"
+    },
+    {
+      "id": "18rx7o2000",
+      "link": "https://cyberpress.org/microsoft-entra-connect-health-flaw/",
+      "filePath": "cyberpress/pages/2026/11/23/hackers-exploit-microsoft-entra-connect-health-flaw-to-access-admin-emails-and-t.md",
+      "committedAt": "2026-11-23T00:00:36.289-06:00",
+      "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Tenant Data"
     }
   ]
 }
