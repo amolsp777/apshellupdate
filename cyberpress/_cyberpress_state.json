@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T04:00:38.718-06:00",
-  "lastLink": "https://cyberpress.org/fake-claude-spreads-revstealer/",
-  "lastId": "1r268jv000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-use-fake-claude-ai-app-to-spread-revstealer-malware-and-steal-passwords-.md",
+  "updatedAt": "2026-11-23T05:00:45.081-06:00",
+  "lastLink": "https://cyberpress.org/critical-asp-net-vulnerability/",
+  "lastId": "1bhnwsd000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/critical-aspnet-vulnerability-allows-hackers-to-execute-code-without-authenticat.md",
   "items": [
     {
       "id": "rv10880000",
@@ -459,6 +459,13 @@
       "filePath": "cyberpress/pages/2026/11/23/hackers-use-fake-claude-ai-app-to-spread-revstealer-malware-and-steal-passwords-.md",
       "committedAt": "2026-11-23T04:00:38.718-06:00",
       "title": "Hackers Use Fake Claude AI App to Spread RevStealer Malware and Steal Passwords and Crypto Wallets"
+    },
+    {
+      "id": "1bhnwsd000",
+      "link": "https://cyberpress.org/critical-asp-net-vulnerability/",
+      "filePath": "cyberpress/pages/2026/11/23/critical-aspnet-vulnerability-allows-hackers-to-execute-code-without-authenticat.md",
+      "committedAt": "2026-11-23T05:00:45.081-06:00",
+      "title": "Critical ASP.NET Vulnerability Allows Hackers to Execute Code Without Authentication"
     }
   ]
 }
