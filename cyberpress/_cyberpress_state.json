@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T01:00:38.963-06:00",
-  "lastLink": "https://cyberpress.org/hackers-breach-three-ai-providers/",
-  "lastId": "1w3sgjy000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-breach-three-ai-providers-and-steal-customer-prompts-containing-aws-cred.md",
+  "updatedAt": "2026-11-23T01:00:41.331-06:00",
+  "lastLink": "https://cyberpress.org/upload2shell-ghostscript-flaw/",
+  "lastId": "fnv92r0000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/upload2shell-ghostscript-flaw-lets-hackers-execute-commands-through-malicious-fi.md",
   "items": [
     {
       "id": "rv10880000",
@@ -375,6 +375,13 @@
       "filePath": "cyberpress/pages/2026/11/23/hackers-breach-three-ai-providers-and-steal-customer-prompts-containing-aws-cred.md",
       "committedAt": "2026-11-23T01:00:38.963-06:00",
       "title": "Hackers Breach Three AI Providers and Steal Customer Prompts Containing AWS Credentials"
+    },
+    {
+      "id": "fnv92r0000",
+      "link": "https://cyberpress.org/upload2shell-ghostscript-flaw/",
+      "filePath": "cyberpress/pages/2026/11/23/upload2shell-ghostscript-flaw-lets-hackers-execute-commands-through-malicious-fi.md",
+      "committedAt": "2026-11-23T01:00:41.331-06:00",
+      "title": "Upload2Shell Ghostscript Flaw Lets Hackers Execute Commands Through Malicious File Uploads"
     }
   ]
 }
