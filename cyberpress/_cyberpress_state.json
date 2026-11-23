@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T02:00:57.712-06:00",
-  "lastLink": "https://cyberpress.org/malicious-ads-hijack-iphones/",
-  "lastId": "1cqr5mb000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-use-malicious-ads-to-hijack-iphones-and-steal-cryptocurrency-wallet-data.md",
+  "updatedAt": "2026-11-23T02:01:00.029-06:00",
+  "lastLink": "https://cyberpress.org/ai-hackers-access-millions/",
+  "lastId": "1e9lmqc000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/ai-powered-hackers-access-over-1-million-personal-records-in-attacks-on-10-organ.md",
   "items": [
     {
       "id": "rv10880000",
@@ -431,6 +431,13 @@
       "filePath": "cyberpress/pages/2026/11/23/hackers-use-malicious-ads-to-hijack-iphones-and-steal-cryptocurrency-wallet-data.md",
       "committedAt": "2026-11-23T02:00:57.712-06:00",
       "title": "Hackers Use Malicious Ads to Hijack iPhones and Steal Cryptocurrency Wallet Data"
+    },
+    {
+      "id": "1e9lmqc000",
+      "link": "https://cyberpress.org/ai-hackers-access-millions/",
+      "filePath": "cyberpress/pages/2026/11/23/ai-powered-hackers-access-over-1-million-personal-records-in-attacks-on-10-organ.md",
+      "committedAt": "2026-11-23T02:01:00.029-06:00",
+      "title": "AI-Powered Hackers Access Over 1 Million Personal Records in Attacks on 10 Organizations"
     }
   ]
 }
