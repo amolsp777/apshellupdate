@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T01:00:41.331-06:00",
-  "lastLink": "https://cyberpress.org/upload2shell-ghostscript-flaw/",
-  "lastId": "fnv92r0000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/upload2shell-ghostscript-flaw-lets-hackers-execute-commands-through-malicious-fi.md",
+  "updatedAt": "2026-11-23T01:00:43.638-06:00",
+  "lastLink": "https://cyberpress.org/hackers-spied-on-bulgaria/",
+  "lastId": "1dtk04t000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-spy-on-bulgarian-government-for-five-years-stealing-millions-of-sensitiv.md",
   "items": [
     {
       "id": "rv10880000",
@@ -382,6 +382,13 @@
       "filePath": "cyberpress/pages/2026/11/23/upload2shell-ghostscript-flaw-lets-hackers-execute-commands-through-malicious-fi.md",
       "committedAt": "2026-11-23T01:00:41.331-06:00",
       "title": "Upload2Shell Ghostscript Flaw Lets Hackers Execute Commands Through Malicious File Uploads"
+    },
+    {
+      "id": "1dtk04t000",
+      "link": "https://cyberpress.org/hackers-spied-on-bulgaria/",
+      "filePath": "cyberpress/pages/2026/11/23/hackers-spy-on-bulgarian-government-for-five-years-stealing-millions-of-sensitiv.md",
+      "committedAt": "2026-11-23T01:00:43.638-06:00",
+      "title": "Hackers Spy on Bulgarian Government for Five Years, Stealing Millions of Sensitive Documents"
     }
   ]
 }
