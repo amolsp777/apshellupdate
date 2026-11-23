@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T02:01:00.029-06:00",
-  "lastLink": "https://cyberpress.org/ai-hackers-access-millions/",
-  "lastId": "1e9lmqc000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/ai-powered-hackers-access-over-1-million-personal-records-in-attacks-on-10-organ.md",
+  "updatedAt": "2026-11-23T03:00:36.286-06:00",
+  "lastLink": "https://cyberpress.org/critical-cisco-expressway-flaw-2/",
+  "lastId": "1hzc71y000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-exploit-critical-cisco-expressway-flaw-to-gain-root-access-and-breach-in.md",
   "items": [
     {
       "id": "rv10880000",
@@ -438,6 +438,13 @@
       "filePath": "cyberpress/pages/2026/11/23/ai-powered-hackers-access-over-1-million-personal-records-in-attacks-on-10-organ.md",
       "committedAt": "2026-11-23T02:01:00.029-06:00",
       "title": "AI-Powered Hackers Access Over 1 Million Personal Records in Attacks on 10 Organizations"
+    },
+    {
+      "id": "1hzc71y000",
+      "link": "https://cyberpress.org/critical-cisco-expressway-flaw-2/",
+      "filePath": "cyberpress/pages/2026/11/23/hackers-exploit-critical-cisco-expressway-flaw-to-gain-root-access-and-breach-in.md",
+      "committedAt": "2026-11-23T03:00:36.286-06:00",
+      "title": "Hackers Exploit Critical Cisco Expressway Flaw to Gain Root Access and Breach Internal Networks"
     }
   ]
 }
