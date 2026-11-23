@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T02:00:46.411-06:00",
-  "lastLink": "https://cyberpress.org/wordpress-hosts-13-clickfix-traps/",
-  "lastId": "1f8f5ue000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-plant-13-clickfix-traps-on-wordpress-site-to-trick-visitors-into-running.md",
+  "updatedAt": "2026-11-23T02:00:48.595-06:00",
+  "lastLink": "https://cyberpress.org/china-linked-hackers-exploit-zero-day/",
+  "lastId": "1jnh0rm000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/china-linked-hackers-use-ai-discovered-zero-day-to-take-full-control-of-universi.md",
   "items": [
     {
       "id": "rv10880000",
@@ -403,6 +403,13 @@
       "filePath": "cyberpress/pages/2026/11/23/hackers-plant-13-clickfix-traps-on-wordpress-site-to-trick-visitors-into-running.md",
       "committedAt": "2026-11-23T02:00:46.411-06:00",
       "title": "Hackers Plant 13 ClickFix Traps on WordPress Site to Trick Visitors Into Running Malware"
+    },
+    {
+      "id": "1jnh0rm000",
+      "link": "https://cyberpress.org/china-linked-hackers-exploit-zero-day/",
+      "filePath": "cyberpress/pages/2026/11/23/china-linked-hackers-use-ai-discovered-zero-day-to-take-full-control-of-universi.md",
+      "committedAt": "2026-11-23T02:00:48.595-06:00",
+      "title": "China-Linked Hackers Use AI-Discovered Zero-Day to Take Full Control of University Server"
     }
   ]
 }
