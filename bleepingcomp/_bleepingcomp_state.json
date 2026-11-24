@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T13:01:11.164-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-  "lastId": "1iscv8z000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/24/radware-discloses-breach-exposing-customer-cloud-access-keys.md",
+  "updatedAt": "2026-11-24T14:01:28.373-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+  "lastId": "epy5jn0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/24/hackers-compromise-check-point-servers-in-22-organizations.md",
   "items": [
     {
-      "id": "1iscv8z000",
-      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-      "filePath": "bleepingcomp/pages/2026/11/24/radware-discloses-breach-exposing-customer-cloud-access-keys.md",
-      "committedAt": "2026-11-24T13:01:11.164-05:00",
-      "title": "Radware discloses breach exposing customer cloud access keys"
+      "id": "epy5jn0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+      "filePath": "bleepingcomp/pages/2026/11/24/hackers-compromise-check-point-servers-in-22-organizations.md",
+      "committedAt": "2026-11-24T14:01:28.373-05:00",
+      "title": "Hackers compromise Check Point Servers in 22 organizations"
     }
   ]
 }
