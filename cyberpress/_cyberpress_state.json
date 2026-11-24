@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T04:00:42.742-06:00",
-  "lastLink": "https://cyberpress.org/suzlon-energy-confirms-cyberattack/",
-  "lastId": "1sz1i03000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/suzlon-energy-confirms-cyberattack-says-critical-business-systems-remain-unaffec.md",
+  "updatedAt": "2026-11-24T06:00:41.391-06:00",
+  "lastLink": "https://cyberpress.org/eviltokens-phishing-targets-enterprises/",
+  "lastId": "1nrr07d000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/eviltokens-device-code-phishing-continues-on-new-infrastructure-threatening-corp.md",
   "items": [
     {
       "id": "rv10880000",
@@ -599,6 +599,13 @@
       "filePath": "cyberpress/pages/2026/11/24/suzlon-energy-confirms-cyberattack-says-critical-business-systems-remain-unaffec.md",
       "committedAt": "2026-11-24T04:00:42.742-06:00",
       "title": "Suzlon Energy Confirms Cyberattack, Says Critical Business Systems Remain Unaffected"
+    },
+    {
+      "id": "1nrr07d000",
+      "link": "https://cyberpress.org/eviltokens-phishing-targets-enterprises/",
+      "filePath": "cyberpress/pages/2026/11/24/eviltokens-device-code-phishing-continues-on-new-infrastructure-threatening-corp.md",
+      "committedAt": "2026-11-24T06:00:41.391-06:00",
+      "title": "EvilTokens Device-Code Phishing Continues on New Infrastructure, Threatening Corporate Email Accounts"
     }
   ]
 }
