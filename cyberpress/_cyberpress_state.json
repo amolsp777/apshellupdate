@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T04:00:37.684-06:00",
-  "lastLink": "https://cyberpress.org/critical-openssh-flaw/",
-  "lastId": "qtft5k0000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/critical-openssh-flaw-lets-hackers-bypass-password-authentication-on-alpine-linu.md",
+  "updatedAt": "2026-11-24T04:00:40.240-06:00",
+  "lastLink": "https://cyberpress.org/critical-chrome-security-flaw/",
+  "lastId": "1j88zzu000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/critical-chrome-security-flaw-lets-attackers-escape-browser-sandbox-through-mali.md",
   "items": [
     {
       "id": "rv10880000",
@@ -585,6 +585,13 @@
       "filePath": "cyberpress/pages/2026/11/24/critical-openssh-flaw-lets-hackers-bypass-password-authentication-on-alpine-linu.md",
       "committedAt": "2026-11-24T04:00:37.684-06:00",
       "title": "Critical OpenSSH Flaw Lets Hackers Bypass Password Authentication on Alpine Linux With 257-Byte Password"
+    },
+    {
+      "id": "1j88zzu000",
+      "link": "https://cyberpress.org/critical-chrome-security-flaw/",
+      "filePath": "cyberpress/pages/2026/11/24/critical-chrome-security-flaw-lets-attackers-escape-browser-sandbox-through-mali.md",
+      "committedAt": "2026-11-24T04:00:40.240-06:00",
+      "title": "Critical Chrome Security Flaw Lets Attackers Escape Browser Sandbox Through Malicious Webpages"
     }
   ]
 }
