@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T00:01:03.526-06:00",
-  "lastLink": "https://cyberpress.org/critical-n-able-mail-assure-ssrf/",
-  "lastId": "1lcjpcx000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/critical-n-able-mail-assure-ssrf-vulnerability-exposes-internal-systems-to-attac.md",
+  "updatedAt": "2026-11-24T00:01:05.839-06:00",
+  "lastLink": "https://cyberpress.org/critical-cisco-expressway-flaw-3/",
+  "lastId": "18p4bi5000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/critical-cisco-expressway-flaw-allows-remote-attackers-to-execute-commands-with-.md",
   "items": [
     {
       "id": "rv10880000",
@@ -508,6 +508,13 @@
       "filePath": "cyberpress/pages/2026/11/24/critical-n-able-mail-assure-ssrf-vulnerability-exposes-internal-systems-to-attac.md",
       "committedAt": "2026-11-24T00:01:03.526-06:00",
       "title": "Critical N-able Mail Assure SSRF Vulnerability Exposes Internal Systems to Attackers"
+    },
+    {
+      "id": "18p4bi5000",
+      "link": "https://cyberpress.org/critical-cisco-expressway-flaw-3/",
+      "filePath": "cyberpress/pages/2026/11/24/critical-cisco-expressway-flaw-allows-remote-attackers-to-execute-commands-with-.md",
+      "committedAt": "2026-11-24T00:01:05.839-06:00",
+      "title": "Critical Cisco Expressway Flaw Allows Remote Attackers to Execute Commands With Root Privileges"
     }
   ]
 }
