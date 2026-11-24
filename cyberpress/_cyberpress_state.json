@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T04:00:40.240-06:00",
-  "lastLink": "https://cyberpress.org/critical-chrome-security-flaw/",
-  "lastId": "1j88zzu000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/critical-chrome-security-flaw-lets-attackers-escape-browser-sandbox-through-mali.md",
+  "updatedAt": "2026-11-24T04:00:42.742-06:00",
+  "lastLink": "https://cyberpress.org/suzlon-energy-confirms-cyberattack/",
+  "lastId": "1sz1i03000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/suzlon-energy-confirms-cyberattack-says-critical-business-systems-remain-unaffec.md",
   "items": [
     {
       "id": "rv10880000",
@@ -592,6 +592,13 @@
       "filePath": "cyberpress/pages/2026/11/24/critical-chrome-security-flaw-lets-attackers-escape-browser-sandbox-through-mali.md",
       "committedAt": "2026-11-24T04:00:40.240-06:00",
       "title": "Critical Chrome Security Flaw Lets Attackers Escape Browser Sandbox Through Malicious Webpages"
+    },
+    {
+      "id": "1sz1i03000",
+      "link": "https://cyberpress.org/suzlon-energy-confirms-cyberattack/",
+      "filePath": "cyberpress/pages/2026/11/24/suzlon-energy-confirms-cyberattack-says-critical-business-systems-remain-unaffec.md",
+      "committedAt": "2026-11-24T04:00:42.742-06:00",
+      "title": "Suzlon Energy Confirms Cyberattack, Says Critical Business Systems Remain Unaffected"
     }
   ]
 }
