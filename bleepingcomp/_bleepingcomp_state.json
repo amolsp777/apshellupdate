@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T17:01:17.562-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-  "lastId": "gw15fd0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/23/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials.md",
+  "updatedAt": "2026-11-24T09:01:00.996-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+  "lastId": "179ag9f000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/24/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits.md",
   "items": [
     {
-      "id": "gw15fd0000",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-      "filePath": "bleepingcomp/pages/2026/11/23/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials.md",
-      "committedAt": "2026-11-23T17:01:17.562-05:00",
-      "title": "Microsoft Azure flaw exploited to steal customers' API credentials"
+      "id": "179ag9f000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+      "filePath": "bleepingcomp/pages/2026/11/24/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits.md",
+      "committedAt": "2026-11-24T09:01:00.996-05:00",
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits"
     }
   ]
 }
