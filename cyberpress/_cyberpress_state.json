@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T01:01:06.037-06:00",
-  "lastLink": "https://cyberpress.org/critical-microsoft-365-copilot-flaw/",
-  "lastId": "11voxrk000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/critical-microsoft-365-copilot-flaw-could-let-attackers-gain-elevated-privileges.md",
+  "updatedAt": "2026-11-24T02:01:05.833-06:00",
+  "lastLink": "https://cyberpress.org/malicious-chrome-extension-spies/",
+  "lastId": "vuwtk40000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/malicious-chrome-extension-lets-hackers-steal-login-cookies-capture-screenshots-.md",
   "items": [
     {
       "id": "rv10880000",
@@ -550,6 +550,13 @@
       "filePath": "cyberpress/pages/2026/11/24/critical-microsoft-365-copilot-flaw-could-let-attackers-gain-elevated-privileges.md",
       "committedAt": "2026-11-24T01:01:06.037-06:00",
       "title": "Critical Microsoft 365 Copilot Flaw Could Let Attackers Gain Elevated Privileges Without User Interaction"
+    },
+    {
+      "id": "vuwtk40000",
+      "link": "https://cyberpress.org/malicious-chrome-extension-spies/",
+      "filePath": "cyberpress/pages/2026/11/24/malicious-chrome-extension-lets-hackers-steal-login-cookies-capture-screenshots-.md",
+      "committedAt": "2026-11-24T02:01:05.833-06:00",
+      "title": "Malicious Chrome Extension Lets Hackers Steal Login Cookies, Capture Screenshots and Spy Through Webcams"
     }
   ]
 }
