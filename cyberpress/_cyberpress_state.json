@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T00:01:11.017-06:00",
-  "lastLink": "https://cyberpress.org/openai-and-cisco-launch-shirudo/",
-  "lastId": "olhmgo0000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/openai-and-cisco-launch-shirudo-an-ai-powered-tool-to-block-cyberattacks-on-linu.md",
+  "updatedAt": "2026-11-24T01:01:01.233-06:00",
+  "lastLink": "https://cyberpress.org/exploit-windows-remote-access-api-vulnerability/",
+  "lastId": "1e1sv65000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/hackers-could-exploit-windows-remote-access-api-vulnerability-to-gain-system-lev.md",
   "items": [
     {
       "id": "rv10880000",
@@ -529,6 +529,13 @@
       "filePath": "cyberpress/pages/2026/11/24/openai-and-cisco-launch-shirudo-an-ai-powered-tool-to-block-cyberattacks-on-linu.md",
       "committedAt": "2026-11-24T00:01:11.017-06:00",
       "title": "OpenAI and Cisco Launch Shirudo, an AI-Powered Tool to Block Cyberattacks on Linux Systems Without Restarting"
+    },
+    {
+      "id": "1e1sv65000",
+      "link": "https://cyberpress.org/exploit-windows-remote-access-api-vulnerability/",
+      "filePath": "cyberpress/pages/2026/11/24/hackers-could-exploit-windows-remote-access-api-vulnerability-to-gain-system-lev.md",
+      "committedAt": "2026-11-24T01:01:01.233-06:00",
+      "title": "Hackers Could Exploit Windows Remote Access API Vulnerability to Gain SYSTEM-Level Access"
     }
   ]
 }
