@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T06:00:41.391-06:00",
-  "lastLink": "https://cyberpress.org/eviltokens-phishing-targets-enterprises/",
-  "lastId": "1nrr07d000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/eviltokens-device-code-phishing-continues-on-new-infrastructure-threatening-corp.md",
+  "updatedAt": "2026-11-24T06:00:43.695-06:00",
+  "lastLink": "https://cyberpress.org/ai-driven-linux-backdoors-persist/",
+  "lastId": "1g6ar70000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/ai-driven-cyberattacks-now-deploy-persistent-linux-backdoors-that-can-survive-sy.md",
   "items": [
     {
       "id": "rv10880000",
@@ -606,6 +606,13 @@
       "filePath": "cyberpress/pages/2026/11/24/eviltokens-device-code-phishing-continues-on-new-infrastructure-threatening-corp.md",
       "committedAt": "2026-11-24T06:00:41.391-06:00",
       "title": "EvilTokens Device-Code Phishing Continues on New Infrastructure, Threatening Corporate Email Accounts"
+    },
+    {
+      "id": "1g6ar70000",
+      "link": "https://cyberpress.org/ai-driven-linux-backdoors-persist/",
+      "filePath": "cyberpress/pages/2026/11/24/ai-driven-cyberattacks-now-deploy-persistent-linux-backdoors-that-can-survive-sy.md",
+      "committedAt": "2026-11-24T06:00:43.695-06:00",
+      "title": "AI-Driven Cyberattacks Now Deploy Persistent Linux Backdoors That Can Survive System Restarts"
     }
   ]
 }
