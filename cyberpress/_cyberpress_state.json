@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T07:00:42.565-06:00",
-  "lastLink": "https://cyberpress.org/asp-net-remote-code-execution-flaw/",
-  "lastId": "1wydzg7000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/hackers-actively-exploit-aspnet-remote-code-execution-flaw-to-target-vulnerable-.md",
+  "updatedAt": "2026-11-24T07:00:44.938-06:00",
+  "lastLink": "https://cyberpress.org/exploit-android-camera-sensors-eavesdrop/",
+  "lastId": "1tcnsr4000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/hackers-could-exploit-android-camera-sensors-to-eavesdrop-even-with-privacy-swit.md",
   "items": [
     {
       "id": "rv10880000",
@@ -627,6 +627,13 @@
       "filePath": "cyberpress/pages/2026/11/24/hackers-actively-exploit-aspnet-remote-code-execution-flaw-to-target-vulnerable-.md",
       "committedAt": "2026-11-24T07:00:42.565-06:00",
       "title": "Hackers Actively Exploit ASP.NET Remote Code Execution Flaw to Target Vulnerable Web Applications"
+    },
+    {
+      "id": "1tcnsr4000",
+      "link": "https://cyberpress.org/exploit-android-camera-sensors-eavesdrop/",
+      "filePath": "cyberpress/pages/2026/11/24/hackers-could-exploit-android-camera-sensors-to-eavesdrop-even-with-privacy-swit.md",
+      "committedAt": "2026-11-24T07:00:44.938-06:00",
+      "title": "Hackers Could Exploit Android Camera Sensors to Eavesdrop Even With Privacy Switches Turned Off"
     }
   ]
 }
