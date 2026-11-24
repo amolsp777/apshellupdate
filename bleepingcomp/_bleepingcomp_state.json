@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T12:01:12.065-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-  "lastId": "tu58f20000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/24/european-commission-confirms-data-theft-in-eu-academy-breach.md",
+  "updatedAt": "2026-11-24T13:01:11.164-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+  "lastId": "1iscv8z000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/24/radware-discloses-breach-exposing-customer-cloud-access-keys.md",
   "items": [
     {
-      "id": "tu58f20000",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-      "filePath": "bleepingcomp/pages/2026/11/24/european-commission-confirms-data-theft-in-eu-academy-breach.md",
-      "committedAt": "2026-11-24T12:01:12.065-05:00",
-      "title": "European Commission confirms data theft in EU Academy breach"
+      "id": "1iscv8z000",
+      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "filePath": "bleepingcomp/pages/2026/11/24/radware-discloses-breach-exposing-customer-cloud-access-keys.md",
+      "committedAt": "2026-11-24T13:01:11.164-05:00",
+      "title": "Radware discloses breach exposing customer cloud access keys"
     }
   ]
 }
