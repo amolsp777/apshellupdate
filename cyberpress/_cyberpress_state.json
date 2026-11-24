@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T01:01:03.688-06:00",
-  "lastLink": "https://cyberpress.org/hackers-target-wordpress-plugins/",
-  "lastId": "10z0wjv000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/hackers-target-over-3600-wordpress-plugin-installations-with-critical-remote-con.md",
+  "updatedAt": "2026-11-24T01:01:06.037-06:00",
+  "lastLink": "https://cyberpress.org/critical-microsoft-365-copilot-flaw/",
+  "lastId": "11voxrk000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/critical-microsoft-365-copilot-flaw-could-let-attackers-gain-elevated-privileges.md",
   "items": [
     {
       "id": "rv10880000",
@@ -543,6 +543,13 @@
       "filePath": "cyberpress/pages/2026/11/24/hackers-target-over-3600-wordpress-plugin-installations-with-critical-remote-con.md",
       "committedAt": "2026-11-24T01:01:03.688-06:00",
       "title": "Hackers Target Over 3,600 WordPress Plugin Installations With Critical Remote-Control Backdoors"
+    },
+    {
+      "id": "11voxrk000",
+      "link": "https://cyberpress.org/critical-microsoft-365-copilot-flaw/",
+      "filePath": "cyberpress/pages/2026/11/24/critical-microsoft-365-copilot-flaw-could-let-attackers-gain-elevated-privileges.md",
+      "committedAt": "2026-11-24T01:01:06.037-06:00",
+      "title": "Critical Microsoft 365 Copilot Flaw Could Let Attackers Gain Elevated Privileges Without User Interaction"
     }
   ]
 }
