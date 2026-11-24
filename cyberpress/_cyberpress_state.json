@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T02:01:05.833-06:00",
-  "lastLink": "https://cyberpress.org/malicious-chrome-extension-spies/",
-  "lastId": "vuwtk40000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/malicious-chrome-extension-lets-hackers-steal-login-cookies-capture-screenshots-.md",
+  "updatedAt": "2026-11-24T02:01:08.316-06:00",
+  "lastLink": "https://cyberpress.org/artex-enables-kubernetes-takeover/",
+  "lastId": "s3zz760000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/hackers-use-artex-ai-agents-to-steal-cloud-credentials-and-gain-kubernetes-admin.md",
   "items": [
     {
       "id": "rv10880000",
@@ -557,6 +557,13 @@
       "filePath": "cyberpress/pages/2026/11/24/malicious-chrome-extension-lets-hackers-steal-login-cookies-capture-screenshots-.md",
       "committedAt": "2026-11-24T02:01:05.833-06:00",
       "title": "Malicious Chrome Extension Lets Hackers Steal Login Cookies, Capture Screenshots and Spy Through Webcams"
+    },
+    {
+      "id": "s3zz760000",
+      "link": "https://cyberpress.org/artex-enables-kubernetes-takeover/",
+      "filePath": "cyberpress/pages/2026/11/24/hackers-use-artex-ai-agents-to-steal-cloud-credentials-and-gain-kubernetes-admin.md",
+      "committedAt": "2026-11-24T02:01:08.316-06:00",
+      "title": "Hackers Use ARTEX AI Agents to Steal Cloud Credentials and Gain Kubernetes Administrator Access"
     }
   ]
 }
