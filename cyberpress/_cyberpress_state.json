@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T03:00:41.133-06:00",
-  "lastLink": "https://cyberpress.org/anthropic-launches-zero-data-retention/",
-  "lastId": "1666jyh000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/anthropic-launches-zero-data-retention-for-claude-ai-with-new-security-controls-.md",
+  "updatedAt": "2026-11-24T04:00:37.684-06:00",
+  "lastLink": "https://cyberpress.org/critical-openssh-flaw/",
+  "lastId": "qtft5k0000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/critical-openssh-flaw-lets-hackers-bypass-password-authentication-on-alpine-linu.md",
   "items": [
     {
       "id": "rv10880000",
@@ -578,6 +578,13 @@
       "filePath": "cyberpress/pages/2026/11/24/anthropic-launches-zero-data-retention-for-claude-ai-with-new-security-controls-.md",
       "committedAt": "2026-11-24T03:00:41.133-06:00",
       "title": "Anthropic Launches Zero Data Retention for Claude AI With New Security Controls to Detect Cyberattacks"
+    },
+    {
+      "id": "qtft5k0000",
+      "link": "https://cyberpress.org/critical-openssh-flaw/",
+      "filePath": "cyberpress/pages/2026/11/24/critical-openssh-flaw-lets-hackers-bypass-password-authentication-on-alpine-linu.md",
+      "committedAt": "2026-11-24T04:00:37.684-06:00",
+      "title": "Critical OpenSSH Flaw Lets Hackers Bypass Password Authentication on Alpine Linux With 257-Byte Password"
     }
   ]
 }
