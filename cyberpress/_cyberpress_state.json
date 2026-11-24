@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T07:00:40.216-06:00",
-  "lastLink": "https://cyberpress.org/indian-government-hijack-whatsapp-web-sessions/",
-  "lastId": "p4jltc0000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/indian-government-warns-hackers-could-hijack-whatsapp-web-sessions-to-steal-mess.md",
+  "updatedAt": "2026-11-24T00:01:03.526-06:00",
+  "lastLink": "https://cyberpress.org/critical-n-able-mail-assure-ssrf/",
+  "lastId": "1lcjpcx000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/critical-n-able-mail-assure-ssrf-vulnerability-exposes-internal-systems-to-attac.md",
   "items": [
     {
       "id": "rv10880000",
@@ -501,6 +501,13 @@
       "filePath": "cyberpress/pages/2026/11/23/indian-government-warns-hackers-could-hijack-whatsapp-web-sessions-to-steal-mess.md",
       "committedAt": "2026-11-23T07:00:40.216-06:00",
       "title": "Indian Government Warns Hackers Could Hijack WhatsApp Web Sessions to Steal Messages and Impersonate Users"
+    },
+    {
+      "id": "1lcjpcx000",
+      "link": "https://cyberpress.org/critical-n-able-mail-assure-ssrf/",
+      "filePath": "cyberpress/pages/2026/11/24/critical-n-able-mail-assure-ssrf-vulnerability-exposes-internal-systems-to-attac.md",
+      "committedAt": "2026-11-24T00:01:03.526-06:00",
+      "title": "Critical N-able Mail Assure SSRF Vulnerability Exposes Internal Systems to Attackers"
     }
   ]
 }
