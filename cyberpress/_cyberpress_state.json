@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T00:01:08.248-06:00",
-  "lastLink": "https://cyberpress.org/steal-names-email-addresses-european-commission/",
-  "lastId": "mnovq00000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/hackers-steal-names-and-email-addresses-in-ai-powered-cyberattack-on-european-co.md",
+  "updatedAt": "2026-11-24T00:01:11.017-06:00",
+  "lastLink": "https://cyberpress.org/openai-and-cisco-launch-shirudo/",
+  "lastId": "olhmgo0000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/openai-and-cisco-launch-shirudo-an-ai-powered-tool-to-block-cyberattacks-on-linu.md",
   "items": [
     {
       "id": "rv10880000",
@@ -522,6 +522,13 @@
       "filePath": "cyberpress/pages/2026/11/24/hackers-steal-names-and-email-addresses-in-ai-powered-cyberattack-on-european-co.md",
       "committedAt": "2026-11-24T00:01:08.248-06:00",
       "title": "Hackers Steal Names and Email Addresses in AI-Powered Cyberattack on European Commission Website"
+    },
+    {
+      "id": "olhmgo0000",
+      "link": "https://cyberpress.org/openai-and-cisco-launch-shirudo/",
+      "filePath": "cyberpress/pages/2026/11/24/openai-and-cisco-launch-shirudo-an-ai-powered-tool-to-block-cyberattacks-on-linu.md",
+      "committedAt": "2026-11-24T00:01:11.017-06:00",
+      "title": "OpenAI and Cisco Launch Shirudo, an AI-Powered Tool to Block Cyberattacks on Linux Systems Without Restarting"
     }
   ]
 }
