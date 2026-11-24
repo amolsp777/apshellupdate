@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T06:00:43.695-06:00",
-  "lastLink": "https://cyberpress.org/ai-driven-linux-backdoors-persist/",
-  "lastId": "1g6ar70000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/ai-driven-cyberattacks-now-deploy-persistent-linux-backdoors-that-can-survive-sy.md",
+  "updatedAt": "2026-11-24T06:00:45.986-06:00",
+  "lastLink": "https://cyberpress.org/anthropic-launches-claude-ship-ai-agents/",
+  "lastId": "196n252000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/anthropic-launches-claude-ship-ai-agents-to-automatically-review-fix-and-approve.md",
   "items": [
     {
       "id": "rv10880000",
@@ -613,6 +613,13 @@
       "filePath": "cyberpress/pages/2026/11/24/ai-driven-cyberattacks-now-deploy-persistent-linux-backdoors-that-can-survive-sy.md",
       "committedAt": "2026-11-24T06:00:43.695-06:00",
       "title": "AI-Driven Cyberattacks Now Deploy Persistent Linux Backdoors That Can Survive System Restarts"
+    },
+    {
+      "id": "196n252000",
+      "link": "https://cyberpress.org/anthropic-launches-claude-ship-ai-agents/",
+      "filePath": "cyberpress/pages/2026/11/24/anthropic-launches-claude-ship-ai-agents-to-automatically-review-fix-and-approve.md",
+      "committedAt": "2026-11-24T06:00:45.986-06:00",
+      "title": "Anthropic Launches Claude Ship AI Agents to Automatically Review, Fix, and Approve Code Changes"
     }
   ]
 }
