@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T14:01:28.373-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-  "lastId": "epy5jn0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/24/hackers-compromise-check-point-servers-in-22-organizations.md",
+  "updatedAt": "2026-11-24T15:01:44.933-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+  "lastId": "gkg8kz0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/24/turnitin-discloses-cyberattack-affecting-customer-facing-systems.md",
   "items": [
     {
-      "id": "epy5jn0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-      "filePath": "bleepingcomp/pages/2026/11/24/hackers-compromise-check-point-servers-in-22-organizations.md",
-      "committedAt": "2026-11-24T14:01:28.373-05:00",
-      "title": "Hackers compromise Check Point Servers in 22 organizations"
+      "id": "gkg8kz0000",
+      "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "filePath": "bleepingcomp/pages/2026/11/24/turnitin-discloses-cyberattack-affecting-customer-facing-systems.md",
+      "committedAt": "2026-11-24T15:01:44.933-05:00",
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems"
     }
   ]
 }
