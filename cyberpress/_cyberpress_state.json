@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T02:01:08.316-06:00",
-  "lastLink": "https://cyberpress.org/artex-enables-kubernetes-takeover/",
-  "lastId": "s3zz760000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/hackers-use-artex-ai-agents-to-steal-cloud-credentials-and-gain-kubernetes-admin.md",
+  "updatedAt": "2026-11-24T03:00:38.708-06:00",
+  "lastLink": "https://cyberpress.org/bluetooth-flaw-enables-brake-hijacking/",
+  "lastId": "1v6i28o000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/critical-bluetooth-flaw-could-let-hackers-apply-trailer-brakes-at-highway-speeds.md",
   "items": [
     {
       "id": "rv10880000",
@@ -564,6 +564,13 @@
       "filePath": "cyberpress/pages/2026/11/24/hackers-use-artex-ai-agents-to-steal-cloud-credentials-and-gain-kubernetes-admin.md",
       "committedAt": "2026-11-24T02:01:08.316-06:00",
       "title": "Hackers Use ARTEX AI Agents to Steal Cloud Credentials and Gain Kubernetes Administrator Access"
+    },
+    {
+      "id": "1v6i28o000",
+      "link": "https://cyberpress.org/bluetooth-flaw-enables-brake-hijacking/",
+      "filePath": "cyberpress/pages/2026/11/24/critical-bluetooth-flaw-could-let-hackers-apply-trailer-brakes-at-highway-speeds.md",
+      "committedAt": "2026-11-24T03:00:38.708-06:00",
+      "title": "Critical Bluetooth Flaw Could Let Hackers Apply Trailer Brakes at Highway Speeds Without Authentication"
     }
   ]
 }
