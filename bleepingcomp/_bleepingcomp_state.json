@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T09:01:00.996-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-  "lastId": "179ag9f000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/24/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits.md",
+  "updatedAt": "2026-11-24T10:01:00.661-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+  "lastId": "6fnjf80000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/24/mcdonalds-japan-data-breach-exposes-customer-location-information.md",
   "items": [
     {
-      "id": "179ag9f000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-      "filePath": "bleepingcomp/pages/2026/11/24/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits.md",
-      "committedAt": "2026-11-24T09:01:00.996-05:00",
-      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits"
+      "id": "6fnjf80000",
+      "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+      "filePath": "bleepingcomp/pages/2026/11/24/mcdonalds-japan-data-breach-exposes-customer-location-information.md",
+      "committedAt": "2026-11-24T10:01:00.661-05:00",
+      "title": "McDonald's Japan data breach exposes customer location information"
     }
   ]
 }
