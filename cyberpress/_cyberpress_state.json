@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T06:00:45.986-06:00",
-  "lastLink": "https://cyberpress.org/anthropic-launches-claude-ship-ai-agents/",
-  "lastId": "196n252000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/anthropic-launches-claude-ship-ai-agents-to-automatically-review-fix-and-approve.md",
+  "updatedAt": "2026-11-24T07:00:42.565-06:00",
+  "lastLink": "https://cyberpress.org/asp-net-remote-code-execution-flaw/",
+  "lastId": "1wydzg7000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/hackers-actively-exploit-aspnet-remote-code-execution-flaw-to-target-vulnerable-.md",
   "items": [
     {
       "id": "rv10880000",
@@ -620,6 +620,13 @@
       "filePath": "cyberpress/pages/2026/11/24/anthropic-launches-claude-ship-ai-agents-to-automatically-review-fix-and-approve.md",
       "committedAt": "2026-11-24T06:00:45.986-06:00",
       "title": "Anthropic Launches Claude Ship AI Agents to Automatically Review, Fix, and Approve Code Changes"
+    },
+    {
+      "id": "1wydzg7000",
+      "link": "https://cyberpress.org/asp-net-remote-code-execution-flaw/",
+      "filePath": "cyberpress/pages/2026/11/24/hackers-actively-exploit-aspnet-remote-code-execution-flaw-to-target-vulnerable-.md",
+      "committedAt": "2026-11-24T07:00:42.565-06:00",
+      "title": "Hackers Actively Exploit ASP.NET Remote Code Execution Flaw to Target Vulnerable Web Applications"
     }
   ]
 }
