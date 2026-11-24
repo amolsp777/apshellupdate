@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T07:00:44.938-06:00",
-  "lastLink": "https://cyberpress.org/exploit-android-camera-sensors-eavesdrop/",
-  "lastId": "1tcnsr4000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/hackers-could-exploit-android-camera-sensors-to-eavesdrop-even-with-privacy-swit.md",
+  "updatedAt": "2026-11-24T11:00:36.177-06:00",
+  "lastLink": "https://cyberpress.org/formbook-malware-campaign-eu-businesses/",
+  "lastId": "5akow00000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/formbook-attacks-eu-manufacturing-and-technology-businesses-from-phishing-to-cre.md",
   "items": [
     {
       "id": "rv10880000",
@@ -634,6 +634,13 @@
       "filePath": "cyberpress/pages/2026/11/24/hackers-could-exploit-android-camera-sensors-to-eavesdrop-even-with-privacy-swit.md",
       "committedAt": "2026-11-24T07:00:44.938-06:00",
       "title": "Hackers Could Exploit Android Camera Sensors to Eavesdrop Even With Privacy Switches Turned Off"
+    },
+    {
+      "id": "5akow00000",
+      "link": "https://cyberpress.org/formbook-malware-campaign-eu-businesses/",
+      "filePath": "cyberpress/pages/2026/11/24/formbook-attacks-eu-manufacturing-and-technology-businesses-from-phishing-to-cre.md",
+      "committedAt": "2026-11-24T11:00:36.177-06:00",
+      "title": "Formbook Attacks EU Manufacturing and Technology Businesses: From Phishing to Credential Theft"
     }
   ]
 }
