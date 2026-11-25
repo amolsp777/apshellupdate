@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T06:00:54.820-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-  "lastId": "c9mmyb0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/25/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites.md",
+  "updatedAt": "2026-11-25T07:01:49.957-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+  "lastId": "1k8mquj000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/25/microsoft-fixes-microsoft-365-bug-blocking-access-to-office-apps.md",
   "items": [
     {
-      "id": "c9mmyb0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-      "filePath": "bleepingcomp/pages/2026/11/25/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites.md",
-      "committedAt": "2026-11-25T06:00:54.820-05:00",
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites"
+      "id": "1k8mquj000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+      "filePath": "bleepingcomp/pages/2026/11/25/microsoft-fixes-microsoft-365-bug-blocking-access-to-office-apps.md",
+      "committedAt": "2026-11-25T07:01:49.957-05:00",
+      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps"
     }
   ]
 }
