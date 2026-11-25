@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T01:00:43.230-06:00",
-  "lastLink": "https://cyberpress.org/hackers-steal-prompts-keys/",
-  "lastId": "1toh3o0000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-steal-ai-prompts-and-cloud-access-keys-from-3-providers-despite-privacy-.md",
+  "updatedAt": "2026-11-25T01:00:45.584-06:00",
+  "lastLink": "https://cyberpress.org/vinci-rat-threatens-windows/",
+  "lastId": "4wi2qm0000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/vinci-rat-could-put-windows-users-at-risk-of-unauthorized-remote-access.md",
   "items": [
     {
       "id": "rv10880000",
@@ -683,6 +683,13 @@
       "filePath": "cyberpress/pages/2026/11/25/hackers-steal-ai-prompts-and-cloud-access-keys-from-3-providers-despite-privacy-.md",
       "committedAt": "2026-11-25T01:00:43.230-06:00",
       "title": "Hackers Steal AI Prompts and Cloud Access Keys From 3 Providers Despite Privacy Protections"
+    },
+    {
+      "id": "4wi2qm0000",
+      "link": "https://cyberpress.org/vinci-rat-threatens-windows/",
+      "filePath": "cyberpress/pages/2026/11/25/vinci-rat-could-put-windows-users-at-risk-of-unauthorized-remote-access.md",
+      "committedAt": "2026-11-25T01:00:45.584-06:00",
+      "title": "Vinci RAT Could Put Windows Users at Risk of Unauthorized Remote Access"
     }
   ]
 }
