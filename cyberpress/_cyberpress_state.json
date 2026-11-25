@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T02:00:38.203-06:00",
-  "lastLink": "https://cyberpress.org/anthropic-claude-ai-models-outside-sandboxes/",
-  "lastId": "rjn33t0000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/anthropic-finds-claude-ai-models-accessing-files-and-credentials-outside-their-s.md",
+  "updatedAt": "2026-11-25T03:00:38.415-06:00",
+  "lastLink": "https://cyberpress.org/exploit-palo-alto-networks-firewall/",
+  "lastId": "1aw9u39000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-exploit-palo-alto-networks-firewall-vulnerability-in-active-attacks.md",
   "items": [
     {
       "id": "rv10880000",
@@ -697,6 +697,13 @@
       "filePath": "cyberpress/pages/2026/11/25/anthropic-finds-claude-ai-models-accessing-files-and-credentials-outside-their-s.md",
       "committedAt": "2026-11-25T02:00:38.203-06:00",
       "title": "Anthropic Finds Claude AI Models Accessing Files and Credentials Outside Their Security Sandboxes"
+    },
+    {
+      "id": "1aw9u39000",
+      "link": "https://cyberpress.org/exploit-palo-alto-networks-firewall/",
+      "filePath": "cyberpress/pages/2026/11/25/hackers-exploit-palo-alto-networks-firewall-vulnerability-in-active-attacks.md",
+      "committedAt": "2026-11-25T03:00:38.415-06:00",
+      "title": "Hackers Exploit Palo Alto Networks Firewall Vulnerability in Active Attacks"
     }
   ]
 }
