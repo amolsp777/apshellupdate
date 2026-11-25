@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T06:00:39.436-06:00",
-  "lastLink": "https://cyberpress.org/hackers-breach-hex-pm-package-registry/",
-  "lastId": "evp9hr0000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-breach-hexpm-package-registry-potentially-exposing-password-hashes-and-2.md",
+  "updatedAt": "2026-11-25T06:00:41.924-06:00",
+  "lastLink": "https://cyberpress.org/rogue-wordpress-plugin-targets-visitors/",
+  "lastId": "1dhs45m000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-hide-malicious-plugin-in-wordpress-sites-to-target-unsuspecting-visitors.md",
   "items": [
     {
       "id": "rv10880000",
@@ -774,6 +774,13 @@
       "filePath": "cyberpress/pages/2026/11/25/hackers-breach-hexpm-package-registry-potentially-exposing-password-hashes-and-2.md",
       "committedAt": "2026-11-25T06:00:39.436-06:00",
       "title": "Hackers Breach Hex.pm Package Registry, Potentially Exposing Password Hashes and 2FA Secrets"
+    },
+    {
+      "id": "1dhs45m000",
+      "link": "https://cyberpress.org/rogue-wordpress-plugin-targets-visitors/",
+      "filePath": "cyberpress/pages/2026/11/25/hackers-hide-malicious-plugin-in-wordpress-sites-to-target-unsuspecting-visitors.md",
+      "committedAt": "2026-11-25T06:00:41.924-06:00",
+      "title": "Hackers Hide Malicious Plugin in WordPress Sites to Target Unsuspecting Visitors"
     }
   ]
 }
