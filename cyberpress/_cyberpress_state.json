@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T05:00:43.319-06:00",
-  "lastLink": "https://cyberpress.org/critical-dell-enterprise-sonic-flaw/",
-  "lastId": "2rg2ge0000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/critical-dell-enterprise-sonic-flaw-could-allow-hackers-to-run-malicious-command.md",
+  "updatedAt": "2026-11-25T05:00:45.915-06:00",
+  "lastLink": "https://cyberpress.org/ai-agents-steal-credentials/",
+  "lastId": "wmssw50000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-use-autonomous-ai-agents-to-steal-credentials-and-take-over-corporate-sy.md",
   "items": [
     {
       "id": "rv10880000",
@@ -760,6 +760,13 @@
       "filePath": "cyberpress/pages/2026/11/25/critical-dell-enterprise-sonic-flaw-could-allow-hackers-to-run-malicious-command.md",
       "committedAt": "2026-11-25T05:00:43.319-06:00",
       "title": "Critical Dell Enterprise SONiC Flaw Could Allow Hackers to Run Malicious Commands on Network Switches"
+    },
+    {
+      "id": "wmssw50000",
+      "link": "https://cyberpress.org/ai-agents-steal-credentials/",
+      "filePath": "cyberpress/pages/2026/11/25/hackers-use-autonomous-ai-agents-to-steal-credentials-and-take-over-corporate-sy.md",
+      "committedAt": "2026-11-25T05:00:45.915-06:00",
+      "title": "Hackers Use Autonomous AI Agents to Steal Credentials and Take Over Corporate Systems"
     }
   ]
 }
