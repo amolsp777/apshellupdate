@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T07:00:42.505-06:00",
-  "lastLink": "https://cyberpress.org/exploit-roundcube-webmail-vulnerabilities/",
-  "lastId": "l1j9150000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-could-exploit-roundcube-webmail-vulnerabilities-to-execute-malicious-cod.md",
+  "updatedAt": "2026-11-25T07:00:45.198-06:00",
+  "lastLink": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+  "lastId": "1fqw1se000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/critical-solarwinds-serv-u-flaws-could-let-hackers-gain-root-access-and-execute-.md",
   "items": [
     {
       "id": "rv10880000",
@@ -788,6 +788,13 @@
       "filePath": "cyberpress/pages/2026/11/25/hackers-could-exploit-roundcube-webmail-vulnerabilities-to-execute-malicious-cod.md",
       "committedAt": "2026-11-25T07:00:42.505-06:00",
       "title": "Hackers Could Exploit Roundcube Webmail Vulnerabilities to Execute Malicious Code on Servers"
+    },
+    {
+      "id": "1fqw1se000",
+      "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+      "filePath": "cyberpress/pages/2026/11/25/critical-solarwinds-serv-u-flaws-could-let-hackers-gain-root-access-and-execute-.md",
+      "committedAt": "2026-11-25T07:00:45.198-06:00",
+      "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers"
     }
   ]
 }
