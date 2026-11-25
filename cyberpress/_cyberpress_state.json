@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T03:00:40.933-06:00",
-  "lastLink": "https://cyberpress.org/critical-dell-network-switch-flaws/",
-  "lastId": "14fsl74000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/critical-dell-network-switch-flaws-could-let-hackers-execute-malicious-commands-.md",
+  "updatedAt": "2026-11-25T03:00:43.366-06:00",
+  "lastLink": "https://cyberpress.org/silentnet-targets-minecraft-players/",
+  "lastId": "i31u1d0000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/silentnet-malware-targets-minecraft-players-with-fake-mods-and-hidden-infosteale.md",
   "items": [
     {
       "id": "rv10880000",
@@ -711,6 +711,13 @@
       "filePath": "cyberpress/pages/2026/11/25/critical-dell-network-switch-flaws-could-let-hackers-execute-malicious-commands-.md",
       "committedAt": "2026-11-25T03:00:40.933-06:00",
       "title": "Critical Dell Network Switch Flaws Could Let Hackers Execute Malicious Commands Without Authentication"
+    },
+    {
+      "id": "i31u1d0000",
+      "link": "https://cyberpress.org/silentnet-targets-minecraft-players/",
+      "filePath": "cyberpress/pages/2026/11/25/silentnet-malware-targets-minecraft-players-with-fake-mods-and-hidden-infosteale.md",
+      "committedAt": "2026-11-25T03:00:43.366-06:00",
+      "title": "SilentNet Malware Targets Minecraft Players With Fake Mods and Hidden Infostealer"
     }
   ]
 }
