@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T01:00:40.757-06:00",
-  "lastLink": "https://cyberpress.org/remus-stealer-intercepts-gmail/",
-  "lastId": "1mnkoa1000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/malicious-chrome-extension-lets-remus-stealer-intercept-gmail-messages-without-l.md",
+  "updatedAt": "2026-11-25T01:00:43.230-06:00",
+  "lastLink": "https://cyberpress.org/hackers-steal-prompts-keys/",
+  "lastId": "1toh3o0000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-steal-ai-prompts-and-cloud-access-keys-from-3-providers-despite-privacy-.md",
   "items": [
     {
       "id": "rv10880000",
@@ -676,6 +676,13 @@
       "filePath": "cyberpress/pages/2026/11/25/malicious-chrome-extension-lets-remus-stealer-intercept-gmail-messages-without-l.md",
       "committedAt": "2026-11-25T01:00:40.757-06:00",
       "title": "Malicious Chrome Extension Lets Remus Stealer Intercept Gmail Messages Without Login Prompts"
+    },
+    {
+      "id": "1toh3o0000",
+      "link": "https://cyberpress.org/hackers-steal-prompts-keys/",
+      "filePath": "cyberpress/pages/2026/11/25/hackers-steal-ai-prompts-and-cloud-access-keys-from-3-providers-despite-privacy-.md",
+      "committedAt": "2026-11-25T01:00:43.230-06:00",
+      "title": "Hackers Steal AI Prompts and Cloud Access Keys From 3 Providers Despite Privacy Protections"
     }
   ]
 }
