@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T05:00:45.915-06:00",
-  "lastLink": "https://cyberpress.org/ai-agents-steal-credentials/",
-  "lastId": "wmssw50000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-use-autonomous-ai-agents-to-steal-credentials-and-take-over-corporate-sy.md",
+  "updatedAt": "2026-11-25T06:00:39.436-06:00",
+  "lastLink": "https://cyberpress.org/hackers-breach-hex-pm-package-registry/",
+  "lastId": "evp9hr0000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-breach-hexpm-package-registry-potentially-exposing-password-hashes-and-2.md",
   "items": [
     {
       "id": "rv10880000",
@@ -767,6 +767,13 @@
       "filePath": "cyberpress/pages/2026/11/25/hackers-use-autonomous-ai-agents-to-steal-credentials-and-take-over-corporate-sy.md",
       "committedAt": "2026-11-25T05:00:45.915-06:00",
       "title": "Hackers Use Autonomous AI Agents to Steal Credentials and Take Over Corporate Systems"
+    },
+    {
+      "id": "evp9hr0000",
+      "link": "https://cyberpress.org/hackers-breach-hex-pm-package-registry/",
+      "filePath": "cyberpress/pages/2026/11/25/hackers-breach-hexpm-package-registry-potentially-exposing-password-hashes-and-2.md",
+      "committedAt": "2026-11-25T06:00:39.436-06:00",
+      "title": "Hackers Breach Hex.pm Package Registry, Potentially Exposing Password Hashes and 2FA Secrets"
     }
   ]
 }
