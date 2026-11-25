@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T15:01:45.300-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-  "lastId": "17yt0pf000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/25/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks.md",
+  "updatedAt": "2026-11-25T17:01:11.465-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+  "lastId": "zuzlpa0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/25/1password-customer-data-stolen-after-employee-github-account-breach.md",
   "items": [
     {
-      "id": "17yt0pf000",
-      "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-      "filePath": "bleepingcomp/pages/2026/11/25/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks.md",
-      "committedAt": "2026-11-25T15:01:45.300-05:00",
-      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks"
+      "id": "zuzlpa0000",
+      "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "filePath": "bleepingcomp/pages/2026/11/25/1password-customer-data-stolen-after-employee-github-account-breach.md",
+      "committedAt": "2026-11-25T17:01:11.465-05:00",
+      "title": "1Password customer data stolen after employee GitHub account breach"
     }
   ]
 }
