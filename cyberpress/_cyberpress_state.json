@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T06:00:41.924-06:00",
-  "lastLink": "https://cyberpress.org/rogue-wordpress-plugin-targets-visitors/",
-  "lastId": "1dhs45m000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-hide-malicious-plugin-in-wordpress-sites-to-target-unsuspecting-visitors.md",
+  "updatedAt": "2026-11-25T07:00:42.505-06:00",
+  "lastLink": "https://cyberpress.org/exploit-roundcube-webmail-vulnerabilities/",
+  "lastId": "l1j9150000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-could-exploit-roundcube-webmail-vulnerabilities-to-execute-malicious-cod.md",
   "items": [
     {
       "id": "rv10880000",
@@ -781,6 +781,13 @@
       "filePath": "cyberpress/pages/2026/11/25/hackers-hide-malicious-plugin-in-wordpress-sites-to-target-unsuspecting-visitors.md",
       "committedAt": "2026-11-25T06:00:41.924-06:00",
       "title": "Hackers Hide Malicious Plugin in WordPress Sites to Target Unsuspecting Visitors"
+    },
+    {
+      "id": "l1j9150000",
+      "link": "https://cyberpress.org/exploit-roundcube-webmail-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/11/25/hackers-could-exploit-roundcube-webmail-vulnerabilities-to-execute-malicious-cod.md",
+      "committedAt": "2026-11-25T07:00:42.505-06:00",
+      "title": "Hackers Could Exploit Roundcube Webmail Vulnerabilities to Execute Malicious Code on Servers"
     }
   ]
 }
