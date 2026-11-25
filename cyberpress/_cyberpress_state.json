@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T04:00:46.260-06:00",
-  "lastLink": "https://cyberpress.org/hisense-smart-tvs-users-watch-sending-audio-data/",
-  "lastId": "vpxw3b0000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/hisense-smart-tvs-found-tracking-what-users-watch-and-sending-audio-data-to-adve.md",
+  "updatedAt": "2026-11-25T05:00:40.786-06:00",
+  "lastLink": "https://cyberpress.org/cisa-drupal-asp-net-and-optimizely-security-flaws/",
+  "lastId": "1qcacfk000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/cisa-warns-hackers-are-actively-exploiting-critical-drupal-aspnet-and-optimizely.md",
   "items": [
     {
       "id": "rv10880000",
@@ -746,6 +746,13 @@
       "filePath": "cyberpress/pages/2026/11/25/hisense-smart-tvs-found-tracking-what-users-watch-and-sending-audio-data-to-adve.md",
       "committedAt": "2026-11-25T04:00:46.260-06:00",
       "title": "Hisense Smart TVs Found Tracking What Users Watch and Sending Audio Data to Advertising Company"
+    },
+    {
+      "id": "1qcacfk000",
+      "link": "https://cyberpress.org/cisa-drupal-asp-net-and-optimizely-security-flaws/",
+      "filePath": "cyberpress/pages/2026/11/25/cisa-warns-hackers-are-actively-exploiting-critical-drupal-aspnet-and-optimizely.md",
+      "committedAt": "2026-11-25T05:00:40.786-06:00",
+      "title": "CISA Warns Hackers Are Actively Exploiting Critical Drupal, ASP.NET and Optimizely Security Flaws"
     }
   ]
 }
