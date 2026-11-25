@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T04:00:42.913-06:00",
-  "lastLink": "https://cyberpress.org/iran-linked-hackers-target-airlines-hospitals/",
-  "lastId": "lrlniz0000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/iran-linked-hackers-target-airlines-and-hospitals-with-malware-that-can-remotely.md",
+  "updatedAt": "2026-11-25T04:00:46.260-06:00",
+  "lastLink": "https://cyberpress.org/hisense-smart-tvs-users-watch-sending-audio-data/",
+  "lastId": "vpxw3b0000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/hisense-smart-tvs-found-tracking-what-users-watch-and-sending-audio-data-to-adve.md",
   "items": [
     {
       "id": "rv10880000",
@@ -739,6 +739,13 @@
       "filePath": "cyberpress/pages/2026/11/25/iran-linked-hackers-target-airlines-and-hospitals-with-malware-that-can-remotely.md",
       "committedAt": "2026-11-25T04:00:42.913-06:00",
       "title": "Iran-Linked Hackers Target Airlines and Hospitals With Malware That Can Remotely Control Computers"
+    },
+    {
+      "id": "vpxw3b0000",
+      "link": "https://cyberpress.org/hisense-smart-tvs-users-watch-sending-audio-data/",
+      "filePath": "cyberpress/pages/2026/11/25/hisense-smart-tvs-found-tracking-what-users-watch-and-sending-audio-data-to-adve.md",
+      "committedAt": "2026-11-25T04:00:46.260-06:00",
+      "title": "Hisense Smart TVs Found Tracking What Users Watch and Sending Audio Data to Advertising Company"
     }
   ]
 }
