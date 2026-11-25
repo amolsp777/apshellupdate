@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T00:00:35.848-06:00",
-  "lastLink": "https://cyberpress.org/critical-vmware-vcenter-flaw/",
-  "lastId": "12yumh1000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/critical-vmware-vcenter-flaw-could-let-hackers-bypass-authentication-and-gain-un.md",
+  "updatedAt": "2026-11-25T00:00:38.119-06:00",
+  "lastLink": "https://cyberpress.org/hackers-breach-cia-and-us-intelligence-networks/",
+  "lastId": "lhmupt0000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-reportedly-breach-cia-and-us-intelligence-networks-exposing-sensitive-un.md",
   "items": [
     {
       "id": "rv10880000",
@@ -655,6 +655,13 @@
       "filePath": "cyberpress/pages/2026/11/25/critical-vmware-vcenter-flaw-could-let-hackers-bypass-authentication-and-gain-un.md",
       "committedAt": "2026-11-25T00:00:35.848-06:00",
       "title": "Critical VMware vCenter Flaw Could Let Hackers Bypass Authentication and Gain Unauthorized Access to Servers"
+    },
+    {
+      "id": "lhmupt0000",
+      "link": "https://cyberpress.org/hackers-breach-cia-and-us-intelligence-networks/",
+      "filePath": "cyberpress/pages/2026/11/25/hackers-reportedly-breach-cia-and-us-intelligence-networks-exposing-sensitive-un.md",
+      "committedAt": "2026-11-25T00:00:38.119-06:00",
+      "title": "Hackers Reportedly Breach CIA and US Intelligence Networks, Exposing Sensitive Unclassified Information"
     }
   ]
 }
