@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T12:01:01.556-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-  "lastId": "ufovjn0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/25/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers.md",
+  "updatedAt": "2026-11-25T13:01:47.503-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+  "lastId": "b8zsck0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/25/more-pentests-without-more-pentesters-where-ai-safely-helps.md",
   "items": [
     {
-      "id": "ufovjn0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-      "filePath": "bleepingcomp/pages/2026/11/25/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers.md",
-      "committedAt": "2026-11-25T12:01:01.556-05:00",
-      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers"
+      "id": "b8zsck0000",
+      "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+      "filePath": "bleepingcomp/pages/2026/11/25/more-pentests-without-more-pentesters-where-ai-safely-helps.md",
+      "committedAt": "2026-11-25T13:01:47.503-05:00",
+      "title": "More Pentests Without More Pentesters: Where AI Safely Helps"
     }
   ]
 }
