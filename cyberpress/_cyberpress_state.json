@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T00:00:40.213-06:00",
-  "lastLink": "https://cyberpress.org/microsoft-declares-code-red-24-hour-outage/",
-  "lastId": "7ovahn0000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/microsoft-declares-code-red-after-massive-24-hour-outage-disrupts-outlook-teams-.md",
+  "updatedAt": "2026-11-25T01:00:40.757-06:00",
+  "lastLink": "https://cyberpress.org/remus-stealer-intercepts-gmail/",
+  "lastId": "1mnkoa1000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/malicious-chrome-extension-lets-remus-stealer-intercept-gmail-messages-without-l.md",
   "items": [
     {
       "id": "rv10880000",
@@ -669,6 +669,13 @@
       "filePath": "cyberpress/pages/2026/11/25/microsoft-declares-code-red-after-massive-24-hour-outage-disrupts-outlook-teams-.md",
       "committedAt": "2026-11-25T00:00:40.213-06:00",
       "title": "Microsoft Declares ‘Code Red’ After Massive 24-Hour Outage Disrupts Outlook, Teams and Copilot Worldwide"
+    },
+    {
+      "id": "1mnkoa1000",
+      "link": "https://cyberpress.org/remus-stealer-intercepts-gmail/",
+      "filePath": "cyberpress/pages/2026/11/25/malicious-chrome-extension-lets-remus-stealer-intercept-gmail-messages-without-l.md",
+      "committedAt": "2026-11-25T01:00:40.757-06:00",
+      "title": "Malicious Chrome Extension Lets Remus Stealer Intercept Gmail Messages Without Login Prompts"
     }
   ]
 }
