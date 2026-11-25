@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T00:00:38.119-06:00",
-  "lastLink": "https://cyberpress.org/hackers-breach-cia-and-us-intelligence-networks/",
-  "lastId": "lhmupt0000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-reportedly-breach-cia-and-us-intelligence-networks-exposing-sensitive-un.md",
+  "updatedAt": "2026-11-25T00:00:40.213-06:00",
+  "lastLink": "https://cyberpress.org/microsoft-declares-code-red-24-hour-outage/",
+  "lastId": "7ovahn0000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/microsoft-declares-code-red-after-massive-24-hour-outage-disrupts-outlook-teams-.md",
   "items": [
     {
       "id": "rv10880000",
@@ -662,6 +662,13 @@
       "filePath": "cyberpress/pages/2026/11/25/hackers-reportedly-breach-cia-and-us-intelligence-networks-exposing-sensitive-un.md",
       "committedAt": "2026-11-25T00:00:38.119-06:00",
       "title": "Hackers Reportedly Breach CIA and US Intelligence Networks, Exposing Sensitive Unclassified Information"
+    },
+    {
+      "id": "7ovahn0000",
+      "link": "https://cyberpress.org/microsoft-declares-code-red-24-hour-outage/",
+      "filePath": "cyberpress/pages/2026/11/25/microsoft-declares-code-red-after-massive-24-hour-outage-disrupts-outlook-teams-.md",
+      "committedAt": "2026-11-25T00:00:40.213-06:00",
+      "title": "Microsoft Declares ‘Code Red’ After Massive 24-Hour Outage Disrupts Outlook, Teams and Copilot Worldwide"
     }
   ]
 }
