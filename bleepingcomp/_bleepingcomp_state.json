@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T03:01:11.190-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-  "lastId": "7doaji0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/25/hackers-reportedly-breached-cia-intelligence-analysis-system.md",
+  "updatedAt": "2026-11-25T05:01:11.343-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+  "lastId": "1nuofq4000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/25/microsoft-confirms-authentication-issues-after-november-updates.md",
   "items": [
     {
-      "id": "7doaji0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-      "filePath": "bleepingcomp/pages/2026/11/25/hackers-reportedly-breached-cia-intelligence-analysis-system.md",
-      "committedAt": "2026-11-25T03:01:11.190-05:00",
-      "title": "Hackers reportedly breached CIA intelligence analysis system"
+      "id": "1nuofq4000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+      "filePath": "bleepingcomp/pages/2026/11/25/microsoft-confirms-authentication-issues-after-november-updates.md",
+      "committedAt": "2026-11-25T05:01:11.343-05:00",
+      "title": "Microsoft confirms authentication issues after November updates"
     }
   ]
 }
