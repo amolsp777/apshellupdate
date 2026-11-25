@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T11:00:36.177-06:00",
-  "lastLink": "https://cyberpress.org/formbook-malware-campaign-eu-businesses/",
-  "lastId": "5akow00000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/formbook-attacks-eu-manufacturing-and-technology-businesses-from-phishing-to-cre.md",
+  "updatedAt": "2026-11-24T23:00:35.165-06:00",
+  "lastLink": "https://cyberpress.org/mcdonalds-japan-confirms-data-breach/",
+  "lastId": "qastvv0000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/mcdonalds-japan-confirms-data-breach-exposing-customer-purchase-history-and-loca.md",
   "items": [
     {
       "id": "rv10880000",
@@ -641,6 +641,13 @@
       "filePath": "cyberpress/pages/2026/11/24/formbook-attacks-eu-manufacturing-and-technology-businesses-from-phishing-to-cre.md",
       "committedAt": "2026-11-24T11:00:36.177-06:00",
       "title": "Formbook Attacks EU Manufacturing and Technology Businesses: From Phishing to Credential Theft"
+    },
+    {
+      "id": "qastvv0000",
+      "link": "https://cyberpress.org/mcdonalds-japan-confirms-data-breach/",
+      "filePath": "cyberpress/pages/2026/11/25/mcdonalds-japan-confirms-data-breach-exposing-customer-purchase-history-and-loca.md",
+      "committedAt": "2026-11-24T23:00:35.165-06:00",
+      "title": "McDonald’s Japan Confirms Data Breach Exposing Customer Purchase History and Location Information"
     }
   ]
 }
