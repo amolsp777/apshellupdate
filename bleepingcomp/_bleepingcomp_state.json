@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T07:01:49.957-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-  "lastId": "1k8mquj000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/25/microsoft-fixes-microsoft-365-bug-blocking-access-to-office-apps.md",
+  "updatedAt": "2026-11-25T11:01:19.989-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+  "lastId": "1b9kj4j000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/25/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances.md",
   "items": [
     {
-      "id": "1k8mquj000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-      "filePath": "bleepingcomp/pages/2026/11/25/microsoft-fixes-microsoft-365-bug-blocking-access-to-office-apps.md",
-      "committedAt": "2026-11-25T07:01:49.957-05:00",
-      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps"
+      "id": "1b9kj4j000",
+      "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+      "filePath": "bleepingcomp/pages/2026/11/25/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances.md",
+      "committedAt": "2026-11-25T11:01:19.989-05:00",
+      "title": "InfraTrust warns of exploited supply chain flaws in network appliances"
     }
   ]
 }
