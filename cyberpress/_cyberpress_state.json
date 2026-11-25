@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T03:00:38.415-06:00",
-  "lastLink": "https://cyberpress.org/exploit-palo-alto-networks-firewall/",
-  "lastId": "1aw9u39000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-exploit-palo-alto-networks-firewall-vulnerability-in-active-attacks.md",
+  "updatedAt": "2026-11-25T03:00:40.933-06:00",
+  "lastLink": "https://cyberpress.org/critical-dell-network-switch-flaws/",
+  "lastId": "14fsl74000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/critical-dell-network-switch-flaws-could-let-hackers-execute-malicious-commands-.md",
   "items": [
     {
       "id": "rv10880000",
@@ -704,6 +704,13 @@
       "filePath": "cyberpress/pages/2026/11/25/hackers-exploit-palo-alto-networks-firewall-vulnerability-in-active-attacks.md",
       "committedAt": "2026-11-25T03:00:38.415-06:00",
       "title": "Hackers Exploit Palo Alto Networks Firewall Vulnerability in Active Attacks"
+    },
+    {
+      "id": "14fsl74000",
+      "link": "https://cyberpress.org/critical-dell-network-switch-flaws/",
+      "filePath": "cyberpress/pages/2026/11/25/critical-dell-network-switch-flaws-could-let-hackers-execute-malicious-commands-.md",
+      "committedAt": "2026-11-25T03:00:40.933-06:00",
+      "title": "Critical Dell Network Switch Flaws Could Let Hackers Execute Malicious Commands Without Authentication"
     }
   ]
 }
