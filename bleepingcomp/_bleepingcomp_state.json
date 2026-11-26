@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T18:01:11.374-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-  "lastId": "13fncqm000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/25/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks.md",
+  "updatedAt": "2026-11-26T07:01:11.089-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+  "lastId": "11wqn30000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/26/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook.md",
   "items": [
     {
-      "id": "13fncqm000",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-      "filePath": "bleepingcomp/pages/2026/11/25/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks.md",
-      "committedAt": "2026-11-25T18:01:11.374-05:00",
-      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks"
+      "id": "11wqn30000",
+      "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "filePath": "bleepingcomp/pages/2026/11/26/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook.md",
+      "committedAt": "2026-11-26T07:01:11.089-05:00",
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook"
     }
   ]
 }
