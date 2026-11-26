@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T23:00:43.274-06:00",
-  "lastLink": "https://cyberpress.org/us-treasurys-financial-crimes-enforcement-network-systems/",
-  "lastId": "1m0pybu000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/hackers-gain-unauthorized-access-to-us-treasurys-financial-crimes-enforcement-ne.md",
+  "updatedAt": "2026-11-26T00:00:36.389-06:00",
+  "lastLink": "https://cyberpress.org/switzerland-confirms-first-ai-agent-cyberattacks/",
+  "lastId": "1ezi31q000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/switzerland-confirms-first-ai-agent-cyberattacks-compromising-business-and-criti.md",
   "items": [
     {
       "id": "rv10880000",
@@ -809,6 +809,13 @@
       "filePath": "cyberpress/pages/2026/11/26/hackers-gain-unauthorized-access-to-us-treasurys-financial-crimes-enforcement-ne.md",
       "committedAt": "2026-11-25T23:00:43.274-06:00",
       "title": "Hackers Gain Unauthorized Access to US Treasury’s Financial Crimes Enforcement Network Systems"
+    },
+    {
+      "id": "1ezi31q000",
+      "link": "https://cyberpress.org/switzerland-confirms-first-ai-agent-cyberattacks/",
+      "filePath": "cyberpress/pages/2026/11/26/switzerland-confirms-first-ai-agent-cyberattacks-compromising-business-and-criti.md",
+      "committedAt": "2026-11-26T00:00:36.389-06:00",
+      "title": "Switzerland Confirms First AI Agent Cyberattacks Compromising Business and Critical Infrastructure Networks"
     }
   ]
 }
