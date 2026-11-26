@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T14:01:54.438-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
-  "lastId": "ct2ezx0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/26/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins.md",
+  "updatedAt": "2026-11-26T17:01:42.946-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+  "lastId": "1ba4lpn000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/26/openai-warns-gpt-62-astra-will-hit-usage-limits-40-faster-because-it-fixed-a-bug.md",
   "items": [
     {
-      "id": "ct2ezx0000",
-      "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
-      "filePath": "bleepingcomp/pages/2026/11/26/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins.md",
-      "committedAt": "2026-11-26T14:01:54.438-05:00",
-      "title": "Fake paid expert interviews impersonate brands to steal Google logins"
+      "id": "1ba4lpn000",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+      "filePath": "bleepingcomp/pages/2026/11/26/openai-warns-gpt-62-astra-will-hit-usage-limits-40-faster-because-it-fixed-a-bug.md",
+      "committedAt": "2026-11-26T17:01:42.946-05:00",
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug"
     }
   ]
 }
