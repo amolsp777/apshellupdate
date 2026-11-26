@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T01:00:38.678-06:00",
-  "lastLink": "https://cyberpress.org/1password-confirms-data-breach/",
-  "lastId": "1b661s0000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/1password-confirms-data-breach-after-hackers-compromise-employee-github-account.md",
+  "updatedAt": "2026-11-26T01:00:40.889-06:00",
+  "lastLink": "https://cyberpress.org/hackers-weaponize-artex-agents/",
+  "lastId": "3t2hlv0000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/hackers-abuse-artex-ai-agents-to-steal-credentials-and-gain-control-of-corporate.md",
   "items": [
     {
       "id": "rv10880000",
@@ -844,6 +844,13 @@
       "filePath": "cyberpress/pages/2026/11/26/1password-confirms-data-breach-after-hackers-compromise-employee-github-account.md",
       "committedAt": "2026-11-26T01:00:38.678-06:00",
       "title": "1Password Confirms Data Breach After Hackers Compromise Employee GitHub Account"
+    },
+    {
+      "id": "3t2hlv0000",
+      "link": "https://cyberpress.org/hackers-weaponize-artex-agents/",
+      "filePath": "cyberpress/pages/2026/11/26/hackers-abuse-artex-ai-agents-to-steal-credentials-and-gain-control-of-corporate.md",
+      "committedAt": "2026-11-26T01:00:40.889-06:00",
+      "title": "Hackers Abuse ARTEX AI Agents to Steal Credentials and Gain Control of Corporate Networks"
     }
   ]
 }
