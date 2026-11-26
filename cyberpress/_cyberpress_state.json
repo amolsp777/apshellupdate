@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T00:00:38.982-06:00",
-  "lastLink": "https://cyberpress.org/fbi-and-us-coast-guard-board-ships-vessel-networks/",
-  "lastId": "pcgwe80000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/fbi-and-us-coast-guard-board-two-ships-after-suspected-cyberattacks-compromise-v.md",
+  "updatedAt": "2026-11-26T00:00:41.233-06:00",
+  "lastLink": "https://cyberpress.org/hackers-breach-todoist-cloud-systems/",
+  "lastId": "v87niy0000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/hackers-breach-todoist-cloud-systems-stealing-password-hashes-and-email-addresse.md",
   "items": [
     {
       "id": "rv10880000",
@@ -823,6 +823,13 @@
       "filePath": "cyberpress/pages/2026/11/26/fbi-and-us-coast-guard-board-two-ships-after-suspected-cyberattacks-compromise-v.md",
       "committedAt": "2026-11-26T00:00:38.982-06:00",
       "title": "FBI and US Coast Guard Board Two Ships After Suspected Cyberattacks Compromise Vessel Networks"
+    },
+    {
+      "id": "v87niy0000",
+      "link": "https://cyberpress.org/hackers-breach-todoist-cloud-systems/",
+      "filePath": "cyberpress/pages/2026/11/26/hackers-breach-todoist-cloud-systems-stealing-password-hashes-and-email-addresse.md",
+      "committedAt": "2026-11-26T00:00:41.233-06:00",
+      "title": "Hackers Breach Todoist Cloud Systems, Stealing Password Hashes and Email Addresses of 6% of Users"
     }
   ]
 }
