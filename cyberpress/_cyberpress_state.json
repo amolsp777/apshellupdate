@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T05:00:39.008-06:00",
-  "lastLink": "https://cyberpress.org/critical-geoserver-flaws/",
-  "lastId": "ojwesq0000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/critical-geoserver-flaws-could-let-hackers-bypass-authentication-and-execute-mal.md",
+  "updatedAt": "2026-11-26T05:00:41.317-06:00",
+  "lastLink": "https://cyberpress.org/cling-botnet-infects-5600/",
+  "lastId": "h88omg0000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/new-cling-botnet-variant-infects-5600-devices-lets-hackers-remotely-execute-comm.md",
   "items": [
     {
       "id": "rv10880000",
@@ -914,6 +914,13 @@
       "filePath": "cyberpress/pages/2026/11/26/critical-geoserver-flaws-could-let-hackers-bypass-authentication-and-execute-mal.md",
       "committedAt": "2026-11-26T05:00:39.008-06:00",
       "title": "Critical GeoServer Flaws Could Let Hackers Bypass Authentication and Execute Malicious Commands on Servers"
+    },
+    {
+      "id": "h88omg0000",
+      "link": "https://cyberpress.org/cling-botnet-infects-5600/",
+      "filePath": "cyberpress/pages/2026/11/26/new-cling-botnet-variant-infects-5600-devices-lets-hackers-remotely-execute-comm.md",
+      "committedAt": "2026-11-26T05:00:41.317-06:00",
+      "title": "New Cling Botnet Variant Infects 5,600 Devices, Lets Hackers Remotely Execute Commands"
     }
   ]
 }
