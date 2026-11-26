@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T06:00:37.608-06:00",
-  "lastLink": "https://cyberpress.org/critical-drupal-authentication-bypass-flaw/",
-  "lastId": "prwh9v0000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/hackers-exploit-critical-drupal-authentication-bypass-flaw-to-hijack-websites.md",
+  "updatedAt": "2026-11-26T07:00:35.626-06:00",
+  "lastLink": "https://cyberpress.org/microsoft-windows-update-ntlm-authentication/",
+  "lastId": "kbr08h0000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/microsoft-windows-update-causes-ntlm-authentication-failures-in-enterprise-apps-.md",
   "items": [
     {
       "id": "rv10880000",
@@ -928,6 +928,13 @@
       "filePath": "cyberpress/pages/2026/11/26/hackers-exploit-critical-drupal-authentication-bypass-flaw-to-hijack-websites.md",
       "committedAt": "2026-11-26T06:00:37.608-06:00",
       "title": "Hackers Exploit Critical Drupal Authentication Bypass Flaw to Hijack Websites"
+    },
+    {
+      "id": "kbr08h0000",
+      "link": "https://cyberpress.org/microsoft-windows-update-ntlm-authentication/",
+      "filePath": "cyberpress/pages/2026/11/26/microsoft-windows-update-causes-ntlm-authentication-failures-in-enterprise-apps-.md",
+      "committedAt": "2026-11-26T07:00:35.626-06:00",
+      "title": "Microsoft Windows Update Causes NTLM Authentication Failures in Enterprise Apps and SSO"
     }
   ]
 }
