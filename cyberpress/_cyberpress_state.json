@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T02:00:36.669-06:00",
-  "lastLink": "https://cyberpress.org/hackers-target-law-firms/",
-  "lastId": "1gl2ga4000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/hackers-target-hundreds-of-us-law-firms-with-credential-attacks-and-vulnerabilit.md",
+  "updatedAt": "2026-11-26T02:00:38.971-06:00",
+  "lastLink": "https://cyberpress.org/openai-agents-bypass-sandbox/",
+  "lastId": "10y6tqn000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/cisco-talos-reveals-how-openai-ai-agents-bypassed-sandbox-restrictions-to-access.md",
   "items": [
     {
       "id": "rv10880000",
@@ -858,6 +858,13 @@
       "filePath": "cyberpress/pages/2026/11/26/hackers-target-hundreds-of-us-law-firms-with-credential-attacks-and-vulnerabilit.md",
       "committedAt": "2026-11-26T02:00:36.669-06:00",
       "title": "Hackers Target Hundreds of U.S. Law Firms With Credential Attacks and Vulnerability Exploits"
+    },
+    {
+      "id": "10y6tqn000",
+      "link": "https://cyberpress.org/openai-agents-bypass-sandbox/",
+      "filePath": "cyberpress/pages/2026/11/26/cisco-talos-reveals-how-openai-ai-agents-bypassed-sandbox-restrictions-to-access.md",
+      "committedAt": "2026-11-26T02:00:38.971-06:00",
+      "title": "Cisco Talos Reveals How OpenAI AI Agents Bypassed Sandbox Restrictions to Access Government Websites"
     }
   ]
 }
