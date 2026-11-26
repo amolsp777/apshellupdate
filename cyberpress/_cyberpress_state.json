@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T04:00:54.038-06:00",
-  "lastLink": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/",
-  "lastId": "1edflg9000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/cisa-warns-of-10-exploited-flaws-that-could-expose-enterprise-servers-to-cyberat.md",
+  "updatedAt": "2026-11-26T04:00:56.728-06:00",
+  "lastLink": "https://cyberpress.org/fake-downloads-spread-spyware/",
+  "lastId": "18qqr42000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/hackers-hide-spyware-in-fake-software-downloads-to-secretly-monitor-and-control-.md",
   "items": [
     {
       "id": "rv10880000",
@@ -893,6 +893,13 @@
       "filePath": "cyberpress/pages/2026/11/26/cisa-warns-of-10-exploited-flaws-that-could-expose-enterprise-servers-to-cyberat.md",
       "committedAt": "2026-11-26T04:00:54.038-06:00",
       "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks"
+    },
+    {
+      "id": "18qqr42000",
+      "link": "https://cyberpress.org/fake-downloads-spread-spyware/",
+      "filePath": "cyberpress/pages/2026/11/26/hackers-hide-spyware-in-fake-software-downloads-to-secretly-monitor-and-control-.md",
+      "committedAt": "2026-11-26T04:00:56.728-06:00",
+      "title": "Hackers Hide Spyware in Fake Software Downloads to Secretly Monitor and Control Windows PCs"
     }
   ]
 }
