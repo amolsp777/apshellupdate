@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T00:00:43.600-06:00",
-  "lastLink": "https://cyberpress.org/microsoft-365-bug-leaves-word-excel-outlook-powerpoint/",
-  "lastId": "k0kbl30000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/microsoft-365-bug-leaves-word-excel-outlook-and-powerpoint-users-unable-to-open-.md",
+  "updatedAt": "2026-11-26T01:00:38.678-06:00",
+  "lastLink": "https://cyberpress.org/1password-confirms-data-breach/",
+  "lastId": "1b661s0000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/1password-confirms-data-breach-after-hackers-compromise-employee-github-account.md",
   "items": [
     {
       "id": "rv10880000",
@@ -837,6 +837,13 @@
       "filePath": "cyberpress/pages/2026/11/26/microsoft-365-bug-leaves-word-excel-outlook-and-powerpoint-users-unable-to-open-.md",
       "committedAt": "2026-11-26T00:00:43.600-06:00",
       "title": "Microsoft 365 Bug Leaves Word, Excel, Outlook and PowerPoint Users Unable to Open Applications"
+    },
+    {
+      "id": "1b661s0000",
+      "link": "https://cyberpress.org/1password-confirms-data-breach/",
+      "filePath": "cyberpress/pages/2026/11/26/1password-confirms-data-breach-after-hackers-compromise-employee-github-account.md",
+      "committedAt": "2026-11-26T01:00:38.678-06:00",
+      "title": "1Password Confirms Data Breach After Hackers Compromise Employee GitHub Account"
     }
   ]
 }
