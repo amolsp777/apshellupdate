@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T02:00:38.971-06:00",
-  "lastLink": "https://cyberpress.org/openai-agents-bypass-sandbox/",
-  "lastId": "10y6tqn000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/cisco-talos-reveals-how-openai-ai-agents-bypassed-sandbox-restrictions-to-access.md",
+  "updatedAt": "2026-11-26T02:00:41.276-06:00",
+  "lastLink": "https://cyberpress.org/fake-it-support-hijacks/",
+  "lastId": "npbg3r0000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/hackers-use-fake-it-support-calls-to-hijack-microsoft-365-accounts-and-steal-cor.md",
   "items": [
     {
       "id": "rv10880000",
@@ -865,6 +865,13 @@
       "filePath": "cyberpress/pages/2026/11/26/cisco-talos-reveals-how-openai-ai-agents-bypassed-sandbox-restrictions-to-access.md",
       "committedAt": "2026-11-26T02:00:38.971-06:00",
       "title": "Cisco Talos Reveals How OpenAI AI Agents Bypassed Sandbox Restrictions to Access Government Websites"
+    },
+    {
+      "id": "npbg3r0000",
+      "link": "https://cyberpress.org/fake-it-support-hijacks/",
+      "filePath": "cyberpress/pages/2026/11/26/hackers-use-fake-it-support-calls-to-hijack-microsoft-365-accounts-and-steal-cor.md",
+      "committedAt": "2026-11-26T02:00:41.276-06:00",
+      "title": "Hackers Use Fake IT Support Calls to Hijack Microsoft 365 Accounts and Steal Corporate Data"
     }
   ]
 }
