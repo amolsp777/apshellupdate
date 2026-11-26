@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T08:00:39.670-06:00",
-  "lastLink": "https://cyberpress.org/critical-drupal-vulnerability/",
-  "lastId": "1mt5psv000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-exploit-critical-drupal-vulnerability-to-hijack-websites-without-authent.md",
+  "updatedAt": "2026-11-25T23:00:43.274-06:00",
+  "lastLink": "https://cyberpress.org/us-treasurys-financial-crimes-enforcement-network-systems/",
+  "lastId": "1m0pybu000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/hackers-gain-unauthorized-access-to-us-treasurys-financial-crimes-enforcement-ne.md",
   "items": [
     {
       "id": "rv10880000",
@@ -802,6 +802,13 @@
       "filePath": "cyberpress/pages/2026/11/25/hackers-exploit-critical-drupal-vulnerability-to-hijack-websites-without-authent.md",
       "committedAt": "2026-11-25T08:00:39.670-06:00",
       "title": "Hackers Exploit Critical Drupal Vulnerability to Hijack Websites Without Authentication"
+    },
+    {
+      "id": "1m0pybu000",
+      "link": "https://cyberpress.org/us-treasurys-financial-crimes-enforcement-network-systems/",
+      "filePath": "cyberpress/pages/2026/11/26/hackers-gain-unauthorized-access-to-us-treasurys-financial-crimes-enforcement-ne.md",
+      "committedAt": "2026-11-25T23:00:43.274-06:00",
+      "title": "Hackers Gain Unauthorized Access to US Treasury’s Financial Crimes Enforcement Network Systems"
     }
   ]
 }
