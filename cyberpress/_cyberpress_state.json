@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T00:00:36.389-06:00",
-  "lastLink": "https://cyberpress.org/switzerland-confirms-first-ai-agent-cyberattacks/",
-  "lastId": "1ezi31q000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/switzerland-confirms-first-ai-agent-cyberattacks-compromising-business-and-criti.md",
+  "updatedAt": "2026-11-26T00:00:38.982-06:00",
+  "lastLink": "https://cyberpress.org/fbi-and-us-coast-guard-board-ships-vessel-networks/",
+  "lastId": "pcgwe80000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/fbi-and-us-coast-guard-board-two-ships-after-suspected-cyberattacks-compromise-v.md",
   "items": [
     {
       "id": "rv10880000",
@@ -816,6 +816,13 @@
       "filePath": "cyberpress/pages/2026/11/26/switzerland-confirms-first-ai-agent-cyberattacks-compromising-business-and-criti.md",
       "committedAt": "2026-11-26T00:00:36.389-06:00",
       "title": "Switzerland Confirms First AI Agent Cyberattacks Compromising Business and Critical Infrastructure Networks"
+    },
+    {
+      "id": "pcgwe80000",
+      "link": "https://cyberpress.org/fbi-and-us-coast-guard-board-ships-vessel-networks/",
+      "filePath": "cyberpress/pages/2026/11/26/fbi-and-us-coast-guard-board-two-ships-after-suspected-cyberattacks-compromise-v.md",
+      "committedAt": "2026-11-26T00:00:38.982-06:00",
+      "title": "FBI and US Coast Guard Board Two Ships After Suspected Cyberattacks Compromise Vessel Networks"
     }
   ]
 }
