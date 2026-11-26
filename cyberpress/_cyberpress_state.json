@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T05:00:36.536-06:00",
-  "lastLink": "https://cyberpress.org/critical-danfoss-flaw/",
-  "lastId": "10plh7d000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/hackers-could-exploit-critical-danfoss-flaw-to-execute-malicious-code-on-refrige.md",
+  "updatedAt": "2026-11-26T05:00:39.008-06:00",
+  "lastLink": "https://cyberpress.org/critical-geoserver-flaws/",
+  "lastId": "ojwesq0000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/critical-geoserver-flaws-could-let-hackers-bypass-authentication-and-execute-mal.md",
   "items": [
     {
       "id": "rv10880000",
@@ -907,6 +907,13 @@
       "filePath": "cyberpress/pages/2026/11/26/hackers-could-exploit-critical-danfoss-flaw-to-execute-malicious-code-on-refrige.md",
       "committedAt": "2026-11-26T05:00:36.536-06:00",
       "title": "Hackers Could Exploit Critical Danfoss Flaw to Execute Malicious Code on Refrigeration Controllers"
+    },
+    {
+      "id": "ojwesq0000",
+      "link": "https://cyberpress.org/critical-geoserver-flaws/",
+      "filePath": "cyberpress/pages/2026/11/26/critical-geoserver-flaws-could-let-hackers-bypass-authentication-and-execute-mal.md",
+      "committedAt": "2026-11-26T05:00:39.008-06:00",
+      "title": "Critical GeoServer Flaws Could Let Hackers Bypass Authentication and Execute Malicious Commands on Servers"
     }
   ]
 }
