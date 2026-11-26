@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T05:00:41.317-06:00",
-  "lastLink": "https://cyberpress.org/cling-botnet-infects-5600/",
-  "lastId": "h88omg0000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/new-cling-botnet-variant-infects-5600-devices-lets-hackers-remotely-execute-comm.md",
+  "updatedAt": "2026-11-26T06:00:37.608-06:00",
+  "lastLink": "https://cyberpress.org/critical-drupal-authentication-bypass-flaw/",
+  "lastId": "prwh9v0000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/hackers-exploit-critical-drupal-authentication-bypass-flaw-to-hijack-websites.md",
   "items": [
     {
       "id": "rv10880000",
@@ -921,6 +921,13 @@
       "filePath": "cyberpress/pages/2026/11/26/new-cling-botnet-variant-infects-5600-devices-lets-hackers-remotely-execute-comm.md",
       "committedAt": "2026-11-26T05:00:41.317-06:00",
       "title": "New Cling Botnet Variant Infects 5,600 Devices, Lets Hackers Remotely Execute Commands"
+    },
+    {
+      "id": "prwh9v0000",
+      "link": "https://cyberpress.org/critical-drupal-authentication-bypass-flaw/",
+      "filePath": "cyberpress/pages/2026/11/26/hackers-exploit-critical-drupal-authentication-bypass-flaw-to-hijack-websites.md",
+      "committedAt": "2026-11-26T06:00:37.608-06:00",
+      "title": "Hackers Exploit Critical Drupal Authentication Bypass Flaw to Hijack Websites"
     }
   ]
 }
