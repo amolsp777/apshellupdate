@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T07:01:11.089-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-  "lastId": "11wqn30000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/26/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook.md",
+  "updatedAt": "2026-11-26T11:01:11.602-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+  "lastId": "a1tgoj0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/26/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension.md",
   "items": [
     {
-      "id": "11wqn30000",
-      "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-      "filePath": "bleepingcomp/pages/2026/11/26/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook.md",
-      "committedAt": "2026-11-26T07:01:11.089-05:00",
-      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook"
+      "id": "a1tgoj0000",
+      "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+      "filePath": "bleepingcomp/pages/2026/11/26/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension.md",
+      "committedAt": "2026-11-26T11:01:11.602-05:00",
+      "title": "Remus malware steals Gmail messages via fake Google Sheets extension"
     }
   ]
 }
