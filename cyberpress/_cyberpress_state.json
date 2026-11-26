@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T03:00:40.150-06:00",
-  "lastLink": "https://cyberpress.org/fifa-confirms-data-breach/",
-  "lastId": "1g1cuzx000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/fifa-confirms-data-breach-after-hackers-steal-internal-documents-and-business-in.md",
+  "updatedAt": "2026-11-26T04:00:51.556-06:00",
+  "lastLink": "https://cyberpress.org/polinrider-hijacks-ci-pipelines/",
+  "lastId": "1ah7exl000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/polinrider-abuses-github-force-pushes-and-vs-code-tasks-to-execute-malware-in-ci.md",
   "items": [
     {
       "id": "rv10880000",
@@ -879,6 +879,13 @@
       "filePath": "cyberpress/pages/2026/11/26/fifa-confirms-data-breach-after-hackers-steal-internal-documents-and-business-in.md",
       "committedAt": "2026-11-26T03:00:40.150-06:00",
       "title": "FIFA Confirms Data Breach After Hackers Steal Internal Documents and Business Information"
+    },
+    {
+      "id": "1ah7exl000",
+      "link": "https://cyberpress.org/polinrider-hijacks-ci-pipelines/",
+      "filePath": "cyberpress/pages/2026/11/26/polinrider-abuses-github-force-pushes-and-vs-code-tasks-to-execute-malware-in-ci.md",
+      "committedAt": "2026-11-26T04:00:51.556-06:00",
+      "title": "PolinRider Abuses GitHub Force-Pushes and VS Code Tasks to Execute Malware in CI Pipelines"
     }
   ]
 }
