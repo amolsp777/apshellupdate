@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T07:00:35.626-06:00",
-  "lastLink": "https://cyberpress.org/microsoft-windows-update-ntlm-authentication/",
-  "lastId": "kbr08h0000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/microsoft-windows-update-causes-ntlm-authentication-failures-in-enterprise-apps-.md",
+  "updatedAt": "2026-11-26T23:00:38.058-06:00",
+  "lastLink": "https://cyberpress.org/node-js-27-tls-security-post-quantum-cryptography/",
+  "lastId": "r9z7d90000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/nodejs-27-introduces-stronger-tls-security-post-quantum-cryptography-and-http2-i.md",
   "items": [
     {
       "id": "rv10880000",
@@ -935,6 +935,13 @@
       "filePath": "cyberpress/pages/2026/11/26/microsoft-windows-update-causes-ntlm-authentication-failures-in-enterprise-apps-.md",
       "committedAt": "2026-11-26T07:00:35.626-06:00",
       "title": "Microsoft Windows Update Causes NTLM Authentication Failures in Enterprise Apps and SSO"
+    },
+    {
+      "id": "r9z7d90000",
+      "link": "https://cyberpress.org/node-js-27-tls-security-post-quantum-cryptography/",
+      "filePath": "cyberpress/pages/2026/11/27/nodejs-27-introduces-stronger-tls-security-post-quantum-cryptography-and-http2-i.md",
+      "committedAt": "2026-11-26T23:00:38.058-06:00",
+      "title": "Node.js 27 Introduces Stronger TLS Security, Post-Quantum Cryptography and HTTP/2 Improvements"
     }
   ]
 }
