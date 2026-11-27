@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T03:00:34.946-06:00",
-  "lastLink": "https://cyberpress.org/critical-github-flaw/",
-  "lastId": "amnjg50000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/critical-github-flaw-could-let-hackers-execute-malicious-code-and-access-million.md",
+  "updatedAt": "2026-11-27T04:00:35.265-06:00",
+  "lastLink": "https://cyberpress.org/critical-erlang-otp-vulnerability/",
+  "lastId": "sh7jqs0000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/critical-erlangotp-vulnerability-lets-attackers-impersonate-tls-servers-without-.md",
   "items": [
     {
       "id": "rv10880000",
@@ -1026,6 +1026,13 @@
       "filePath": "cyberpress/pages/2026/11/27/critical-github-flaw-could-let-hackers-execute-malicious-code-and-access-million.md",
       "committedAt": "2026-11-27T03:00:34.946-06:00",
       "title": "Critical GitHub Flaw Could Let Hackers Execute Malicious Code and Access Millions of Private Repositories"
+    },
+    {
+      "id": "sh7jqs0000",
+      "link": "https://cyberpress.org/critical-erlang-otp-vulnerability/",
+      "filePath": "cyberpress/pages/2026/11/27/critical-erlangotp-vulnerability-lets-attackers-impersonate-tls-servers-without-.md",
+      "committedAt": "2026-11-27T04:00:35.265-06:00",
+      "title": "Critical Erlang/OTP Vulnerability Lets Attackers Impersonate TLS Servers Without Valid Certificates"
     }
   ]
 }
