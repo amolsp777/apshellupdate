@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T00:00:43.166-06:00",
-  "lastLink": "https://cyberpress.org/github-tests-trigger-malware/",
-  "lastId": "27cks50000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/hackers-hide-malware-in-375-github-projects-that-can-run-when-developers-test-th.md",
+  "updatedAt": "2026-11-27T00:00:45.451-06:00",
+  "lastLink": "https://cyberpress.org/bitcoin-core-privacy-flaw/",
+  "lastId": "1xlwgbp000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/bitcoin-core-privacy-flaw-could-let-attackers-trace-crypto-wallet-addresses-to-u.md",
   "items": [
     {
       "id": "rv10880000",
@@ -963,6 +963,13 @@
       "filePath": "cyberpress/pages/2026/11/27/hackers-hide-malware-in-375-github-projects-that-can-run-when-developers-test-th.md",
       "committedAt": "2026-11-27T00:00:43.166-06:00",
       "title": "Hackers Hide Malware in 375 GitHub Projects That Can Run When Developers Test Their Code"
+    },
+    {
+      "id": "1xlwgbp000",
+      "link": "https://cyberpress.org/bitcoin-core-privacy-flaw/",
+      "filePath": "cyberpress/pages/2026/11/27/bitcoin-core-privacy-flaw-could-let-attackers-trace-crypto-wallet-addresses-to-u.md",
+      "committedAt": "2026-11-27T00:00:45.451-06:00",
+      "title": "Bitcoin Core Privacy Flaw Could Let Attackers Trace Crypto Wallet Addresses to Users’ IP Addresses"
     }
   ]
 }
