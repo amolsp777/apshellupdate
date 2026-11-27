@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T01:00:38.450-06:00",
-  "lastLink": "https://cyberpress.org/critical-cacti-zero-day/",
-  "lastId": "evqsio0000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/critical-cacti-zero-day-could-let-hackers-take-over-network-monitoring-servers-w.md",
+  "updatedAt": "2026-11-27T01:00:41.068-06:00",
+  "lastLink": "https://cyberpress.org/q-dir-desktopok-updates-weaponized/",
+  "lastId": "1auvsxg000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/malicious-q-dir-and-desktopok-updates-could-give-hackers-remote-control-of-windo.md",
   "items": [
     {
       "id": "rv10880000",
@@ -984,6 +984,13 @@
       "filePath": "cyberpress/pages/2026/11/27/critical-cacti-zero-day-could-let-hackers-take-over-network-monitoring-servers-w.md",
       "committedAt": "2026-11-27T01:00:38.450-06:00",
       "title": "Critical Cacti Zero-Day Could Let Hackers Take Over Network Monitoring Servers Without Authentication"
+    },
+    {
+      "id": "1auvsxg000",
+      "link": "https://cyberpress.org/q-dir-desktopok-updates-weaponized/",
+      "filePath": "cyberpress/pages/2026/11/27/malicious-q-dir-and-desktopok-updates-could-give-hackers-remote-control-of-windo.md",
+      "committedAt": "2026-11-27T01:00:41.068-06:00",
+      "title": "Malicious Q-Dir and DesktopOK Updates Could Give Hackers Remote Control of Windows PCs"
     }
   ]
 }
