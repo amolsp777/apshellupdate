@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T01:00:36.144-06:00",
-  "lastLink": "https://cyberpress.org/weavelotus-breaches-government-networks/",
-  "lastId": "1voa6kg000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/weavelotus-exploits-geoserver-and-osticket-flaws-to-breach-government-networks.md",
+  "updatedAt": "2026-11-27T01:00:38.450-06:00",
+  "lastLink": "https://cyberpress.org/critical-cacti-zero-day/",
+  "lastId": "evqsio0000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/critical-cacti-zero-day-could-let-hackers-take-over-network-monitoring-servers-w.md",
   "items": [
     {
       "id": "rv10880000",
@@ -977,6 +977,13 @@
       "filePath": "cyberpress/pages/2026/11/27/weavelotus-exploits-geoserver-and-osticket-flaws-to-breach-government-networks.md",
       "committedAt": "2026-11-27T01:00:36.144-06:00",
       "title": "WeaveLotus Exploits GeoServer and osTicket Flaws to Breach Government Networks"
+    },
+    {
+      "id": "evqsio0000",
+      "link": "https://cyberpress.org/critical-cacti-zero-day/",
+      "filePath": "cyberpress/pages/2026/11/27/critical-cacti-zero-day-could-let-hackers-take-over-network-monitoring-servers-w.md",
+      "committedAt": "2026-11-27T01:00:38.450-06:00",
+      "title": "Critical Cacti Zero-Day Could Let Hackers Take Over Network Monitoring Servers Without Authentication"
     }
   ]
 }
