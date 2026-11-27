@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T01:00:41.068-06:00",
-  "lastLink": "https://cyberpress.org/q-dir-desktopok-updates-weaponized/",
-  "lastId": "1auvsxg000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/malicious-q-dir-and-desktopok-updates-could-give-hackers-remote-control-of-windo.md",
+  "updatedAt": "2026-11-27T01:00:43.554-06:00",
+  "lastLink": "https://cyberpress.org/rust-implant-evades-defender/",
+  "lastId": "1lod1q9000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/losttrust-linked-malware-evades-microsoft-defender-alerts-using-stealthy-rust-im.md",
   "items": [
     {
       "id": "rv10880000",
@@ -991,6 +991,13 @@
       "filePath": "cyberpress/pages/2026/11/27/malicious-q-dir-and-desktopok-updates-could-give-hackers-remote-control-of-windo.md",
       "committedAt": "2026-11-27T01:00:41.068-06:00",
       "title": "Malicious Q-Dir and DesktopOK Updates Could Give Hackers Remote Control of Windows PCs"
+    },
+    {
+      "id": "1lod1q9000",
+      "link": "https://cyberpress.org/rust-implant-evades-defender/",
+      "filePath": "cyberpress/pages/2026/11/27/losttrust-linked-malware-evades-microsoft-defender-alerts-using-stealthy-rust-im.md",
+      "committedAt": "2026-11-27T01:00:43.554-06:00",
+      "title": "LostTrust-Linked Malware Evades Microsoft Defender Alerts Using Stealthy Rust Implant"
     }
   ]
 }
