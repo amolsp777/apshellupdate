@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T00:00:38.380-06:00",
-  "lastLink": "https://cyberpress.org/hackers-breach-sap-github-systems/",
-  "lastId": "bay0jx0000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/hackers-reportedly-breach-sap-github-systems-stealing-access-tokens-and-manipula.md",
+  "updatedAt": "2026-11-27T00:00:40.667-06:00",
+  "lastLink": "https://cyberpress.org/zodia-custody-confirms-data-breach/",
+  "lastId": "1th67qh000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/zodia-custody-confirms-data-breach-after-hackers-access-client-and-staff-informa.md",
   "items": [
     {
       "id": "rv10880000",
@@ -949,6 +949,13 @@
       "filePath": "cyberpress/pages/2026/11/27/hackers-reportedly-breach-sap-github-systems-stealing-access-tokens-and-manipula.md",
       "committedAt": "2026-11-27T00:00:38.380-06:00",
       "title": "Hackers Reportedly Breach SAP GitHub Systems, Stealing Access Tokens and Manipulating Source Code"
+    },
+    {
+      "id": "1th67qh000",
+      "link": "https://cyberpress.org/zodia-custody-confirms-data-breach/",
+      "filePath": "cyberpress/pages/2026/11/27/zodia-custody-confirms-data-breach-after-hackers-access-client-and-staff-informa.md",
+      "committedAt": "2026-11-27T00:00:40.667-06:00",
+      "title": "Zodia Custody Confirms Data Breach After Hackers Access Client and Staff Information"
     }
   ]
 }
