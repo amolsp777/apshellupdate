@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T01:00:43.554-06:00",
-  "lastLink": "https://cyberpress.org/rust-implant-evades-defender/",
-  "lastId": "1lod1q9000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/losttrust-linked-malware-evades-microsoft-defender-alerts-using-stealthy-rust-im.md",
+  "updatedAt": "2026-11-27T01:00:46.048-06:00",
+  "lastLink": "https://cyberpress.org/tor-browser-security-flaws/",
+  "lastId": "isjfay0000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/tor-browser-security-flaws-could-let-malicious-websites-bypass-safer-mode-restri.md",
   "items": [
     {
       "id": "rv10880000",
@@ -998,6 +998,13 @@
       "filePath": "cyberpress/pages/2026/11/27/losttrust-linked-malware-evades-microsoft-defender-alerts-using-stealthy-rust-im.md",
       "committedAt": "2026-11-27T01:00:43.554-06:00",
       "title": "LostTrust-Linked Malware Evades Microsoft Defender Alerts Using Stealthy Rust Implant"
+    },
+    {
+      "id": "isjfay0000",
+      "link": "https://cyberpress.org/tor-browser-security-flaws/",
+      "filePath": "cyberpress/pages/2026/11/27/tor-browser-security-flaws-could-let-malicious-websites-bypass-safer-mode-restri.md",
+      "committedAt": "2026-11-27T01:00:46.048-06:00",
+      "title": "Tor Browser Security Flaws Could Let Malicious Websites Bypass Safer Mode Restrictions"
     }
   ]
 }
