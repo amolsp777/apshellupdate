@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T14:01:00.443-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
-  "lastId": "pwghea0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/27/new-boston-scientific-data-breach-exposes-personal-medical-info.md",
+  "updatedAt": "2026-11-27T15:01:33.339-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+  "lastId": "10pp80u000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/27/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts.md",
   "items": [
     {
-      "id": "pwghea0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
-      "filePath": "bleepingcomp/pages/2026/11/27/new-boston-scientific-data-breach-exposes-personal-medical-info.md",
-      "committedAt": "2026-11-27T14:01:00.443-05:00",
-      "title": "New Boston Scientific data breach exposes personal, medical info"
+      "id": "10pp80u000",
+      "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "filePath": "bleepingcomp/pages/2026/11/27/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts.md",
+      "committedAt": "2026-11-27T15:01:33.339-05:00",
+      "title": "pCloud confirms password manager hack after suspicious login alerts"
     }
   ]
 }
