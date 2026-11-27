@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T00:00:45.451-06:00",
-  "lastLink": "https://cyberpress.org/bitcoin-core-privacy-flaw/",
-  "lastId": "1xlwgbp000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/bitcoin-core-privacy-flaw-could-let-attackers-trace-crypto-wallet-addresses-to-u.md",
+  "updatedAt": "2026-11-27T01:00:36.144-06:00",
+  "lastLink": "https://cyberpress.org/weavelotus-breaches-government-networks/",
+  "lastId": "1voa6kg000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/weavelotus-exploits-geoserver-and-osticket-flaws-to-breach-government-networks.md",
   "items": [
     {
       "id": "rv10880000",
@@ -970,6 +970,13 @@
       "filePath": "cyberpress/pages/2026/11/27/bitcoin-core-privacy-flaw-could-let-attackers-trace-crypto-wallet-addresses-to-u.md",
       "committedAt": "2026-11-27T00:00:45.451-06:00",
       "title": "Bitcoin Core Privacy Flaw Could Let Attackers Trace Crypto Wallet Addresses to Users’ IP Addresses"
+    },
+    {
+      "id": "1voa6kg000",
+      "link": "https://cyberpress.org/weavelotus-breaches-government-networks/",
+      "filePath": "cyberpress/pages/2026/11/27/weavelotus-exploits-geoserver-and-osticket-flaws-to-breach-government-networks.md",
+      "committedAt": "2026-11-27T01:00:36.144-06:00",
+      "title": "WeaveLotus Exploits GeoServer and osTicket Flaws to Breach Government Networks"
     }
   ]
 }
