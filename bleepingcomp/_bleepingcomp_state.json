@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T07:01:33.412-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
-  "lastId": "1qvzp6k000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/27/microsoft-removes-wsus-server-role-in-windows-server-2028.md",
+  "updatedAt": "2026-11-27T08:01:40.150-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+  "lastId": "e8tfsj0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/27/sap-confirms-security-incident-after-suspicious-github-activity.md",
   "items": [
     {
-      "id": "1qvzp6k000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
-      "filePath": "bleepingcomp/pages/2026/11/27/microsoft-removes-wsus-server-role-in-windows-server-2028.md",
-      "committedAt": "2026-11-27T07:01:33.412-05:00",
-      "title": "Microsoft removes WSUS server role in Windows Server 2028"
+      "id": "e8tfsj0000",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "filePath": "bleepingcomp/pages/2026/11/27/sap-confirms-security-incident-after-suspicious-github-activity.md",
+      "committedAt": "2026-11-27T08:01:40.150-05:00",
+      "title": "SAP confirms security incident after suspicious GitHub activity"
     }
   ]
 }
