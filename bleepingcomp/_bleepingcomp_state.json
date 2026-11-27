@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T13:00:54.858-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
-  "lastId": "hj0cgj0000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/27/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution.md",
+  "updatedAt": "2026-11-27T14:01:00.443-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+  "lastId": "pwghea0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/27/new-boston-scientific-data-breach-exposes-personal-medical-info.md",
   "items": [
     {
-      "id": "hj0cgj0000",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
-      "filePath": "bleepingcomp/pages/2026/11/27/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution.md",
-      "committedAt": "2026-11-27T13:00:54.858-05:00",
-      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution"
+      "id": "pwghea0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "filePath": "bleepingcomp/pages/2026/11/27/new-boston-scientific-data-breach-exposes-personal-medical-info.md",
+      "committedAt": "2026-11-27T14:01:00.443-05:00",
+      "title": "New Boston Scientific data breach exposes personal, medical info"
     }
   ]
 }
