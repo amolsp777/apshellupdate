@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T00:00:40.667-06:00",
-  "lastLink": "https://cyberpress.org/zodia-custody-confirms-data-breach/",
-  "lastId": "1th67qh000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/zodia-custody-confirms-data-breach-after-hackers-access-client-and-staff-informa.md",
+  "updatedAt": "2026-11-27T00:00:43.166-06:00",
+  "lastLink": "https://cyberpress.org/github-tests-trigger-malware/",
+  "lastId": "27cks50000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/hackers-hide-malware-in-375-github-projects-that-can-run-when-developers-test-th.md",
   "items": [
     {
       "id": "rv10880000",
@@ -956,6 +956,13 @@
       "filePath": "cyberpress/pages/2026/11/27/zodia-custody-confirms-data-breach-after-hackers-access-client-and-staff-informa.md",
       "committedAt": "2026-11-27T00:00:40.667-06:00",
       "title": "Zodia Custody Confirms Data Breach After Hackers Access Client and Staff Information"
+    },
+    {
+      "id": "27cks50000",
+      "link": "https://cyberpress.org/github-tests-trigger-malware/",
+      "filePath": "cyberpress/pages/2026/11/27/hackers-hide-malware-in-375-github-projects-that-can-run-when-developers-test-th.md",
+      "committedAt": "2026-11-27T00:00:43.166-06:00",
+      "title": "Hackers Hide Malware in 375 GitHub Projects That Can Run When Developers Test Their Code"
     }
   ]
 }
