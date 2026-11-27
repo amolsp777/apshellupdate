@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T04:00:35.265-06:00",
-  "lastLink": "https://cyberpress.org/critical-erlang-otp-vulnerability/",
-  "lastId": "sh7jqs0000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/critical-erlangotp-vulnerability-lets-attackers-impersonate-tls-servers-without-.md",
+  "updatedAt": "2026-11-27T04:00:37.523-06:00",
+  "lastLink": "https://cyberpress.org/sys010-hijacks-browser-sessions/",
+  "lastId": "8ph0w50000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/sys010-malware-abuses-browser-management-policies-to-steal-cookies-and-hijack-se.md",
   "items": [
     {
       "id": "rv10880000",
@@ -1033,6 +1033,13 @@
       "filePath": "cyberpress/pages/2026/11/27/critical-erlangotp-vulnerability-lets-attackers-impersonate-tls-servers-without-.md",
       "committedAt": "2026-11-27T04:00:35.265-06:00",
       "title": "Critical Erlang/OTP Vulnerability Lets Attackers Impersonate TLS Servers Without Valid Certificates"
+    },
+    {
+      "id": "8ph0w50000",
+      "link": "https://cyberpress.org/sys010-hijacks-browser-sessions/",
+      "filePath": "cyberpress/pages/2026/11/27/sys010-malware-abuses-browser-management-policies-to-steal-cookies-and-hijack-se.md",
+      "committedAt": "2026-11-27T04:00:37.523-06:00",
+      "title": "SYS010 Malware Abuses Browser Management Policies to Steal Cookies and Hijack Sessions"
     }
   ]
 }
