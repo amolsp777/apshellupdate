@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T17:01:42.946-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
-  "lastId": "1ba4lpn000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/26/openai-warns-gpt-62-astra-will-hit-usage-limits-40-faster-because-it-fixed-a-bug.md",
+  "updatedAt": "2026-11-27T04:01:38.183-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+  "lastId": "19mnelv000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/27/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges.md",
   "items": [
     {
-      "id": "1ba4lpn000",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
-      "filePath": "bleepingcomp/pages/2026/11/26/openai-warns-gpt-62-astra-will-hit-usage-limits-40-faster-because-it-fixed-a-bug.md",
-      "committedAt": "2026-11-26T17:01:42.946-05:00",
-      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug"
+      "id": "19mnelv000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "filePath": "bleepingcomp/pages/2026/11/27/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges.md",
+      "committedAt": "2026-11-27T04:01:38.183-05:00",
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges"
     }
   ]
 }
