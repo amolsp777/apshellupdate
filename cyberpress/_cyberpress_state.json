@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T01:00:46.048-06:00",
-  "lastLink": "https://cyberpress.org/tor-browser-security-flaws/",
-  "lastId": "isjfay0000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/tor-browser-security-flaws-could-let-malicious-websites-bypass-safer-mode-restri.md",
+  "updatedAt": "2026-11-27T02:00:37.313-06:00",
+  "lastLink": "https://cyberpress.org/remus-resumes-gmail-theft/",
+  "lastId": "nlzf0j0000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/remus-malware-can-resume-stealing-gmail-messages-after-users-change-passwords-an.md",
   "items": [
     {
       "id": "rv10880000",
@@ -1005,6 +1005,13 @@
       "filePath": "cyberpress/pages/2026/11/27/tor-browser-security-flaws-could-let-malicious-websites-bypass-safer-mode-restri.md",
       "committedAt": "2026-11-27T01:00:46.048-06:00",
       "title": "Tor Browser Security Flaws Could Let Malicious Websites Bypass Safer Mode Restrictions"
+    },
+    {
+      "id": "nlzf0j0000",
+      "link": "https://cyberpress.org/remus-resumes-gmail-theft/",
+      "filePath": "cyberpress/pages/2026/11/27/remus-malware-can-resume-stealing-gmail-messages-after-users-change-passwords-an.md",
+      "committedAt": "2026-11-27T02:00:37.313-06:00",
+      "title": "Remus Malware Can Resume Stealing Gmail Messages After Users Change Passwords and Sign Back In"
     }
   ]
 }
