@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T23:00:38.058-06:00",
-  "lastLink": "https://cyberpress.org/node-js-27-tls-security-post-quantum-cryptography/",
-  "lastId": "r9z7d90000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/nodejs-27-introduces-stronger-tls-security-post-quantum-cryptography-and-http2-i.md",
+  "updatedAt": "2026-11-27T00:00:38.380-06:00",
+  "lastLink": "https://cyberpress.org/hackers-breach-sap-github-systems/",
+  "lastId": "bay0jx0000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/hackers-reportedly-breach-sap-github-systems-stealing-access-tokens-and-manipula.md",
   "items": [
     {
       "id": "rv10880000",
@@ -942,6 +942,13 @@
       "filePath": "cyberpress/pages/2026/11/27/nodejs-27-introduces-stronger-tls-security-post-quantum-cryptography-and-http2-i.md",
       "committedAt": "2026-11-26T23:00:38.058-06:00",
       "title": "Node.js 27 Introduces Stronger TLS Security, Post-Quantum Cryptography and HTTP/2 Improvements"
+    },
+    {
+      "id": "bay0jx0000",
+      "link": "https://cyberpress.org/hackers-breach-sap-github-systems/",
+      "filePath": "cyberpress/pages/2026/11/27/hackers-reportedly-breach-sap-github-systems-stealing-access-tokens-and-manipula.md",
+      "committedAt": "2026-11-27T00:00:38.380-06:00",
+      "title": "Hackers Reportedly Breach SAP GitHub Systems, Stealing Access Tokens and Manipulating Source Code"
     }
   ]
 }
