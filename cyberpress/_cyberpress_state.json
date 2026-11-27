@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T02:00:39.719-06:00",
-  "lastLink": "https://cyberpress.org/telegram-espionage-recruitment-exposed/",
-  "lastId": "1cxoh4y000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/researchers-uncover-3089-telegram-recruitment-posts-linked-to-espionage-and-crim.md",
+  "updatedAt": "2026-11-27T03:00:34.946-06:00",
+  "lastLink": "https://cyberpress.org/critical-github-flaw/",
+  "lastId": "amnjg50000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/critical-github-flaw-could-let-hackers-execute-malicious-code-and-access-million.md",
   "items": [
     {
       "id": "rv10880000",
@@ -1019,6 +1019,13 @@
       "filePath": "cyberpress/pages/2026/11/27/researchers-uncover-3089-telegram-recruitment-posts-linked-to-espionage-and-crim.md",
       "committedAt": "2026-11-27T02:00:39.719-06:00",
       "title": "Researchers Uncover 3,089 Telegram Recruitment Posts Linked to Espionage and Criminal Activities"
+    },
+    {
+      "id": "amnjg50000",
+      "link": "https://cyberpress.org/critical-github-flaw/",
+      "filePath": "cyberpress/pages/2026/11/27/critical-github-flaw-could-let-hackers-execute-malicious-code-and-access-million.md",
+      "committedAt": "2026-11-27T03:00:34.946-06:00",
+      "title": "Critical GitHub Flaw Could Let Hackers Execute Malicious Code and Access Millions of Private Repositories"
     }
   ]
 }
