@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T12:01:38.131-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
-  "lastId": "13p0k32000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/27/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms.md",
+  "updatedAt": "2026-11-27T13:00:54.858-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+  "lastId": "hj0cgj0000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/27/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution.md",
   "items": [
     {
-      "id": "13p0k32000",
-      "link": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
-      "filePath": "bleepingcomp/pages/2026/11/27/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms.md",
-      "committedAt": "2026-11-27T12:01:38.131-05:00",
-      "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs"
+      "id": "hj0cgj0000",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "filePath": "bleepingcomp/pages/2026/11/27/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution.md",
+      "committedAt": "2026-11-27T13:00:54.858-05:00",
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution"
     }
   ]
 }
