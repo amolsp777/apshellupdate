@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T04:01:38.183-05:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
-  "lastId": "19mnelv000",
-  "lastFilePath": "bleepingcomp/pages/2026/11/27/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges.md",
+  "updatedAt": "2026-11-27T05:01:05.994-05:00",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+  "lastId": "4inib90000",
+  "lastFilePath": "bleepingcomp/pages/2026/11/27/microsoft-pushes-emergency-hotpatch-to-fix-windows-server-crashes.md",
   "items": [
     {
-      "id": "19mnelv000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
-      "filePath": "bleepingcomp/pages/2026/11/27/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges.md",
-      "committedAt": "2026-11-27T04:01:38.183-05:00",
-      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges"
+      "id": "4inib90000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+      "filePath": "bleepingcomp/pages/2026/11/27/microsoft-pushes-emergency-hotpatch-to-fix-windows-server-crashes.md",
+      "committedAt": "2026-11-27T05:01:05.994-05:00",
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes"
     }
   ]
 }
