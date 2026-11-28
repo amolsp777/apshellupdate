@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T00:00:37.702-06:00",
-  "lastLink": "https://cyberpress.org/12-year-old-linux-kernel-vulnerability-allows-remote-root-access-without-authentication/",
-  "lastId": "75l6ux0000",
-  "lastFilePath": "cyberpress/pages/2026/11/28/12-year-old-linux-kernel-vulnerability-allows-remote-root-access-without-authent.md",
+  "updatedAt": "2026-11-28T00:00:40.047-06:00",
+  "lastLink": "https://cyberpress.org/hackers-breach-industrial-refrigeration-systems/",
+  "lastId": "1ptf7gi000",
+  "lastFilePath": "cyberpress/pages/2026/11/28/hackers-breach-industrial-refrigeration-systems-and-set-freezer-temperatures-to-.md",
   "items": [
     {
       "id": "rv10880000",
@@ -1061,6 +1061,13 @@
       "filePath": "cyberpress/pages/2026/11/28/12-year-old-linux-kernel-vulnerability-allows-remote-root-access-without-authent.md",
       "committedAt": "2026-11-28T00:00:37.702-06:00",
       "title": "12-Year-Old Linux Kernel Vulnerability Allows Remote Root Access Without Authentication"
+    },
+    {
+      "id": "1ptf7gi000",
+      "link": "https://cyberpress.org/hackers-breach-industrial-refrigeration-systems/",
+      "filePath": "cyberpress/pages/2026/11/28/hackers-breach-industrial-refrigeration-systems-and-set-freezer-temperatures-to-.md",
+      "committedAt": "2026-11-28T00:00:40.047-06:00",
+      "title": "Hackers Breach Industrial Refrigeration Systems and Set Freezer Temperatures to 100°C"
     }
   ]
 }
