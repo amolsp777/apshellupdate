@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T01:00:37.789-06:00",
-  "lastLink": "https://cyberpress.org/octopus-confirms-data-breach/",
-  "lastId": "y8tisd0000",
-  "lastFilePath": "cyberpress/pages/2026/11/28/octopus-confirms-data-breach-affecting-7500-customers-and-22000-merchants.md",
+  "updatedAt": "2026-11-28T01:00:39.996-06:00",
+  "lastLink": "https://cyberpress.org/pcloud-pass-confirms-cyberattack/",
+  "lastId": "19iazuf000",
+  "lastFilePath": "cyberpress/pages/2026/11/28/pcloud-pass-confirms-cyberattack-exposing-user-email-addresses-and-triggering-su.md",
   "items": [
     {
       "id": "rv10880000",
@@ -1082,6 +1082,13 @@
       "filePath": "cyberpress/pages/2026/11/28/octopus-confirms-data-breach-affecting-7500-customers-and-22000-merchants.md",
       "committedAt": "2026-11-28T01:00:37.789-06:00",
       "title": "Octopus Confirms Data Breach Affecting 7,500 Customers and 22,000 Merchants"
+    },
+    {
+      "id": "19iazuf000",
+      "link": "https://cyberpress.org/pcloud-pass-confirms-cyberattack/",
+      "filePath": "cyberpress/pages/2026/11/28/pcloud-pass-confirms-cyberattack-exposing-user-email-addresses-and-triggering-su.md",
+      "committedAt": "2026-11-28T01:00:39.996-06:00",
+      "title": "pCloud Pass Confirms Cyberattack Exposing User Email Addresses and Triggering Suspicious Login Alerts"
     }
   ]
 }
