@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T00:00:40.047-06:00",
-  "lastLink": "https://cyberpress.org/hackers-breach-industrial-refrigeration-systems/",
-  "lastId": "1ptf7gi000",
-  "lastFilePath": "cyberpress/pages/2026/11/28/hackers-breach-industrial-refrigeration-systems-and-set-freezer-temperatures-to-.md",
+  "updatedAt": "2026-11-28T01:00:35.579-06:00",
+  "lastLink": "https://cyberpress.org/hackers-breach-boston-voice-phishing-attack/",
+  "lastId": "pff9zy0000",
+  "lastFilePath": "cyberpress/pages/2026/11/28/hackers-breach-boston-scientific-through-voice-phishing-attack-stealing-sensitiv.md",
   "items": [
     {
       "id": "rv10880000",
@@ -1068,6 +1068,13 @@
       "filePath": "cyberpress/pages/2026/11/28/hackers-breach-industrial-refrigeration-systems-and-set-freezer-temperatures-to-.md",
       "committedAt": "2026-11-28T00:00:40.047-06:00",
       "title": "Hackers Breach Industrial Refrigeration Systems and Set Freezer Temperatures to 100°C"
+    },
+    {
+      "id": "pff9zy0000",
+      "link": "https://cyberpress.org/hackers-breach-boston-voice-phishing-attack/",
+      "filePath": "cyberpress/pages/2026/11/28/hackers-breach-boston-scientific-through-voice-phishing-attack-stealing-sensitiv.md",
+      "committedAt": "2026-11-28T01:00:35.579-06:00",
+      "title": "Hackers Breach Boston Scientific Through Voice Phishing Attack, Stealing Sensitive Data"
     }
   ]
 }
